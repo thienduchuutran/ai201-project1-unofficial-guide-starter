@@ -1,0 +1,244 @@
+{
+  "program_name": "Construction Management, B.S.",
+  "degree_type": "B.S.",
+  "department": "Engineering Technology Department",
+  "faculty": "Chairperson Sanjay Kaul (Acting Fall 2024) Professors Associate Professors Sanjay Kaul Soumitra Basu Wayne Whitfield Nirajan Mani Abdel Gabar Mustafa Hong Yu",
+  "description": [
+    "The Engineering Technology Department offers three degree programs and six concentrations as follows:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Construction Management Program (120 cr hrs)",
+      "content": [
+        "The program focuses on the hands-on application, implementation and managment of science and technology. Students apply their learned competencies to manage processes and systems. The program leads to a Bachelor of Science degree (120 credit hours)."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Construction Management Program Objectives",
+      "content": [
+        "The Construction Management Program focuses on the application of technical knowledge and management sciences. Students apply their learned competencies to manage processes and systems to ensure successful completion of construction projects.",
+        "The mission of the program is to prepare students to succeed in the construction management profession by providing them with essential technical, managerial, and communication skills and practical experiences.",
+        "Graduates of the program will be able to (as per ACCE accreditation requirements):",
+        "1. Create written communications appropriate to the construction discipline.",
+        "2. Create oral presentations appropriate to the construction discipline.",
+        "3. Create a construction project safety plan.",
+        "4. Create construction project cost estimates.",
+        "5. Create construction project schedules.",
+        "6. Analyze professional decisions based on ethical principles.",
+        "7. Analyze methods, materials, and equipment used to construct projects.",
+        "8. Apply electronic-based technology to manage the construction process.",
+        "9. Apply basic surveying techniques for construction layout and control.",
+        "10. Understand different methods of project delivery and the roles and responsibilities of all constituencies involved in the design and construction process.",
+        "11. Understand construction accounting and cost control.",
+        "12. Understand construction quality assurance and control.",
+        "13. Understand construction project control processes.",
+        "14. Understand the legal implications of contract, common, and regulatory law to manage a construction project.",
+        "15. Understand the basic principles of sustainable construction.",
+        "16. Understand the basic principles of structural behavior.",
+        "17. Understand the basic principles of HVAC, electrical and plumbing systems."
+      ],
+      "courses": [],
+      "items": [
+        "To educate students by providing a comprehensive curriculum to meet the needs of the construction industry.",
+        "To promote professional opportunities and pursue life-long learning through continuing education and advanced degree in construction management and related fields.",
+        "To develop individuals who are innovative and collaborative in problem solving, have high ethical standards, and are responsible for a sustainable future."
+      ]
+    },
+    {
+      "heading": "Requirements for the Major in Construction Management",
+      "content": [
+        "Core Courses:",
+        "The Degree of Bachelor of Science in Construction Managment (120 credit hours) must include the following:"
+      ],
+      "courses": [
+        {
+          "course_code": "ENGT 1020",
+          "course_title": "Engineering Graphics",
+          "credits": "3",
+          "coid": "102984",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 1050",
+          "course_title": "Technical Analysis",
+          "credits": "3",
+          "coid": "102986",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2020",
+          "course_title": "Statics and Dynamics",
+          "credits": "3",
+          "coid": "102993",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2025",
+          "course_title": "Strength of Materials",
+          "credits": "3",
+          "coid": "102994",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2030",
+          "course_title": "Material Testing and Quality Control",
+          "credits": "3",
+          "coid": "102992",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2035",
+          "course_title": "Building Construction Systems",
+          "credits": "4",
+          "coid": "102987",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3000",
+          "course_title": "Energy and Sustainable Practices",
+          "credits": "3",
+          "coid": "103001",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3005",
+          "course_title": "Heavy/Highway Construction Systems",
+          "credits": "3",
+          "coid": "103007",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3010",
+          "course_title": "Building Design I",
+          "credits": "3",
+          "coid": "102996",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3025",
+          "course_title": "Engineering Design and Fabrication Systems I",
+          "credits": "3",
+          "coid": "103002",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3026",
+          "course_title": "Engineering Design and Fabrication Systems II",
+          "credits": "3",
+          "coid": "103003",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3022",
+          "course_title": "Surveying",
+          "credits": "3",
+          "coid": "103005",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3028",
+          "course_title": "Estimating and Bidding",
+          "credits": "3",
+          "coid": "103004",
+          "footnote": ""
+        },
+        {
+          "course_code": "CMGT 3030",
+          "course_title": "MEP & HVAC Systems",
+          "credits": "3",
+          "coid": "103016",
+          "footnote": ""
+        },
+        {
+          "course_code": "CMGT 3035",
+          "course_title": "OSHA: Safety and Risk Management",
+          "credits": "3",
+          "coid": "103019",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3045",
+          "course_title": "Analysis and Design of Structural Systems",
+          "credits": "3",
+          "coid": "103012",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 4010",
+          "course_title": "Project Scheduling",
+          "credits": "3",
+          "coid": "103027",
+          "footnote": ""
+        },
+        {
+          "course_code": "CMGT 4020",
+          "course_title": "Communication and Transportation Technologies",
+          "credits": "3",
+          "coid": "103033",
+          "footnote": ""
+        },
+        {
+          "course_code": "CMGT 4025",
+          "course_title": "Construction Law and the Legal System",
+          "credits": "3",
+          "coid": "103034",
+          "footnote": ""
+        },
+        {
+          "course_code": "CMGT 4030",
+          "course_title": "Construction Management Capstone",
+          "credits": "3",
+          "coid": "103006",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 4035",
+          "course_title": "Site Planning & Land Development",
+          "credits": "3",
+          "coid": "103011",
+          "footnote": ""
+        },
+        {
+          "course_code": "CMGT 4045",
+          "course_title": "Seminar in Construction",
+          "credits": "3",
+          "coid": "103010",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 2010",
+          "course_title": "Introduction to Financial Reporting",
+          "credits": "3",
+          "coid": "101700",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Designated Liberal Arts and Science Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHYS 2300",
+          "course_title": "General Physics I",
+          "credits": "4",
+          "coid": "102505",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12753",
+  "scraped_at": "2026-06-10T18:57:22.796667+00:00"
+}

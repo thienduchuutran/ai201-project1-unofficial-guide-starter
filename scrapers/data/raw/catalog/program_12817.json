@@ -1,0 +1,351 @@
+{
+  "program_name": "Game Design, B.S.",
+  "degree_type": "B.S.",
+  "department": "Required General Education Courses",
+  "faculty": "",
+  "description": [
+    "All Majors in Game Design must complete the following General Education requirements:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Game Design Core Requirements (24 cr.)",
+      "content": [
+        "All Majors in Game Design must complete the following core requirements:",
+        "* Fulfills Junior Writing Requirement"
+      ],
+      "courses": [
+        {
+          "course_code": "COMM 1205",
+          "course_title": "Introduction to Communication and Media Studies",
+          "credits": "3",
+          "coid": "101779",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 1100",
+          "course_title": "Elements of Game Design",
+          "credits": "3",
+          "coid": "102721",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 1200",
+          "course_title": "Introduction to Game Art",
+          "credits": "3",
+          "coid": "102722",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3000",
+          "course_title": "Game Design Workshop",
+          "credits": "3",
+          "coid": "102726",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3030",
+          "course_title": "Game Level Design",
+          "credits": "3",
+          "coid": "102728",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3600",
+          "course_title": "3D Game Development",
+          "credits": "3",
+          "coid": "102730",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 4200",
+          "course_title": "Advanced Game Workshop",
+          "credits": "3",
+          "coid": "102731",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 4000",
+          "course_title": "Game Studies Seminar",
+          "credits": "3",
+          "coid": "102732",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* Fulfills Junior Writing Requirement"
+      ]
+    },
+    {
+      "heading": "Game Production Electives (12 cr.)",
+      "content": [
+        "Choose four of the following:"
+      ],
+      "courses": [
+        {
+          "course_code": "GAME 2001",
+          "course_title": "Games and Arts in Japan",
+          "credits": "3",
+          "coid": "102909",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 2020",
+          "course_title": "Concept Art for Game Development",
+          "credits": "3",
+          "coid": "102872",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3005",
+          "course_title": "Mobile Game Design",
+          "credits": "3",
+          "coid": "102828",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 2010",
+          "course_title": "Game Narrative Design",
+          "credits": "3",
+          "coid": "102727",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3100",
+          "course_title": "2D Game Development",
+          "credits": "3",
+          "coid": "103139",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3040",
+          "course_title": "Virtual Reality Development",
+          "credits": "3",
+          "coid": "102967",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3050",
+          "course_title": "Serious Games",
+          "credits": "3",
+          "coid": "102729",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 2070",
+          "course_title": "Intermediate Game Art",
+          "credits": "3",
+          "coid": "102724",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 2080",
+          "course_title": "3D Animation",
+          "credits": "3",
+          "coid": "102723",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3510",
+          "course_title": "Contemporary Issues in Games",
+          "credits": "3",
+          "coid": "102725",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3650",
+          "course_title": "Game Programming",
+          "credits": "3",
+          "coid": "102934",
+          "footnote": "or"
+        },
+        {
+          "course_code": "CSC 3650",
+          "course_title": "Game Programming",
+          "credits": "3",
+          "coid": "102771",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Electives (12 cr.)",
+      "content": [
+        "Four courses from GAME, COMM, TETA, or THEA, or from the following list"
+      ],
+      "courses": [
+        {
+          "course_code": "ART 1650",
+          "course_title": "Three-Dimensional Design",
+          "credits": "3",
+          "coid": "101622",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2004",
+          "course_title": "Ceramics",
+          "credits": "3",
+          "coid": "102797",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2025",
+          "course_title": "Drawing the Figure in Action",
+          "credits": "3",
+          "coid": "103122",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2030",
+          "course_title": "Sculpture I",
+          "credits": "3",
+          "coid": "101624",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2102",
+          "course_title": "Introductory Painting",
+          "credits": "3",
+          "coid": "101626",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2150",
+          "course_title": "The Art of Puppetry",
+          "credits": "3",
+          "coid": "101628",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2200",
+          "course_title": "Life Drawing",
+          "credits": "3",
+          "coid": "101629",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2250",
+          "course_title": "Intermediate Drawing",
+          "credits": "3",
+          "coid": "101630",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 1550",
+          "course_title": "Computer Science II",
+          "credits": "3",
+          "coid": "101856",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 2560",
+          "course_title": "Systems Programming",
+          "credits": "3",
+          "coid": "101862",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 3200",
+          "course_title": "Programming Languages",
+          "credits": "3",
+          "coid": "101867",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 3560",
+          "course_title": "Mobile Application Development",
+          "credits": "3",
+          "coid": "102770",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 4210",
+          "course_title": "Computer Graphics Programming",
+          "credits": "3",
+          "coid": "102772",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2025",
+          "course_title": "Foundations of Professional Writing",
+          "credits": "3",
+          "coid": "102941",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2323",
+          "course_title": "Big Data, Artificial Intelligence, and Journalism",
+          "credits": "3",
+          "coid": "101967",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3015",
+          "course_title": "Writing the Science Fiction and Fantasy Novel",
+          "credits": "3",
+          "coid": "102831",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3027",
+          "course_title": "Experimental Writing",
+          "credits": "3",
+          "coid": "102832",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3028",
+          "course_title": "Research for Creative Writers",
+          "credits": "3",
+          "coid": "102873",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3045",
+          "course_title": "Media Conscious Storytelling",
+          "credits": "3",
+          "coid": "102780",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3510",
+          "course_title": "Fiction Writing",
+          "credits": "3",
+          "coid": "102015",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1400",
+          "course_title": "Introduction to Music Technology",
+          "credits": "3",
+          "coid": "102410",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Professional Capstone Requirement (12 cr.) (Choose One)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "GAME 4700",
+          "course_title": "Game Studio",
+          "credits": "12",
+          "coid": "102827",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "COMM 4880",
+          "course_title": "Internship",
+          "credits": "12",
+          "coid": "101842",
+          "footnote": "(3 cr. MAJ Integrated High Impact Practice)"
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12817",
+  "scraped_at": "2026-06-10T18:55:56.317844+00:00"
+}

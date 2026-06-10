@@ -1,0 +1,57 @@
+{
+  "program_name": "Electronics Engineering Technology Minor",
+  "degree_type": "Minor",
+  "department": "Requirements for the Minor in Electronics Engineering Technology 18 cr.",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Electronics Engineering Technology",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ITEC 1100",
+          "course_title": "Electronics I",
+          "credits": "3",
+          "coid": "102237",
+          "footnote": "*"
+        },
+        {
+          "course_code": "ITEC 2100",
+          "course_title": "Electronics II",
+          "credits": "3",
+          "coid": "102251",
+          "footnote": "*"
+        },
+        {
+          "course_code": "ITEC 3100",
+          "course_title": "Electronics III",
+          "credits": "3",
+          "coid": "102266",
+          "footnote": "*"
+        }
+      ],
+      "items": [
+        "Three approved electives"
+      ]
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "* Students with equivalent course may substitute technical elective."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Additional Requirements",
+      "content": [
+        "Prerequisites: Application and departmental approval; prerequisites may be waived based upon an individual’s experience and background."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12754",
+  "scraped_at": "2026-06-10T18:57:38.063826+00:00"
+}

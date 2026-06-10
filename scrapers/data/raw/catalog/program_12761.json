@@ -1,0 +1,204 @@
+{
+  "program_name": "Exercise Science, Fitness and Wellness Concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Exercise and Sports Science",
+  "faculty": "Professor & Chairperson Jason Talanian Professor Associate Professor Assistant Professor David Heikkinen Jessica Alsup Karen Keenan Timoth Hilliard Lindsay Parisi Monica Maldari Daniel Wigmore",
+  "description": [
+    "Prerequisites: All Exercise and Sports Science majors must complete a core of EXSS courses, General Education requirements and a 225-hour internship.",
+    "A minimum grade of 2.0 in EXSS 1011 AND BIOL 1200 is required in order to move forward in the major."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Required EXSS Courses",
+      "content": [
+        "All students are required to complete the following common core courses:"
+      ],
+      "courses": [
+        {
+          "course_code": "EXSS 1011",
+          "course_title": "Intro to Exercise Science",
+          "credits": "3",
+          "coid": "102067",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 2050",
+          "course_title": "Functional Anatomy",
+          "credits": "3",
+          "coid": "102081",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 2065",
+          "course_title": "Introduction to Research in Exercise Science",
+          "credits": "3",
+          "coid": "102799",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 2071",
+          "course_title": "Exercise Physiology I",
+          "credits": "4",
+          "coid": "102083",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 2072",
+          "course_title": "Exercise Physiology II",
+          "credits": "4",
+          "coid": "102084",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 2300",
+          "course_title": "Nutrition in Exercise and Sport",
+          "credits": "3",
+          "coid": "102085",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "EXSS 3000",
+          "course_title": "Applied Nutrition",
+          "credits": "3",
+          "coid": "102798",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 2400",
+          "course_title": "Health Promotion",
+          "credits": "3",
+          "coid": "102086",
+          "footnote": "(Personal Wellness)"
+        },
+        {
+          "course_code": "EXSS 3450",
+          "course_title": "Exercise Testing and Prescription",
+          "credits": "4",
+          "coid": "102093",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 4005",
+          "course_title": "Biomechanics and Motor Control of Human Movement",
+          "credits": "4",
+          "coid": "102800",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 4200",
+          "course_title": "Professional and Career Development",
+          "credits": "3",
+          "coid": "102099",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 4950",
+          "course_title": "Internship",
+          "credits": "6-12",
+          "coid": "102101",
+          "footnote": "6- (Integrated High Impact Practice)"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Cognate Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BIOL 1200",
+          "course_title": "Anatomy and Physiology I",
+          "credits": "4",
+          "coid": "101654",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 1300",
+          "course_title": "Anatomy and Physiology II",
+          "credits": "4",
+          "coid": "101655",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 1100",
+          "course_title": "Introduction to Psychological Science",
+          "credits": "3",
+          "coid": "102555",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Requirements for the Concentration in Fitness and Wellness",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "EXSS 3110",
+          "course_title": "Essentials of Personal Training",
+          "credits": "3",
+          "coid": "103132",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "EXSS 3120",
+          "course_title": "Scientific Foundations of Strength Training and Conditioning",
+          "credits": "3",
+          "coid": "102091",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 3600",
+          "course_title": "Exercise Response and Adaptations in Special Populations",
+          "credits": "3",
+          "coid": "102094",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 4040",
+          "course_title": "Fitness Management",
+          "credits": "3",
+          "coid": "102096",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Required General Education Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1700",
+          "course_title": "Applied Statistics",
+          "credits": "3",
+          "coid": "102364",
+          "footnote": "(Quantitative Reasoning)"
+        }
+      ],
+      "items": [
+        "Civic Learning 3 cr.",
+        "Diverse Perspectives course 3 cr.",
+        "Ethical Reasoning course 3 cr.",
+        "Fine arts expression and analysis course 3 cr.",
+        "Historical inquiry and analysis 3 cr.",
+        "Literary inquiry and analysis 3 cr.",
+        "Scientific inquiry and analysis course 3 cr.",
+        "General Education integration 3 cr. (requirement waived if completing a minor)",
+        "World Languages, Speaking and Listening 3 cr.",
+        "Writing I 3 cr.",
+        "Writing II 3 cr."
+      ]
+    },
+    {
+      "heading": "Additional Requirements for the Fitness and Wellness Concentration",
+      "content": [
+        "Students are also required to complete additional coursework to graduate. Students will have the flexibility to complete more classes in the major, complete a minor degree or other coursework to achieve the next step in reaching their academic and/or professional goals."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12761",
+  "scraped_at": "2026-06-10T18:58:22.931597+00:00"
+}

@@ -1,0 +1,136 @@
+{
+  "program_name": "GIS Crime Mapping & Analysis Minor",
+  "degree_type": "Minor",
+  "department": "GIS Crime Mapping & Analysis Minor Requirements",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Program Curriculum Requirements",
+      "content": [
+        "* Upon enrollment in the GIS for Crime Analysis Minor, the requirement limiting CJ 1000 to Criminal Justice Majors/Minors will be waived for GEOG students."
+      ],
+      "courses": [
+        {
+          "course_code": "CJ 1000",
+          "course_title": "Introduction to Criminal Justice",
+          "credits": "3",
+          "coid": "101889",
+          "footnote": "*"
+        },
+        {
+          "course_code": "GEOG 2400",
+          "course_title": "Introduction to Geospatial Technologies",
+          "credits": "3",
+          "coid": "102121",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3004",
+          "course_title": "GIS for Criminal Justice",
+          "credits": "3",
+          "coid": "102911",
+          "footnote": "or"
+        },
+        {
+          "course_code": "CJ 3004",
+          "course_title": "GIS for Criminal Justice",
+          "credits": "3",
+          "coid": "102912",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* Upon enrollment in the GIS for Crime Analysis Minor, the requirement limiting CJ 1000 to Criminal Justice Majors/Minors will be waived for GEOG students."
+      ]
+    },
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose three among eight elective courses, one overlap with major requirement is allowed."
+      ],
+      "courses": [
+        {
+          "course_code": "CJ 2130",
+          "course_title": "Criminal Justice Research Methods",
+          "credits": "3",
+          "coid": "101901",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3242",
+          "course_title": "Psychology of Crime",
+          "credits": "3",
+          "coid": "101905",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3250",
+          "course_title": "Crime & Delinquency Prevention",
+          "credits": "3",
+          "coid": "101906",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2750",
+          "course_title": "Criminology",
+          "credits": "3",
+          "coid": "102602",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3120",
+          "course_title": "Computer Cartography",
+          "credits": "3",
+          "coid": "102140",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3300",
+          "course_title": "Urban Geography",
+          "credits": "3",
+          "coid": "102136",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4000",
+          "course_title": "Geographic Information System",
+          "credits": "3",
+          "coid": "102132",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4001",
+          "course_title": "Web GIS",
+          "credits": "3",
+          "coid": "102954",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4003",
+          "course_title": "Geographic Information Systems II",
+          "credits": "3",
+          "coid": "102953",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4940",
+          "course_title": "Internship in Geography",
+          "credits": "3",
+          "coid": "102145",
+          "footnote": "or"
+        },
+        {
+          "course_code": "CJ 4990",
+          "course_title": "Internship in Criminal Justice",
+          "credits": "12",
+          "coid": "101913",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12857",
+  "scraped_at": "2026-06-10T18:58:19.304326+00:00"
+}

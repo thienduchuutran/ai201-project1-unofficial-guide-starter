@@ -1,0 +1,324 @@
+{
+  "program_name": "Special Education: Teacher of Students with Severe Disabilities - All Levels, B.S.E",
+  "degree_type": "B.S.E",
+  "department": "Education Program of Study",
+  "faculty": "",
+  "description": [
+    "The Early Childhood Education (PreK-2), Elementary Education (1-6), Special Education: Moderate Disabilities (PreK-8), and Special Education: Severe Disabilities (All Levels) programs lead to an initial license. Education majors place emphasis on college coursework that honors cultural, racial, linguistic, and social diversity.",
+    "All candidates in the Elementary(1-6), Early Childhood (preK-2), Special Education (Moderate: preK–8), and Special Education (Severe: All Levels) must earn a minimum of a 2.0 in all required major courses (EDUC/SPED). If a grade lower than a 2.0 is earned in a Major-required EDUC/SPED course, it must be retaken to achieve a 2.0 or greater in order to count toward Major Requirements.",
+    "Field-based experiences begin freshman year and are enhanced by strong departmental collaboration with exemplary schools and host teachers in the region. Candidates continue to hone their skills toward becoming highly qualified, classroom-ready teachers throughout their four years at Fitchburg State University. Following their freshman year, each methodology course is paired with intensive field-based experiences that include faculty-based coaching. Beginning Junior year, teacher candidates enroll in a field experience, which is a uniquely guided teaching and learning experience in a classroom under the supervision of a MA licensed teacher and university faculty. Candidates’ time in the field increases their first semester senior year when they enroll in a semester-long professional experience preceding the practicum. During this time, they participate in a minimum of a 150-hour Integrated Partial Practicum that is linked to methods courses where candidates continue to receive specific feedback in areas of reinforcement and refinement. To assure that our teacher candidates are classroom-ready, during their final semester they complete a full-time practicum consisting of inclusion placements in a classroom under the guidance of the program supervisor and under the direction of a supervising practitioner who is certified in the area of licensure sought by the candidate. Candidates enrolled in this course fulfill the hours for the Massachusetts Department of Elementary and Secondary Education practicum requirements. As with all of the field experiences, candidates plan and deliver instruction to diverse learners in small group and whole class settings where they will practice and demonstrate the Subject Matter Knowledge standards (SMKs) as well as the Professional Standards for Teachers (PSTs). They will implement content coursework knowledge and pedagogy obtained from their education methods courses, connecting theory to practice. Candidates will receive targeted, specific feedback in areas of reinforcement and refinement. In addition, candidates complete a stage review process that includes additional requirements.",
+    "All candidates in the Elementary(1-6), Early Childhood (preK-2), Special Education (Moderate: preK–8), and Special Education (Severe: All Levels) must earn a minimum of a 2.0 in all required major courses (EDUC/SPED). If a grade lower than a 2.0 is earned in a Major-required EDUC/SPED course, it must be retaken to achieve a 2.0 or greater in order to count toward Major Requirements.",
+    "(1) Curriculum, Planning, and Assessment standard: Promotes the learning and growth of all students by providing high quality and coherent instruction, designing and administering authentic and meaningful student assessments, analyzing student performance and growth data, using this data to improve instruction, providing students with constructive feedback on an on-going basis, and continuously refining learning objectives.",
+    "(2) Teaching All Students standard: Promotes the learning and growth of all students through instructional practices that establish high expectations, create a safe and effective classroom environment, and demonstrate cultural proficiency.",
+    "(3) Family and Community Engagement standard: Promotes the learning and growth of all students through effective partnerships with families, caregivers, community members, and organizations.",
+    "(4) Professional Culture standard: Promotes the learning and growth of all students through ethical, culturally proficient, skilled, and collaborative practice.",
+    "Teacher candidates from Fitchburg State University will demonstrate the knowledge and skills required for their license including the following subject-matter knowledge standards:",
+    "a. Support the integration of standards for literacy across the content areas as outlined in the 2017 ELA/Literacy Framework.",
+    "b. Apply basic principles and concepts for digital literacy and computer science in Computing and Society, Digital Tools and Collaboration, and Computing Systems as outlined in the 2016 Digital Literacy Computer Science Framework .",
+    "c. Apply the theories of cognitive, social, emotional, language, and physical development from childhood through adolescence.",
+    "d. Understand the characteristics and instructional implications of moderately and severely disabling conditions.",
+    "e. Apply special education policies and procedures.",
+    "f. Support English learners through English learner education instruction.",
+    "In addition to the standards above, each program has specific subject-matter knowledge standards that teacher candidates must meet.",
+    "Knowledge of the significant theories, approaches, practices, and programs for developing reading skills and reading comprehension:",
+    "Principles and research-based instructional practices for developing emergent reader skills (alphabetic principle, concepts of print, phonological and phonemic awareness).",
+    "Teacher candidates must demonstrate the necessary depth and breadth of content knowledge needed to support all students in mastering expectations outlined in the following Massachusetts Curriculum Frameworks :",
+    "2017 English Language Arts(ELA)/Literacy Framework : Grades Pre-K—12",
+    "2017 Mathematics Curriculum Framework : Grades Pre-K—12",
+    "2016 Science and Technology/Engineering (STE) Curriculum Framework : Grades Pre-K—12",
+    "2018 History and Social Science Framework : Grades Pre-K—12",
+    "Digital Literacy and Computer Science (DLCS) Framework Grades K - 12"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Note:",
+      "content": [
+        "In addition to the standards above, each program has specific subject-matter knowledge standards that teacher candidates must meet.",
+        "informal assessment instruments."
+      ],
+      "courses": [],
+      "items": [
+        "Definitions, etiologies, and characteristics of severely disabling conditions.",
+        "Theories, concepts, and methods of assessing physical, emotional, intellectual, and social development in children and adolescents.",
+        "Theories of language development and the effects of disabilities on learning.",
+        "Reading Reading theory, research, and practice. Knowledge of the significant theories, practices, and programs for developing reading skills and reading comprehension. Phonemic awareness and phonics: principles, knowledge, and instructional practices. Diagnosis and assessment of reading skills using standardized, criterion-referenced, and",
+        "Reading theory, research, and practice.",
+        "Knowledge of the significant theories, practices, and programs for developing reading skills and reading comprehension.",
+        "Phonemic awareness and phonics: principles, knowledge, and instructional practices.",
+        "Diagnosis and assessment of reading skills using standardized, criterion-referenced, and",
+        "Development of a listening, speaking, and reading vocabulary.",
+        "Theories on the relationships between beginning writing and reading.",
+        "Theories of first and second language acquisition and development.",
+        "Preparation, implementation, and evaluation of Individualized Education Programs (IEPs).",
+        "How to design or modify curriculum, instructional materials, and classroom environments for students with severe disabilities.",
+        "Ways to prepare and maintain students with severe disabilities for general education classrooms. For example, use of behavioral management principles.",
+        "Knowledge of services provided by other agencies.",
+        "Knowledge of appropriate vocational or alternative school programs, or work-study and community- based opportunities and alternative high school programs and how to refer students to them.",
+        "Federal and state laws pertaining to special education.",
+        "Techniques for developing skills designed to facilitate placement in least-restrictive environments.",
+        "Instruction on the appropriate use of augmentative and alternative communication and other assistive technologies.",
+        "Source and operation of orthotic devices, medical technologies, and computer-moderated prosthetic devices."
+      ]
+    },
+    {
+      "heading": "General Education Major Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BIOL 1050",
+          "course_title": "Life Science for Educators",
+          "credits": "3",
+          "coid": "102700",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1500",
+          "course_title": "Informal Number Theory",
+          "credits": "3",
+          "coid": "102362",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1600",
+          "course_title": "Informal Mathematical Modeling",
+          "credits": "3",
+          "coid": "102363",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2000",
+          "course_title": "Informal Geometry",
+          "credits": "3",
+          "coid": "102368",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 1200",
+          "course_title": "Lifespan Development",
+          "credits": "3",
+          "coid": "102556",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2300",
+          "course_title": "Literature and Disability",
+          "credits": "3",
+          "coid": "101965",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "ENGL 2900",
+          "course_title": "Children’s Literature",
+          "credits": "3",
+          "coid": "101990",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Severe Disabilities— All Levels",
+      "content": [
+        "The Education Department of Fitchburg State University fully recognizes and embraces the diversity and challenges that teachers face in today’s public and private schools. Our comprehensive program of study in the area of Severe Disabilities is one that deliberately integrates and celebrates these challenges by providing an inclusive model for teacher preparation. Each course provides research-based methods to assess students’ needs in order to differentiate instruction. Techniques and strategies that address the needs of learners with Severe Disabilities in the inclusion classroom are emphasized. Courses have been specifically designed to provide teacher candidates with content and strategies to be knowledgeable, skillful, ethical, and caring educators in the 21st century. The Massachusetts Tests for Educator Licensure required for this program are Communication and Literacy, General Curriculum, and Mathematics Subtest.",
+        "The plan of study is as follows ( See course descriptions for pre-practicum hours required ):",
+        "* MAJs for DP and ER General Education requirements"
+      ],
+      "courses": [
+        {
+          "course_code": "EDUC 1005",
+          "course_title": "Developing Culturally Proficient Educators for a Democratic Society",
+          "credits": "3",
+          "coid": "102970",
+          "footnote": "*"
+        },
+        {
+          "course_code": "EDUC 1006",
+          "course_title": "Foundations of Inclusive Education",
+          "credits": "3",
+          "coid": "101914",
+          "footnote": "*"
+        },
+        {
+          "course_code": "EDUC 2630",
+          "course_title": "Literacy in the Pre-K to 8 Classroom",
+          "credits": "3",
+          "coid": "101916",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 2640",
+          "course_title": "Language Arts: Theory to Practice",
+          "credits": "3",
+          "coid": "101917",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 1001",
+          "course_title": "Introduction to Special Education",
+          "credits": "3",
+          "coid": "102972",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 2002",
+          "course_title": "Speech and Language Development for Diverse Learners",
+          "credits": "3",
+          "coid": "102636",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3020",
+          "course_title": "Students with Emotional/Behavioral and Autism Spectrum Disorders",
+          "credits": "3",
+          "coid": "102633",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3110",
+          "course_title": "Working with Students with Physical and Health Care Needs",
+          "credits": "3",
+          "coid": "102630",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3250",
+          "course_title": "Reading Assessment and Instruction for Diverse Learners",
+          "credits": "3",
+          "coid": "102964",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3400",
+          "course_title": "Teaching Math for Diverse Learners",
+          "credits": "3",
+          "coid": "102635",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3520",
+          "course_title": "Program Development for Students with Severe Disabilities",
+          "credits": "3",
+          "coid": "102638",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3720",
+          "course_title": "Classroom Management and Behavior Support",
+          "credits": "3",
+          "coid": "102640",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "SPED 3008",
+          "course_title": "Applied Behavior Analysis Across Settings",
+          "credits": "3",
+          "coid": "102917",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 4350",
+          "course_title": "Academic Instruction for Students with Severe Disabilities",
+          "credits": "3",
+          "coid": "102956",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* MAJs for DP and ER General Education requirements"
+      ]
+    },
+    {
+      "heading": "Required Field Experiences",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "SPED 3031",
+          "course_title": "Field Experience I in Severe Disabilities",
+          "credits": "2",
+          "coid": "102975",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3032",
+          "course_title": "Field Experience II in Severe Disabilities",
+          "credits": "2",
+          "coid": "102958",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Integrated Partial Practicum (IPP) (Senior Year)",
+      "content": [
+        "Courses taken concurrently"
+      ],
+      "courses": [
+        {
+          "course_code": "EDUC 3122",
+          "course_title": "Sheltered English Immersion",
+          "credits": "3",
+          "coid": "102774",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 4000",
+          "course_title": "Integrated Partial Practicum",
+          "credits": "4",
+          "coid": "102689",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 4050",
+          "course_title": "Assessment of Students with Disabilities",
+          "credits": "3",
+          "coid": "102634",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 4350",
+          "course_title": "Academic Instruction for Students with Severe Disabilities",
+          "credits": "3",
+          "coid": "102956",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Student Teaching (Senior year)",
+      "content": [
+        "Courses taken concurrently",
+        "* MAJ for IHIP General Education requirement"
+      ],
+      "courses": [
+        {
+          "course_code": "EDUC 4550",
+          "course_title": "Practicum Seminar",
+          "credits": "3",
+          "coid": "101930",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 4840",
+          "course_title": "Practicum: Severe Disabilities I",
+          "credits": "6",
+          "coid": "102642",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 4845",
+          "course_title": "Practicum: Severe Disabilities II",
+          "credits": "6",
+          "coid": "102643",
+          "footnote": "*"
+        }
+      ],
+      "items": [
+        "* MAJ for IHIP General Education requirement"
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12692",
+  "scraped_at": "2026-06-10T18:57:09.625278+00:00"
+}

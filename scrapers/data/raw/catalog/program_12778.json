@@ -1,0 +1,134 @@
+{
+  "program_name": "Earth Science Minor",
+  "degree_type": "Minor",
+  "department": "Requirements for the Minor in Earth Science",
+  "faculty": "",
+  "description": [
+    "A student may earn a minor in Earth Science by completing 18 credits of coursework including:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Required Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "GEOG 1000",
+          "course_title": "Earth Systems Science",
+          "credits": "3",
+          "coid": "102114",
+          "footnote": "or"
+        },
+        {
+          "course_code": "GEOG 2100",
+          "course_title": "Geology",
+          "credits": "3",
+          "coid": "102118",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2500",
+          "course_title": "Oceanography",
+          "credits": "3",
+          "coid": "102122",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Three additional courses",
+      "content": [
+        "will be chosen from the following, with at least one course at the 3000 level or above, in consultation with a minor advisor:"
+      ],
+      "courses": [
+        {
+          "course_code": "GEOG 2000",
+          "course_title": "Astronomy",
+          "credits": "3",
+          "coid": "102117",
+          "footnote": "or"
+        },
+        {
+          "course_code": "PHYS 2000",
+          "course_title": "Astronomy",
+          "credits": "3",
+          "coid": "102504",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2200",
+          "course_title": "Meteorology",
+          "credits": "3",
+          "coid": "102119",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2400",
+          "course_title": "Introduction to Geospatial Technologies",
+          "credits": "3",
+          "coid": "102121",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3110",
+          "course_title": "Climatology",
+          "credits": "3",
+          "coid": "102127",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3120",
+          "course_title": "Computer Cartography",
+          "credits": "3",
+          "coid": "102140",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4000",
+          "course_title": "Geographic Information System",
+          "credits": "3",
+          "coid": "102132",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4110",
+          "course_title": "Planetary Science",
+          "credits": "3",
+          "coid": "102133",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4200",
+          "course_title": "Geomorphology",
+          "credits": "3",
+          "coid": "102134",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4500",
+          "course_title": "Remote Sensing of the Environment",
+          "credits": "3",
+          "coid": "102137",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4600",
+          "course_title": "Environmental Hydrogeology",
+          "credits": "3",
+          "coid": "102138",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4700",
+          "course_title": "Geographic Perspectives on Conservation",
+          "credits": "3",
+          "coid": "102139",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12778",
+  "scraped_at": "2026-06-10T18:58:12.246136+00:00"
+}

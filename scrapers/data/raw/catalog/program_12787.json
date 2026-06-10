@@ -1,0 +1,140 @@
+{
+  "program_name": "Women, Gender, and Sexuality Studies",
+  "degree_type": "and Sexuality Studies",
+  "department": "Required Course",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose five from the following:"
+      ],
+      "courses": [
+        {
+          "course_code": "ART 3700",
+          "course_title": "Women, Art, and Society",
+          "credits": "3",
+          "coid": "101646",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 2450",
+          "course_title": "Women in Criminal Justice",
+          "credits": "3",
+          "coid": "101892",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3281",
+          "course_title": "Gender and Communication",
+          "credits": "3",
+          "coid": "101841",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2010",
+          "course_title": "Political Economy of Gender",
+          "credits": "3",
+          "coid": "102869",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3300",
+          "course_title": "Women and Literature",
+          "credits": "3",
+          "coid": "102012",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3460",
+          "course_title": "Rebels in American Film and Literature: Race, Gender, and Class Outsiders",
+          "credits": "3",
+          "coid": "102007",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4060",
+          "course_title": "Early Modern Women Writers",
+          "credits": "3",
+          "coid": "102035",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4600",
+          "course_title": "Literary Cult of the Virgin Queen",
+          "credits": "3",
+          "coid": "102045",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2151",
+          "course_title": "Women in Latin American History",
+          "credits": "3",
+          "coid": "102186",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 4903",
+          "course_title": "Independent Study in Women, Gender, and Sexuality Studies",
+          "credits": "3",
+          "coid": "102331",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3300",
+          "course_title": "Women in Italy",
+          "credits": "3",
+          "coid": "102339",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3900",
+          "course_title": "Women, Music, and Society",
+          "credits": "3",
+          "coid": "102438",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2550",
+          "course_title": "Sex, Race and the Constitution",
+          "credits": "3",
+          "coid": "102533",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2630",
+          "course_title": "Sociology of Families",
+          "credits": "3",
+          "coid": "102598",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 3100",
+          "course_title": "Gender and Society",
+          "credits": "3",
+          "coid": "102867",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 3110",
+          "course_title": "Sociology of Sexualities",
+          "credits": "3",
+          "coid": "102868",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "* Each of the electives for this minor may have specific prerequisites."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12787",
+  "scraped_at": "2026-06-10T18:59:29.841289+00:00"
+}

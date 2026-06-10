@@ -1,0 +1,217 @@
+{
+  "program_name": "Economics, B.S.",
+  "degree_type": "B.S.",
+  "department": "Economics",
+  "faculty": "Chairperson Paul Weizer Associate Professors Adem Elveren Christa Marr Özge Özay",
+  "description": [
+    "The Economics Program offers Liberal Arts and Sciences courses which focus on understanding the principles of economics for private enterprise market economies, especially the United States economy, as well as the workings of the global economy. The program offers both a major and a minor to students who are interested in a career in economics or business."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "General Education Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1800",
+          "course_title": "Business Statistics",
+          "credits": "3",
+          "coid": "102365",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 1000",
+          "course_title": "Introduction to Speech Communication",
+          "credits": "3",
+          "coid": "102650",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Requirements for the Major in Economics",
+      "content": [
+        "The Bachelor of Science degree in Economics requires 36 credits.",
+        "* MAJ for PL General Education requirement"
+      ],
+      "courses": [
+        {
+          "course_code": "ECON 1100",
+          "course_title": "Principles of Economics: Macroeconomics",
+          "credits": "3",
+          "coid": "101939",
+          "footnote": "*"
+        },
+        {
+          "course_code": "ECON 1200",
+          "course_title": "Principles of Economics: Microeconomics",
+          "credits": "3",
+          "coid": "101940",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2400",
+          "course_title": "Money and Banking",
+          "credits": "3",
+          "coid": "101944",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3000",
+          "course_title": "History of Economic Thought",
+          "credits": "3",
+          "coid": "101948",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3650",
+          "course_title": "Intermediate Macroeconomics",
+          "credits": "3",
+          "coid": "101951",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3660",
+          "course_title": "Intermediate Microeconomics",
+          "credits": "3",
+          "coid": "101952",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* MAJ for PL General Education requirement"
+      ]
+    },
+    {
+      "heading": "Economics Additional Requirements",
+      "content": [
+        "Students majoring in Economics without a declared concentration must also take courses from the following:"
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Additional General Education Requirement",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 2200",
+          "course_title": "Calculus for Business",
+          "credits": "3",
+          "coid": "102370",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Economics Additional Requirements",
+      "content": [
+        "Choose FOUR courses from the following:"
+      ],
+      "courses": [
+        {
+          "course_code": "BSAD 4230",
+          "course_title": "Business Fluctuations and Forecasting",
+          "credits": "3",
+          "coid": "101728",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2005",
+          "course_title": "Game Theory",
+          "credits": "3",
+          "coid": "102921",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2201",
+          "course_title": "U.S. Economic History",
+          "credits": "3",
+          "coid": "101942",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2500",
+          "course_title": "Economic Development",
+          "credits": "3",
+          "coid": "101945",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2600",
+          "course_title": "Public Finance",
+          "credits": "3",
+          "coid": "101947",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3001",
+          "course_title": "Economics of Inequality",
+          "credits": "3",
+          "coid": "102930",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3002",
+          "course_title": "Basic Data Skills for Economics and Business",
+          "credits": "3",
+          "coid": "102931",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3550",
+          "course_title": "International Economics",
+          "credits": "3",
+          "coid": "101949",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3600",
+          "course_title": "International Finance",
+          "credits": "3",
+          "coid": "101950",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3700",
+          "course_title": "Econometrics",
+          "credits": "3",
+          "coid": "101953",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 4000",
+          "course_title": "Economics Senior Seminar",
+          "credits": "3",
+          "coid": "102933",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 4900",
+          "course_title": "Independent Study in Economics",
+          "credits": "3",
+          "coid": "101954",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 4940",
+          "course_title": "Internship in Economics",
+          "credits": "2",
+          "coid": "101955",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3000",
+          "course_title": "Economic Geography",
+          "credits": "3",
+          "coid": "102125",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12740",
+  "scraped_at": "2026-06-10T18:56:32.869647+00:00"
+}

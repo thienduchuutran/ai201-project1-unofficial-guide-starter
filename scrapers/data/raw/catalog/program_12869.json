@@ -1,0 +1,162 @@
+{
+  "program_name": "Chemistry, Biochemistry concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Biology and Chemistry Faculty",
+  "faculty": "Chairperson Erin Rehrig Professors Associate Professors Assistant Professors Christopher Cratsley (Biology) Dennis Awasabisah (Chemistry) Elizabeth Kilpatrick (Biology) Lisa Grimm (Biology) Emma Downs (Chemistry) Ronald Krieser (Biology) Steven Fiedler (Chemistry) Mathangi Krishnamurthy (Chemistry) Aisling O’Connor (Chemistry) John Ludlam (Biology) Billy Samulak (Chemistry) Christopher Picone (Biology) Eric Williams (Biology) Erin Rehrig (Biology) Sean Rollins (Biology) Daniel Welsh (Biology)",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Chemistry",
+      "content": [
+        "The Bachelor of Science degree programs in chemistry are available for students who intend to pursue graduate studies, secondary school teaching, or a professional career in the chemical, pharmaceutical, biotechnology or related industry. The programs provide a strong background in the modern areas of chemistry including biochemistry with emphasis on hands-on laboratory work. They also provide the opportunity for exceptionally talented students to conduct independent research under the guidance of the faculty. The degree programs will also prepare students for further education in health sciences, such as medicine, dentistry, pharmacy, veterinary medicine, optometry and other health professions provided they take other pre-requisite courses."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Program Curriculum Requirements",
+      "content": [
+        "The Biochemistry Concentration in Chemistry gives students a strong grounding in chemistry with a focus on biochemistry. This is an appropriate concentration for students interested in a wide variety of careers including but not limited to: laboratory scientist positions in biotechnology and pharmaceutical companies, science writing careers, and health professions. This degree will prepare students for further education in chemistry, medicine, dentistry, pharmacy, veterinary medicine and other health professions, provided they complete all the prerequisite courses for post-graduate work. The emphasis on biochemistry is particularly helpful for those interested in health sciences and the hands-on experience benefits those interested in pursuing Ph.D. degrees in biochemistry, biotechnology or related fields."
+      ],
+      "courses": [
+        {
+          "course_code": "CHEM 1300",
+          "course_title": "General Chemistry I",
+          "credits": "4",
+          "coid": "101762",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 1400",
+          "course_title": "General Chemistry II",
+          "credits": "4",
+          "coid": "101763",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 2000",
+          "course_title": "Organic Chemistry I",
+          "credits": "4",
+          "coid": "101764",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 2100",
+          "course_title": "Organic Chemistry II",
+          "credits": "4",
+          "coid": "101765",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 2400",
+          "course_title": "General Analytical Chemistry",
+          "credits": "4",
+          "coid": "101766",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 3030",
+          "course_title": "Biochemistry I",
+          "credits": "3",
+          "coid": "102779",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 3040",
+          "course_title": "Biochemistry II",
+          "credits": "3",
+          "coid": "102948",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 3060",
+          "course_title": "Biochemical Techniques",
+          "credits": "3",
+          "coid": "102946",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 3200",
+          "course_title": "Physical Chemistry I",
+          "credits": "4",
+          "coid": "101767",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 3600",
+          "course_title": "Descriptive Inorganic Chemistry",
+          "credits": "3",
+          "coid": "101769",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 4750",
+          "course_title": "Chemistry Seminar",
+          "credits": "3",
+          "coid": "102740",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 1800",
+          "course_title": "General Biology I",
+          "credits": "4",
+          "coid": "101661",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 2800",
+          "course_title": "Genetics",
+          "credits": "4",
+          "coid": "101670",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2300",
+          "course_title": "Calculus I",
+          "credits": "4",
+          "coid": "102371",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2400",
+          "course_title": "Calculus II",
+          "credits": "4",
+          "coid": "102372",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHYS 2300",
+          "course_title": "General Physics I",
+          "credits": "4",
+          "coid": "102505",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHYS 2400",
+          "course_title": "General Physics II",
+          "credits": "4",
+          "coid": "102506",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Requirement",
+      "content": [
+        "Chemistry majors must earn a minimum grade of 2.0 in General Chemistry I and General Chemistry II. If a grade below 2.0 is earned in General Chemistry I, the course must be repeated before enrolling in General Chemistry II. Chemistry majors are limited to two attempts in General Chemistry I and two attempts in General Chemistry II including the grade of W."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12869",
+  "scraped_at": "2026-06-10T18:55:13.735480+00:00"
+}

@@ -1,0 +1,67 @@
+{
+  "program_name": "Game Design Minor",
+  "degree_type": "Minor",
+  "department": "Requirements for the Minor in Game Design",
+  "faculty": "",
+  "description": [
+    "18 credits are required. All students must complete:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Introductory Courses - 6 credits",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "GAME 1100",
+          "course_title": "Elements of Game Design",
+          "credits": "3",
+          "coid": "102721",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 1200",
+          "course_title": "Introduction to Game Art",
+          "credits": "3",
+          "coid": "102722",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Game Production Course - 3 credits",
+      "content": [
+        "Choose ONE course from the following:"
+      ],
+      "courses": [
+        {
+          "course_code": "GAME 3000",
+          "course_title": "Game Design Workshop",
+          "credits": "3",
+          "coid": "102726",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3030",
+          "course_title": "Game Level Design",
+          "credits": "3",
+          "coid": "102728",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Choose ONE course from the following:"
+      ]
+    },
+    {
+      "heading": "Game Electives - 9 credits",
+      "content": [],
+      "courses": [],
+      "items": [
+        "3 additional GAME courses"
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12818",
+  "scraped_at": "2026-06-10T18:56:02.671476+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "program_name": "Fitchburg State University Honors Program",
+  "degree_type": "",
+  "department": "Curriculum for the Honors Program",
+  "faculty": "",
+  "description": [
+    "Students in the Honors Program satisfy a portion of their General Education curriculum by taking at least six Honors courses (non-thesis courses), two semesters of a language, and two semesters of an Honors Thesis for a total of 30-31 credits.",
+    "Students must take at least six courses from the list below to satisfy a portion of the general education requirements.",
+    "or an HON Topics Course"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Note",
+      "content": [
+        "Additonally, Honors students take two semesters of a world language and complete a two-semester Honors Thesis."
+      ],
+      "courses": [],
+      "items": [
+        "World Language 1 3 cr.",
+        "World Language 2 3 cr.",
+        "HON 4990 - Honors Thesis/Project I 3 cr. and",
+        "HON 4991 - Honors Thesis/Project II 3 cr."
+      ]
+    },
+    {
+      "heading": "Honors Minor",
+      "content": [
+        "The minor consists of four Honors courses (1000 or 2000 level, at least two of these classes must be at the 2000 level), HON 4990 - Honors Thesis/Project I, and HON 4991 - Honors Thesis/Project II."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Honors Transfer Students",
+      "content": [
+        "Honors students at Massachusetts public community colleges, colleges, or universities may substitute honors courses that they have taken when joining the Honors Minor."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12807",
+  "scraped_at": "2026-06-10T18:58:30.519339+00:00"
+}

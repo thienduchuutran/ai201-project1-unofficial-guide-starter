@@ -1,0 +1,197 @@
+{
+  "program_name": "Professional Writing Minor",
+  "degree_type": "Minor",
+  "department": "Required",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "One LI designated literature course 3 cr.",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Three electives (select from below): 9 cr.",
+      "content": [
+        "One course must be at the 3000-level.",
+        "ENGL 3026 may be taken twice given different course topics."
+      ],
+      "courses": [
+        {
+          "course_code": "ENGL 2020",
+          "course_title": "Style Studio",
+          "credits": "3",
+          "coid": "102940",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2025",
+          "course_title": "Foundations of Professional Writing",
+          "credits": "3",
+          "coid": "102941",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2030",
+          "course_title": "News Reporting and Writing",
+          "credits": "3",
+          "coid": "102942",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2040",
+          "course_title": "Introduction to Creative Writing",
+          "credits": "3 cr.",
+          "coid": "102939",
+          "footnote": "3 cr. Credit(s)"
+        },
+        {
+          "course_code": "ENGL 2320",
+          "course_title": "Script Writing",
+          "credits": "3",
+          "coid": "101966",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2800",
+          "course_title": "Journalism",
+          "credits": "3",
+          "coid": "101984",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3015",
+          "course_title": "Writing the Science Fiction and Fantasy Novel",
+          "credits": "3",
+          "coid": "102831",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3026",
+          "course_title": "Genres, Forms, and Themes in Creative Writing",
+          "credits": "3",
+          "coid": "102783",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3027",
+          "course_title": "Experimental Writing",
+          "credits": "3",
+          "coid": "102832",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3028",
+          "course_title": "Research for Creative Writers",
+          "credits": "3",
+          "coid": "102873",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3035",
+          "course_title": "Playwrighting",
+          "credits": "3",
+          "coid": "102750",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3045",
+          "course_title": "Media Conscious Storytelling",
+          "credits": "3",
+          "coid": "102780",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3055",
+          "course_title": "The Structure and Nature of Language",
+          "credits": "3",
+          "coid": "101988",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3075",
+          "course_title": "Editing and Publishing",
+          "credits": "3",
+          "coid": "101985",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3510",
+          "course_title": "Fiction Writing",
+          "credits": "3",
+          "coid": "102015",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3520",
+          "course_title": "Poetry Writing",
+          "credits": "3",
+          "coid": "102016",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3540",
+          "course_title": "Writing Film Criticism",
+          "credits": "3",
+          "coid": "102741",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3830",
+          "course_title": "College Newspaper Production",
+          "credits": "3",
+          "coid": "102023",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3840",
+          "course_title": "Freelance Writing for Magazine",
+          "credits": "3",
+          "coid": "102024",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3860",
+          "course_title": "Writing for Organizations",
+          "credits": "3",
+          "coid": "102025",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3870",
+          "course_title": "Feature and Magazine Writing",
+          "credits": "3",
+          "coid": "102026",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3890",
+          "course_title": "Creative Nonfiction Writing",
+          "credits": "3",
+          "coid": "102028",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 3000",
+          "course_title": "Speech Writing",
+          "credits": "3",
+          "coid": "102657",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4940",
+          "course_title": "Internship",
+          "credits": "3",
+          "coid": "102051",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "ENGL 3026 may be taken twice given different course topics."
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12801",
+  "scraped_at": "2026-06-10T18:57:59.274678+00:00"
+}

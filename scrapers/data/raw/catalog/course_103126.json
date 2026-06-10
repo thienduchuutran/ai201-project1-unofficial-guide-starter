@@ -1,0 +1,9 @@
+{
+  "course_code": "GEOG 2600",
+  "course_title": "Environmental Science Data Visualization",
+  "credits": "3",
+  "description": "Offered: every other year\nThis course explores environmental science concepts using real data. Students develop skills in importing, exploring, cleaning and displaying data using Python programs to aid in analysis, interpretation, and communication. Topics include data importing & exploring, statistics, histograms, linefitting, moving average, and generating heat maps for hazard assessment purposes.\nPrerequisite(s): MATH 1300 or MATH 1700 or MATH 1800 and either CSC 1500 or GEOG 1000\nMeets General Education Requirement(s): PL",
+  "prerequisites": "MATH 1300 or MATH 1700 or MATH 1800 and either CSC 1500 or GEOG 1000",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=103126",
+  "scraped_at": "2026-06-10T19:32:13.524643+00:00"
+}

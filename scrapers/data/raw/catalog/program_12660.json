@@ -1,0 +1,231 @@
+{
+  "program_name": "Biology, B.A.",
+  "degree_type": "B.A.",
+  "department": "Biology and Chemistry Faculty",
+  "faculty": "Chairperson Erin Rehrig Professors Associate Professors Assistant Professors Christopher Cratsley (Biology) Dennis Awasabisah (Chemistry) Elizabeth Kilpatrick (Biology) Lisa Grimm (Biology) Emma Downs (Chemistry) Ronald Krieser (Biology) Steven Fiedler (Chemistry) Mathangi Krishnamurthy (Chemistry) Aisling O’Connor (Chemistry) John Ludlam (Biology) Billy Samulak (Chemistry) Christopher Picone (Biology) Eric Williams (Biology) Erin Rehrig (Biology) Sean Rollins (Biology) Daniel Welsh (Biology)",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Biology Program",
+      "content": [
+        "The Biology program at Fitchburg State University emphasizes basic scientific principles while challenging students. The Department of Biology and Chemistry has a rich history of producing successful graduates who have gone on to work in the vibrant biotechnology and life sciences industry, environmental and field biology workforce, various health professions, and teaching. Our faculty foster a supportive teaching and learning environment, offer individual attention to students, and provide numerous undergraduate and graduate research opportunities. The Biology and Chemistry Club sponsors social events to encourage interaction between students and faculty.",
+        "All Biology majors are required to take four core courses and six advanced BIOL electives ( > 2000) including a Capstone course, for a total of 36 credits.",
+        "The core biology courses include student laboratory work so that students develop the skills of scientific inquiry. Students develop scientific literacy through reading, writing, testing hypotheses, and quantitative analysis. Core courses also integrate computer literacy through lab activities."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Objectives of the B.A. Degree in Biology",
+      "content": [
+        "The Bachelor of Arts (B.A.) in Biology is a broad-based biology degree that would be appropriate for students who wish to use biological knowledge in pursuit of a career that does not require a detailed knowledge of organic chemistry and physics. Examples of such careers are: laboratory technician, teacher, science writer, scientific illustrator, technical sales representative, and editors or editorial assistants in the publishing industry. This degree would also help students fulfill the requirements for admission to certain health professions, such as Physician Assistant, Physical Therapy, Occupational Therapy, Public Health, Post-baccalaureate Nursing and Chiropractic - additional specific coursework may be required in some cases. Pre-medical and pre-dental students, and those who want to pursue graduate studies in biology would be advised to pursue the B.S. in Biology, but they could also use this degree by tailoring their curriculum to meet the specific requirements of medical or graduate schools.",
+        "The Biology and Chemistry Department believes that every student deserves a first-class education. We are educators at Fitchburg State because our personal values align with the campus values of equity and excellence. We strive to ensure that our students have the best of what we can offer them as they gain an in-depth knowledge of science that is part of a larger interdisciplinary, multicultural liberal arts and sciences education.",
+        "In order to achieve our mission, we undertake to:",
+        "Demonstrate content knowledge of the AAAS BioCore, with topics in:",
+        "Conduct original biological research.",
+        "Communicate science orally and in writing.",
+        "Use scientific literature."
+      ],
+      "courses": [],
+      "items": [
+        "Produce students who are well prepared for diverse careers or advanced study in the biological and chemical sciences or related disciplines as well as gain the skills necessary to successfully adapt to future changes within their disciplines.",
+        "Build lasting relationships with students that will advance their professional growth by recognizing the unique needs of each individual and reflecting our passion for engagement in authentic learning experiences.",
+        "Maintain a high level of scholarly activity in a variety of fields associated with biology, chemistry and science education.",
+        "Serve the needs of the university and specific academic departments through our curricular offerings and involvement in the university community.",
+        "Endeavor to demonstrate leadership as stewards of the environment.",
+        "Provide state of the art pedagogical approaches as well as utilize appropriate equipment, technology, and resources for teaching, learning and research in the sciences and science education.",
+        "Work to support the University’s mission of providing leadership and support for the economic, environmental, social, and cultural needs of North Central Massachusetts and the Commonwealth.",
+        "Evolution",
+        "Transformations of Energy and Matter",
+        "Information Flow, Exchange and Storage",
+        "Structure and Function",
+        "Systems",
+        "Clearly articulate testable questions and hypotheses",
+        "Design and execute experiments",
+        "Analyze data using appropriate statistical methods",
+        "Summarize data concisely with graphs, tables or images",
+        "Draw appropriate conclusions",
+        "Demonstrate safe practices in laboratory and field",
+        "Present information in a clear and organized manner",
+        "Write well-organized and concise reports in a scientifically appropriate style",
+        "Use relevant technology in communications.",
+        "Communicate to a general audience",
+        "Retrieve information efficiently and effectively by searching the biological literature",
+        "Evaluate scientific articles critically",
+        "Cite sources appropriately"
+      ]
+    },
+    {
+      "heading": "Core Courses Required by the Major",
+      "content": [
+        "* General Biology requires the completion of the AAF Math Placement test prior to enrollment. Students who are able to co-enroll in Basic Math II without co-requisite will be accepted into the general biology courses."
+      ],
+      "courses": [
+        {
+          "course_code": "BIOL 1800",
+          "course_title": "General Biology I",
+          "credits": "4",
+          "coid": "101661",
+          "footnote": "*"
+        },
+        {
+          "course_code": "BIOL 1900",
+          "course_title": "General Biology II",
+          "credits": "4",
+          "coid": "101662",
+          "footnote": "*"
+        },
+        {
+          "course_code": "BIOL 2300",
+          "course_title": "Ecology",
+          "credits": "4",
+          "coid": "101664",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 2800",
+          "course_title": "Genetics",
+          "credits": "4",
+          "coid": "101670",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* General Biology requires the completion of the AAF Math Placement test prior to enrollment. Students who are able to co-enroll in Basic Math II without co-requisite will be accepted into the general biology courses."
+      ]
+    },
+    {
+      "heading": "Additional Requirements",
+      "content": [
+        "Biology B.A. majors also take six electives at or above BIOL 2000 including a capstone course for a total of minimum 20 credits. One of the BIOL electives could be replaced with the two-semester sequence in Anatomy and Physiology ( BIOL 1200 , BIOL 1300 ). Independent study, directed study or internship may count as one advanced BIOL elective in a student’s program of study. Courses with a separate lecture and lab registration count as a single elective: the lab portion of a course does not constitute a distinct biology elective.",
+        "Biology majors must earn a minimum grade of 2.0 in General Biology I and General Chemistry I. If a grade below 2.0 is earned in either course, that course must be repeated before enrolling in any subsequent BIOL or CHEM classes. Biology majors are also limited to two attempts for each of General Biology I and General Chemistry I. If Biology majors earn <2.0 or a W in a second attempt, they must find another major that more closely matches their skills and interests."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Capstone Course",
+      "content": [
+        "One of the six electives must be a designated capstone course. Students in the capstone course conduct a research project to demonstrate their skills in research design and analysis.",
+        "The capstone course must be taken at Fitchburg State. A course that transfers as an equivalent course will not fulfill this requirement. Currently, the following courses are designated as capstone courses:",
+        "Independent Studies (BIOL 4901-4903) require approval by the departmental curriculum committee in order to fulfill the capstone requirement.",
+        "MAJ (Integrative High Impact Practice)"
+      ],
+      "courses": [
+        {
+          "course_code": "BIOL 3060",
+          "course_title": "Biochemical Techniques",
+          "credits": "3",
+          "coid": "102945",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 3550",
+          "course_title": "Developmental Biology",
+          "credits": "4",
+          "coid": "101678",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 3650",
+          "course_title": "Plant Biology",
+          "credits": "4",
+          "coid": "101679",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 4500",
+          "course_title": "Molecular Biology",
+          "credits": "4",
+          "coid": "101684",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 4700",
+          "course_title": "Animal Physiology",
+          "credits": "4",
+          "coid": "101686",
+          "footnote": "* *not currently offered"
+        }
+      ],
+      "items": [
+        "Independent Studies (BIOL 4901-4903) require approval by the departmental curriculum committee in order to fulfill the capstone requirement.",
+        "MAJ (Integrative High Impact Practice)"
+      ]
+    },
+    {
+      "heading": "Required Courses in Related Sciences",
+      "content": [
+        "In addition to BIOL courses, Bachelor of Arts students are required to take courses in related sciences and two courses in mathematics at or above MATH 1300",
+        "MATH Elective 3 or 4 cr.**",
+        "Any physics course from the approved list (currently PHYS 1100, 2300, and 2600)",
+        "One GEOG course 3 cr.",
+        "* General Chemistry I requires the successful completion of the AAF Math Placement test or the Algebraic Preparation course (MATH 0500) prior to enrollment.",
+        "** Either Applied Statistics or Calculus I is recommended as the second math course.",
+        "Note: Many of the biology and chemistry courses have specific minimum grade requirements for prerequisite courses."
+      ],
+      "courses": [
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "MATH Elective 3 or 4 cr.**",
+        "Any physics course from the approved list (currently PHYS 1100, 2300, and 2600)",
+        "One GEOG course 3 cr.",
+        "* General Chemistry I requires the successful completion of the AAF Math Placement test or the Algebraic Preparation course (MATH 0500) prior to enrollment. ** Either Applied Statistics or Calculus I is recommended as the second math course.",
+        "Note: Many of the biology and chemistry courses have specific minimum grade requirements for prerequisite courses."
+      ]
+    },
+    {
+      "heading": "General Education Requirements",
+      "content": [
+        "Foreign language proficiency at the intermediate level. This is typically met by successfully taking four courses (12 cr.) of a single foreign language.",
+        "Students may also fulfill this requirement by passing the CLEP test with the required 12 credits.",
+        "General education distribution requirements: 3",
+        "World Language Beginners (World Language, Speaking and Listening)",
+        "World Language Intermediate (Diverse Perspectives)",
+        "*or any QR course above 1300"
+      ],
+      "courses": [
+        {
+          "course_code": "CHEM 1300",
+          "course_title": "General Chemistry I",
+          "credits": "4",
+          "coid": "101762",
+          "footnote": "(Scientific Inquiry and Analysis)"
+        },
+        {
+          "course_code": "CHEM 1400",
+          "course_title": "General Chemistry II",
+          "credits": "4",
+          "coid": "101763",
+          "footnote": "(Procedural and Logical Thinking)"
+        },
+        {
+          "course_code": "CHEM 2000",
+          "course_title": "Organic Chemistry I",
+          "credits": "4",
+          "coid": "101764",
+          "footnote": "(AIA)"
+        },
+        {
+          "course_code": "MATH 1700",
+          "course_title": "Applied Statistics",
+          "credits": "3",
+          "coid": "102364",
+          "footnote": "* (Quantitative Reasoning)"
+        }
+      ],
+      "items": [
+        "*or any QR course above 1300"
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12660",
+  "scraped_at": "2026-06-10T18:54:55.122422+00:00"
+}

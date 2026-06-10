@@ -1,0 +1,19 @@
+{
+  "program_name": "Political Science Minor",
+  "degree_type": "Minor",
+  "department": "Required Courses",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose four courses with at least one from each of the concentrations- Political Science, International Politics Concentration, B.A. and Political Science, American Government/Law Concentration, B.A. At least three of those classes must be at the 2000 level or above."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12723",
+  "scraped_at": "2026-06-10T18:56:57.138827+00:00"
+}

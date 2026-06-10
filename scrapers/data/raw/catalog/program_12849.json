@@ -1,0 +1,117 @@
+{
+  "program_name": "Graphic Design Minor",
+  "degree_type": "Minor",
+  "department": "Admission Requirement",
+  "faculty": "",
+  "description": [
+    "Admission to the program requires a GPA of 2.5."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Program Requirements",
+      "content": [
+        "Required Courses",
+        "Choose 4 electives from the following courses:"
+      ],
+      "courses": [
+        {
+          "course_code": "COMM 1900",
+          "course_title": "Introduction to Graphic Design",
+          "credits": "3",
+          "coid": "101819",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1920",
+          "course_title": "Typographic Design",
+          "credits": "3",
+          "coid": "101825",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1940",
+          "course_title": "Color Dynamics",
+          "credits": "3",
+          "coid": "102955",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2920",
+          "course_title": "Font Design",
+          "credits": "3",
+          "coid": "102837",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2980",
+          "course_title": "History of Graphic Design",
+          "credits": "3",
+          "coid": "101785",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2910",
+          "course_title": "Web Design",
+          "credits": "3",
+          "coid": "101789",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3309",
+          "course_title": "Interface Design",
+          "credits": "3",
+          "coid": "101791",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2900",
+          "course_title": "Intermediate Graphic Design",
+          "credits": "3",
+          "coid": "101820",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3930",
+          "course_title": "Publication Design",
+          "credits": "3",
+          "coid": "101822",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1960",
+          "course_title": "Image and Design",
+          "credits": "3",
+          "coid": "101826",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2940",
+          "course_title": "Motion Graphic Design",
+          "credits": "3",
+          "coid": "101827",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3950",
+          "course_title": "Advanced Graphic Design",
+          "credits": "3",
+          "coid": "101828",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3955",
+          "course_title": "Motion Graphic Design II",
+          "credits": "3",
+          "coid": "102745",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Required Courses",
+        "Choose 4 electives from the following courses:"
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12849",
+  "scraped_at": "2026-06-10T18:56:04.582513+00:00"
+}

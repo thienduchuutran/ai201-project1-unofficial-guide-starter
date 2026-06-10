@@ -1,0 +1,357 @@
+{
+  "program_name": "Psychological Science, B.A.",
+  "degree_type": "B.A.",
+  "department": "Psychological Science Faculty",
+  "faculty": "Chairperson Laura Garofoli Professors Associate Professors Daneen Deptula Christopher Adams Laura Garofoli Cheryl Armstrong Michael Hove Darlene (Lena) Ficco Hildur Schilling Thomas Schilling",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Psychological Science",
+      "content": [
+        "The goal of the Psychological Science Program is to educate students in the scientific study of the mind and human behavior. The program combines theoretical, methodological, and applied topics enabling students to acquire knowledge and skills that enrich their personal lives, work careers, and future academic pursuits. The Psychological Science program has particular strengths in cognitive psychology, counseling/clinical psychology, developmental psychology, biological psychology, and industrial/organizational psychology.",
+        "Bachelor of Art students are required to have foreign language proficiency at the intermediate level.",
+        "Psychological Science Program Learning Outcomes (based on the American Psychological Association program standards):"
+      ],
+      "courses": [],
+      "items": [
+        "PLO 1: Students will accurately use and apply key concepts, theories, and empirical findings to describe, explain, and predict psychological phenomena, taking into consideration diverse individual and/or cultural perspectives.",
+        "PLO 2: Students will locate, evaluate, summarize, and synthesize research literature with appropriate citation.",
+        "PLO 3: Students will design and/or conduct psychological research, including the analysis of data using descriptive and/or inferential statistics.",
+        "PLO 4: Students will identify, describe, and evaluate key ethical principles in psychological research and practice, taking into consideration characteristics and needs of diverse populations.",
+        "PLO 5: Students will demonstrate effective written and oral presentation skills using conventions of scientific communication (e.g., APA style).",
+        "PLO 6: Students will develop potential post-baccalaureate plans informed by coursework, accurate self-assessment and self-reflection (e.g., work habits), as well as active exploration of career options (including consideration of skills sets desired by employers who typically hire people with psychology backgrounds). Adopted 5.19.23"
+      ]
+    },
+    {
+      "heading": "Prerequisites for the Major in Psychological Science",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1700",
+          "course_title": "Applied Statistics",
+          "credits": "3",
+          "coid": "102364",
+          "footnote": "+"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Requirements for the Major in Psychological Science",
+      "content": [
+        "+ A minimum grade of 2.0 must be earned in these courses."
+      ],
+      "courses": [
+        {
+          "course_code": "PSY 1100",
+          "course_title": "Introduction to Psychological Science",
+          "credits": "3",
+          "coid": "102555",
+          "footnote": "+ *"
+        },
+        {
+          "course_code": "PSY 2020",
+          "course_title": "Professional Orientation to Psychological Science",
+          "credits": "3",
+          "coid": "103045",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2030",
+          "course_title": "Biological Psychology",
+          "credits": "3",
+          "coid": "102569",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2040",
+          "course_title": "Research Methods and Statistics 1",
+          "credits": "3",
+          "coid": "103144",
+          "footnote": "+"
+        },
+        {
+          "course_code": "PSY 2050",
+          "course_title": "Research Methods and Statistics 2",
+          "credits": "3",
+          "coid": "103145",
+          "footnote": "+"
+        }
+      ],
+      "items": [
+        "+ A minimum grade of 2.0 must be earned in these courses."
+      ]
+    },
+    {
+      "heading": "Foundation Courses",
+      "content": [
+        "Choose SIX Foundation courses for a minimum of 18 credits. A minimum grade of 2.0 must be earned in each of the Foundation courses."
+      ],
+      "courses": [
+        {
+          "course_code": "PSY 1200",
+          "course_title": "Lifespan Development",
+          "credits": "3",
+          "coid": "102556",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2001",
+          "course_title": "Memory",
+          "credits": "3",
+          "coid": "102796",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2025",
+          "course_title": "Cultural Psychology",
+          "credits": "3",
+          "coid": "103044",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2300",
+          "course_title": "Psychology of Personality",
+          "credits": "3",
+          "coid": "102562",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2350",
+          "course_title": "Abnormal Psychology",
+          "credits": "3",
+          "coid": "102563",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2500",
+          "course_title": "Social Psychology",
+          "credits": "3",
+          "coid": "102565",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2665",
+          "course_title": "Health Psychology",
+          "credits": "3",
+          "coid": "102567",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3010",
+          "course_title": "Consciousness",
+          "credits": "3",
+          "coid": "102846",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3430",
+          "course_title": "Sensation and Perception",
+          "credits": "3",
+          "coid": "102570",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3500",
+          "course_title": "Psychology of Learning",
+          "credits": "3",
+          "coid": "102572",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3530",
+          "course_title": "Motivation",
+          "credits": "3",
+          "coid": "102573",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3550",
+          "course_title": "Cognition",
+          "credits": "3",
+          "coid": "102574",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Advanced Research Methods Courses",
+      "content": [
+        "Choose ONE Advanced Research Methods course. A minimum grade of 2.0 must be earned in this course."
+      ],
+      "courses": [
+        {
+          "course_code": "PSY 3610",
+          "course_title": "Advanced Research Methods: Cognition",
+          "credits": "3",
+          "coid": "103146",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3620",
+          "course_title": "Advanced Research Methods: Learning",
+          "credits": "3",
+          "coid": "103147",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3630",
+          "course_title": "Advanced Research Methods: Sensation and Perception",
+          "credits": "3",
+          "coid": "103148",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3640",
+          "course_title": "Advanced Research Methods: Motivation",
+          "credits": "3",
+          "coid": "103149",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3650",
+          "course_title": "Advanced Research Methods: Social Psychology",
+          "credits": "3",
+          "coid": "103242",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Capstone Courses",
+      "content": [
+        "Choose ONE Capstone course for a minimum of 3 credits",
+        "* MAJs for IHIP and PL General Education requirements"
+      ],
+      "courses": [
+        {
+          "course_code": "PSY 4810",
+          "course_title": "Research Practicum",
+          "credits": "3",
+          "coid": "102577",
+          "footnote": "*"
+        },
+        {
+          "course_code": "PSY 4820",
+          "course_title": "Research Practicum",
+          "credits": "6",
+          "coid": "102578",
+          "footnote": "*"
+        },
+        {
+          "course_code": "PSY 4900",
+          "course_title": "Independent Study",
+          "credits": "1-6",
+          "coid": "102579",
+          "footnote": "1- *"
+        },
+        {
+          "course_code": "PSY 4904",
+          "course_title": "Advanced Seminar in Psychological Science",
+          "credits": "3",
+          "coid": "102717",
+          "footnote": "*"
+        },
+        {
+          "course_code": "PSY 4950",
+          "course_title": "Internship: Psychological Science",
+          "credits": "3-12",
+          "coid": "102580",
+          "footnote": "3- *"
+        }
+      ],
+      "items": [
+        "* MAJs for IHIP and PL General Education requirements"
+      ]
+    },
+    {
+      "heading": "Elective Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "PSY 2010",
+          "course_title": "Child Development",
+          "credits": "3",
+          "coid": "102809",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2110",
+          "course_title": "Introduction to Research Methods",
+          "credits": "3",
+          "coid": "102559",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2015",
+          "course_title": "Introduction to Industrial and Organizational Psychology",
+          "credits": "3",
+          "coid": "102838",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2220",
+          "course_title": "Adult Development and Aging",
+          "credits": "3",
+          "coid": "102751",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2230",
+          "course_title": "Adolescent Development",
+          "credits": "3",
+          "coid": "102561",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2370",
+          "course_title": "Psychology of Interpersonal Relationships",
+          "credits": "3",
+          "coid": "102564",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3050",
+          "course_title": "Cognitive Neuroscience",
+          "credits": "3",
+          "coid": "102560",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3100",
+          "course_title": "Clinical Psychology",
+          "credits": "3",
+          "coid": "102843",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3200",
+          "course_title": "Developmental Psychopathology",
+          "credits": "3",
+          "coid": "102568",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 4000",
+          "course_title": "History and Systems of Psychology",
+          "credits": "3",
+          "coid": "102571",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Requirements",
+      "content": [
+        "Choose THREE additional courses from Foundation Courses or Electives for a minimum of 9 credits."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12716",
+  "scraped_at": "2026-06-10T18:59:56.056959+00:00"
+}

@@ -1,0 +1,282 @@
+{
+  "program_name": "Geographic Science and Technology, B.A.",
+  "degree_type": "B.A.",
+  "department": "Environmental, Geographic, and Public Health Sciences",
+  "faculty": "Chairperson Jiang Yu",
+  "description": [
+    "Elizabeth Gordon",
+    "Elyse Clark",
+    "Jared Vanasse",
+    "Jane Huang",
+    "Reid Parsons",
+    "The Environmental, Geographic, and Public Health Sciences department encompasses the disciplines of Earth Science, Geographic Science, and Physics. Students may choose a major in Environmental and Earth Science or Geographic Science and Technology. In both fields, successful students pursue courses of instruction and are supported in undertaking internship experiences which prepare them for entry into the job market or for acceptance to graduate school. Minors are offered in Earth Science, Geographic Science and Technology, and Geographic Information Systems. All three disciplines that make up the Earth and Geographic Sciences offer courses that satisfy various requirements of the General Education Program, as well as those of majors in other departments.",
+    "The degrees of Bachelor of Science and Bachelor of Arts in Environmental and Earth Science or Geographic Science and Technology each require a minimum of 36 semester hours of coursework. Bachelor of Arts students are required to have foreign language proficiency at the intermediate level."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Geographic Science and Technology Major",
+      "content": [
+        "(one of the two could count as a major elective if both are taken)"
+      ],
+      "courses": [
+        {
+          "course_code": "GEOG 1000",
+          "course_title": "Earth Systems Science",
+          "credits": "3",
+          "coid": "102114",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 1100",
+          "course_title": "Principles of Human Geography",
+          "credits": "3",
+          "coid": "102115",
+          "footnote": "***"
+        },
+        {
+          "course_code": "GEOG 2400",
+          "course_title": "Introduction to Geospatial Technologies",
+          "credits": "3",
+          "coid": "102121",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3120",
+          "course_title": "Computer Cartography",
+          "credits": "3",
+          "coid": "102140",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4000",
+          "course_title": "Geographic Information System",
+          "credits": "3",
+          "coid": "102132",
+          "footnote": "or"
+        },
+        {
+          "course_code": "GEOG 4003",
+          "course_title": "Geographic Information Systems II",
+          "credits": "3",
+          "coid": "102953",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4500",
+          "course_title": "Remote Sensing of the Environment",
+          "credits": "3",
+          "coid": "102137",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Each Geographic Science and Technology graduate should have a well-rounded understanding of geographic knowledge and skills. With this intent, the program requires the students to take a series of courses that include the following essential elements of geography:",
+        "The use of maps to present and interpret patterns of physical and human characteristics on the Earth’s surface;",
+        "The distinctiveness of places and regions with respect to the integration of physical and human characteristics;",
+        "Description and explanation of human characteristics and their spatial distribution on the Earth’s surface, including composition of population, cultural complexes, economic interdependence, settlement and political patterns;",
+        "Human-environment interactions, including the perception, distribution and use of natural resources.",
+        "(one of the two could count as a major elective if both are taken)"
+      ]
+    },
+    {
+      "heading": "A Minimum of 18 Elective Credits",
+      "content": [
+        "(unless used as a major requirement)",
+        "(maximum 12 credits counting toward major)"
+      ],
+      "courses": [
+        {
+          "course_code": "GEOG 2006",
+          "course_title": "Water Resources and Society",
+          "credits": "3",
+          "coid": "103075",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2204",
+          "course_title": "Climate Change and Human History",
+          "credits": "3",
+          "coid": "102755",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2600",
+          "course_title": "Environmental Science Data Visualization",
+          "credits": "3",
+          "coid": "103126",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3000",
+          "course_title": "Economic Geography",
+          "credits": "3",
+          "coid": "102125",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHS 3000",
+          "course_title": "Environmental Health",
+          "credits": "3",
+          "coid": "102979",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3004",
+          "course_title": "GIS for Criminal Justice",
+          "credits": "3",
+          "coid": "102911",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2080",
+          "course_title": "Environmental Policy",
+          "credits": "3",
+          "coid": "102937",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3100",
+          "course_title": "Political Geography",
+          "credits": "3",
+          "coid": "102126",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3110",
+          "course_title": "Climatology",
+          "credits": "3",
+          "coid": "102127",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3200",
+          "course_title": "U.S. and Canada",
+          "credits": "3",
+          "coid": "102128",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3300",
+          "course_title": "Urban Geography",
+          "credits": "3",
+          "coid": "102136",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3400",
+          "course_title": "Population Geography",
+          "credits": "3",
+          "coid": "102131",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4001",
+          "course_title": "Web GIS",
+          "credits": "3",
+          "coid": "102954",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4000",
+          "course_title": "Geographic Information System",
+          "credits": "3",
+          "coid": "102132",
+          "footnote": "or"
+        },
+        {
+          "course_code": "GEOG 4003",
+          "course_title": "Geographic Information Systems II",
+          "credits": "3",
+          "coid": "102953",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4200",
+          "course_title": "Geomorphology",
+          "credits": "3",
+          "coid": "102134",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4700",
+          "course_title": "Geographic Perspectives on Conservation",
+          "credits": "3",
+          "coid": "102139",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4880",
+          "course_title": "Teaching Practicum in Geography",
+          "credits": "1-3",
+          "coid": "103125",
+          "footnote": "1-"
+        },
+        {
+          "course_code": "GEOG 4900",
+          "course_title": "Independent Study in Geoscience",
+          "credits": "1-3",
+          "coid": "102144",
+          "footnote": "1-"
+        },
+        {
+          "course_code": "GEOG 4940",
+          "course_title": "Internship in Geography",
+          "credits": "3",
+          "coid": "102145",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4950",
+          "course_title": "Internship in Geography",
+          "credits": "6",
+          "coid": "102146",
+          "footnote": "or"
+        },
+        {
+          "course_code": "GEOG 4960",
+          "course_title": "Internship in Geography",
+          "credits": "12",
+          "coid": "102147",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "(unless used as a major requirement)",
+        "(maximum 12 credits counting toward major)"
+      ]
+    },
+    {
+      "heading": "Required Cognate Courses:",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "CSC 1500",
+          "course_title": "Computer Science I",
+          "credits": "3",
+          "coid": "101855",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": "(or above)"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "* GEOG 4000 meets the Computer Literacy requirement for Geographic Science and Technology and Environmental and Earth Science.",
+        "** GEOG 3250 , GEOG 3270 , GEOG 4200 , GEOG 4220 and GEOG 4600 meets the Speaking/Listening and Jr/Sr Writing requirement for Environmental and Earth Science.",
+        "*** GEOG 1100 meets the Speaking/Listening requirement and GEOG 3400 or GEOG 4700 meets the Jr/Sr Writing requirement for Geographic Science and Technology."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12767",
+  "scraped_at": "2026-06-10T18:58:03.062276+00:00"
+}

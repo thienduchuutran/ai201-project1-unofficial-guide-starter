@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 3011",
+  "course_title": "Data Modeling and Database Design",
+  "credits": "3",
+  "description": "Offered: Spring\nIn this course, students will learn how to create data models from business requirements and transform them into logical and physical database designs and study the evolution and advantages of various database models. It teaches students how to design relational databases by applying ERD modeling and normalization techniques. Students will work with a database engine and the SQL language to create applications using a high-level language.\nPrerequisite(s): CSC 2560",
+  "prerequisites": "CSC 2560",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102913",
+  "scraped_at": "2026-06-10T19:27:39.212415+00:00"
+}

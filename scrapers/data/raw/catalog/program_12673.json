@@ -1,0 +1,350 @@
+{
+  "program_name": "Early Childhood Education, B.S.E.",
+  "degree_type": "B.S.E.",
+  "department": "Education Faculty",
+  "faculty": "Chairperson Denise Sargent Professors Associate Professors Assistant Professors Danette Day William Cortezia Jescah Apamo-Gannon Joann Nichols Karen DeAngelis Kimberly Bennett Denise Sargent Felicia Farron-Davis Lynn D’Agostino Laurie Link Marybeth Donlan Robert Shapiro Dustin Halterman",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Education Program of Study",
+      "content": [
+        "The Early Childhood Education (PreK-2), Elementary Education (1-6), Special Education: Moderate Disabilities (PreK-8), and Special Education: Severe Disabilities (All Levels) programs lead to an initial license. Education majors place emphasis on college coursework that honors cultural, racial, linguistic, and social diversity.",
+        "All candidates in the Elementary(1-6), Early Childhood (preK-2), Special Education (Moderate: preK–8), and Special Education (Severe: All Levels) must earn a minimum of a 2.0 in all required major courses (EDUC/SPED). If a grade lower than a 2.0 is earned in a Major-required EDUC/SPED course, it must be retaken to achieve a 2.0 or greater in order to count toward Major Requirements.",
+        "Field-based experiences begin freshman year and are enhanced by strong departmental collaboration with exemplary schools and host teachers in the region. Candidates continue to hone their skills toward becoming highly qualified, classroom-ready teachers throughout their four years at Fitchburg State University. Following their freshman year, each methodology course is paired with intensive field-based experiences that include faculty-based coaching. Beginning Junior year, teacher candidates enroll in a field experience, which is a uniquely guided teaching and learning experience in a classroom under the supervision of a MA licensed teacher and university faculty. Candidates’ time in the field increases their first semester senior year when they enroll in a semester-long professional experience preceding the practicum. During this time, they participate in a minimum of a 150-hour Integrated Partial Practicum that is linked to methods courses where candidates continue to receive specific feedback in areas of reinforcement and refinement. To assure that our teacher candidates are classroom-ready, during their final semester they complete a full-time practicum consisting of inclusion placements in a classroom under the guidance of the program supervisor and under the direction of a supervising practitioner who is certified in the area of licensure sought by the candidate. Candidates enrolled in this course fulfill the hours for the Massachusetts Department of Elementary and Secondary Education practicum requirements. As with all of the field experiences, candidates plan and deliver instruction to diverse learners in small group and whole class settings where they will practice and demonstrate the Subject Matter Knowledge standards (SMKs) as well as the Professional Standards for Teachers (PSTs). They will implement content coursework knowledge and pedagogy obtained from their education methods courses, connecting theory to practice. Candidates will receive targeted, specific feedback in areas of reinforcement and refinement. In addition, candidates complete a stage review process that includes additional requirements.",
+        "All candidates in the Elementary(1-6), Early Childhood (preK-2), Special Education (Moderate: preK–8), and Special Education (Severe: All Levels) must earn a minimum of a 2.0 in all required major courses (EDUC/SPED). If a grade lower than a 2.0 is earned in a Major-required EDUC/SPED course, it must be retaken to achieve a 2.0 or greater in order to count toward Major Requirements.",
+        "(1) Curriculum, Planning, and Assessment standard: Promotes the learning and growth of all students by providing high quality and coherent instruction, designing and administering authentic and meaningful student assessments, analyzing student performance and growth data, using this data to improve instruction, providing students with constructive feedback on an on-going basis, and continuously refining learning objectives.",
+        "(2) Teaching All Students standard: Promotes the learning and growth of all students through instructional practices that establish high expectations, create a safe and effective classroom environment, and demonstrate cultural proficiency.",
+        "(3) Family and Community Engagement standard: Promotes the learning and growth of all students through effective partnerships with families, caregivers, community members, and organizations.",
+        "(4) Professional Culture standard: Promotes the learning and growth of all students through ethical, culturally proficient, skilled, and collaborative practice.",
+        "Teacher candidates from Fitchburg State University will demonstrate the knowledge and skills required for their license including the following subject-matter knowledge standards:",
+        "a. Support the integration of standards for literacy across the content areas as outlined in the 2017 ELA/Literacy Framework.",
+        "b. Apply basic principles and concepts for digital literacy and computer science in Computing and Society, Digital Tools and Collaboration, and Computing Systems as outlined in the 2016 Digital Literacy Computer Science Framework .",
+        "c. Apply the theories of cognitive, social, emotional, language, and physical development from childhood through adolescence.",
+        "d. Understand the characteristics and instructional implications of moderately and severely disabling conditions.",
+        "e. Apply special education policies and procedures.",
+        "f. Support English learners through English learner education instruction.",
+        "In addition to the standards above, each program has specific subject-matter knowledge standards that teacher candidates must meet.",
+        "Knowledge of the significant theories, approaches, practices, and programs for developing reading skills and reading comprehension:",
+        "Principles and research-based instructional practices for developing emergent reader skills (alphabetic principle, concepts of print, phonological and phonemic awareness).",
+        "Teacher candidates must demonstrate the necessary depth and breadth of content knowledge needed to support all students in mastering expectations outlined in the following Massachusetts Curriculum Frameworks :",
+        "2017 English Language Arts(ELA)/Literacy Framework : Grades Pre-K—12",
+        "2017 Mathematics Curriculum Framework : Grades Pre-K—12",
+        "2016 Science and Technology/Engineering (STE) Curriculum Framework : Grades Pre-K—12",
+        "2018 History and Social Science Framework : Grades Pre-K—12",
+        "Digital Literacy and Computer Science (DLCS) Framework Grades K - 12"
+      ],
+      "courses": [],
+      "items": [
+        "Current research-based theories and practices for developing proficient and strategic readers; familiarity with programs and approaches for teaching literacy/reading.",
+        "Principles and research-based instructional practices for developing proficient readers (phonics and word recognition, vocabulary, reading fluency, comprehension, and the reading-writing connection).",
+        "Theories, research, and instructional practices for supporting readers with diverse cultural and linguistic backgrounds, strengths, and challenges.",
+        "Knowledge of reading standards as outlined in the 2017 ELA/Literacy Curriculum Framework : reading for key ideas and details, craft and structure, integration of knowledge and ideas, and range of reading and text complexity.",
+        "Instructional practices for supporting comprehension in a variety of genres and content areas.",
+        "Knowledge of selection criteria for classroom literary and informational texts.",
+        "Phonemic awareness and phonics; principles, knowledge, and instructional practices.",
+        "Use of assessment for instruction and intervention.",
+        "Knowledge of a variety of formal and informal reading assessment tools.",
+        "Use of data from screening, diagnostic, and formative assessments to identify individual strengths and weaknesses and to differentiate instruction (prepare mini-lessons, select appropriate materials, form flexible groups).",
+        "Knowledge of Response to Intervention models/components, including tiered instruction, shared responsibility and decision-making, research-based interventions, and progress monitoring.",
+        "Diagnosis and assessment of reading skills using standardized, criterion- referenced, and informal assessment instruments."
+      ]
+    },
+    {
+      "heading": "General Education Major Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BIOL 1050",
+          "course_title": "Life Science for Educators",
+          "credits": "3",
+          "coid": "102700",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1500",
+          "course_title": "Informal Number Theory",
+          "credits": "3",
+          "coid": "102362",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1600",
+          "course_title": "Informal Mathematical Modeling",
+          "credits": "3",
+          "coid": "102363",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2000",
+          "course_title": "Informal Geometry",
+          "credits": "3",
+          "coid": "102368",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 1200",
+          "course_title": "Lifespan Development",
+          "credits": "3",
+          "coid": "102556",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2300",
+          "course_title": "Literature and Disability",
+          "credits": "3",
+          "coid": "101965",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "ENGL 2900",
+          "course_title": "Children’s Literature",
+          "credits": "3",
+          "coid": "101990",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Early Childhood Education (PreK-2)",
+      "content": [
+        "The Education Department of Fitchburg State University fully recognizes and embraces the diversity and challenges that teachers face in today’s public and private schools. The comprehensive program of study is one which deliberately integrates and celebrates these challenges by providing an inclusive model for teacher preparation. Each course provides research-based methods to assess student needs in order to differentiate instruction. Techniques and strategies that address the needs of all learners in the inclusion classroom are emphasized. Courses have been specifically designed to provide teacher candidates with content and strategies to be knowledgeable, skillful, ethical, and caring educators in the 21st century.",
+        "Early Childhood PreK-2 Early Childhood Educators are prepared to work with young children in Pre-K through grade 2 settings. They acquire a strong understanding of how young children learn developmentally and they are able to facilitate learning utilizing appropriate practices. The Massachusetts Tests for Educator Licensure required for this program are Communication and Literacy, Early Childhood Test, and Foundations of Reading.",
+        "The Speaking/Listening, Computer Literacy and Jr/Sr Writing Requirements are met through the Practicum experience.",
+        "The plan of study is as follows (See course descriptions for pre-practicum hours required):",
+        "* MAJs for DP & ER General Education requirements"
+      ],
+      "courses": [
+        {
+          "course_code": "EDUC 1005",
+          "course_title": "Developing Culturally Proficient Educators for a Democratic Society",
+          "credits": "3",
+          "coid": "102970",
+          "footnote": "*"
+        },
+        {
+          "course_code": "EDUC 1006",
+          "course_title": "Foundations of Inclusive Education",
+          "credits": "3",
+          "coid": "101914",
+          "footnote": "*"
+        },
+        {
+          "course_code": "EDUC 2630",
+          "course_title": "Literacy in the Pre-K to 8 Classroom",
+          "credits": "3",
+          "coid": "101916",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 2640",
+          "course_title": "Language Arts: Theory to Practice",
+          "credits": "3",
+          "coid": "101917",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3015",
+          "course_title": "Advanced Assessment and Instruction in Reading",
+          "credits": "3",
+          "coid": "102971",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3023",
+          "course_title": "Developmentally Appropriate Practices and Programs for Young Children",
+          "credits": "3",
+          "coid": "101915",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3055",
+          "course_title": "Investigations in Science & Social Studies in Early Childhood Education",
+          "credits": "3",
+          "coid": "101918",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3122",
+          "course_title": "Sheltered English Immersion",
+          "credits": "3",
+          "coid": "102774",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 4250",
+          "course_title": "Assessment for Instruction",
+          "credits": "3",
+          "coid": "102820",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 4550",
+          "course_title": "Practicum Seminar",
+          "credits": "3",
+          "coid": "101930",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2010",
+          "course_title": "Child Development",
+          "credits": "3",
+          "coid": "102809",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 1001",
+          "course_title": "Introduction to Special Education",
+          "credits": "3",
+          "coid": "102972",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 2002",
+          "course_title": "Speech and Language Development for Diverse Learners",
+          "credits": "3",
+          "coid": "102636",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3020",
+          "course_title": "Students with Emotional/Behavioral and Autism Spectrum Disorders",
+          "credits": "3",
+          "coid": "102633",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3400",
+          "course_title": "Teaching Math for Diverse Learners",
+          "credits": "3",
+          "coid": "102635",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3720",
+          "course_title": "Classroom Management and Behavior Support",
+          "credits": "3",
+          "coid": "102640",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* MAJs for DP & ER General Education requirements"
+      ]
+    },
+    {
+      "heading": "Required Field Experiences",
+      "content": [
+        "* MAJ for IHIP General Education requirement"
+      ],
+      "courses": [
+        {
+          "course_code": "EDUC 3016",
+          "course_title": "Field Experience I in Early Childhood Education",
+          "credits": "2",
+          "coid": "102973",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3017",
+          "course_title": "Field Experience II in Early Childhood Education",
+          "credits": "2",
+          "coid": "102976",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 4000",
+          "course_title": "Integrated Partial Practicum",
+          "credits": "4",
+          "coid": "102689",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 4862",
+          "course_title": "Practicum I in Early Childhood Education",
+          "credits": "6",
+          "coid": "101931",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 4863",
+          "course_title": "Practicum II in Early Childhood Education",
+          "credits": "6",
+          "coid": "101932",
+          "footnote": "*"
+        }
+      ],
+      "items": [
+        "* MAJ for IHIP General Education requirement"
+      ]
+    },
+    {
+      "heading": "Integrated Partial Practicum (IPP) (Senior Year)",
+      "content": [
+        "courses taken concurrently"
+      ],
+      "courses": [
+        {
+          "course_code": "EDUC 3122",
+          "course_title": "Sheltered English Immersion",
+          "credits": "3",
+          "coid": "102774",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 4250",
+          "course_title": "Assessment for Instruction",
+          "credits": "3",
+          "coid": "102820",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 4000",
+          "course_title": "Integrated Partial Practicum",
+          "credits": "4",
+          "coid": "102689",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Student Teaching (Senior Year)",
+      "content": [
+        "courses taken concurrently"
+      ],
+      "courses": [
+        {
+          "course_code": "EDUC 4550",
+          "course_title": "Practicum Seminar",
+          "credits": "3",
+          "coid": "101930",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 4862",
+          "course_title": "Practicum I in Early Childhood Education",
+          "credits": "6",
+          "coid": "101931",
+          "footnote": "(min. 150 hr.)"
+        },
+        {
+          "course_code": "EDUC 4863",
+          "course_title": "Practicum II in Early Childhood Education",
+          "credits": "6",
+          "coid": "101932",
+          "footnote": "(min. 150 hr.)"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Total Program Credits: 120",
+      "content": [],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12673",
+  "scraped_at": "2026-06-10T18:57:04.077885+00:00"
+}

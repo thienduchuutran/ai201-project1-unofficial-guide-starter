@@ -1,0 +1,22 @@
+{
+  "program_name": "Sociology Minor",
+  "degree_type": "Minor",
+  "department": "Sociology Minor Core",
+  "faculty": "",
+  "description": [
+    "Choose ONE Research Methods course (minimum 3 credits):"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Sociology Minor Electives",
+      "content": [
+        "The remaining 9 semester hours may be selected according to student needs and interests from Sociology electives.",
+        "NOTE: If the Research Methods course is taken outside of the Sociology program, an additional 3 credits of Sociology electives must be taken to complete the minor."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12701",
+  "scraped_at": "2026-06-10T18:54:53.236965+00:00"
+}

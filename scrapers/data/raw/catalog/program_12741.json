@@ -1,0 +1,429 @@
+{
+  "program_name": "Economics, International Business and Economics Concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Economics",
+  "faculty": "Chairperson Paul Weizer Associate Professors Adem Elveren Christa Marr Özge Özay",
+  "description": [
+    "The Economics Program offers Liberal Arts and Sciences courses which focus on understanding the principles of economics for private enterprise market economies, especially the United States economy, as well as the workings of the global economy. The program offers both a major and a minor to students who are interested in a career in economics or business."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "General Education Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1800",
+          "course_title": "Business Statistics",
+          "credits": "3",
+          "coid": "102365",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 1000",
+          "course_title": "Introduction to Speech Communication",
+          "credits": "3",
+          "coid": "102650",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Requirements for the Major in Economics",
+      "content": [
+        "The Bachelor of Science degree in Economics requires 36 credits.",
+        "* MAJ for PL General Education requirement"
+      ],
+      "courses": [
+        {
+          "course_code": "ECON 1100",
+          "course_title": "Principles of Economics: Macroeconomics",
+          "credits": "3",
+          "coid": "101939",
+          "footnote": "*"
+        },
+        {
+          "course_code": "ECON 1200",
+          "course_title": "Principles of Economics: Microeconomics",
+          "credits": "3",
+          "coid": "101940",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2400",
+          "course_title": "Money and Banking",
+          "credits": "3",
+          "coid": "101944",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3000",
+          "course_title": "History of Economic Thought",
+          "credits": "3",
+          "coid": "101948",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3650",
+          "course_title": "Intermediate Macroeconomics",
+          "credits": "3",
+          "coid": "101951",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3660",
+          "course_title": "Intermediate Microeconomics",
+          "credits": "3",
+          "coid": "101952",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* MAJ for PL General Education requirement"
+      ]
+    },
+    {
+      "heading": "Requirements for the Concentration in International Business and Economics",
+      "content": [
+        "The International Business and Economics Concentration provides students with an understanding of the rapidly changing global economy. It concentrates on explanations of the complexities of the business discipline in relationship to the theory of international trade and finance and the changing roles of international institutions (such as the World Trade Organization and the International Monetary Fund). The concentration provides the student with knowledge of the intricacies of doing business internationally. Students will study international marketing and the commerce, trade and investments of international business."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Additional General Education Requirement",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BSAD 1700",
+          "course_title": "Introduction to Computer Information Systems for Business",
+          "credits": "3",
+          "coid": "101698",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 1100",
+          "course_title": "World Civilizations II",
+          "credits": "3",
+          "coid": "102161",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1200",
+          "course_title": "Introduction to International Studies",
+          "credits": "3",
+          "coid": "102309",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1800",
+          "course_title": "Global Issues",
+          "credits": "3",
+          "coid": "102312",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Concentration Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BSAD 1030",
+          "course_title": "Principles of Management",
+          "credits": "3",
+          "coid": "101706",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 1040",
+          "course_title": "Fundamentals of Marketing",
+          "credits": "3",
+          "coid": "101709",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 2010",
+          "course_title": "Introduction to Financial Reporting",
+          "credits": "3",
+          "coid": "101700",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 2600",
+          "course_title": "Business Law I",
+          "credits": "3",
+          "coid": "101718",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3325",
+          "course_title": "International Marketing",
+          "credits": "3",
+          "coid": "101733",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4880",
+          "course_title": "International Business Management",
+          "credits": "3",
+          "coid": "101738",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3550",
+          "course_title": "International Economics",
+          "credits": "3",
+          "coid": "101949",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Language Requirement",
+      "content": [
+        "Choose TWO of the following English courses OR TWO courses in the same language:"
+      ],
+      "courses": [
+        {
+          "course_code": "ENGL 2003",
+          "course_title": "Latin American Literature",
+          "credits": "3",
+          "coid": "102943",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2220",
+          "course_title": "British Literature III: Empire and Resistance",
+          "credits": "3",
+          "coid": "101964",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2400",
+          "course_title": "World Literature I: Myths and Traditions",
+          "credits": "3",
+          "coid": "101970",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2500",
+          "course_title": "World Literature II: Cultures in Conversation",
+          "credits": "3",
+          "coid": "101971",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3000",
+          "course_title": "World Drama",
+          "credits": "3",
+          "coid": "101994",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3040",
+          "course_title": "British Literature Since World War II",
+          "credits": "3",
+          "coid": "101998",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3050",
+          "course_title": "20th-Century Irish Literature",
+          "credits": "3",
+          "coid": "101999",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3070",
+          "course_title": "European Literature I",
+          "credits": "3",
+          "coid": "102002",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3080",
+          "course_title": "European Literature II",
+          "credits": "3",
+          "coid": "102003",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3092",
+          "course_title": "Transatlantic Literature",
+          "credits": "3",
+          "coid": "102006",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3100",
+          "course_title": "World Novel",
+          "credits": "3",
+          "coid": "102008",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3700",
+          "course_title": "African Literature",
+          "credits": "3",
+          "coid": "102019",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3710",
+          "course_title": "South Asian Literature",
+          "credits": "3",
+          "coid": "102020",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3720",
+          "course_title": "Caribbean Literature",
+          "credits": "3",
+          "coid": "102021",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 2000",
+          "course_title": "Intermediate French I",
+          "credits": "3",
+          "coid": "102104",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 2100",
+          "course_title": "Intermediate French II",
+          "credits": "3",
+          "coid": "102105",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 2000",
+          "course_title": "Intermediate Italian I",
+          "credits": "3",
+          "coid": "102334",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 2100",
+          "course_title": "Intermediate Italian II",
+          "credits": "3",
+          "coid": "102335",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2000",
+          "course_title": "Intermediate Spanish I",
+          "credits": "3",
+          "coid": "102617",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2100",
+          "course_title": "Intermediate Spanish II",
+          "credits": "3",
+          "coid": "102618",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose THREE additional electives at the 2000 level or above:"
+      ],
+      "courses": [
+        {
+          "course_code": "BSAD 4230",
+          "course_title": "Business Fluctuations and Forecasting",
+          "credits": "3",
+          "coid": "101728",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2005",
+          "course_title": "Game Theory",
+          "credits": "3",
+          "coid": "102921",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2500",
+          "course_title": "Economic Development",
+          "credits": "3",
+          "coid": "101945",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2600",
+          "course_title": "Public Finance",
+          "credits": "3",
+          "coid": "101947",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3001",
+          "course_title": "Economics of Inequality",
+          "credits": "3",
+          "coid": "102930",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3002",
+          "course_title": "Basic Data Skills for Economics and Business",
+          "credits": "3",
+          "coid": "102931",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3700",
+          "course_title": "Econometrics",
+          "credits": "3",
+          "coid": "101953",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 4000",
+          "course_title": "Economics Senior Seminar",
+          "credits": "3",
+          "coid": "102933",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 4900",
+          "course_title": "Independent Study in Economics",
+          "credits": "3",
+          "coid": "101954",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 4940",
+          "course_title": "Internship in Economics",
+          "credits": "2",
+          "coid": "101955",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3000",
+          "course_title": "Economic Geography",
+          "credits": "3",
+          "coid": "102125",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12741",
+  "scraped_at": "2026-06-10T18:56:34.879849+00:00"
+}

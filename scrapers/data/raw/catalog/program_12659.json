@@ -1,0 +1,58 @@
+{
+  "program_name": "Art History Minor",
+  "degree_type": "Minor",
+  "department": "Art",
+  "faculty": "Chairperson David Svolba Professor Associate Professor Assistant Professor Petri Flint Sarah Bromberg Sally Moore Andrea Olmstead Jessica Robey",
+  "description": [
+    "David Svolba",
+    "The art program provides undergraduates with a variety of studio and art history courses to increase their aesthetic awareness and skills. Minors in Art, Studio Art and Art History are available to all students."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Art Minor: Art History",
+      "content": [
+        "There is total minimum of 18 credits required, including a core of two courses (6 cr.) and four elective courses (12 cr.)."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Core course requirements 6 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ART 1100",
+          "course_title": "Art Appreciation",
+          "credits": "3",
+          "coid": "101618",
+          "footnote": "and"
+        },
+        {
+          "course_code": "ART 1300",
+          "course_title": "Introduction to Studio Art: Drawing, Painting, and Sculpture",
+          "credits": "3 cr.",
+          "coid": "101619",
+          "footnote": "3 cr. Credit(s) or"
+        },
+        {
+          "course_code": "ART 1400",
+          "course_title": "Drawing",
+          "credits": "3",
+          "coid": "101620",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Art History Electives 12 cr.",
+      "content": [],
+      "courses": [],
+      "items": [
+        "Any 4 Art History courses, at least 3 of which must be at or above the 2000 level."
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12659",
+  "scraped_at": "2026-06-10T18:58:38.005211+00:00"
+}

@@ -1,0 +1,440 @@
+{
+  "program_name": "Creative Arts Therapies, B.A.",
+  "degree_type": "B.A.",
+  "department": "Program Requirements",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "PSY or HMSV elective. Take one of the following courses:"
+      ],
+      "courses": [
+        {
+          "course_code": "HMSV 2900",
+          "course_title": "Group Work",
+          "credits": "3",
+          "coid": "102223",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3410",
+          "course_title": "Building Community Supports for Persons with Disabilities",
+          "credits": "3",
+          "coid": "102226",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3500",
+          "course_title": "Abuse and Neglect within the Family",
+          "credits": "3",
+          "coid": "102227",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2001",
+          "course_title": "Memory",
+          "credits": "3",
+          "coid": "102796",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2010",
+          "course_title": "Child Development",
+          "credits": "3",
+          "coid": "102809",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2025",
+          "course_title": "Cultural Psychology",
+          "credits": "3",
+          "coid": "103044",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2030",
+          "course_title": "Biological Psychology",
+          "credits": "3",
+          "coid": "102569",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2110",
+          "course_title": "Introduction to Research Methods",
+          "credits": "3",
+          "coid": "102559",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2220",
+          "course_title": "Adult Development and Aging",
+          "credits": "3",
+          "coid": "102751",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2230",
+          "course_title": "Adolescent Development",
+          "credits": "3",
+          "coid": "102561",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2300",
+          "course_title": "Psychology of Personality",
+          "credits": "3",
+          "coid": "102562",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2500",
+          "course_title": "Social Psychology",
+          "credits": "3",
+          "coid": "102565",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3200",
+          "course_title": "Developmental Psychopathology",
+          "credits": "3",
+          "coid": "102568",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3430",
+          "course_title": "Sensation and Perception",
+          "credits": "3",
+          "coid": "102570",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3500",
+          "course_title": "Psychology of Learning",
+          "credits": "3",
+          "coid": "102572",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3550",
+          "course_title": "Cognition",
+          "credits": "3",
+          "coid": "102574",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Music Concentration (24 credits)",
+      "content": [
+        "2 semesters of Studio Piano Lessons",
+        "Choose 1 of the following (3 cr.)",
+        "Semesters of Vocal Ensemble",
+        "Choose Six Credits of Music Electives"
+      ],
+      "courses": [
+        {
+          "course_code": "MUSC 1001",
+          "course_title": "Ear Training",
+          "credits": "1",
+          "coid": "102978",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2240",
+          "course_title": "Music Theory and Analysis I",
+          "credits": "3",
+          "coid": "102418",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2700",
+          "course_title": "Class Guitar",
+          "credits": "1",
+          "coid": "102425",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2500",
+          "course_title": "Class Piano",
+          "credits": "1",
+          "coid": "102423",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2140",
+          "course_title": "Instrumental Skills",
+          "credits": "3",
+          "coid": "103117",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3000",
+          "course_title": "Fundamentals of Conducting",
+          "credits": "3 cr.",
+          "coid": "103115",
+          "footnote": "3 cr. Credit(s)"
+        },
+        {
+          "course_code": "MUSC 1351",
+          "course_title": "Applied Piano Lessons Level 1",
+          "credits": "1",
+          "coid": "103174",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1000",
+          "course_title": "Art of Music",
+          "credits": "3",
+          "coid": "102407",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1500",
+          "course_title": "World Music",
+          "credits": "3",
+          "coid": "102411",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2320",
+          "course_title": "Concert Choir",
+          "credits": "1",
+          "coid": "102949",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2330",
+          "course_title": "Chamber Choir",
+          "credits": "1",
+          "coid": "102950",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "2 semesters of Studio Piano Lessons",
+        "Choose 1 of the following (3 cr.)",
+        "Semesters of Vocal Ensemble",
+        "Choose Six Credits of Music Electives"
+      ]
+    },
+    {
+      "heading": "Visual Art Concentration (24 credits)",
+      "content": [
+        "Required (6 cr)",
+        "Choose one of the following art history courses (3 cr)",
+        "Choose one of the following painting courses (3 cr)",
+        "Choose four of the following ART electives (12 cr)",
+        "(a course selected for another cluster cannot be counted again for this cluster)"
+      ],
+      "courses": [
+        {
+          "course_code": "ART 1400",
+          "course_title": "Drawing",
+          "credits": "3",
+          "coid": "101620",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 1650",
+          "course_title": "Three-Dimensional Design",
+          "credits": "3",
+          "coid": "101622",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 1100",
+          "course_title": "Art Appreciation",
+          "credits": "3",
+          "coid": "101618",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2050",
+          "course_title": "Public Art",
+          "credits": "3",
+          "coid": "103101",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3000",
+          "course_title": "Contemporary Art",
+          "credits": "3",
+          "coid": "101638",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3150",
+          "course_title": "Modern Art",
+          "credits": "3",
+          "coid": "101642",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2102",
+          "course_title": "Introductory Painting",
+          "credits": "3",
+          "coid": "101626",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2450",
+          "course_title": "Water-Based Media",
+          "credits": "3",
+          "coid": "101633",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 1300",
+          "course_title": "Introduction to Studio Art: Drawing, Painting, and Sculpture",
+          "credits": "3 cr.",
+          "coid": "101619",
+          "footnote": "3 cr. Credit(s)"
+        },
+        {
+          "course_code": "ART 1600",
+          "course_title": "Design",
+          "credits": "3",
+          "coid": "101621",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2004",
+          "course_title": "Ceramics",
+          "credits": "3",
+          "coid": "102797",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2030",
+          "course_title": "Sculpture I",
+          "credits": "3",
+          "coid": "101624",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2150",
+          "course_title": "The Art of Puppetry",
+          "credits": "3",
+          "coid": "101628",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2200",
+          "course_title": "Life Drawing",
+          "credits": "3",
+          "coid": "101629",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2250",
+          "course_title": "Intermediate Drawing",
+          "credits": "3",
+          "coid": "101630",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3002",
+          "course_title": "Ceramics II",
+          "credits": "3",
+          "coid": "102969",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3010",
+          "course_title": "Sculpture II",
+          "credits": "3",
+          "coid": "101639",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3020",
+          "course_title": "Intermediate Painting",
+          "credits": "3",
+          "coid": "101640",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3200",
+          "course_title": "Advanced Open-Media Studio Art",
+          "credits": "3",
+          "coid": "101643",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Choose one of the following art history courses (3 cr)",
+        "Choose one of the following painting courses (3 cr)",
+        "Choose four of the following ART electives (12 cr) (a course selected for another cluster cannot be counted again for this cluster)",
+        "ART 2450 - Water Based Media 3 cr."
+      ]
+    },
+    {
+      "heading": "Drama Concentration (24 credits)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "THEA 1500",
+          "course_title": "Stage Movement",
+          "credits": "3",
+          "coid": "102671",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 1600",
+          "course_title": "Voice and Articulation",
+          "credits": "3",
+          "coid": "102654",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 3450",
+          "course_title": "Children’s Theater",
+          "credits": "3",
+          "coid": "102673",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 1400",
+          "course_title": "Acting I",
+          "credits": "3",
+          "coid": "102674",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 1480",
+          "course_title": "Applied Acting",
+          "credits": "3",
+          "coid": "102676",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 3720",
+          "course_title": "Dramaturgy",
+          "credits": "3",
+          "coid": "102823",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2520",
+          "course_title": "Advanced Stage Movement",
+          "credits": "3",
+          "coid": "102678",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2720",
+          "course_title": "Page to Stage Analysis",
+          "credits": "3",
+          "coid": "102680",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12902",
+  "scraped_at": "2026-06-10T18:58:34.426112+00:00"
+}

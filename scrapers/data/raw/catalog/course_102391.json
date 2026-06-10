@@ -1,0 +1,9 @@
+{
+  "course_code": "MATH 4500",
+  "course_title": "Numerical Analysis",
+  "credits": "3",
+  "description": "Offered: every other year\nNumerical analysis is concerned with devising algorithms for approximating the solutions to mathematically expressed problems. Topics are chosen from round off error and computer arithmetic, solutions of algebraic and transcendental equations, interpolation and polynomial approximation, numerical differentiation and integration, solutions of ordinary differential equations, solutions of linear systems, and approximation theory. Both mathematical rigor and computer solutions are stressed.\nPrerequisite(s): MATH 2400 , MATH 2600 and programming ability in a numerical program language\nMeets General Education Requirement(s): AIA, PL",
+  "prerequisites": "MATH 2400 , MATH 2600 and programming ability in a numerical program language",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102391",
+  "scraped_at": "2026-06-10T19:16:41.428239+00:00"
+}

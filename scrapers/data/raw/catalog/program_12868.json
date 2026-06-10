@@ -1,0 +1,82 @@
+{
+  "program_name": "Music History",
+  "degree_type": "",
+  "department": "Music Minors",
+  "faculty": "",
+  "description": [
+    "Chairperson: David Svolba Professors: Jane Fiske Assistant Professors: Justin Casinghino, Jonathan Harvey, Amy McGlothlin",
+    "The program in Music provides students with the opportunity to actively engage in music through instrumental or choral work. Courses are designed to fulfill the arts requirement in the General Education Program and to study the history and theory of music at different times across many cultures. Minors are also available in Music Performance, Music History, and Music Theory/Composition.",
+    "Students seeking a minor in music complete the following:",
+    "OR",
+    "OR"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Music History Instruction (12 credits):",
+      "content": [
+        "Four courses chosen from the following list:"
+      ],
+      "courses": [
+        {
+          "course_code": "MUSC 3500",
+          "course_title": "American Music",
+          "credits": "3",
+          "coid": "102431",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3600",
+          "course_title": "Bach to Beethoven",
+          "credits": "3",
+          "coid": "102432",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3650",
+          "course_title": "Romanticism to Rock",
+          "credits": "3",
+          "coid": "102433",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3750",
+          "course_title": "Music in Film",
+          "credits": "3",
+          "coid": "102435",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3800",
+          "course_title": "History of Jazz",
+          "credits": "3",
+          "coid": "102437",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3900",
+          "course_title": "Women, Music, and Society",
+          "credits": "3",
+          "coid": "102438",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 4903",
+          "course_title": "Independent Study in Music",
+          "credits": "3",
+          "coid": "102441",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 4940",
+          "course_title": "Internship in Music",
+          "credits": "3",
+          "coid": "102442",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12868",
+  "scraped_at": "2026-06-10T18:58:48.683094+00:00"
+}

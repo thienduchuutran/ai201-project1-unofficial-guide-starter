@@ -1,0 +1,944 @@
+{
+  "program_name": "English Studies, Literature Concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "English Studies Faculty",
+  "faculty": "Chairperson Kisha Tracy Professors Associate Professors Assistant Professors DeMisty Bellinger-Delfeld Katharine Covino-Poutasse Collin Syfert Steven Edwards Diego Ubiera Lisa Gim Wafa Unus Michael Hoberman Heather Urbanski Wendy Keyser Aruna Krishnamurthy Frank Mabee Irene Martyniuk Benjamin Railton Elisabet Takehana Kisha Tracy",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "English Studies Program",
+      "content": [
+        "Through a variety of specialized programs, English majors can obtain a bachelor of arts English-Literature, bachelor of arts English-Professional Writing, bachelor of arts English- Initial Licensure, and bachelor of science English-Literature, bachelor of science English-Professional Writing, bachelor of science English-Initial Licensure.",
+        "The English Studies program offers students a) knowledge of the broad field of literature in English, b) in-depth knowledge of its diverse aspects, c) the reading, writing, and research tools for exploring the field and its boundaries, and d) ample opportunity for hands-on experience in related fields.",
+        "ENGL 2999 provides an introduction to the discipline. All English majors must satisfactorily complete the course by the end of their sophomore year. Transfer students must take ENGL 2999 during their first year at the university, unless exempted by the department chair, based on evaluation of transfer course work. English majors in all concentrations must fulfill common core requirements, including the Senior Capstone. See individual tracks for specific requirements in addition to the above."
+      ],
+      "courses": [],
+      "items": [
+        "A course in speech fulfills the speaking and listening requirement, where applicable."
+      ]
+    },
+    {
+      "heading": "Core Courses for All English Studies Concentrations",
+      "content": [
+        "All English Majors are required to take 21 credits from the following courses:"
+      ],
+      "courses": [
+        {
+          "course_code": "ENGL 2999",
+          "course_title": "Approaches to English Studies",
+          "credits": "3",
+          "coid": "101993",
+          "footnote": "(MAJ Literary Inquiry and Analysis)"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Three Literature Surveys 9 cr.",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2000",
+          "course_title": "American Literature I: Legends/Massacres and Slavery/Freedom",
+          "credits": "3",
+          "coid": "101960",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2100",
+          "course_title": "American Literature II: Making and Remaking America",
+          "credits": "3",
+          "coid": "101961",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2200",
+          "course_title": "British Literature I: Adventure and Transformation",
+          "credits": "3",
+          "coid": "101962",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2210",
+          "course_title": "British Literature II: Revolution and Romance",
+          "credits": "3",
+          "coid": "101963",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2220",
+          "course_title": "British Literature III: Empire and Resistance",
+          "credits": "3",
+          "coid": "101964",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2000",
+          "course_title": "American Literature I: Legends/Massacres and Slavery/Freedom",
+          "credits": "3",
+          "coid": "101960",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4200",
+          "course_title": "The Romantic Movement in U.S. Literature 1810–1860",
+          "credits": "3",
+          "coid": "102041",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2100",
+          "course_title": "American Literature II: Making and Remaking America",
+          "credits": "3",
+          "coid": "101961",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2650",
+          "course_title": "Ethnic American Literature",
+          "credits": "3",
+          "coid": "101975",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3010",
+          "course_title": "American Drama",
+          "credits": "3",
+          "coid": "101995",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3220",
+          "course_title": "American Novel to 1950",
+          "credits": "3",
+          "coid": "102011",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2200",
+          "course_title": "British Literature I: Adventure and Transformation",
+          "credits": "3",
+          "coid": "101962",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3030",
+          "course_title": "Global Middle Ages",
+          "credits": "3",
+          "coid": "101997",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3120",
+          "course_title": "Golden Age of English Renaissance Literature",
+          "credits": "3",
+          "coid": "102009",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4010",
+          "course_title": "Chaucer and His World",
+          "credits": "3",
+          "coid": "102030",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2210",
+          "course_title": "British Literature II: Revolution and Romance",
+          "credits": "3",
+          "coid": "101963",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4040",
+          "course_title": "Major English Writers of the 17th Century",
+          "credits": "3",
+          "coid": "102033",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4050",
+          "course_title": "The Novel in the 18th Century",
+          "credits": "3",
+          "coid": "102034",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4080",
+          "course_title": "British Romanticism",
+          "credits": "3",
+          "coid": "102036",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2220",
+          "course_title": "British Literature III: Empire and Resistance",
+          "credits": "3",
+          "coid": "101964",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3020",
+          "course_title": "Modern Drama",
+          "credits": "3",
+          "coid": "101996",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3040",
+          "course_title": "British Literature Since World War II",
+          "credits": "3",
+          "coid": "101998",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4090",
+          "course_title": "The 19th-Century English Novel",
+          "credits": "3",
+          "coid": "102037",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4100",
+          "course_title": "Victorian Literature",
+          "credits": "3",
+          "coid": "102038",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4115",
+          "course_title": "British Modernism",
+          "credits": "3",
+          "coid": "102039",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2400",
+          "course_title": "World Literature I: Myths and Traditions",
+          "credits": "3",
+          "coid": "101970",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2500",
+          "course_title": "World Literature II: Cultures in Conversation",
+          "credits": "3",
+          "coid": "101971",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3000",
+          "course_title": "World Drama",
+          "credits": "3",
+          "coid": "101994",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3100",
+          "course_title": "World Novel",
+          "credits": "3",
+          "coid": "102008",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2003",
+          "course_title": "Latin American Literature",
+          "credits": "3",
+          "coid": "102943",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2400",
+          "course_title": "World Literature I: Myths and Traditions",
+          "credits": "3",
+          "coid": "101970",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2500",
+          "course_title": "World Literature II: Cultures in Conversation",
+          "credits": "3",
+          "coid": "101971",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3000",
+          "course_title": "World Drama",
+          "credits": "3",
+          "coid": "101994",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3100",
+          "course_title": "World Novel",
+          "credits": "3",
+          "coid": "102008",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "One Upper Level Literature: 4000 Level 3 cr.",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "One Upper Level Writing Intensive 3 cr. (select one)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 3015",
+          "course_title": "Writing the Science Fiction and Fantasy Novel",
+          "credits": "3",
+          "coid": "102831",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3026",
+          "course_title": "Genres, Forms, and Themes in Creative Writing",
+          "credits": "3",
+          "coid": "102783",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3027",
+          "course_title": "Experimental Writing",
+          "credits": "3",
+          "coid": "102832",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3028",
+          "course_title": "Research for Creative Writers",
+          "credits": "3",
+          "coid": "102873",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3045",
+          "course_title": "Media Conscious Storytelling",
+          "credits": "3",
+          "coid": "102780",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3055",
+          "course_title": "The Structure and Nature of Language",
+          "credits": "3",
+          "coid": "101988",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3510",
+          "course_title": "Fiction Writing",
+          "credits": "3",
+          "coid": "102015",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3520",
+          "course_title": "Poetry Writing",
+          "credits": "3",
+          "coid": "102016",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3540",
+          "course_title": "Writing Film Criticism",
+          "credits": "3",
+          "coid": "102741",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3860",
+          "course_title": "Writing for Organizations",
+          "credits": "3",
+          "coid": "102025",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3870",
+          "course_title": "Feature and Magazine Writing",
+          "credits": "3",
+          "coid": "102026",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3890",
+          "course_title": "Creative Nonfiction Writing",
+          "credits": "3",
+          "coid": "102028",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 3000",
+          "course_title": "Speech Writing",
+          "credits": "3",
+          "coid": "102657",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Capstone 3 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 4999",
+          "course_title": "English Capstone",
+          "credits": "3",
+          "coid": "102056",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Student Learning Outcomes",
+      "content": [
+        "Literature Concentration Learning Outcomes:"
+      ],
+      "courses": [],
+      "items": [
+        "Students will be able to closely read and interpret diverse texts.",
+        "Students will be able to exchange critical viewpoints about literary and cultural topics.",
+        "Students will be able to produce scholarly work that include critical readings and the use and citation of scholarly sources.",
+        "Students will demonstrate knowledge about the scope, genres, and historical and critical contexts of literature."
+      ]
+    },
+    {
+      "heading": "NOTE:",
+      "content": [
+        "This program is available for students who choose not to fulfill the requirements for foreign language proficiency at the second-year level. All other requirements are the same as for the Bachelor of Arts in English-Literature ."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "BS in English Studies Literature",
+      "content": [
+        "42 Credit Hours: 21 Core and 21 Literature Track",
+        "Students in this concentration will fulfill core requirements as well as one course from the following categories mentioned below."
+      ],
+      "courses": [],
+      "items": [
+        "This program also provides preparation for Initial Licensure for Teaching Secondary and Middle School 5-12 English."
+      ]
+    },
+    {
+      "heading": "Culture Studies (select from) 3 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2300",
+          "course_title": "Literature and Disability",
+          "credits": "3",
+          "coid": "101965",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2350",
+          "course_title": "American Political Film and Literature: Conspiracies & Controversies",
+          "credits": "3",
+          "coid": "101969",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2600",
+          "course_title": "The Bible as Literature",
+          "credits": "3",
+          "coid": "101973",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2620",
+          "course_title": "Greek and Roman Mythology",
+          "credits": "3",
+          "coid": "101974",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2650",
+          "course_title": "Ethnic American Literature",
+          "credits": "3",
+          "coid": "101975",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2660",
+          "course_title": "19th Century African American Literature",
+          "credits": "3",
+          "coid": "101976",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2670",
+          "course_title": "20th Century African American Literature",
+          "credits": "3",
+          "coid": "101977",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2710",
+          "course_title": "Introduction to Science Fiction and Fantasy",
+          "credits": "3",
+          "coid": "101979",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2765",
+          "course_title": "LGBTQ Issues & Literature",
+          "credits": "3",
+          "coid": "103046",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2890",
+          "course_title": "Storytelling and the Oral Tradition",
+          "credits": "3",
+          "coid": "101989",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3000",
+          "course_title": "World Drama",
+          "credits": "3",
+          "coid": "101994",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3061",
+          "course_title": "Jewish American Literature & Culture",
+          "credits": "3",
+          "coid": "102001",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3091",
+          "course_title": "Asian Cinemas: Eastern Visions in a Post Colonial World",
+          "credits": "3",
+          "coid": "102005",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3100",
+          "course_title": "World Novel",
+          "credits": "3",
+          "coid": "102008",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3300",
+          "course_title": "Women and Literature",
+          "credits": "3",
+          "coid": "102012",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3620",
+          "course_title": "The Classical Tradition in Western Literature",
+          "credits": "3",
+          "coid": "102018",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3880",
+          "course_title": "Folklore in America",
+          "credits": "3",
+          "coid": "102027",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4060",
+          "course_title": "Early Modern Women Writers",
+          "credits": "3",
+          "coid": "102035",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4600",
+          "course_title": "Literary Cult of the Virgin Queen",
+          "credits": "3",
+          "coid": "102045",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Genre Study (select from) 3 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2620",
+          "course_title": "Greek and Roman Mythology",
+          "credits": "3",
+          "coid": "101974",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2700",
+          "course_title": "The Short Story",
+          "credits": "3",
+          "coid": "101978",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2720",
+          "course_title": "Reading Poetry",
+          "credits": "3",
+          "coid": "101980",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2750",
+          "course_title": "Detective Fiction",
+          "credits": "3",
+          "coid": "101983",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2730",
+          "course_title": "History of the Theater I",
+          "credits": "3",
+          "coid": "101981",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2740",
+          "course_title": "History of the Theater II",
+          "credits": "3",
+          "coid": "101982",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2890",
+          "course_title": "Storytelling and the Oral Tradition",
+          "credits": "3",
+          "coid": "101989",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2900",
+          "course_title": "Children’s Literature",
+          "credits": "3",
+          "coid": "101990",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2910",
+          "course_title": "Literature for Young Adults",
+          "credits": "3",
+          "coid": "101991",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2951",
+          "course_title": "The Grammar Dilemma: Grammar Instruction in the Middle and Secondary School",
+          "credits": "3",
+          "coid": "101992",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3000",
+          "course_title": "World Drama",
+          "credits": "3",
+          "coid": "101994",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3010",
+          "course_title": "American Drama",
+          "credits": "3",
+          "coid": "101995",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3020",
+          "course_title": "Modern Drama",
+          "credits": "3",
+          "coid": "101996",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3060",
+          "course_title": "Modern Poetry",
+          "credits": "3",
+          "coid": "102000",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3090",
+          "course_title": "Questioning War in Film and Literature",
+          "credits": "3",
+          "coid": "102004",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3100",
+          "course_title": "World Novel",
+          "credits": "3",
+          "coid": "102008",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3730",
+          "course_title": "Comics and the Graphic Novel as Literature",
+          "credits": "3",
+          "coid": "102022",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4050",
+          "course_title": "The Novel in the 18th Century",
+          "credits": "3",
+          "coid": "102034",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4090",
+          "course_title": "The 19th-Century English Novel",
+          "credits": "3",
+          "coid": "102037",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4230",
+          "course_title": "American Novel Since World War II",
+          "credits": "3",
+          "coid": "102042",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4500",
+          "course_title": "Literary Theory",
+          "credits": "3",
+          "coid": "102044",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Continental/Post-Colonial Literature (select from) 3 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2003",
+          "course_title": "Latin American Literature",
+          "credits": "3",
+          "coid": "102943",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3050",
+          "course_title": "20th-Century Irish Literature",
+          "credits": "3",
+          "coid": "101999",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3070",
+          "course_title": "European Literature I",
+          "credits": "3",
+          "coid": "102002",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3080",
+          "course_title": "European Literature II",
+          "credits": "3",
+          "coid": "102003",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3092",
+          "course_title": "Transatlantic Literature",
+          "credits": "3",
+          "coid": "102006",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3700",
+          "course_title": "African Literature",
+          "credits": "3",
+          "coid": "102019",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3710",
+          "course_title": "South Asian Literature",
+          "credits": "3",
+          "coid": "102020",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3720",
+          "course_title": "Caribbean Literature",
+          "credits": "3",
+          "coid": "102021",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Literary Movement (select from) 3 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 3030",
+          "course_title": "Global Middle Ages",
+          "credits": "3",
+          "coid": "101997",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3040",
+          "course_title": "British Literature Since World War II",
+          "credits": "3",
+          "coid": "101998",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3120",
+          "course_title": "Golden Age of English Renaissance Literature",
+          "credits": "3",
+          "coid": "102009",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3210",
+          "course_title": "Major American Writers of the 20th Century",
+          "credits": "3",
+          "coid": "102010",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3620",
+          "course_title": "The Classical Tradition in Western Literature",
+          "credits": "3",
+          "coid": "102018",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4040",
+          "course_title": "Major English Writers of the 17th Century",
+          "credits": "3",
+          "coid": "102033",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4080",
+          "course_title": "British Romanticism",
+          "credits": "3",
+          "coid": "102036",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4100",
+          "course_title": "Victorian Literature",
+          "credits": "3",
+          "coid": "102038",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4115",
+          "course_title": "British Modernism",
+          "credits": "3",
+          "coid": "102039",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4200",
+          "course_title": "The Romantic Movement in U.S. Literature 1810–1860",
+          "credits": "3",
+          "coid": "102041",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Special Authors",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 4000",
+          "course_title": "Major Authors",
+          "credits": "3",
+          "coid": "102029",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Shakespeare (select from) 3 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 4020",
+          "course_title": "Shakespeare’s Drama: Text and Performance",
+          "credits": "3",
+          "coid": "102031",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4030",
+          "course_title": "Interpreting Shakespeare’s Work",
+          "credits": "3",
+          "coid": "102032",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Junior/Senior Seminar 3 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 4400",
+          "course_title": "Seminar",
+          "credits": "3",
+          "coid": "102043",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12771",
+  "scraped_at": "2026-06-10T18:57:51.069912+00:00"
+}

@@ -1,0 +1,48 @@
+{
+  "program_name": "French Minor (Inactive)",
+  "degree_type": "",
+  "department": "Required Courses",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose at least three of the following:"
+      ],
+      "courses": [
+        {
+          "course_code": "FREN 3000",
+          "course_title": "French Civilization",
+          "credits": "3",
+          "coid": "102107",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 3300",
+          "course_title": "French Literature",
+          "credits": "3",
+          "coid": "102108",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 3500",
+          "course_title": "French Conversation and Composition",
+          "credits": "3",
+          "coid": "102109",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 4903",
+          "course_title": "Independent Study in French",
+          "credits": "3",
+          "coid": "102111",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12762",
+  "scraped_at": "2026-06-10T18:58:43.253566+00:00"
+}

@@ -1,0 +1,9 @@
+{
+  "course_code": "ENGT 2000",
+  "course_title": "Fluid Mechanics and Thermodynamics",
+  "credits": "3",
+  "description": "Offered: Fall\nThis is a first course in Thermodynamics and Fluid Mechanics. Topics related to Thermodynamics include the Zeroth, First and Second Laws, the gas laws, thermodynamic systems and the Carnot cycle while those related to Fluid Mechanics will cover laminar and turbulent flow, buoyancy and the Bernoulli equation.\nPrerequisite(s): CHEM 1300 and MATH 1300\nPre/Concurrent: PHYS 2300",
+  "prerequisites": "CHEM 1300 and MATH 1300",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102991",
+  "scraped_at": "2026-06-10T19:29:35.137673+00:00"
+}

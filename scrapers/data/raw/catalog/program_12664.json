@@ -1,0 +1,156 @@
+{
+  "program_name": "Education Minor",
+  "degree_type": "Minor",
+  "department": "Required Core for the Minor",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose THREE courses from the Electives below for a minimum of 9 credits.",
+        "Please note: Most electives require permission from instructor to register. Please see the course description for more detail."
+      ],
+      "courses": [
+        {
+          "course_code": "EDUC 2009",
+          "course_title": "The Art and Science of Education",
+          "credits": "3",
+          "coid": "102962",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 2630",
+          "course_title": "Literacy in the Pre-K to 8 Classroom",
+          "credits": "3",
+          "coid": "101916",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 2640",
+          "course_title": "Language Arts: Theory to Practice",
+          "credits": "3",
+          "coid": "101917",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3015",
+          "course_title": "Advanced Assessment and Instruction in Reading",
+          "credits": "3",
+          "coid": "102971",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3023",
+          "course_title": "Developmentally Appropriate Practices and Programs for Young Children",
+          "credits": "3",
+          "coid": "101915",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3031",
+          "course_title": "Teaching Social Studies with a Literacy-Based Approach",
+          "credits": "3",
+          "coid": "101919",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3035",
+          "course_title": "Arts Integration",
+          "credits": "3",
+          "coid": "102825",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3055",
+          "course_title": "Investigations in Science & Social Studies in Early Childhood Education",
+          "credits": "3",
+          "coid": "101918",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3440",
+          "course_title": "Science in Elementary Education",
+          "credits": "3",
+          "coid": "101926",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3480",
+          "course_title": "Teaching Mathematics to Elementary Students",
+          "credits": "3",
+          "coid": "101927",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 2002",
+          "course_title": "Speech and Language Development for Diverse Learners",
+          "credits": "3",
+          "coid": "102636",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3008",
+          "course_title": "Applied Behavior Analysis Across Settings",
+          "credits": "3",
+          "coid": "102917",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3020",
+          "course_title": "Students with Emotional/Behavioral and Autism Spectrum Disorders",
+          "credits": "3",
+          "coid": "102633",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3110",
+          "course_title": "Working with Students with Physical and Health Care Needs",
+          "credits": "3",
+          "coid": "102630",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3150",
+          "course_title": "Science and Social Studies for Diverse Learners",
+          "credits": "3",
+          "coid": "102632",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3250",
+          "course_title": "Reading Assessment and Instruction for Diverse Learners",
+          "credits": "3",
+          "coid": "102964",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3400",
+          "course_title": "Teaching Math for Diverse Learners",
+          "credits": "3",
+          "coid": "102635",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3520",
+          "course_title": "Program Development for Students with Severe Disabilities",
+          "credits": "3",
+          "coid": "102638",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3720",
+          "course_title": "Classroom Management and Behavior Support",
+          "credits": "3",
+          "coid": "102640",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Please note: Most electives require permission from instructor to register. Please see the course description for more detail."
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12664",
+  "scraped_at": "2026-06-10T18:57:11.568702+00:00"
+}

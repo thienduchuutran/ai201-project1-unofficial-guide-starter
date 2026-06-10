@@ -1,0 +1,577 @@
+{
+  "program_name": "Digital Media Innovation, B.S.",
+  "degree_type": "B.S.",
+  "department": "Objectives for the Program in Digital Media Innovation",
+  "faculty": "",
+  "description": [
+    "This major is designed to creatively explore digital media in a way that can be applied to a wide variety of careers and across a large cross-section of disciplinary practices. New digital tools continue to reshape industries across the globe. The courses in this major allow students to develop a range of new digital skills that span social media, multimedia storytelling, information design, data studies, coding, and more. Developing a wide set of skills across media will allow students to emerge from the program ready to meet the needs of a flexible and changing global economy. The Digital Media Innovation (DMI) major offers students the hands-on opportunity to explore the way that digital technology and computing are changing social and cultural systems in commerce, the law, the arts, and the broader human experience.",
+    "The DMI program culminates in a capstone project that demonstrates the changing ways we construct narratives using data and make technologies and practices that reconsider the human experience in a digital age. The capstone project is geared around their scholarship and professional development, giving them an opportunity to develop professional portfolio pieces that will assist them in their careers.",
+    "The Digital Media Innovation degree is typically awarded as a Bachelor of Science (B.S.). The Bachelor of Arts (B.A.) will be awarded if the student has completed courses demonstrating advanced intermediate proficiency in a world language."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Student Learning Outcomes",
+      "content": [
+        "B.S. and B.A. in Digital Media Innovation",
+        "Students who complete this program will be able to:"
+      ],
+      "courses": [],
+      "items": [
+        "Engage in concepts related to the humanities, contingent with critical thinking abilities, including - but not limited to - historiography, digital recreations of texts, interpolating messages between disciplines, and technologically-enhanced textual analysis. Integrate and assess digitally driven research goals, methods, and media with discipline-specific inquiry. Assess information and information technologies critically;",
+        "Integrate and assess digitally driven research goals, methods, and media with discipline-specific inquiry.",
+        "Assess information and information technologies critically;",
+        "Integrate academic work with community engagement to produce tangible, engaging, audience-aware products. Produce engaging digital narratives using emerging tools (such as 3D printing, 360-degree video, augmented reality and creative multimedia coding). Create social media strategies for outreach and content generation. Collaborate respectfully with diverse others to respond to community needs and assets through the process",
+        "Produce engaging digital narratives using emerging tools (such as 3D printing, 360-degree video, augmented reality and creative multimedia coding).",
+        "Create social media strategies for outreach and content generation.",
+        "Collaborate respectfully with diverse others to respond to community needs and assets through the process",
+        "Evaluate and critique the impacts of data on society and how data can be used to address issues such as social justice and inequality. Explain the impact of data on their personal life, field of study, and future career. Create, collect, and analyze data for a variety of purposes. Design and create data visualizations.",
+        "Explain the impact of data on their personal life, field of study, and future career.",
+        "Create, collect, and analyze data for a variety of purposes.",
+        "Design and create data visualizations.",
+        "Analyze complex problems and apply learning to take responsible action in contemporary global contexts.",
+        "Adapt and apply skills, abilities, theories, or methodologies gained in one situation to new situations to solve difficult problems or explore complex issues in original ways."
+      ]
+    },
+    {
+      "heading": "Requirements for the Major in Digital Media Innovation",
+      "content": [
+        "The Bachelor of Science and the Bachelor of Arts degree in Digital Media Innovation requires 33 semester hours in its major requirements.",
+        "The program aims to offer Digital Media Innovation as a viable and appealing opportunity to students as a potential double major. To allow for double majors, particularly in English Studies, Communications Media, Game Design, History, and Geographic Science and Technology, students can count requirements that fulfill both majors for up to three courses. While a double major is not required, given the wide range of applications for digital media innovation skills, students will have credit hour space to explore specific disciplinary or profession specific manifestations of their work. That could be a second major, a minor, or otherwise strategic use of their free electives.",
+        "Furthermore, to ensure that students have wide exposure to a number of disciplines, we also stipulate that students cannot count more than five courses in the same discipline toward their coursework in the Digital Media Innovation major.",
+        "Students must complete their choice of TWO 12-credit pathways from the three options:",
+        "This pathway emphasizes new approaches to storytelling, narrative, and design afforded by emerging technologies. How can technology allow us to craft new types of stories, and how might technology allow us to understand our past stories in new ways? Students will get hands-on experience with writing, recording, and designing using these tools.",
+        "In this pathway, students develop the necessary skills to understand how data is being leveraged by companies, organizations, and governments to make decisions, generate profits, and persuade citizens. Students will have the opportunity to develop hands-on projects with data while exploring questions about how these increasingly quantitative practices shape our understanding of the world.",
+        "This pathway explores questions about how technology helps us record our present and interpret our past while considering the challenges the future poses from obsolescence to innovation. Courses could also consider material culture and media archaeology. This pathway offers hands-on opportunities to work on emerging digital projects."
+      ],
+      "courses": [],
+      "items": [
+        "Storytelling, Narrative, and Design - 12 credits",
+        "Data Studies - 12 credits",
+        "Digital Culture, Heritage, History and Preservation - 12 credits"
+      ]
+    },
+    {
+      "heading": "Theory and Practice - 7 credits",
+      "content": [
+        "Choose TWO courses from the following:"
+      ],
+      "courses": [
+        {
+          "course_code": "DMI 1200",
+          "course_title": "Issues in Digital Media Innovation",
+          "credits": "1",
+          "coid": "103137",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3205",
+          "course_title": "Critical Making",
+          "credits": "3",
+          "coid": "103066",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2400",
+          "course_title": "Introduction to Geospatial Technologies",
+          "credits": "3",
+          "coid": "102121",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2225",
+          "course_title": "Introduction to Digital Humanities",
+          "credits": "3",
+          "coid": "103077",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "ENGL 2325",
+          "course_title": "Introduction to Digital Humanities",
+          "credits": "3",
+          "coid": "103076",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 1000",
+          "course_title": "Introduction to Programming",
+          "credits": "3",
+          "coid": "101850",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "CSC 1002",
+          "course_title": "Computational Thinking",
+          "credits": "3",
+          "coid": "103031",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "CSC 1500",
+          "course_title": "Computer Science I",
+          "credits": "3",
+          "coid": "101855",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Choose TWO courses from the following:"
+      ]
+    },
+    {
+      "heading": "Storytelling, Narrative, and Design",
+      "content": [
+        "Choose FOUR courses from the following list (12 credits):"
+      ],
+      "courses": [
+        {
+          "course_code": "COMM 1900",
+          "course_title": "Introduction to Graphic Design",
+          "credits": "3",
+          "coid": "101819",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1920",
+          "course_title": "Typographic Design",
+          "credits": "3",
+          "coid": "101825",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2465",
+          "course_title": "Introduction to Video Editing",
+          "credits": "3",
+          "coid": "106510",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2480",
+          "course_title": "Podcasting",
+          "credits": "3",
+          "coid": "103135",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2910",
+          "course_title": "Web Design",
+          "credits": "3",
+          "coid": "101789",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3206",
+          "course_title": "Creative Coding",
+          "credits": "3",
+          "coid": "103067",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2030",
+          "course_title": "News Reporting and Writing",
+          "credits": "3",
+          "coid": "102942",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2710",
+          "course_title": "Introduction to Science Fiction and Fantasy",
+          "credits": "3",
+          "coid": "101979",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3015",
+          "course_title": "Writing the Science Fiction and Fantasy Novel",
+          "credits": "3",
+          "coid": "102831",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3045",
+          "course_title": "Media Conscious Storytelling",
+          "credits": "3",
+          "coid": "102780",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3730",
+          "course_title": "Comics and the Graphic Novel as Literature",
+          "credits": "3",
+          "coid": "102022",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 1100",
+          "course_title": "Elements of Game Design",
+          "credits": "3",
+          "coid": "102721",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 1200",
+          "course_title": "Introduction to Game Art",
+          "credits": "3",
+          "coid": "102722",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 2010",
+          "course_title": "Game Narrative Design",
+          "credits": "3",
+          "coid": "102727",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3000",
+          "course_title": "Game Design Workshop",
+          "credits": "3",
+          "coid": "102726",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3005",
+          "course_title": "Mobile Game Design",
+          "credits": "3",
+          "coid": "102828",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3030",
+          "course_title": "Game Level Design",
+          "credits": "3",
+          "coid": "102728",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3300",
+          "course_title": "Urban Geography",
+          "credits": "3",
+          "coid": "102136",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4001",
+          "course_title": "Web GIS",
+          "credits": "3",
+          "coid": "102954",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 4300",
+          "course_title": "Philosophy of Science",
+          "credits": "3",
+          "coid": "102496",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Data Studies",
+      "content": [
+        "Choose FOUR courses from the following list (12 credits):"
+      ],
+      "courses": [
+        {
+          "course_code": "CJ 2130",
+          "course_title": "Criminal Justice Research Methods",
+          "credits": "3",
+          "coid": "101901",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3004",
+          "course_title": "GIS for Criminal Justice",
+          "credits": "3",
+          "coid": "102912",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "GEOG 3004",
+          "course_title": "GIS for Criminal Justice",
+          "credits": "3",
+          "coid": "102911",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3140",
+          "course_title": "Criminal Justice Data Analysis",
+          "credits": "3",
+          "coid": "101903",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3804",
+          "course_title": "Communicating Project Design",
+          "credits": "3",
+          "coid": "101788",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3207",
+          "course_title": "Data & Society",
+          "credits": "3",
+          "coid": "103065",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4210",
+          "course_title": "Information Design",
+          "credits": "3",
+          "coid": "102870",
+          "footnote": ""
+        },
+        {
+          "course_code": "DATA 2000",
+          "course_title": "Principles of Data Analysis",
+          "credits": "3",
+          "coid": "103142",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3002",
+          "course_title": "Basic Data Skills for Economics and Business",
+          "credits": "3",
+          "coid": "102931",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2323",
+          "course_title": "Big Data, Artificial Intelligence, and Journalism",
+          "credits": "3",
+          "coid": "101967",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3600",
+          "course_title": "Language, Literature, and the Digital Humanities",
+          "credits": "3",
+          "coid": "103074",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3000",
+          "course_title": "Economic Geography",
+          "credits": "3",
+          "coid": "102125",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3120",
+          "course_title": "Computer Cartography",
+          "credits": "3",
+          "coid": "102140",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4000",
+          "course_title": "Geographic Information System",
+          "credits": "3",
+          "coid": "102132",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4003",
+          "course_title": "Geographic Information Systems II",
+          "credits": "3",
+          "coid": "102953",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1700",
+          "course_title": "Applied Statistics",
+          "credits": "3",
+          "coid": "102364",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "COMM 9022 Quantitative Research Methods 3 Credit(s)",
+        "COMM 9025 Data and Analytics 3 Credit(s)"
+      ]
+    },
+    {
+      "heading": "Digital Culture, Heritage, History, and Preservation",
+      "content": [
+        "Choose FOUR courses from the following list (12 credits):"
+      ],
+      "courses": [
+        {
+          "course_code": "BIOL 1750",
+          "course_title": "Decoding Your Genome",
+          "credits": "0-3",
+          "coid": "101660",
+          "footnote": "0-"
+        },
+        {
+          "course_code": "BIOL 3700",
+          "course_title": "Bioethics",
+          "credits": "3",
+          "coid": "101680",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2003",
+          "course_title": "History of Interactive Media and Games",
+          "credits": "3",
+          "coid": "102694",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2420",
+          "course_title": "History of TV",
+          "credits": "3",
+          "coid": "101784",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2805",
+          "course_title": "Introduction to Social Media",
+          "credits": "3",
+          "coid": "102886",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2825",
+          "course_title": "Social Media Advertising and Public Relations",
+          "credits": "3",
+          "coid": "102887",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3208",
+          "course_title": "Rhetoric in Greece",
+          "credits": "3",
+          "coid": "103079",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4200",
+          "course_title": "Human Communication",
+          "credits": "3",
+          "coid": "101830",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4230",
+          "course_title": "Communication Law and Ethics",
+          "credits": "3",
+          "coid": "101835",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2890",
+          "course_title": "Storytelling and the Oral Tradition",
+          "credits": "3",
+          "coid": "101989",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3600",
+          "course_title": "Language, Literature, and the Digital Humanities",
+          "credits": "3",
+          "coid": "103074",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3880",
+          "course_title": "Folklore in America",
+          "credits": "3",
+          "coid": "102027",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 2001",
+          "course_title": "Games and Arts in Japan",
+          "credits": "3",
+          "coid": "102909",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3050",
+          "course_title": "Serious Games",
+          "credits": "3",
+          "coid": "102729",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 3510",
+          "course_title": "Contemporary Issues in Games",
+          "credits": "3",
+          "coid": "102725",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 4000",
+          "course_title": "Game Studies Seminar",
+          "credits": "3",
+          "coid": "102732",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2000",
+          "course_title": "Reading Historical Landscapes",
+          "credits": "3",
+          "coid": "102849",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2010",
+          "course_title": "Constructing History",
+          "credits": "3",
+          "coid": "102850",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1400",
+          "course_title": "Introduction to Music Technology",
+          "credits": "3",
+          "coid": "102410",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "COMM 7006 New and Emerging Media 3 Credit(s)"
+      ]
+    },
+    {
+      "heading": "Capstone Requirement",
+      "content": [
+        "6-credit applied project learning experience where teams of students working together and potentially with community members will use a variety of theories, tools, and methods for a project that will be exhibited to the public at the end of the semester."
+      ],
+      "courses": [
+        {
+          "course_code": "DMI 4799",
+          "course_title": "Digital Media Innovation Capstone",
+          "credits": "3",
+          "coid": "103123",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "ENGL 4799",
+          "course_title": "Digital Media Innovation Capstone",
+          "credits": "3",
+          "coid": "103124",
+          "footnote": ""
+        },
+        {
+          "course_code": "DMI 4800",
+          "course_title": "Digital Media Innovation Capstone Fieldwork",
+          "credits": "3",
+          "coid": "103072",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "ENGL 4800",
+          "course_title": "Digital Media Innovation Capstone Fieldwork",
+          "credits": "3",
+          "coid": "103073",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12891",
+  "scraped_at": "2026-06-10T18:55:54.529613+00:00"
+}

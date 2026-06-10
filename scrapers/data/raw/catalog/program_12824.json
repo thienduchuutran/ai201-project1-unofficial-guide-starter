@@ -1,0 +1,112 @@
+{
+  "program_name": "Entrepreneurship Minor",
+  "degree_type": "Minor",
+  "department": "Program Description",
+  "faculty": "",
+  "description": [
+    "The minor in Entrepreneurship is available to non-business administration degree students from all majors and emphasizes innovation, entrepreneurial thinking and creative processes, and operating as a member of a cross-functional team. Students’ interests may range from business and technical entrepreneurship to not-for-profit venues that aim for social and environmental change. This minor is founded on the understanding that there is a common process for the realization of new ventures, and provides the student with the foundational knowledge to undertake entrepreneurial activity. This minor offers opportunities for students who aim to be entrepreneurs, start non-profit organizations, or simply want to become more innovative with creative entrepreneurial mindsets and skills that will allow them to better identify opportunities for innovation, challenge the status quo in any field, and implement sustainable change."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Expected Outcomes",
+      "content": [
+        "The following are expected learning outcomes and competencies anticipated for students who successfully complete the Minor in Entrepreneurship. In particular, students will be able to:"
+      ],
+      "courses": [],
+      "items": [
+        "Demonstrate an understanding of the entrepreneurial mindset, in which entrepreneurs creatively pursue opportunities for innovation, seek out new ideas, and solve problems.",
+        "Demonstrate an understanding of how to identify and manage resources to help them convert opportunities into sustainable solutions.",
+        "Write a business plan and marketing strategy that includes clear and convincing value propositions to garner support for their ideas."
+      ]
+    },
+    {
+      "heading": "Admission Requirements",
+      "content": [
+        "The minor is open to any student in good academic standing in the university."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Program Curriculum Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BSAD 2100",
+          "course_title": "Introduction to Entrepreneurship and Innovation",
+          "credits": "3",
+          "coid": "102789",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 1030",
+          "course_title": "Principles of Management",
+          "credits": "3",
+          "coid": "101706",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 1040",
+          "course_title": "Fundamentals of Marketing",
+          "credits": "3",
+          "coid": "101709",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4600",
+          "course_title": "Writing the Business Plan",
+          "credits": "3",
+          "coid": "102790",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 1200",
+          "course_title": "Principles of Economics: Microeconomics",
+          "credits": "3",
+          "coid": "101940",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose one course from the list below."
+      ],
+      "courses": [
+        {
+          "course_code": "BSAD 3210",
+          "course_title": "Human Resources Management",
+          "credits": "3",
+          "coid": "101707",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3310",
+          "course_title": "Consumer Behavior",
+          "credits": "3",
+          "coid": "101710",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 2600",
+          "course_title": "Business Law I",
+          "credits": "3",
+          "coid": "101718",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3800",
+          "course_title": "Digital Commerce",
+          "credits": "3",
+          "coid": "102773",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12824",
+  "scraped_at": "2026-06-10T18:55:35.395820+00:00"
+}

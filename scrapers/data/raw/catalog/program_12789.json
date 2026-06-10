@@ -1,0 +1,234 @@
+{
+  "program_name": "Literature Minor",
+  "degree_type": "Minor",
+  "department": "Requirements for the Minor in English Studies",
+  "faculty": "",
+  "description": [
+    "One of the courses taken for the minor must have a Global Diversity (GDA) or Global Diversity Non-Western (GDAN) designation."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Required",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2999",
+          "course_title": "Approaches to English Studies",
+          "credits": "3",
+          "coid": "101993",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "ENGL 4500",
+          "course_title": "Literary Theory",
+          "credits": "3",
+          "coid": "102044",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Two literature surveys from two of the three following categories 6 cr.",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "American Literature",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2000",
+          "course_title": "American Literature I: Legends/Massacres and Slavery/Freedom",
+          "credits": "3",
+          "coid": "101960",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2100",
+          "course_title": "American Literature II: Making and Remaking America",
+          "credits": "3",
+          "coid": "101961",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2650",
+          "course_title": "Ethnic American Literature",
+          "credits": "3",
+          "coid": "101975",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3010",
+          "course_title": "American Drama",
+          "credits": "3",
+          "coid": "101995",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3220",
+          "course_title": "American Novel to 1950",
+          "credits": "3",
+          "coid": "102011",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4200",
+          "course_title": "The Romantic Movement in U.S. Literature 1810–1860",
+          "credits": "3",
+          "coid": "102041",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "British Literature",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2200",
+          "course_title": "British Literature I: Adventure and Transformation",
+          "credits": "3",
+          "coid": "101962",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2210",
+          "course_title": "British Literature II: Revolution and Romance",
+          "credits": "3",
+          "coid": "101963",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2220",
+          "course_title": "British Literature III: Empire and Resistance",
+          "credits": "3",
+          "coid": "101964",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3030",
+          "course_title": "Global Middle Ages",
+          "credits": "3",
+          "coid": "101997",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3040",
+          "course_title": "British Literature Since World War II",
+          "credits": "3",
+          "coid": "101998",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3120",
+          "course_title": "Golden Age of English Renaissance Literature",
+          "credits": "3",
+          "coid": "102009",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4010",
+          "course_title": "Chaucer and His World",
+          "credits": "3",
+          "coid": "102030",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4040",
+          "course_title": "Major English Writers of the 17th Century",
+          "credits": "3",
+          "coid": "102033",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4050",
+          "course_title": "The Novel in the 18th Century",
+          "credits": "3",
+          "coid": "102034",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4080",
+          "course_title": "British Romanticism",
+          "credits": "3",
+          "coid": "102036",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4090",
+          "course_title": "The 19th-Century English Novel",
+          "credits": "3",
+          "coid": "102037",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4100",
+          "course_title": "Victorian Literature",
+          "credits": "3",
+          "coid": "102038",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4115",
+          "course_title": "British Modernism",
+          "credits": "3",
+          "coid": "102039",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "World Literature",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2400",
+          "course_title": "World Literature I: Myths and Traditions",
+          "credits": "3",
+          "coid": "101970",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2500",
+          "course_title": "World Literature II: Cultures in Conversation",
+          "credits": "3",
+          "coid": "101971",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3000",
+          "course_title": "World Drama",
+          "credits": "3",
+          "coid": "101994",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3100",
+          "course_title": "World Novel",
+          "credits": "3",
+          "coid": "102008",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "One literature elective, any level 3 cr.",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Two literature electives, 3000 or 4000 level 6 cr.",
+      "content": [],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12789",
+  "scraped_at": "2026-06-10T18:57:55.066173+00:00"
+}

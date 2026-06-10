@@ -1,0 +1,171 @@
+{
+  "program_name": "Computer Science, B.S.",
+  "degree_type": "B.S.",
+  "department": "Computer Science Faculty",
+  "faculty": "Chairperson Nadimpalli Mahadev Professors Associate Professors Assistant Professors Brady Chen Natasha Kourtonina Guy Karlebach Nadimpalli Mahadev Frits Lander Hefei Qui Ricky Sethi",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Computer Science Program",
+      "content": [
+        "The Computer Science Program offers the opportunity for students to develop a unique blend of knowledge and skills in the areas of computer software and computer hardware. The program provides sufficient theoretical background for continued learning. It also provides practical skills to prepare the students for professional careers in the rapidly changing field of computer science. Students develop good communication skills and the ability for teamwork and leadership roles in their professional careers."
+      ],
+      "courses": [],
+      "items": [
+        "Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions",
+        "Design, implement, and evaluate a computing-based solutions to meet a given set of computing requirements in the context of the program’s discipline",
+        "Communicate effectively in a variety of professional contexts",
+        "Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles",
+        "Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline",
+        "Apply computer science theory and software development fundamentals to produce computing-based solutions"
+      ]
+    },
+    {
+      "heading": "Required General Education Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2400",
+          "course_title": "Calculus II",
+          "credits": "4",
+          "coid": "102372",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2600",
+          "course_title": "Linear Algebra",
+          "credits": "3",
+          "coid": "102374",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Core Requirements for the Major in Computer Science",
+      "content": [
+        "* MAJs in ER, IHIP, and PL General Education requirements"
+      ],
+      "courses": [
+        {
+          "course_code": "CSC 1500",
+          "course_title": "Computer Science I",
+          "credits": "3",
+          "coid": "101855",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 1550",
+          "course_title": "Computer Science II",
+          "credits": "3",
+          "coid": "101856",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 1650",
+          "course_title": "Digital Electronics",
+          "credits": "4",
+          "coid": "101858",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 2560",
+          "course_title": "Systems Programming",
+          "credits": "3",
+          "coid": "101862",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 2600",
+          "course_title": "Computer Organization",
+          "credits": "",
+          "coid": "101863",
+          "footnote": "Credit(s)"
+        },
+        {
+          "course_code": "CSC 3050",
+          "course_title": "Web Programming",
+          "credits": "3",
+          "coid": "101865",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 3100",
+          "course_title": "Operating Systems",
+          "credits": "3",
+          "coid": "101866",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 3200",
+          "course_title": "Programming Languages",
+          "credits": "3",
+          "coid": "101867",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 3700",
+          "course_title": "Algorithms and Data Structures",
+          "credits": "3",
+          "coid": "101875",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 4100",
+          "course_title": "Ethics and Impacts of Computing Solutions",
+          "credits": "3",
+          "coid": "103035",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CSC 4400",
+          "course_title": "Software Engineering",
+          "credits": "3",
+          "coid": "101879",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CSC 1900",
+          "course_title": "Discrete Mathematics",
+          "credits": "3",
+          "coid": "101859",
+          "footnote": "or *"
+        },
+        {
+          "course_code": "MATH 1900",
+          "course_title": "Discrete Mathematics",
+          "credits": "3",
+          "coid": "102367",
+          "footnote": "*"
+        },
+        {
+          "course_code": "MATH 2300",
+          "course_title": "Calculus I",
+          "credits": "4",
+          "coid": "102371",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2800",
+          "course_title": "Introduction to Statistical Analysis",
+          "credits": "3",
+          "coid": "103141",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "5 CSC electives at the 3000-level or above for a total of 15 credits",
+        "* MAJs in ER, IHIP, and PL General Education requirements"
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12796",
+  "scraped_at": "2026-06-10T18:56:17.844561+00:00"
+}

@@ -1,0 +1,364 @@
+{
+  "program_name": "American Studies Minor",
+  "degree_type": "Minor",
+  "department": "Required Courses for the American Studies minor (9 credit hours total)",
+  "faculty": "",
+  "description": [
+    "Select one course in historical or literary methodology:",
+    "Select one survey course in American Literature:",
+    "Select one course in United States history:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Elective Courses (9 credit hours total)",
+      "content": [
+        "The minor also includes three elective courses from the following list:",
+        "African American Studies",
+        "American Studies",
+        "Art",
+        "English Studies",
+        "History",
+        "Music",
+        "Philosophy",
+        "Political Science"
+      ],
+      "courses": [
+        {
+          "course_code": "AAST 2142",
+          "course_title": "African-American History",
+          "credits": "3",
+          "coid": "101604",
+          "footnote": ""
+        },
+        {
+          "course_code": "AAST 2650",
+          "course_title": "Ethnic American Literature",
+          "credits": "3",
+          "coid": "101606",
+          "footnote": ""
+        },
+        {
+          "course_code": "AAST 2660",
+          "course_title": "19th Century African American Literature",
+          "credits": "3",
+          "coid": "102739",
+          "footnote": ""
+        },
+        {
+          "course_code": "AAST 2670",
+          "course_title": "20th Century African-American Literature",
+          "credits": "3",
+          "coid": "101607",
+          "footnote": ""
+        },
+        {
+          "course_code": "AAST 2203",
+          "course_title": "The Civil Rights Movement",
+          "credits": "3",
+          "coid": "101608",
+          "footnote": ""
+        },
+        {
+          "course_code": "AAST 3800",
+          "course_title": "History of Jazz",
+          "credits": "3",
+          "coid": "101609",
+          "footnote": ""
+        },
+        {
+          "course_code": "AMST 1800",
+          "course_title": "Introduction to American Studies I",
+          "credits": "3",
+          "coid": "101614",
+          "footnote": ""
+        },
+        {
+          "course_code": "AMST 1900",
+          "course_title": "Introduction to American Studies II",
+          "credits": "3",
+          "coid": "101615",
+          "footnote": ""
+        },
+        {
+          "course_code": "AMST 2203",
+          "course_title": "The Civil Rights Movement",
+          "credits": "3",
+          "coid": "101616",
+          "footnote": ""
+        },
+        {
+          "course_code": "AMST 4400",
+          "course_title": "American Studies Seminar",
+          "credits": "3",
+          "coid": "101617",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2350",
+          "course_title": "American Art I: Colonial to 1900",
+          "credits": "3",
+          "coid": "101631",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2360",
+          "course_title": "American Art II: 1900 to Present",
+          "credits": "3",
+          "coid": "101632",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2350",
+          "course_title": "American Political Film and Literature: Conspiracies & Controversies",
+          "credits": "3",
+          "coid": "101969",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2650",
+          "course_title": "Ethnic American Literature",
+          "credits": "3",
+          "coid": "101975",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2660",
+          "course_title": "19th Century African American Literature",
+          "credits": "3",
+          "coid": "101976",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2670",
+          "course_title": "20th Century African American Literature",
+          "credits": "3",
+          "coid": "101977",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3010",
+          "course_title": "American Drama",
+          "credits": "3",
+          "coid": "101995",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3061",
+          "course_title": "Jewish American Literature & Culture",
+          "credits": "3",
+          "coid": "102001",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3210",
+          "course_title": "Major American Writers of the 20th Century",
+          "credits": "3",
+          "coid": "102010",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3220",
+          "course_title": "American Novel to 1950",
+          "credits": "3",
+          "coid": "102011",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3460",
+          "course_title": "Rebels in American Film and Literature: Race, Gender, and Class Outsiders",
+          "credits": "3",
+          "coid": "102007",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3880",
+          "course_title": "Folklore in America",
+          "credits": "3",
+          "coid": "102027",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4150",
+          "course_title": "The American Comic Tradition",
+          "credits": "3",
+          "coid": "102040",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4200",
+          "course_title": "The Romantic Movement in U.S. Literature 1810–1860",
+          "credits": "3",
+          "coid": "102041",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4230",
+          "course_title": "American Novel Since World War II",
+          "credits": "3",
+          "coid": "102042",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2154",
+          "course_title": "Immigration and American Identity",
+          "credits": "3",
+          "coid": "102782",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2000",
+          "course_title": "Reading Historical Landscapes",
+          "credits": "3",
+          "coid": "102849",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2201",
+          "course_title": "U.S. Economic History",
+          "credits": "3",
+          "coid": "102172",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2142",
+          "course_title": "African-American History",
+          "credits": "3",
+          "coid": "102178",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2152",
+          "course_title": "Italian American History",
+          "credits": "3",
+          "coid": "102179",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2162",
+          "course_title": "America in the Nuclear Era: 1945-1968",
+          "credits": "3",
+          "coid": "102871",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2166",
+          "course_title": "America Since 1968",
+          "credits": "3",
+          "coid": "102874",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2203",
+          "course_title": "The Civil Rights Movement",
+          "credits": "3",
+          "coid": "102195",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2143",
+          "course_title": "American Colonial History",
+          "credits": "3",
+          "coid": "102198",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2145",
+          "course_title": "U.S. Civil War",
+          "credits": "3",
+          "coid": "102200",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2161",
+          "course_title": "America in Crisis 1920-1945",
+          "credits": "3",
+          "coid": "102202",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2207",
+          "course_title": "U.S. In World Affairs: 1898 to the Present",
+          "credits": "3",
+          "coid": "102207",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3450",
+          "course_title": "Appreciating the American Musical",
+          "credits": "3",
+          "coid": "102430",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3500",
+          "course_title": "American Music",
+          "credits": "3",
+          "coid": "102431",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3800",
+          "course_title": "History of Jazz",
+          "credits": "3",
+          "coid": "102437",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2440",
+          "course_title": "American Philosophy",
+          "credits": "3",
+          "coid": "102485",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1000",
+          "course_title": "United States Government",
+          "credits": "3",
+          "coid": "102524",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2550",
+          "course_title": "Sex, Race and the Constitution",
+          "credits": "3",
+          "coid": "102533",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2600",
+          "course_title": "The First Amendment",
+          "credits": "3",
+          "coid": "102534",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2203",
+          "course_title": "The Civil Rights Movement",
+          "credits": "3",
+          "coid": "102538",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "African American Studies",
+        "American Studies",
+        "Art",
+        "English Studies",
+        "History",
+        "Music",
+        "Philosophy",
+        "Political Science"
+      ]
+    },
+    {
+      "heading": "Additional Information",
+      "content": [
+        "Independent Study, Directed Study, or Topics courses that are pertinent to the minor can be selected in consultation with the IDIS Minors coordinator, the American Studies Minor advisor, or the English Studies department chair."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12759",
+  "scraped_at": "2026-06-10T18:59:22.591581+00:00"
+}

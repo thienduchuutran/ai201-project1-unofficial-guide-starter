@@ -1,0 +1,236 @@
+{
+  "program_name": "Sociology, B.S.",
+  "degree_type": "B.S.",
+  "department": "Sociology",
+  "faculty": "Chairperson Richard Wiebe Professor Associate Professor Assistant Professors Coordinator Patricia Arend Min Li Patricia Arend Zachary Miner",
+  "description": [
+    "The Sociology major is designed to provide students with refined approaches and methods of research and a broad understanding of the social world.",
+    "The curriculum has been developed to provide the theoretical background and research skills essential for work concerned with human behavior. Graduates of the program are prepared for immediate entry into a wide variety of occupations in business, education, industry, social service, and public service settings. In addition, many graduates continue formal study by enrolling in advanced degree programs in sociology and related fields.",
+    "The major requires 42 semester hours of course work. This total includes 12 semester hours of core Sociology courses, 12 semester hours of coursework from content clusters, 15 semester hours of Sociology electives, and 3 semester hours of Applied Statistics. Majors are encouraged to take advantage of relevant courses from the other majors in the Behavioral Sciences Department. Bachelor of Art students are required to have foreign language proficiency at the intermediate level."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Major General Education Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1700",
+          "course_title": "Applied Statistics",
+          "credits": "3",
+          "coid": "102364",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 1000",
+          "course_title": "Introduction to Speech Communication",
+          "credits": "3",
+          "coid": "102650",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "SPCH 1600",
+          "course_title": "Public Speaking",
+          "credits": "3",
+          "coid": "102653",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Core Required Courses",
+      "content": [
+        "Choose ONE course from the following:",
+        "* MAJs for CV and IHIP General Education Requirements"
+      ],
+      "courses": [
+        {
+          "course_code": "SOC 1100",
+          "course_title": "Introduction to Sociology",
+          "credits": "3",
+          "coid": "102589",
+          "footnote": "*"
+        },
+        {
+          "course_code": "SOC 3000",
+          "course_title": "Social Stratification",
+          "credits": "3",
+          "coid": "102605",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 3001",
+          "course_title": "Social Research Methods: Qualitative",
+          "credits": "3",
+          "coid": "102928",
+          "footnote": "*"
+        },
+        {
+          "course_code": "SOC 3002",
+          "course_title": "Social Research Methods: Quantitative",
+          "credits": "3",
+          "coid": "102929",
+          "footnote": "*"
+        },
+        {
+          "course_code": "SOC 3050",
+          "course_title": "Social Research Methods",
+          "credits": "3",
+          "coid": "106534",
+          "footnote": "*"
+        },
+        {
+          "course_code": "SOC 3160",
+          "course_title": "Social Theory",
+          "credits": "3",
+          "coid": "102608",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Choose ONE course from the following:",
+        "* MAJs for CV and IHIP General Education Requirements"
+      ]
+    },
+    {
+      "heading": "Electives",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Content Clusters",
+      "content": [
+        "Choose ONE course from each of the clusters:",
+        "Race",
+        "Social Class",
+        "Gender/Sexualities",
+        "Social Institutions"
+      ],
+      "courses": [
+        {
+          "course_code": "SOC 2440",
+          "course_title": "Urban Sociology",
+          "credits": "3",
+          "coid": "102592",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2500",
+          "course_title": "Race and Ethnic Relations",
+          "credits": "3",
+          "coid": "102593",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2002",
+          "course_title": "Poverty",
+          "credits": "3",
+          "coid": "102766",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2600",
+          "course_title": "Sociology of Developing Societies",
+          "credits": "3",
+          "coid": "102596",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 3100",
+          "course_title": "Gender and Society",
+          "credits": "3",
+          "coid": "102867",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 3110",
+          "course_title": "Sociology of Sexualities",
+          "credits": "3",
+          "coid": "102868",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2620",
+          "course_title": "Sociology of Religion",
+          "credits": "3",
+          "coid": "102597",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2630",
+          "course_title": "Sociology of Families",
+          "credits": "3",
+          "coid": "102598",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2720",
+          "course_title": "Medical Sociology",
+          "credits": "3",
+          "coid": "102601",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2800",
+          "course_title": "Sociology of Education",
+          "credits": "3",
+          "coid": "102604",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Race",
+        "Social Class",
+        "Gender/Sexualities",
+        "Social Institutions"
+      ]
+    },
+    {
+      "heading": "State and Federal Constitution Proficiency Requirement",
+      "content": [
+        "Choose ONE course from the following:"
+      ],
+      "courses": [
+        {
+          "course_code": "HIST 1400",
+          "course_title": "United States History I",
+          "credits": "3",
+          "coid": "102162",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 1500",
+          "course_title": "United States History II",
+          "credits": "3",
+          "coid": "102163",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1000",
+          "course_title": "United States Government",
+          "credits": "3",
+          "coid": "102524",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1500",
+          "course_title": "State and Urban Government",
+          "credits": "3",
+          "coid": "102526",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2270",
+          "course_title": "Introduction to the Legal Process",
+          "credits": "3",
+          "coid": "102529",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12709",
+  "scraped_at": "2026-06-10T18:54:45.515309+00:00"
+}

@@ -1,0 +1,197 @@
+{
+  "program_name": "Chemistry, B.S.",
+  "degree_type": "B.S.",
+  "department": "Biology and Chemistry Faculty",
+  "faculty": "Chairperson Erin Rehrig Professors Associate Professors Assistant Professors Christopher Cratsley (Biology) Dennis Awasabisah (Chemistry) Elizabeth Kilpatrick (Biology) Lisa Grimm (Biology) Emma Downs (Chemistry) Ronald Krieser (Biology) Steven Fiedler (Chemistry) Mathangi Krishnamurthy (Chemistry) Aisling O’Connor (Chemistry) John Ludlam (Biology) Billy Samulak (Chemistry) Christopher Picone (Biology) Eric Williams (Biology) Erin Rehrig (Biology) Sean Rollins (Biology) Daniel Welsh (Biology)",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Chemistry",
+      "content": [
+        "The Bachelor of Science degree programs in chemistry are available for students who intend to pursue graduate studies, secondary school teaching, or a professional career in the chemical, pharmaceutical, biotechnology or related industry. The programs provide a strong background in the modern areas of chemistry including biochemistry with emphasis on hands-on laboratory work. They also provide the opportunity for exceptionally talented students to conduct independent research under the guidance of the faculty. The degree programs will also prepare students for further education in health sciences, such as medicine, dentistry, pharmacy, veterinary medicine, optometry and other health professions provided they take other pre-requisite courses."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Student Learning Outcomes",
+      "content": [
+        "Disciplinary knowledge",
+        "Students should understand and be able to apply their understanding of all chemistry sub-disciplines and use appropriate laboratory skills and instrumentation to solve problems. These areas of knowledge include:",
+        "Lab skills",
+        "Students should be able to demonstrate and apply foundational laboratory skills. The areas of skills include:",
+        "Safety",
+        "Students should be able to demonstrate and apply their understanding of the concepts of safe lab practices, and be able to evaluate and assess safety risks associated with laboratory experiences. Students must be able to:",
+        "Communication skills",
+        "Students should be able to present information in a clear and organized manner, write well-organized and concise reports in a scientifically appropriate style, and use relevant technology in their communications."
+      ],
+      "courses": [],
+      "items": [
+        "Basic chemical concepts such as stoichiometry, states of matter, atomic structure, molecular structure and bonding, thermodynamics, equilibria, and kinetics.",
+        "Foundational knowledge and skills in analytical chemistry, biochemistry, inorganic chemistry, organic chemistry, and physical chemistry.",
+        "Foundational laboratory skills including synthesis of molecules, measurement of chemical properties, determination of structures, use of modern instrumentation and computational modeling.",
+        "Basic laboratory skills such as keeping a notebook, use of electronic balances and volumetric glassware, preparation of solutions, chemical measurements using pH electrodes and spectrophotometers.",
+        "Prepare solutions, record data correctly, and perform chemical synthesis and analysis of compounds, as well as use standard laboratory equipment and programs to solve problems.",
+        "Carry out responsible disposal techniques",
+        "Comply with safety regulations",
+        "Properly use personal protective equipment to minimize exposure to hazards",
+        "Recognize chemical and physical hazards in laboratories, assess the risks from these hazards, know how to minimize the risks, and prepare for emergencies.",
+        "Understand the categories of hazards associated with chemicals (health, physical, and environmental)",
+        "Use Safety Data Sheets (SDSs) and other standard printed and online safety reference"
+      ]
+    },
+    {
+      "heading": "Required Core Courses in Chemistry",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "CHEM 1300",
+          "course_title": "General Chemistry I",
+          "credits": "4",
+          "coid": "101762",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 1400",
+          "course_title": "General Chemistry II",
+          "credits": "4",
+          "coid": "101763",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 2000",
+          "course_title": "Organic Chemistry I",
+          "credits": "4",
+          "coid": "101764",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 2100",
+          "course_title": "Organic Chemistry II",
+          "credits": "4",
+          "coid": "101765",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 2400",
+          "course_title": "General Analytical Chemistry",
+          "credits": "4",
+          "coid": "101766",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 3200",
+          "course_title": "Physical Chemistry I",
+          "credits": "4",
+          "coid": "101767",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 3600",
+          "course_title": "Descriptive Inorganic Chemistry",
+          "credits": "3",
+          "coid": "101769",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 3030",
+          "course_title": "Biochemistry I",
+          "credits": "3",
+          "coid": "102779",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CHEM 4750",
+          "course_title": "Chemistry Seminar",
+          "credits": "3",
+          "coid": "102740",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Requirement",
+      "content": [
+        "Chemistry majors must earn a minimum grade of 2.0 in General Chemistry I and General Chemistry II. If a grade below 2.0 is earned in General Chemistry I, the course must be repeated before enrolling in General Chemistry II. Chemistry majors are limited to two attempts in General Chemistry I and two attempts in General Chemistry II including the grade of W."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required Courses in Related Disciplines",
+      "content": [
+        "*Students with strong aptitude for calculus are encouraged to take PHYS 2600-2700 sequence instead of General Physics I-II."
+      ],
+      "courses": [
+        {
+          "course_code": "PHYS 2300",
+          "course_title": "General Physics I",
+          "credits": "4",
+          "coid": "102505",
+          "footnote": "*"
+        },
+        {
+          "course_code": "PHYS 2400",
+          "course_title": "General Physics II",
+          "credits": "4",
+          "coid": "102506",
+          "footnote": "*"
+        },
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2300",
+          "course_title": "Calculus I",
+          "credits": "4",
+          "coid": "102371",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2400",
+          "course_title": "Calculus II",
+          "credits": "4",
+          "coid": "102372",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 1800",
+          "course_title": "General Biology I",
+          "credits": "4",
+          "coid": "101661",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "*Students with strong aptitude for calculus are encouraged to take PHYS 2600-2700 sequence instead of General Physics I-II."
+      ]
+    },
+    {
+      "heading": "Chemistry Electives",
+      "content": [
+        "Students must choose two electives from any 3000 or higher level course in chemistry (CHEM). The exact number of credits will depend on whether a student chooses an elective with a lab component (4 cr.) or without a lab (3 cr.)"
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Additional Information about the Program of Study",
+      "content": [],
+      "courses": [],
+      "items": [
+        "Up to 3 credits of Internship (CHEM 4940), Independent Study (CHEM 4900) or Directed Study (CHEM 4975) can be used to fulfill the elective requirement.",
+        "Total number of credit hours required in the major and related areas - 63 - 65 cr.",
+        "General Education coursework - 42 cr. (minimum)",
+        "Total number of credits for required coursework - 105 - 107 cr.",
+        "Free Electives - balance needed for a total of 120 cr. to graduate with the B.S. degree"
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12821",
+  "scraped_at": "2026-06-10T18:55:11.790693+00:00"
+}

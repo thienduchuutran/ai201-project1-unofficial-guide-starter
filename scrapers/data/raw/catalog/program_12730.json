@@ -1,0 +1,154 @@
+{
+  "program_name": "Peace Studies Minor",
+  "degree_type": "Minor",
+  "department": "Requirements for the Minor in Peace Studies",
+  "faculty": "",
+  "description": [
+    "The Peace Studies minor requires 18 semester hours and the following:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Required Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "IDIS 2100",
+          "course_title": "Dilemmas of Peace and War",
+          "credits": "3",
+          "coid": "102315",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 2100",
+          "course_title": "Dilemmas of Peace and War",
+          "credits": "3",
+          "coid": "102746",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1900",
+          "course_title": "Introduction to Peace Studies",
+          "credits": "3",
+          "coid": "102313",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 1900",
+          "course_title": "Introduction to Peace Studies",
+          "credits": "3",
+          "coid": "102829",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Requirements",
+      "content": [
+        "At least four courses from the Origins of Conflict and Visions of Peace categories with a minimum of one course in each of these categories:"
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Origins of Conflict Electives",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ARAB 2030",
+          "course_title": "Contemporary Arab World",
+          "credits": "3",
+          "coid": "102757",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2500",
+          "course_title": "Economic Development",
+          "credits": "3",
+          "coid": "101945",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1200",
+          "course_title": "Introduction to International Studies",
+          "credits": "3",
+          "coid": "102309",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1800",
+          "course_title": "Global Issues",
+          "credits": "3",
+          "coid": "102312",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2040",
+          "course_title": "Poverty and Inequality in the Developing World",
+          "credits": "3",
+          "coid": "103109",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 2040",
+          "course_title": "Poverty and Inequality in the Developing World",
+          "credits": "3",
+          "coid": "103108",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1300",
+          "course_title": "Introduction to International Relations",
+          "credits": "3",
+          "coid": "102528",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2500",
+          "course_title": "Race and Ethnic Relations",
+          "credits": "3",
+          "coid": "102593",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2600",
+          "course_title": "Sociology of Developing Societies",
+          "credits": "3",
+          "coid": "102596",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 3000",
+          "course_title": "Social Stratification",
+          "credits": "3",
+          "coid": "102605",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Vision of Peace Electives",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "PHIL 3610",
+          "course_title": "World Religions",
+          "credits": "3",
+          "coid": "102493",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2370",
+          "course_title": "Psychology of Interpersonal Relationships",
+          "credits": "3",
+          "coid": "102564",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12730",
+  "scraped_at": "2026-06-10T18:56:53.106192+00:00"
+}

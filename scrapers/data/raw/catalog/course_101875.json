@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 3700",
+  "course_title": "Algorithms and Data Structures",
+  "credits": "3",
+  "description": "Offered: Spring\nThis course provides an introduction to modern study of computer algorithms and complex data structures. It explores the logic of algorithmic analysis and design as well as practical utility and implementation techniques. The basic ideas from Complexity Theory will help students understand the concept of efficiency of algorithms and its role in the design of algorithms. The analysis of data structures is focused on the concepts of linked list, queues, stacks and trees. Various programming techniques such as divide and conquer, dynamic programming and backtracking are presented.\nPrerequisite(s): CSC 2560",
+  "prerequisites": "CSC 2560",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=101875",
+  "scraped_at": "2026-06-10T19:05:51.757942+00:00"
+}

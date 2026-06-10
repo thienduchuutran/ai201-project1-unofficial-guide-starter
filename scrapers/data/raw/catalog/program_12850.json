@@ -1,0 +1,99 @@
+{
+  "program_name": "Film Studies Minor",
+  "degree_type": "Minor",
+  "department": "Program Curriculum Requirements",
+  "faculty": "",
+  "description": [
+    "and"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "Four courses from the list below:"
+      ],
+      "courses": [
+        {
+          "course_code": "COMM 2450",
+          "course_title": "History of Documentary",
+          "credits": "3",
+          "coid": "102888",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3400",
+          "course_title": "Contemporary Cinema",
+          "credits": "3",
+          "coid": "101787",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2330",
+          "course_title": "Literature and Film",
+          "credits": "3",
+          "coid": "101968",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2350",
+          "course_title": "American Political Film and Literature: Conspiracies & Controversies",
+          "credits": "3",
+          "coid": "101969",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2540",
+          "course_title": "Global Issues in Film",
+          "credits": "3",
+          "coid": "101972",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3090",
+          "course_title": "Questioning War in Film and Literature",
+          "credits": "3",
+          "coid": "102004",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3091",
+          "course_title": "Asian Cinemas: Eastern Visions in a Post Colonial World",
+          "credits": "3",
+          "coid": "102005",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3460",
+          "course_title": "Rebels in American Film and Literature: Race, Gender, and Class Outsiders",
+          "credits": "3",
+          "coid": "102007",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4020",
+          "course_title": "Shakespeare’s Drama: Text and Performance",
+          "credits": "3",
+          "coid": "102031",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 2500",
+          "course_title": "Italy Through Film",
+          "credits": "3",
+          "coid": "102336",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3750",
+          "course_title": "Music in Film",
+          "credits": "3",
+          "coid": "102435",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12850",
+  "scraped_at": "2026-06-10T18:59:26.255776+00:00"
+}

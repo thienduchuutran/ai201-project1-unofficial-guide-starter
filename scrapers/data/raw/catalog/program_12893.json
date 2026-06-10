@@ -1,0 +1,50 @@
+{
+  "program_name": "Political Journalism Minor",
+  "degree_type": "Minor",
+  "department": "Program Requirements",
+  "faculty": "",
+  "description": [
+    "Total of 15 credits"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose one of the following 3 credits"
+      ],
+      "courses": [
+        {
+          "course_code": "POLS 2002",
+          "course_title": "Elections and Campaigns",
+          "credits": "3",
+          "coid": "102716",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2600",
+          "course_title": "The First Amendment",
+          "credits": "3",
+          "coid": "102534",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2070",
+          "course_title": "Public Policy Analysis: Case Studies in American Politics",
+          "credits": "3",
+          "coid": "102537",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2360",
+          "course_title": "Understanding Government Decision Making",
+          "credits": "3",
+          "coid": "102547",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12893",
+  "scraped_at": "2026-06-10T18:59:28.150946+00:00"
+}

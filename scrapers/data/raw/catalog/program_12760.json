@@ -1,0 +1,265 @@
+{
+  "program_name": "Engineering Technology, Manufacturing Engineering Technology Concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Engineering Technology Faculty",
+  "faculty": "Chairperson Nirajan Mani Professors Associate Professors Sanjay Kaul Soumitra Basu Wayne Whitfield Nirajan Mani Abdel Gabar Mustafa Hong Yu",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Engineering Technology Department",
+      "content": [
+        "The Engineering Technology Department offers three degree programs and six concentrations as follows:",
+        "The Engineering Technology Program focuses on the hands-on implementation of engineering principles supported by a knowledge of mathematics and science. Students apply their learned competencies to design products, processes, and systems. The program leads to a Bachelor of Science degree in Engineering Technology (120 credit hours) with concentrations of study in Architecture, Electronics Engineering Technology, Energy Management Engineering Technology, and Manufacturing Engineering Technology.",
+        "Our mission is to develop individuals who are innovative in problem solving, understand the inherent value of design, have high ethical standards, are skilled in communication, are cognizant of their responsibility for a sustainable future, and are responsive to change.",
+        "Graduates of the program will have the following:",
+        "(1) an ability to apply knowledge, techniques, skills and modern tools of mathematics, science, engineering, and technology to solve broadly-defined engineering problems appropriate to the discipline;",
+        "(2) an ability to design systems, components, or processes meeting specified needs for broadly-defined engineering problems appropriate to the discipline;",
+        "(3) an ability to apply written, oral, and graphical communication in broadly-defined technical and non-technical environments; and an ability to identify and use appropriate technical literature;",
+        "(4) an ability to conduct standard tests, measurements, and experiments and to analyze and interpret the results to improve processes; and",
+        "(5) an ability to function effectively as a member as well as a leader on technical teams."
+      ],
+      "courses": [],
+      "items": [
+        "Bachelor of Science in Applied Science & Technology (120 credit hours) with concentrations in Technology/Engineering Education 5-12 Licensure, Technology/Engineering Education Industry Training",
+        "Bachelor of Science in Construction Management (120 credit hours)",
+        "Bachelor of Science in Engineering Technology (120 credit hours) with concentrations in Architecture, Electronics Engineering Technology, Energy Management Engineering Technology, and Manufacturing Engineering Technology."
+      ]
+    },
+    {
+      "heading": "Required General Education Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "CHEM 1300",
+          "course_title": "General Chemistry I",
+          "credits": "4",
+          "coid": "101762",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 1100",
+          "course_title": "Principles of Economics: Macroeconomics",
+          "credits": "3",
+          "coid": "101939",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2300",
+          "course_title": "Calculus I",
+          "credits": "4",
+          "coid": "102371",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHYS 2300",
+          "course_title": "General Physics I",
+          "credits": "4",
+          "coid": "102505",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHYS 2400",
+          "course_title": "General Physics II",
+          "credits": "4",
+          "coid": "102506",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Requirements for the Major in Engineering Technology",
+      "content": [
+        "The Degree of Bachelor of science in Engineering Technology (120 Cr Hrs) must include the following:"
+      ],
+      "courses": [
+        {
+          "course_code": "ENGT 1000",
+          "course_title": "Electric Systems and Circuits",
+          "credits": "3",
+          "coid": "102983",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 1020",
+          "course_title": "Engineering Graphics",
+          "credits": "3",
+          "coid": "102984",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 1040",
+          "course_title": "Software Applications in Engineering Technology",
+          "credits": "3",
+          "coid": "102985",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 1050",
+          "course_title": "Technical Analysis",
+          "credits": "3",
+          "coid": "102986",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2000",
+          "course_title": "Fluid Mechanics and Thermodynamics",
+          "credits": "3",
+          "coid": "102991",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2020",
+          "course_title": "Statics and Dynamics",
+          "credits": "3",
+          "coid": "102993",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2025",
+          "course_title": "Strength of Materials",
+          "credits": "3",
+          "coid": "102994",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2030",
+          "course_title": "Material Testing and Quality Control",
+          "credits": "3",
+          "coid": "102992",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3000",
+          "course_title": "Energy and Sustainable Practices",
+          "credits": "3",
+          "coid": "103001",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3025",
+          "course_title": "Engineering Design and Fabrication Systems I",
+          "credits": "3",
+          "coid": "103002",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3026",
+          "course_title": "Engineering Design and Fabrication Systems II",
+          "credits": "3",
+          "coid": "103003",
+          "footnote": ""
+        },
+        {
+          "course_code": "CMGT 3030",
+          "course_title": "MEP & HVAC Systems",
+          "credits": "3",
+          "coid": "103016",
+          "footnote": ""
+        },
+        {
+          "course_code": "CMGT 3035",
+          "course_title": "OSHA: Safety and Risk Management",
+          "credits": "3",
+          "coid": "103019",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 4700",
+          "course_title": "Engineering Project Management",
+          "credits": "3",
+          "coid": "102301",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 4903",
+          "course_title": "Engineering Technology Capstone",
+          "credits": "3",
+          "coid": "103022",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 4930",
+          "course_title": "Engineering Technology Internship",
+          "credits": "3",
+          "coid": "103134",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Manufacturing Engineering Technology Concentration",
+      "content": [
+        "The Manufacturing Engineering Technology Concentration addresses competencies in engineering design, manufacturing processes, sustainability and ethics. Specialized learning objectives enhance knowledge and skills in Industrial Automation, Enterprise Resource Planning and Lean 6 Sigma."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Additional Courses for the Manufacturing Engineering Technology Concentration",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGT 3040",
+          "course_title": "Metrology",
+          "credits": "4",
+          "coid": "102998",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3041",
+          "course_title": "Manufacturing Processes and Systems",
+          "credits": "3",
+          "coid": "103014",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3042",
+          "course_title": "Enterprise Resource Planning Systems",
+          "credits": "4",
+          "coid": "103023",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3110",
+          "course_title": "Robotics and Mechatronics",
+          "credits": "4",
+          "coid": "103018",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 4000",
+          "course_title": "Quality Concepts and Lean Six Sigma",
+          "credits": "4",
+          "coid": "102997",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 4025",
+          "course_title": "Industrial System Automation",
+          "credits": "4",
+          "coid": "103025",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1700",
+          "course_title": "Applied Statistics",
+          "credits": "3",
+          "coid": "102364",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12760",
+  "scraped_at": "2026-06-10T18:57:32.896177+00:00"
+}

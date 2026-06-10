@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 2600",
+  "course_title": "Computer Organization",
+  "credits": "",
+  "description": "Offered: Day course offered in the Fall.\nThe purpose of this course is to provide a thorough discussion of the fundamentals of computer organization and architecture and to relate these to contemporary computer design issues. After a brief review of the basic digital components used, the steps that a designer would go through in the design of an elementary systems are covered followed by a discussion of the organization and design of the central processing unit (CPU) and various control system implementations. The input/output and memory subsystems are included as is a brief discussion of multiprocessing systems, pipelining and virtual memory.\nPrerequisite(s): CSC 1650\nNote: Students registering for this course must also register for the accompanying lab course.",
+  "prerequisites": "CSC 1650",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=101863",
+  "scraped_at": "2026-06-10T19:05:38.366214+00:00"
+}

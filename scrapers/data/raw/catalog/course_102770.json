@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 3560",
+  "course_title": "Mobile Application Development",
+  "credits": "3",
+  "description": "Offered: Spring\nThis course is aimed to provide students with the tools and knowledge necessary to create applications that can run on mobile devices. Topics may include mobile operating systems and development environments, memory management, user interfaces for mobile devices, wireless mobile networking, event handling, animation using 2-D/3-D graphics, audio and video application programming interfaces, and data storage.\nPrerequisite(s): CSC 2560",
+  "prerequisites": "CSC 2560",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102770",
+  "scraped_at": "2026-06-10T19:24:41.933267+00:00"
+}

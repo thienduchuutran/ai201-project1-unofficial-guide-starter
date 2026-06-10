@@ -1,0 +1,679 @@
+{
+  "program_name": "English Studies, Professional Writing Concentration, B.A.",
+  "degree_type": "B.A.",
+  "department": "English Studies Faculty",
+  "faculty": "Chairperson Kisha Tracy Professors Associate Professors Assistant Professors DeMisty Bellinger-Delfeld Katharine Covino-Poutasse Collin Syfert Steven Edwards Diego Ubiera Lisa Gim Wafa Unus Michael Hoberman Heather Urbanski Wendy Keyser Aruna Krishnamurthy Frank Mabee Irene Martyniuk Benjamin Railton Elisabet Takehana Kisha Tracy",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "English Studies Program",
+      "content": [
+        "Through a variety of specialized programs, English majors can obtain a bachelor of arts English-Literature, bachelor of arts English-Professional Writing, bachelor of arts English- Initial Licensure, and bachelor of science English-Literature, bachelor of science English-Professional Writing, bachelor of science English-Initial Licensure.",
+        "The English Studies program offers students a) knowledge of the broad field of literature in English, b) in-depth knowledge of its diverse aspects, c) the reading, writing, and research tools for exploring the field and its boundaries, and d) ample opportunity for hands-on experience in related fields.",
+        "ENGL 2999 provides an introduction to the discipline. All English majors must satisfactorily complete the course by the end of their sophomore year. Transfer students must take ENGL 2999 during their first year at the university, unless exempted by the department chair, based on evaluation of transfer course work. English majors in all concentrations must fulfill common core requirements, including the Senior Capstone. See individual tracks for specific requirements in addition to the above."
+      ],
+      "courses": [],
+      "items": [
+        "A course in speech fulfills the speaking and listening requirement, where applicable."
+      ]
+    },
+    {
+      "heading": "Core Courses for All English Studies Concentrations",
+      "content": [
+        "All English Majors are required to take 21 credits from the following courses:"
+      ],
+      "courses": [
+        {
+          "course_code": "ENGL 2999",
+          "course_title": "Approaches to English Studies",
+          "credits": "3",
+          "coid": "101993",
+          "footnote": "(MAJ Literary Inquiry and Analysis)"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Three Literature Surveys 9 cr.",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2000",
+          "course_title": "American Literature I: Legends/Massacres and Slavery/Freedom",
+          "credits": "3",
+          "coid": "101960",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2100",
+          "course_title": "American Literature II: Making and Remaking America",
+          "credits": "3",
+          "coid": "101961",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2200",
+          "course_title": "British Literature I: Adventure and Transformation",
+          "credits": "3",
+          "coid": "101962",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2210",
+          "course_title": "British Literature II: Revolution and Romance",
+          "credits": "3",
+          "coid": "101963",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2220",
+          "course_title": "British Literature III: Empire and Resistance",
+          "credits": "3",
+          "coid": "101964",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2000",
+          "course_title": "American Literature I: Legends/Massacres and Slavery/Freedom",
+          "credits": "3",
+          "coid": "101960",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4200",
+          "course_title": "The Romantic Movement in U.S. Literature 1810–1860",
+          "credits": "3",
+          "coid": "102041",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2100",
+          "course_title": "American Literature II: Making and Remaking America",
+          "credits": "3",
+          "coid": "101961",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2650",
+          "course_title": "Ethnic American Literature",
+          "credits": "3",
+          "coid": "101975",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3010",
+          "course_title": "American Drama",
+          "credits": "3",
+          "coid": "101995",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3220",
+          "course_title": "American Novel to 1950",
+          "credits": "3",
+          "coid": "102011",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2200",
+          "course_title": "British Literature I: Adventure and Transformation",
+          "credits": "3",
+          "coid": "101962",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3030",
+          "course_title": "Global Middle Ages",
+          "credits": "3",
+          "coid": "101997",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3120",
+          "course_title": "Golden Age of English Renaissance Literature",
+          "credits": "3",
+          "coid": "102009",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4010",
+          "course_title": "Chaucer and His World",
+          "credits": "3",
+          "coid": "102030",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2210",
+          "course_title": "British Literature II: Revolution and Romance",
+          "credits": "3",
+          "coid": "101963",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4040",
+          "course_title": "Major English Writers of the 17th Century",
+          "credits": "3",
+          "coid": "102033",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4050",
+          "course_title": "The Novel in the 18th Century",
+          "credits": "3",
+          "coid": "102034",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4080",
+          "course_title": "British Romanticism",
+          "credits": "3",
+          "coid": "102036",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2220",
+          "course_title": "British Literature III: Empire and Resistance",
+          "credits": "3",
+          "coid": "101964",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3020",
+          "course_title": "Modern Drama",
+          "credits": "3",
+          "coid": "101996",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3040",
+          "course_title": "British Literature Since World War II",
+          "credits": "3",
+          "coid": "101998",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4090",
+          "course_title": "The 19th-Century English Novel",
+          "credits": "3",
+          "coid": "102037",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4100",
+          "course_title": "Victorian Literature",
+          "credits": "3",
+          "coid": "102038",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 4115",
+          "course_title": "British Modernism",
+          "credits": "3",
+          "coid": "102039",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2400",
+          "course_title": "World Literature I: Myths and Traditions",
+          "credits": "3",
+          "coid": "101970",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2500",
+          "course_title": "World Literature II: Cultures in Conversation",
+          "credits": "3",
+          "coid": "101971",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3000",
+          "course_title": "World Drama",
+          "credits": "3",
+          "coid": "101994",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3100",
+          "course_title": "World Novel",
+          "credits": "3",
+          "coid": "102008",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2003",
+          "course_title": "Latin American Literature",
+          "credits": "3",
+          "coid": "102943",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2400",
+          "course_title": "World Literature I: Myths and Traditions",
+          "credits": "3",
+          "coid": "101970",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2500",
+          "course_title": "World Literature II: Cultures in Conversation",
+          "credits": "3",
+          "coid": "101971",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3000",
+          "course_title": "World Drama",
+          "credits": "3",
+          "coid": "101994",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 3100",
+          "course_title": "World Novel",
+          "credits": "3",
+          "coid": "102008",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "One Upper Level Literature: 4000 Level 3 cr.",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "One Upper Level Writing Intensive 3 cr. (select one)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 3015",
+          "course_title": "Writing the Science Fiction and Fantasy Novel",
+          "credits": "3",
+          "coid": "102831",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3026",
+          "course_title": "Genres, Forms, and Themes in Creative Writing",
+          "credits": "3",
+          "coid": "102783",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3027",
+          "course_title": "Experimental Writing",
+          "credits": "3",
+          "coid": "102832",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3028",
+          "course_title": "Research for Creative Writers",
+          "credits": "3",
+          "coid": "102873",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3045",
+          "course_title": "Media Conscious Storytelling",
+          "credits": "3",
+          "coid": "102780",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3055",
+          "course_title": "The Structure and Nature of Language",
+          "credits": "3",
+          "coid": "101988",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3510",
+          "course_title": "Fiction Writing",
+          "credits": "3",
+          "coid": "102015",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3520",
+          "course_title": "Poetry Writing",
+          "credits": "3",
+          "coid": "102016",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3540",
+          "course_title": "Writing Film Criticism",
+          "credits": "3",
+          "coid": "102741",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3860",
+          "course_title": "Writing for Organizations",
+          "credits": "3",
+          "coid": "102025",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3870",
+          "course_title": "Feature and Magazine Writing",
+          "credits": "3",
+          "coid": "102026",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3890",
+          "course_title": "Creative Nonfiction Writing",
+          "credits": "3",
+          "coid": "102028",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 3000",
+          "course_title": "Speech Writing",
+          "credits": "3",
+          "coid": "102657",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Capstone 3 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 4999",
+          "course_title": "English Capstone",
+          "credits": "3",
+          "coid": "102056",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Student Learning Outcomes",
+      "content": [
+        "Professional Writing Concentration Learning Outcomes:"
+      ],
+      "courses": [],
+      "items": [
+        "Students will be able to develop writing skills needed to address diverse audiences.",
+        "Students will be able to engage with the process and the products of other writers.",
+        "Students will be able to analyze rhetorical situations.",
+        "Students will be able to create and edit professional products in various genres."
+      ]
+    },
+    {
+      "heading": "BA in English Studies-Professional Writing",
+      "content": [
+        "48 Credit Hours: 21 Core and 27 Professional Writing Concentration",
+        "Students in this concentration will fulfill core requirements as well as one course from the following categories:"
+      ],
+      "courses": [
+        {
+          "course_code": "ENGL 2020",
+          "course_title": "Style Studio",
+          "credits": "3",
+          "coid": "102940",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2800",
+          "course_title": "Journalism",
+          "credits": "3",
+          "coid": "101984",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3027",
+          "course_title": "Experimental Writing",
+          "credits": "3",
+          "coid": "102832",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3028",
+          "course_title": "Research for Creative Writers",
+          "credits": "3",
+          "coid": "102873",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3045",
+          "course_title": "Media Conscious Storytelling",
+          "credits": "3",
+          "coid": "102780",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3055",
+          "course_title": "The Structure and Nature of Language",
+          "credits": "3",
+          "coid": "101988",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3860",
+          "course_title": "Writing for Organizations",
+          "credits": "3",
+          "coid": "102025",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Second-year language proficiency is required",
+        "ENGL 2025 Foundations of Professional Writing 3 cr."
+      ]
+    },
+    {
+      "heading": "Genre (select one at 2000-level and one at 3000-level, 6 cr.)",
+      "content": [
+        "*ENGL3026 may be taken twice. It may be used as either one genre elective and one professional-writing electives or as one professional-writing elective and one upper-level writing intensive."
+      ],
+      "courses": [
+        {
+          "course_code": "ENGL 2030",
+          "course_title": "News Reporting and Writing",
+          "credits": "3",
+          "coid": "102942",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2040",
+          "course_title": "Introduction to Creative Writing",
+          "credits": "3 cr.",
+          "coid": "102939",
+          "footnote": "3 cr. Credit(s)"
+        },
+        {
+          "course_code": "ENGL 2320",
+          "course_title": "Script Writing",
+          "credits": "3",
+          "coid": "101966",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3015",
+          "course_title": "Writing the Science Fiction and Fantasy Novel",
+          "credits": "3",
+          "coid": "102831",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3026",
+          "course_title": "Genres, Forms, and Themes in Creative Writing",
+          "credits": "3",
+          "coid": "102783",
+          "footnote": "*"
+        },
+        {
+          "course_code": "ENGL 3035",
+          "course_title": "Playwrighting",
+          "credits": "3",
+          "coid": "102750",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3510",
+          "course_title": "Fiction Writing",
+          "credits": "3",
+          "coid": "102015",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3520",
+          "course_title": "Poetry Writing",
+          "credits": "3",
+          "coid": "102016",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3540",
+          "course_title": "Writing Film Criticism",
+          "credits": "3",
+          "coid": "102741",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3870",
+          "course_title": "Feature and Magazine Writing",
+          "credits": "3",
+          "coid": "102026",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3890",
+          "course_title": "Creative Nonfiction Writing",
+          "credits": "3",
+          "coid": "102028",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 3000",
+          "course_title": "Speech Writing",
+          "credits": "3",
+          "coid": "102657",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "*ENGL3026 may be taken twice. It may be used as either one genre elective and one professional-writing electives or as one professional-writing elective and one upper-level writing intensive."
+      ]
+    },
+    {
+      "heading": "Production (select two, 6 cr.)",
+      "content": [
+        "*ENGL3830 may be taken three times. It may be used to satisfy both required Production courses or as one required Production course and professional-writing electives."
+      ],
+      "courses": [
+        {
+          "course_code": "ENGL 3075",
+          "course_title": "Editing and Publishing",
+          "credits": "3",
+          "coid": "101985",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3830",
+          "course_title": "College Newspaper Production",
+          "credits": "3",
+          "coid": "102023",
+          "footnote": "*"
+        },
+        {
+          "course_code": "ENGL 3840",
+          "course_title": "Freelance Writing for Magazine",
+          "credits": "3",
+          "coid": "102024",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4940",
+          "course_title": "Internship",
+          "credits": "3",
+          "coid": "102051",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4950",
+          "course_title": "Internship",
+          "credits": "6",
+          "coid": "102052",
+          "footnote": "**"
+        },
+        {
+          "course_code": "ENGL 4960",
+          "course_title": "Internship",
+          "credits": "9",
+          "coid": "102053",
+          "footnote": "**"
+        },
+        {
+          "course_code": "ENGL 4970",
+          "course_title": "Internship",
+          "credits": "12",
+          "coid": "102054",
+          "footnote": "**"
+        }
+      ],
+      "items": [
+        "*ENGL3830 may be taken three times. It may be used to satisfy both required Production courses or as one required Production course and professional-writing electives."
+      ]
+    },
+    {
+      "heading": "Professional Writing Electives (select two, 6 cr.)",
+      "content": [
+        "Electives drawn from any of the three clusters above:"
+      ],
+      "courses": [],
+      "items": [
+        "Rhetoric and Medium",
+        "Genre",
+        "Production"
+      ]
+    },
+    {
+      "heading": "Note",
+      "content": [
+        "** Internship credits above 3 will be applied first to professional-writing electives, then to free electives."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12768",
+  "scraped_at": "2026-06-10T18:57:47.480336+00:00"
+}

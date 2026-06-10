@@ -1,0 +1,89 @@
+{
+  "program_name": "Business Administration, Information Systems Management Concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Requirements for the Major in Business Administration",
+  "faculty": "",
+  "description": [
+    "Core Curriculum"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Required General Education Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "SPCH 1000",
+          "course_title": "Introduction to Speech Communication",
+          "credits": "3",
+          "coid": "102650",
+          "footnote": "** (World Languages, Speaking and Listening)"
+        },
+        {
+          "course_code": "ECON 1100",
+          "course_title": "Principles of Economics: Macroeconomics",
+          "credits": "3",
+          "coid": "101939",
+          "footnote": "(Procedural and Logical Thinking)"
+        },
+        {
+          "course_code": "MATH 1800",
+          "course_title": "Business Statistics",
+          "credits": "3",
+          "coid": "102365",
+          "footnote": "(Quantitative Reasoning)"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "The courses beyond the core curriculum are open only to Business Administration majors. These upper-level courses are not transferable from another college if they are required within a student’s concentration.",
+        "* Junior/Senior Writing Requirement ** Speaking/Listening Requirement *** Computer Literacy Requirement"
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Information Systems Management Curriculum (15 credits)",
+      "content": [
+        "The Information Systems Management concentration provides students majoring in Business Administration the opportunity to develop skills in managing software projects, cybersecurity management, using data analytics in decision-making, and the social and ethical impacts of information systems. This concentration prepares students for professional careers across industries in managing information system departments, initiatives, and bridging the gap between business and software development. Students will develop skills in critical thinking, communication, teamwork, and leadership."
+      ],
+      "courses": [
+        {
+          "course_code": "BSAD 3000",
+          "course_title": "Business System Life Cycle and Project Management",
+          "credits": "3",
+          "coid": "103130",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3040",
+          "course_title": "Cyber Security Management",
+          "credits": "3",
+          "coid": "102853",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4000",
+          "course_title": "Introduction to Business Analytics",
+          "credits": "3",
+          "coid": "103131",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 4100",
+          "course_title": "Ethics and Impacts of Computing Solutions",
+          "credits": "3",
+          "coid": "103035",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "One business course elective (not in Core)."
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12899",
+  "scraped_at": "2026-06-10T18:55:27.924376+00:00"
+}

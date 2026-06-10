@@ -1,0 +1,999 @@
+{
+  "program_name": "Interdisciplinary Studies, Humanities Concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Humanities Concentration",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Art",
+      "content": [
+        "Choose any courses in Art listed below:"
+      ],
+      "courses": [
+        {
+          "course_code": "ART 1300",
+          "course_title": "Introduction to Studio Art: Drawing, Painting, and Sculpture",
+          "credits": "3 cr.",
+          "coid": "101619",
+          "footnote": "3 cr. Credit(s)"
+        },
+        {
+          "course_code": "ART 1400",
+          "course_title": "Drawing",
+          "credits": "3",
+          "coid": "101620",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 1600",
+          "course_title": "Design",
+          "credits": "3",
+          "coid": "101621",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 1650",
+          "course_title": "Three-Dimensional Design",
+          "credits": "3",
+          "coid": "101622",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2004",
+          "course_title": "Ceramics",
+          "credits": "3",
+          "coid": "102797",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2020",
+          "course_title": "Ancient Art",
+          "credits": "3",
+          "coid": "102787",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2030",
+          "course_title": "Sculpture I",
+          "credits": "3",
+          "coid": "101624",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2100",
+          "course_title": "Asian Art",
+          "credits": "3",
+          "coid": "101625",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2102",
+          "course_title": "Introductory Painting",
+          "credits": "3",
+          "coid": "101626",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2150",
+          "course_title": "The Art of Puppetry",
+          "credits": "3",
+          "coid": "101628",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2200",
+          "course_title": "Life Drawing",
+          "credits": "3",
+          "coid": "101629",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2250",
+          "course_title": "Intermediate Drawing",
+          "credits": "3",
+          "coid": "101630",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2350",
+          "course_title": "American Art I: Colonial to 1900",
+          "credits": "3",
+          "coid": "101631",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2360",
+          "course_title": "American Art II: 1900 to Present",
+          "credits": "3",
+          "coid": "101632",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2450",
+          "course_title": "Water-Based Media",
+          "credits": "3",
+          "coid": "101633",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2570",
+          "course_title": "Northern Renaissance Art",
+          "credits": "3",
+          "coid": "101635",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2700",
+          "course_title": "Baroque Art",
+          "credits": "3",
+          "coid": "101634",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2850",
+          "course_title": "Italian Renaissance Art",
+          "credits": "3",
+          "coid": "101636",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2900",
+          "course_title": "Nineteenth Century Art",
+          "credits": "3",
+          "coid": "101637",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3000",
+          "course_title": "Contemporary Art",
+          "credits": "3",
+          "coid": "101638",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3010",
+          "course_title": "Sculpture II",
+          "credits": "3",
+          "coid": "101639",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3020",
+          "course_title": "Intermediate Painting",
+          "credits": "3",
+          "coid": "101640",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3100",
+          "course_title": "Art Criticism",
+          "credits": "3",
+          "coid": "101641",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3150",
+          "course_title": "Modern Art",
+          "credits": "3",
+          "coid": "101642",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3200",
+          "course_title": "Advanced Open-Media Studio Art",
+          "credits": "3",
+          "coid": "101643",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3300",
+          "course_title": "History of Architecture",
+          "credits": "3",
+          "coid": "101644",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3500",
+          "course_title": "History of Modern Architecture",
+          "credits": "3",
+          "coid": "101645",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3700",
+          "course_title": "Women, Art, and Society",
+          "credits": "3",
+          "coid": "101646",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 4950",
+          "course_title": "Museum Internship",
+          "credits": "3",
+          "coid": "101650",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Music",
+      "content": [
+        "Choose any courses in Music listed below:"
+      ],
+      "courses": [
+        {
+          "course_code": "MUSC 1000",
+          "course_title": "Art of Music",
+          "credits": "3",
+          "coid": "102407",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1100",
+          "course_title": "From Woodstock to the iPod: A Social History of American Popular Music",
+          "credits": "3",
+          "coid": "102408",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1400",
+          "course_title": "Introduction to Music Technology",
+          "credits": "3",
+          "coid": "102410",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1500",
+          "course_title": "World Music",
+          "credits": "3",
+          "coid": "102411",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2400",
+          "course_title": "Jazz Band",
+          "credits": "1",
+          "coid": "102422",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3100",
+          "course_title": "Symphony",
+          "credits": "3",
+          "coid": "102426",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3200",
+          "course_title": "Opera",
+          "credits": "3",
+          "coid": "102427",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3400",
+          "course_title": "Twentieth-Century Music",
+          "credits": "3",
+          "coid": "102429",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3450",
+          "course_title": "Appreciating the American Musical",
+          "credits": "3",
+          "coid": "102430",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3500",
+          "course_title": "American Music",
+          "credits": "3",
+          "coid": "102431",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3600",
+          "course_title": "Bach to Beethoven",
+          "credits": "3",
+          "coid": "102432",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3650",
+          "course_title": "Romanticism to Rock",
+          "credits": "3",
+          "coid": "102433",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3700",
+          "course_title": "19th Century Music",
+          "credits": "3",
+          "coid": "102434",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3750",
+          "course_title": "Music in Film",
+          "credits": "3",
+          "coid": "102435",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3760",
+          "course_title": "Film Scoring",
+          "credits": "3",
+          "coid": "102436",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3800",
+          "course_title": "History of Jazz",
+          "credits": "3",
+          "coid": "102437",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3900",
+          "course_title": "Women, Music, and Society",
+          "credits": "3",
+          "coid": "102438",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "World Language",
+      "content": [
+        "Choose any courses in World Language listed below:"
+      ],
+      "courses": [
+        {
+          "course_code": "ARAB 1026",
+          "course_title": "Arabic for Beginners I",
+          "credits": "3",
+          "coid": "102697",
+          "footnote": ""
+        },
+        {
+          "course_code": "ARAB 1100",
+          "course_title": "Arabic for Beginners II",
+          "credits": "3",
+          "coid": "102699",
+          "footnote": ""
+        },
+        {
+          "course_code": "ARAB 2030",
+          "course_title": "Contemporary Arab World",
+          "credits": "3",
+          "coid": "102757",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 1000",
+          "course_title": "French for Beginners I",
+          "credits": "3",
+          "coid": "102102",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 1100",
+          "course_title": "French for Beginners II",
+          "credits": "3",
+          "coid": "102103",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 2000",
+          "course_title": "Intermediate French I",
+          "credits": "3",
+          "coid": "102104",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 2100",
+          "course_title": "Intermediate French II",
+          "credits": "3",
+          "coid": "102105",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 3500",
+          "course_title": "French Conversation and Composition",
+          "credits": "3",
+          "coid": "102109",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 1000",
+          "course_title": "Italian for Beginners I",
+          "credits": "3",
+          "coid": "102332",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 1100",
+          "course_title": "Italian for Beginners II",
+          "credits": "3",
+          "coid": "102333",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 2000",
+          "course_title": "Intermediate Italian I",
+          "credits": "3",
+          "coid": "102334",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 2100",
+          "course_title": "Intermediate Italian II",
+          "credits": "3",
+          "coid": "102335",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 2500",
+          "course_title": "Italy Through Film",
+          "credits": "3",
+          "coid": "102336",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3000",
+          "course_title": "Italian Culture (in English) I—From Antiquity to 1800",
+          "credits": "3",
+          "coid": "102337",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3100",
+          "course_title": "Italian Culture (in English) II—From 1800 to the Present",
+          "credits": "3",
+          "coid": "102338",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3300",
+          "course_title": "Women in Italy",
+          "credits": "3",
+          "coid": "102339",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3500",
+          "course_title": "Italian Conversation and Composition",
+          "credits": "3",
+          "coid": "102340",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 1000",
+          "course_title": "Spanish for Beginners I",
+          "credits": "3",
+          "coid": "102615",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 1100",
+          "course_title": "Spanish for Beginners II",
+          "credits": "3",
+          "coid": "102616",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2000",
+          "course_title": "Intermediate Spanish I",
+          "credits": "3",
+          "coid": "102617",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2001",
+          "course_title": "Spanish for Heritage Students",
+          "credits": "3",
+          "coid": "102701",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2100",
+          "course_title": "Intermediate Spanish II",
+          "credits": "3",
+          "coid": "102618",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2600",
+          "course_title": "Hispanic Culture",
+          "credits": "3",
+          "coid": "102619",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2700",
+          "course_title": "Hispanic Literature",
+          "credits": "3",
+          "coid": "102620",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 3000",
+          "course_title": "Cinema for Spanish Conversation",
+          "credits": "3",
+          "coid": "102702",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 3500",
+          "course_title": "Spanish Conversation and Composition",
+          "credits": "3",
+          "coid": "102621",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Philosophy",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required courses (6 cr.):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "PHIL 2500",
+          "course_title": "Contemporary Ethical Problems",
+          "credits": "3",
+          "coid": "102486",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2600",
+          "course_title": "Philosophy of Human Nature",
+          "credits": "3",
+          "coid": "102488",
+          "footnote": "*"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose additional courses in Philosophy from those listed below:",
+      "content": [
+        "* These courses, when taken in the Philosophy cluster, cannot be used as core electives as well."
+      ],
+      "courses": [
+        {
+          "course_code": "PHIL 1000",
+          "course_title": "Introduction to Western Philosophy",
+          "credits": "3",
+          "coid": "102481",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 1100",
+          "course_title": "Logic",
+          "credits": "3",
+          "coid": "102482",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2000",
+          "course_title": "Philosophy of Education",
+          "credits": "3",
+          "coid": "102483",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2001",
+          "course_title": "Medical Ethics",
+          "credits": "3",
+          "coid": "102744",
+          "footnote": "*"
+        },
+        {
+          "course_code": "PHIL 2200",
+          "course_title": "Theories of Knowledge",
+          "credits": "3",
+          "coid": "102484",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2550",
+          "course_title": "Introduction to Ethics",
+          "credits": "3",
+          "coid": "102487",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 3600",
+          "course_title": "Philosophy of Religion",
+          "credits": "3",
+          "coid": "102492",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 3610",
+          "course_title": "World Religions",
+          "credits": "3",
+          "coid": "102493",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2800",
+          "course_title": "Philosophy of Art",
+          "credits": "3",
+          "coid": "102494",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 4200",
+          "course_title": "Political and Social Philosophy",
+          "credits": "3",
+          "coid": "102495",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 4300",
+          "course_title": "Philosophy of Science",
+          "credits": "3",
+          "coid": "102496",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 4500",
+          "course_title": "Philosophy of Love",
+          "credits": "3",
+          "coid": "102499",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 4700",
+          "course_title": "Ethical Issues in Business",
+          "credits": "3",
+          "coid": "102500",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* These courses, when taken in the Philosophy cluster, cannot be used as core electives as well."
+      ]
+    },
+    {
+      "heading": "IDIS Major Core Course Requirements (15 credits):",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required IDIS Seminars (6 cr.):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "IDIS 3004",
+          "course_title": "Interdisciplinary Studies Research Seminar",
+          "credits": "3",
+          "coid": "102910",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 4004",
+          "course_title": "Capstone Seminar",
+          "credits": "3",
+          "coid": "102784",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Required Interdisciplinary course (3 cr.):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "IDIS 1600",
+          "course_title": "Critical and Creative Thinking",
+          "credits": "3",
+          "coid": "102311",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Required Commonwealth of the Arts course - choose one of the following (3 cr.):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MUSC 2000",
+          "course_title": "Commonwealth of the Arts",
+          "credits": "3",
+          "coid": "102412",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2100",
+          "course_title": "Commonwealth of Ancient Arts",
+          "credits": "3",
+          "coid": "102413",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2120",
+          "course_title": "Commonwealth of Asian Arts",
+          "credits": "3",
+          "coid": "102414",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2130",
+          "course_title": "Commonwealth of the Modern Arts",
+          "credits": "3",
+          "coid": "102415",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2210",
+          "course_title": "Commonwealth of the Renaissance Arts",
+          "credits": "3",
+          "coid": "102417",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Required - choose any one of the following Interdisciplinary/multidisciplinary courses (3 cr.):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "AMST 1800",
+          "course_title": "Introduction to American Studies I",
+          "credits": "3",
+          "coid": "101614",
+          "footnote": ""
+        },
+        {
+          "course_code": "ARAB 2030",
+          "course_title": "Contemporary Arab World",
+          "credits": "3",
+          "coid": "102757",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2150",
+          "course_title": "The Art of Puppetry",
+          "credits": "3",
+          "coid": "101628",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 1100",
+          "course_title": "Principles of Human Geography",
+          "credits": "3",
+          "coid": "102115",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2204",
+          "course_title": "Climate Change and Human History",
+          "credits": "3",
+          "coid": "102755",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2204",
+          "course_title": "Climate Change and Human History",
+          "credits": "3",
+          "coid": "102754",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1000",
+          "course_title": "Introduction to Women, Gender, and Sexuality Studies",
+          "credits": "3",
+          "coid": "102308",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1002",
+          "course_title": "Introduction to Disability Studies",
+          "credits": "3",
+          "coid": "102686",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1200",
+          "course_title": "Introduction to International Studies",
+          "credits": "3",
+          "coid": "102309",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1800",
+          "course_title": "Global Issues",
+          "credits": "3",
+          "coid": "102312",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1900",
+          "course_title": "Introduction to Peace Studies",
+          "credits": "3",
+          "coid": "102313",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2030",
+          "course_title": "Contemporary Arab World",
+          "credits": "3",
+          "coid": "102891",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2100",
+          "course_title": "Dilemmas of Peace and War",
+          "credits": "3",
+          "coid": "102315",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2501",
+          "course_title": "Italy Through Film",
+          "credits": "3",
+          "coid": "102892",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2540",
+          "course_title": "Global Issues in Film",
+          "credits": "3",
+          "coid": "102319",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 3001",
+          "course_title": "Italian Culture (in English) I - From Antiquity to 1800",
+          "credits": "3",
+          "coid": "102893",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 3100",
+          "course_title": "Italian Culture (in English) II - From 1800 to the Present",
+          "credits": "3",
+          "coid": "102894",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 3300",
+          "course_title": "Women in Italy",
+          "credits": "3",
+          "coid": "102895",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 2500",
+          "course_title": "Italy Through Film",
+          "credits": "3",
+          "coid": "102336",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3000",
+          "course_title": "Italian Culture (in English) I—From Antiquity to 1800",
+          "credits": "3",
+          "coid": "102337",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3100",
+          "course_title": "Italian Culture (in English) II—From 1800 to the Present",
+          "credits": "3",
+          "coid": "102338",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3300",
+          "course_title": "Women in Italy",
+          "credits": "3",
+          "coid": "102339",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2000",
+          "course_title": "Commonwealth of the Arts",
+          "credits": "3",
+          "coid": "102412",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2100",
+          "course_title": "Commonwealth of Ancient Arts",
+          "credits": "3",
+          "coid": "102413",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2120",
+          "course_title": "Commonwealth of Asian Arts",
+          "credits": "3",
+          "coid": "102414",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2130",
+          "course_title": "Commonwealth of the Modern Arts",
+          "credits": "3",
+          "coid": "102415",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2210",
+          "course_title": "Commonwealth of the Renaissance Arts",
+          "credits": "3",
+          "coid": "102417",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3750",
+          "course_title": "Music in Film",
+          "credits": "3",
+          "coid": "102435",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3760",
+          "course_title": "Film Scoring",
+          "credits": "3",
+          "coid": "102436",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2001",
+          "course_title": "Medical Ethics",
+          "credits": "3",
+          "coid": "102744",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2600",
+          "course_title": "Philosophy of Human Nature",
+          "credits": "3",
+          "coid": "102488",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 3020",
+          "course_title": "Consciousness",
+          "credits": "3",
+          "coid": "102878",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3010",
+          "course_title": "Consciousness",
+          "credits": "3",
+          "coid": "102846",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3050",
+          "course_title": "Cognitive Neuroscience",
+          "credits": "3",
+          "coid": "102560",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12843",
+  "scraped_at": "2026-06-10T18:59:18.756371+00:00"
+}

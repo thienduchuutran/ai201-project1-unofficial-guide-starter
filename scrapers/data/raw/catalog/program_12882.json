@@ -1,0 +1,328 @@
+{
+  "program_name": "Public Health Science, Public Health Practice Concentration, B.S",
+  "degree_type": "B.S",
+  "department": "Program Curriculum Requirements",
+  "faculty": "",
+  "description": [
+    "Core Requirements (11 courses, 35 credits)"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Required General Education Courses",
+      "content": [
+        "(8 courses, 24-25 cr)"
+      ],
+      "courses": [
+        {
+          "course_code": "MATH 1700",
+          "course_title": "Applied Statistics",
+          "credits": "3",
+          "coid": "102364",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 1000",
+          "course_title": "Health and Fitness",
+          "credits": "3",
+          "coid": "102065",
+          "footnote": "or"
+        },
+        {
+          "course_code": "EXSS 2060",
+          "course_title": "Exercise, Nutrition, and Heart Disease",
+          "credits": "3",
+          "coid": "102082",
+          "footnote": "or"
+        },
+        {
+          "course_code": "BIOL 1650",
+          "course_title": "Nutrition",
+          "credits": "3",
+          "coid": "101658",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2001",
+          "course_title": "Medical Ethics",
+          "credits": "3",
+          "coid": "102744",
+          "footnote": "or"
+        },
+        {
+          "course_code": "PHIL 2500",
+          "course_title": "Contemporary Ethical Problems",
+          "credits": "3",
+          "coid": "102486",
+          "footnote": "or"
+        },
+        {
+          "course_code": "BIOL 3700",
+          "course_title": "Bioethics",
+          "credits": "3",
+          "coid": "101680",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 1100",
+          "course_title": "Introduction to Sociology",
+          "credits": "3",
+          "coid": "102589",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 1100",
+          "course_title": "Principles of Economics: Macroeconomics",
+          "credits": "3",
+          "coid": "101939",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1000",
+          "course_title": "United States Government",
+          "credits": "3",
+          "coid": "102524",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 1000",
+          "course_title": "Earth Systems Science",
+          "credits": "3",
+          "coid": "102114",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Public Health Practice Concentration",
+      "content": [
+        "(7 courses)",
+        "Note: No more than three courses can be selected from any one discipline."
+      ],
+      "courses": [
+        {
+          "course_code": "PHS 4050",
+          "course_title": "Public Health Strategies",
+          "credits": "3",
+          "coid": "103096",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2300",
+          "course_title": "Sociology of Aging",
+          "credits": "3",
+          "coid": "102591",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2440",
+          "course_title": "Urban Sociology",
+          "credits": "3",
+          "coid": "102592",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2500",
+          "course_title": "Race and Ethnic Relations",
+          "credits": "3",
+          "coid": "102593",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2510",
+          "course_title": "Peoples and Cultures of Africa",
+          "credits": "3",
+          "coid": "102594",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2520",
+          "course_title": "Drugs and Alcohol",
+          "credits": "3",
+          "coid": "102595",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 1200",
+          "course_title": "Lifespan Development",
+          "credits": "3",
+          "coid": "102556",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2500",
+          "course_title": "Social Psychology",
+          "credits": "3",
+          "coid": "102565",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2665",
+          "course_title": "Health Psychology",
+          "credits": "3",
+          "coid": "102567",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2030",
+          "course_title": "Biological Psychology",
+          "credits": "3",
+          "coid": "102569",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2350",
+          "course_title": "Abnormal Psychology",
+          "credits": "3",
+          "coid": "102563",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3200",
+          "course_title": "Developmental Psychopathology",
+          "credits": "3",
+          "coid": "102568",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3530",
+          "course_title": "Motivation",
+          "credits": "3",
+          "coid": "102573",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3500",
+          "course_title": "Psychology of Learning",
+          "credits": "3",
+          "coid": "102572",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1500",
+          "course_title": "State and Urban Government",
+          "credits": "3",
+          "coid": "102526",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2070",
+          "course_title": "Public Policy Analysis: Case Studies in American Politics",
+          "credits": "3",
+          "coid": "102537",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2201",
+          "course_title": "U.S. Economic History",
+          "credits": "3",
+          "coid": "101942",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2010",
+          "course_title": "Political Economy of Gender",
+          "credits": "3",
+          "coid": "102869",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2500",
+          "course_title": "Economic Development",
+          "credits": "3",
+          "coid": "101945",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3001",
+          "course_title": "Economics of Inequality",
+          "credits": "3",
+          "coid": "102930",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2006",
+          "course_title": "Water Resources and Society",
+          "credits": "3",
+          "coid": "103075",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3000",
+          "course_title": "Economic Geography",
+          "credits": "3",
+          "coid": "102125",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2080",
+          "course_title": "Environmental Policy",
+          "credits": "3",
+          "coid": "102937",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3300",
+          "course_title": "Urban Geography",
+          "credits": "3",
+          "coid": "102136",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2600",
+          "course_title": "Environmental Science Data Visualization",
+          "credits": "3",
+          "coid": "103126",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4000",
+          "course_title": "Geographic Information System",
+          "credits": "3",
+          "coid": "102132",
+          "footnote": "or"
+        },
+        {
+          "course_code": "GEOG 4001",
+          "course_title": "Web GIS",
+          "credits": "3",
+          "coid": "102954",
+          "footnote": "or"
+        },
+        {
+          "course_code": "GEOG 4003",
+          "course_title": "Geographic Information Systems II",
+          "credits": "3",
+          "coid": "102953",
+          "footnote": "or"
+        },
+        {
+          "course_code": "GEOG 4500",
+          "course_title": "Remote Sensing of the Environment",
+          "credits": "3",
+          "coid": "102137",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHS 2900",
+          "course_title": "Global Health (Study Abroad)",
+          "credits": "3",
+          "coid": "103127",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 2950",
+          "course_title": "Addictive Behaviors",
+          "credits": "3",
+          "coid": "102224",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Note: No more than three courses can be selected from any one discipline."
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12882",
+  "scraped_at": "2026-06-10T18:58:10.337333+00:00"
+}

@@ -1,0 +1,250 @@
+{
+  "program_name": "Public Relations Minor",
+  "degree_type": "Minor",
+  "department": "Admissions Requirement",
+  "faculty": "",
+  "description": [
+    "Overall GPA of 2.5 required."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Curriculum Requirements 18 credits total",
+      "content": [
+        "3 courses: (9 credits)"
+      ],
+      "courses": [
+        {
+          "course_code": "COMM 2805",
+          "course_title": "Introduction to Social Media",
+          "credits": "3",
+          "coid": "102886",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1860",
+          "course_title": "Public Relations",
+          "credits": "3",
+          "coid": "101794",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3207",
+          "course_title": "Data & Society",
+          "credits": "3",
+          "coid": "103065",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Electives",
+      "content": [
+        "Select 1: (3 credits)"
+      ],
+      "courses": [
+        {
+          "course_code": "COMM 3845",
+          "course_title": "Marketing Communication",
+          "credits": "3",
+          "coid": "102875",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2825",
+          "course_title": "Social Media Advertising and Public Relations",
+          "credits": "3",
+          "coid": "102887",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3870",
+          "course_title": "Feature and Magazine Writing",
+          "credits": "3",
+          "coid": "101824",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3870",
+          "course_title": "Feature and Magazine Writing",
+          "credits": "3",
+          "coid": "102026",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2800",
+          "course_title": "Journalism",
+          "credits": "3",
+          "coid": "101786",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2800",
+          "course_title": "Journalism",
+          "credits": "3",
+          "coid": "101984",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4210",
+          "course_title": "Information Design",
+          "credits": "3",
+          "coid": "102870",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4200",
+          "course_title": "Human Communication",
+          "credits": "3",
+          "coid": "101830",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4220",
+          "course_title": "Organizational Communication",
+          "credits": "3",
+          "coid": "101834",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4230",
+          "course_title": "Communication Law and Ethics",
+          "credits": "3",
+          "coid": "101835",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3280",
+          "course_title": "Intercultural Communication",
+          "credits": "3",
+          "coid": "101840",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Electives",
+      "content": [
+        "Select 2: (6 credits)"
+      ],
+      "courses": [
+        {
+          "course_code": "HMSV 3410",
+          "course_title": "Building Community Supports for Persons with Disabilities",
+          "credits": "3",
+          "coid": "102226",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 1000",
+          "course_title": "Chemistry in a Changing World",
+          "credits": "3",
+          "coid": "101760",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2500",
+          "course_title": "Contemporary Ethical Problems",
+          "credits": "3",
+          "coid": "102486",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3333",
+          "course_title": "Crime in the Media",
+          "credits": "3",
+          "coid": "101908",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 4100",
+          "course_title": "Ethics and Impacts of Computing Solutions",
+          "credits": "3",
+          "coid": "103035",
+          "footnote": ""
+        },
+        {
+          "course_code": "EXSS 2400",
+          "course_title": "Health Promotion",
+          "credits": "3",
+          "coid": "102086",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1500",
+          "course_title": "State and Urban Government",
+          "credits": "3",
+          "coid": "102526",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2500",
+          "course_title": "Social Psychology",
+          "credits": "3",
+          "coid": "102565",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHS 2000",
+          "course_title": "Public Health in the United States",
+          "credits": "3",
+          "coid": "102981",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2500",
+          "course_title": "Race and Ethnic Relations",
+          "credits": "3",
+          "coid": "102593",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2700",
+          "course_title": "Social Problems",
+          "credits": "3",
+          "coid": "102600",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 3000",
+          "course_title": "Speech Writing",
+          "credits": "3",
+          "coid": "102657",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1000",
+          "course_title": "United States Government",
+          "credits": "3",
+          "coid": "102524",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1800",
+          "course_title": "Global Issues",
+          "credits": "3",
+          "coid": "102795",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2002",
+          "course_title": "Elections and Campaigns",
+          "credits": "3",
+          "coid": "102716",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2360",
+          "course_title": "Understanding Government Decision Making",
+          "credits": "3",
+          "coid": "102547",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12890",
+  "scraped_at": "2026-06-10T18:56:08.255216+00:00"
+}

@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 3010",
+  "course_title": "Game Design Workshop",
+  "credits": "3",
+  "description": "Offered: every semester\nIn this course, students learn to design and develop games using an industry-standard game engine. Students build foundational knowledge in the C# scripting language to implement mechanics with game objects and components, including input, movement, physics, collision, instantiation/destruction, and scoring. The course includes design pitches, critiques, portfolio development, team collaboration, and a final published game project. Cross-listed with GAME 3000\nPrerequisite(s): CSC 1500 , GAME 1100 , and GAME 1200\nNote: Credit is not awarded for both CSC 3010 and GAME 3000 .",
+  "prerequisites": "CSC 1500 , GAME 1100 , and GAME 1200",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102776",
+  "scraped_at": "2026-06-10T19:24:51.818884+00:00"
+}

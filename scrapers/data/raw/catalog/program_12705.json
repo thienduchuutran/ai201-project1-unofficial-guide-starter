@@ -1,0 +1,211 @@
+{
+  "program_name": "Business Administration, Management Concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Business Administration",
+  "faculty": "Chairperson, Business Administration Program Manager, Business Administration Michael Greenwood, Ph.D., Chair Audrey Pereira Professors Associate Professor Assistant Professors Michael Greenwood Andrew Chan John Lohmann Beverly Hollingsworth Yiang Lu Kwahng Kim Denise Simion Audrey Pereira Reneé Scapparone",
+  "description": [
+    "Program Manager, Business Administration",
+    "Michael Greenwood, Ph.D., Chair",
+    "The Business Administration Department prepares each student to take a responsible position within the world of business equipped with a knowledge of business theories, policies, and procedures.",
+    "The curriculum is based in the liberal arts, coupled with professional courses and a variety of practical business experiences including the opportunity for experiential learning through internships, structured to give the participant an opportunity to apply the theory of the classroom to a specific work experience.",
+    "Students who graduate from the Business Administration program are equipped with a knowledge of business theories, policies, and procedures based on the following learning outcomes:",
+    "Accredited by the International Assembly for Collegiate Business Education (IACBE).",
+    "Students admitted into this program can take up to 6 credits of graduate coursework in their Senior year. To remain qualified for enrollment in graduate courses students must have a GPA of 3.5 or higher to register for a graduate course and must maintain this GPA throughout their Senior year. The graduate courses available to 4+1 students is determined by the department and students will choose from a pre-determined department list which courses they plan to complete at the end of their Junior year. Students will also be able to choose which MBA concentration they plan to move into when they choose which courses they would like to enroll in during their senior year. The 6 graduate credits earned during the student’s senior year will count towards their graduate degree. Credits earned will not count towards a student’s undergraduate degree.",
+    "Students who graduate at the end of their Senior year in good standing with a GPA of 3.5 or higher and have earned a grade of B or higher in their completed MBA course or courses may continue taking classes in the MBA program in the first summer term B after their undergraduate degree has been conferred. Students who have been admitted to the 4+1 program and are eligible for continuing in the MBA program after the conferral of their Undergraduate Degree must enroll in their next MBA course by the 2nd semester following the completion of their bachelor’s program. Students enrolled in MBA courses through the 4+1 program who earn a grade of C or lower may be dismissed from the MBA program. Students enrolled in the 4+1 program who do not successfully complete their undergraduate degree in accordance with the MBA admission standards may be dismissed from the University. Students dismissed from the 4+1 program can apply for admission to the MBA program one year after their dismissal."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Business Administration Major Requirements",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Core Curriculum",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BSAD 1030",
+          "course_title": "Principles of Management",
+          "credits": "3",
+          "coid": "101706",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 1040",
+          "course_title": "Fundamentals of Marketing",
+          "credits": "3",
+          "coid": "101709",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 1700",
+          "course_title": "Introduction to Computer Information Systems for Business",
+          "credits": "3",
+          "coid": "101698",
+          "footnote": "***"
+        },
+        {
+          "course_code": "BSAD 2010",
+          "course_title": "Introduction to Financial Reporting",
+          "credits": "3",
+          "coid": "101700",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 2020",
+          "course_title": "Introduction to Managerial Accounting",
+          "credits": "3",
+          "coid": "101701",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 2600",
+          "course_title": "Business Law I",
+          "credits": "3",
+          "coid": "101718",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3325",
+          "course_title": "International Marketing",
+          "credits": "3",
+          "coid": "101733",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3400",
+          "course_title": "Basic Finance",
+          "credits": "3",
+          "coid": "101714",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3600",
+          "course_title": "Business Law II",
+          "credits": "3",
+          "coid": "101736",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3700",
+          "course_title": "Sales Management",
+          "credits": "3",
+          "coid": "101730",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4230",
+          "course_title": "Business Fluctuations and Forecasting",
+          "credits": "3",
+          "coid": "101728",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4880",
+          "course_title": "International Business Management",
+          "credits": "3",
+          "coid": "101738",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4890",
+          "course_title": "Business Policy and Strategy",
+          "credits": "3",
+          "coid": "101739",
+          "footnote": "*"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Required General Education Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ECON 1100",
+          "course_title": "Principles of Economics: Macroeconomics",
+          "credits": "3",
+          "coid": "101939",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 1200",
+          "course_title": "Principles of Economics: Microeconomics",
+          "credits": "3",
+          "coid": "101940",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1800",
+          "course_title": "Business Statistics",
+          "credits": "3",
+          "coid": "102365",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 1000",
+          "course_title": "Introduction to Speech Communication",
+          "credits": "3",
+          "coid": "102650",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "These upper-level courses are not transferable from another college if they are required within a student’s concentration.",
+        "* Junior/Senior Writing Requirement ** Speaking/Listening Requirement *** Computer Literacy Requirement"
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Concentrations for the Major in Business Administration",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Management Curriculum (15 credits)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BSAD 3210",
+          "course_title": "Human Resources Management",
+          "credits": "3",
+          "coid": "101707",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3220",
+          "course_title": "Production Management",
+          "credits": "3",
+          "coid": "101708",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4200",
+          "course_title": "Organizational Behavior and Theory",
+          "credits": "3",
+          "coid": "101726",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4210",
+          "course_title": "Social and Political Environment of Business",
+          "credits": "3",
+          "coid": "101727",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "One business course elective (not in Core)."
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12705",
+  "scraped_at": "2026-06-10T18:55:29.867653+00:00"
+}

@@ -1,0 +1,90 @@
+{
+  "program_name": "Communications Studies Minor",
+  "degree_type": "Minor",
+  "department": "Requirements for Minor",
+  "faculty": "",
+  "description": [
+    "18 credits are required. All students must complete:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "And any four of the following:",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "COMM 1220",
+          "course_title": "Message Design",
+          "credits": "3",
+          "coid": "101780",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4201",
+          "course_title": "Writings in Aesthetics",
+          "credits": "3",
+          "coid": "101829",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4205",
+          "course_title": "Seminar in Communication Theory",
+          "credits": "3",
+          "coid": "101831",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4206",
+          "course_title": "Media and Society",
+          "credits": "3",
+          "coid": "101832",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4220",
+          "course_title": "Organizational Communication",
+          "credits": "3",
+          "coid": "101834",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4230",
+          "course_title": "Communication Law and Ethics",
+          "credits": "3",
+          "coid": "101835",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4240",
+          "course_title": "Media Criticism",
+          "credits": "3",
+          "coid": "101836",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4250",
+          "course_title": "Research Seminar",
+          "credits": "3",
+          "coid": "101837",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3280",
+          "course_title": "Intercultural Communication",
+          "credits": "3",
+          "coid": "101840",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3281",
+          "course_title": "Gender and Communication",
+          "credits": "3",
+          "coid": "101841",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12737",
+  "scraped_at": "2026-06-10T18:55:58.869799+00:00"
+}

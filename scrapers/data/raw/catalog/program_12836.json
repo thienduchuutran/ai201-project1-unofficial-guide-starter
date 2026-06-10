@@ -1,0 +1,94 @@
+{
+  "program_name": "Geographic Information System (GIS) Minor",
+  "degree_type": "Minor",
+  "department": "Required Courses (12 cr.)",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose two courses among the seven listed below in consultation with the advisor for the minor.",
+        "* Only one of these two courses may count toward the minor.",
+        "**Must be 3 cr. Independent Study to count toward the minor."
+      ],
+      "courses": [
+        {
+          "course_code": "CSC 3050",
+          "course_title": "Web Programming",
+          "credits": "3",
+          "coid": "101865",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2400",
+          "course_title": "Introduction to Geospatial Technologies",
+          "credits": "3",
+          "coid": "102121",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3004",
+          "course_title": "GIS for Criminal Justice",
+          "credits": "3",
+          "coid": "102911",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3300",
+          "course_title": "Urban Geography",
+          "credits": "3",
+          "coid": "102136",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4001",
+          "course_title": "Web GIS",
+          "credits": "3",
+          "coid": "102954",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4003",
+          "course_title": "Geographic Information Systems II",
+          "credits": "3",
+          "coid": "102953",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4500",
+          "course_title": "Remote Sensing of the Environment",
+          "credits": "3",
+          "coid": "102137",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4900",
+          "course_title": "Independent Study in Geoscience",
+          "credits": "1-3",
+          "coid": "102144",
+          "footnote": "1- */**"
+        },
+        {
+          "course_code": "GEOG 4940",
+          "course_title": "Internship in Geography",
+          "credits": "3",
+          "coid": "102145",
+          "footnote": "*"
+        },
+        {
+          "course_code": "ITEC 2410",
+          "course_title": "Computer Aided Drafting (CAD)",
+          "credits": "3",
+          "coid": "102257",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* Only one of these two courses may count toward the minor. **Must be 3 cr. Independent Study to count toward the minor."
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12836",
+  "scraped_at": "2026-06-10T18:58:15.682699+00:00"
+}

@@ -1,0 +1,162 @@
+{
+  "program_name": "Philosophy Minor",
+  "degree_type": "Minor",
+  "department": "Requirements for the Minor in Philosophy",
+  "faculty": "",
+  "description": [
+    "The Philosophy minor requires 18 semester hours divided into two groups. Group One constitutes a 9-credit core of three topical courses that are mandatory. Group Two constitutes a 9-credit group of elective course options."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Group One (9 credits)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "PHIL 1000",
+          "course_title": "Introduction to Western Philosophy",
+          "credits": "3",
+          "coid": "102481",
+          "footnote": "or"
+        },
+        {
+          "course_code": "PHIL 2600",
+          "course_title": "Philosophy of Human Nature",
+          "credits": "3",
+          "coid": "102488",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 1100",
+          "course_title": "Logic",
+          "credits": "3",
+          "coid": "102482",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2500",
+          "course_title": "Contemporary Ethical Problems",
+          "credits": "3",
+          "coid": "102486",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Group Two (9 credits)",
+      "content": [
+        "In addition to the 9-credit Philosophy core requirements, students must select three Philosophy elective courses from the following list:"
+      ],
+      "courses": [
+        {
+          "course_code": "PHIL 2000",
+          "course_title": "Philosophy of Education",
+          "credits": "3",
+          "coid": "102483",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2001",
+          "course_title": "Medical Ethics",
+          "credits": "3",
+          "coid": "102744",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2200",
+          "course_title": "Theories of Knowledge",
+          "credits": "3",
+          "coid": "102484",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2440",
+          "course_title": "American Philosophy",
+          "credits": "3",
+          "coid": "102485",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2550",
+          "course_title": "Introduction to Ethics",
+          "credits": "3",
+          "coid": "102487",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 3020",
+          "course_title": "Consciousness",
+          "credits": "3",
+          "coid": "102878",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 3600",
+          "course_title": "Philosophy of Religion",
+          "credits": "3",
+          "coid": "102492",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 3610",
+          "course_title": "World Religions",
+          "credits": "3",
+          "coid": "102493",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2800",
+          "course_title": "Philosophy of Art",
+          "credits": "3",
+          "coid": "102494",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 4200",
+          "course_title": "Political and Social Philosophy",
+          "credits": "3",
+          "coid": "102495",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 4300",
+          "course_title": "Philosophy of Science",
+          "credits": "3",
+          "coid": "102496",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 4430",
+          "course_title": "Marxism",
+          "credits": "3",
+          "coid": "102498",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 4500",
+          "course_title": "Philosophy of Love",
+          "credits": "3",
+          "coid": "102499",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 4700",
+          "course_title": "Ethical Issues in Business",
+          "credits": "3",
+          "coid": "102500",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 4903",
+          "course_title": "Independent Study",
+          "credits": "3",
+          "coid": "102501",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12729",
+  "scraped_at": "2026-06-10T18:58:53.986560+00:00"
+}

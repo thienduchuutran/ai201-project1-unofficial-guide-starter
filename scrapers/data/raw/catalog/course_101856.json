@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 1550",
+  "course_title": "Computer Science II",
+  "credits": "3",
+  "description": "Offered: every semester\nThis course builds on the concepts covered in Computer Science I. Topics covered include inheritance, polymorphism, recursion, advanced GUI programming, exception handling and input/output handling. Students use integrated development environment to create, compile, run and debug programs.\nPrerequisite(s): CSC 1500",
+  "prerequisites": "CSC 1500",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=101856",
+  "scraped_at": "2026-06-10T19:05:30.627576+00:00"
+}

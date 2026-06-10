@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 3450",
+  "course_title": "Local Area Networks",
+  "credits": "3",
+  "description": "Offered: Spring\nThis course examines local area network (LAN) technology and architecture both through general concepts and practical hands-on experience. All networking fundamentals are presented based on the modular approach of the ISO standards. Topics covered include file servers, configurations and protocols, installation and management of server hardware and software, system monitoring, maintenance and troubleshooting. Due to its importance, the TCP/IP protocol will be stressed.\nPrerequisite(s): CSC 2560",
+  "prerequisites": "CSC 2560",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=101872",
+  "scraped_at": "2026-06-10T19:05:49.824833+00:00"
+}

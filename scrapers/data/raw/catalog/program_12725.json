@@ -1,0 +1,278 @@
+{
+  "program_name": "Political Science, International Politics Concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Political Science Faculty",
+  "faculty": "Chairperson Paul Weizer Professors Assistant Professor Eric Budd Kyle Hull Paul Weizer",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Political Science",
+      "content": [
+        "Courses in Political Science are intended for any student with a general interest in politics and government. They are also designed to provide a proper background for students interested in pursuing graduate study or a career in law, public administration, or government and political science.",
+        "The bachelor of science and bachelor of arts in Political Science require 39 hours of course work. All bachelor of science and bachelor of arts candidates will pick an area of concentration after consulting with their faculty advisor. Bachelor of Art students are required to have foreign language proficiency at the intermediate level.",
+        "Objective: Demonstrates evidence of comprehension of Political Science knowledge",
+        "Graduates should have the ability to demonstrate comprehension of the political beliefs and values that have shaped Western or non-Western politics, demonstrating mastery of course materials (2000+ level) for the:",
+        "In demonstrating comprehension of Political Science Knowledge, graduates demonstrate their knowledge of:",
+        "Objective: Demonstrates evidence of comprehension about Political Science reasoning and argumentation",
+        "Graduates should have the ability to make arguments coherently, write cogently, and debate different points of view effectively on some of the major political/political science issues of the times, demonstrating mastery of course materials (2000+ level).",
+        "Objective: Demonstrates evidence of comprehension in Political Science methodology",
+        "Graduates should have the ability and knowledge to utilize Political Science methodology to research and interpret political data, including statistical data, demonstrating mastery of course materials (2000+ level), for the:",
+        "Objective: Demonstrates evidence of comprehension of Political Science theories Graduates should apply by explaining how a specific American domestic or International Political Science theories get put into practice within or across a political system or political systems at local, regional, national, or international levels of governments or international institutions, demonstrating mastery of course materials (2000+ level), for the:"
+      ],
+      "courses": [],
+      "items": [
+        "Ability to make coherent arguments about political beliefs and values that have shaped Western or non-Western politics;",
+        "Ability to write cogently on the political beliefs and values that have shaped Western or non-Western politics;",
+        "Ability to debate different points of view on the political beliefs and values that have shaped Western or non-Western politics.",
+        "The political structure, operations, processes, and ideologies of American government, comparative foreign governments, or international political institutions (elections, parties, interest groups, or public opinion, etc.);",
+        "A comprehension of constitutional principles, including the separation of powers, federalism, civil liberties, civil rights, due process, or comparative foreign governmental separation of powers of similar or differing constitutional or non-constitutional governing systems;",
+        "The substance and controversies of domestic American public policy (education, health care, criminal justice, etc.) or comparative governmental systems of public policy and international political institutions (homeland security, international trade and commerce, military and defense, environment, globalized ethics, standards, and cultures, etc.).",
+        "Ability to employ methods of data collection for survey research, documented analysis, and observation;",
+        "Ability to understand methodological measurement concepts and limits, demonstrating an understanding of the scientific process as applied to the study of government and politics;",
+        "Ability to interpret and calculate basic statistics for correctly choosing, calculating, and interpreting statistical data at the introductory level.",
+        "Ability to grasp the theoretical Political Science literature and theoretical debates of the discipline (elections, political parties, public sector roles, private sector influences, international organizational or institutional approaches/impact);",
+        "The application of theoretical principles to the daily functioning of American government at the local, regional, state-wide, national or federal level; comparative foreign governments at the country-wide level; or international political organizational and institutional levels."
+      ]
+    },
+    {
+      "heading": "Required Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "POLS 1000",
+          "course_title": "United States Government",
+          "credits": "3",
+          "coid": "102524",
+          "footnote": "(Civic Learning)"
+        },
+        {
+          "course_code": "POLS 1300",
+          "course_title": "Introduction to International Relations",
+          "credits": "3",
+          "coid": "102528",
+          "footnote": "(Diverse Perspective)"
+        },
+        {
+          "course_code": "POLS 1400",
+          "course_title": "Introduction to Comparative Politics",
+          "credits": "3",
+          "coid": "102531",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 3410",
+          "course_title": "Political Science Research Methods",
+          "credits": "3",
+          "coid": "102530",
+          "footnote": "+"
+        },
+        {
+          "course_code": "POLS 4000",
+          "course_title": "Capstone Seminar in Political Science",
+          "credits": "3",
+          "coid": "102544",
+          "footnote": "++"
+        },
+        {
+          "course_code": "POLS 4940",
+          "course_title": "Internship in Political Science",
+          "credits": "3-12",
+          "coid": "102553",
+          "footnote": "3-"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "SPCH 1000",
+          "course_title": "Introduction to Speech Communication",
+          "credits": "3",
+          "coid": "102650",
+          "footnote": "or"
+        },
+        {
+          "course_code": "SPCH 1100",
+          "course_title": "Argumentation and Debate",
+          "credits": "3",
+          "coid": "102651",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 4350",
+          "course_title": "Moot Court",
+          "credits": "3",
+          "coid": "102546",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 1100",
+          "course_title": "Principles of Economics: Macroeconomics",
+          "credits": "3",
+          "coid": "101939",
+          "footnote": "(Procedural and Logical Thinking)"
+        }
+      ],
+      "items": [
+        "POLS Majors concentrating in American Government/Law will take 2 courses in US History while those concentrating in International Politics will take 2 courses in World History. (6 credits)"
+      ]
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "+Fulfills Computer Literacy Requirement",
+        "++Junior/Senior Writing and Speaking/Listening Requirement"
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required General Education Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1700",
+          "course_title": "Applied Statistics",
+          "credits": "3",
+          "coid": "102364",
+          "footnote": "(Quantitative Reasoning)"
+        },
+        {
+          "course_code": "PHIL 4200",
+          "course_title": "Political and Social Philosophy",
+          "credits": "3",
+          "coid": "102495",
+          "footnote": "(Ethical Reasoning)"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "International Politics",
+      "content": [
+        "Select four courses from the list below:"
+      ],
+      "courses": [
+        {
+          "course_code": "POLS 2220",
+          "course_title": "Model United Nations",
+          "credits": "3",
+          "coid": "102747",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1800",
+          "course_title": "Global Issues",
+          "credits": "3",
+          "coid": "102312",
+          "footnote": "OR POLS 1800 Global Issues"
+        },
+        {
+          "course_code": "IDIS 1900",
+          "course_title": "Introduction to Peace Studies",
+          "credits": "3",
+          "coid": "102313",
+          "footnote": "OR POLS 1900 Introduction to Peace Studies"
+        },
+        {
+          "course_code": "IDIS 2100",
+          "course_title": "Dilemmas of Peace and War",
+          "credits": "3",
+          "coid": "102315",
+          "footnote": "OR POLS 2100 Dilemmas of Peace and War"
+        },
+        {
+          "course_code": "POLS 2202",
+          "course_title": "The American Presidency",
+          "credits": "3",
+          "coid": "102924",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2040",
+          "course_title": "Poverty and Inequality in the Developing World",
+          "credits": "3",
+          "coid": "103109",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 2040",
+          "course_title": "Poverty and Inequality in the Developing World",
+          "credits": "3",
+          "coid": "103108",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2540",
+          "course_title": "Global Issues in Film",
+          "credits": "3",
+          "coid": "102319",
+          "footnote": "OR POLS 2540 Global Issues in Film"
+        },
+        {
+          "course_code": "POLS 2206",
+          "course_title": "Europe Today",
+          "credits": "3",
+          "coid": "102527",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2701",
+          "course_title": "International Law and Organizations",
+          "credits": "3",
+          "coid": "102536",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2450",
+          "course_title": "The Conduct of American Foreign Policy",
+          "credits": "3",
+          "coid": "102539",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2510",
+          "course_title": "International Terrorism",
+          "credits": "3",
+          "coid": "102541",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2360",
+          "course_title": "Understanding Government Decision Making",
+          "credits": "3",
+          "coid": "102547",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Requirements",
+      "content": [
+        "Political Science majors in International Politics are required to take two courses in World History (including European and non-Western electives)."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Capstone",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "POLS 4000",
+          "course_title": "Capstone Seminar in Political Science",
+          "credits": "3",
+          "coid": "102544",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12725",
+  "scraped_at": "2026-06-10T18:56:44.155461+00:00"
+}

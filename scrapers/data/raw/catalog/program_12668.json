@@ -1,0 +1,211 @@
+{
+  "program_name": "Human Services, B.S.",
+  "degree_type": "B.S.",
+  "department": "Requirements for the Major in Human Services",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Required General Education Courses",
+      "content": [
+        "Human Services majors are required to take the following courses, which may also meet General Education requirements.",
+        "48 minimum credit hours in the major.",
+        "Choose ONE Written and Oral Communication Course:",
+        "Choose ONE Constitutional Course",
+        "May be satisfied by taking one of the following, or, with the consent of the Human Services advisor, additional Political Science courses focused on the Constitution and the structure of governement."
+      ],
+      "courses": [
+        {
+          "course_code": "PSY 1100",
+          "course_title": "Introduction to Psychological Science",
+          "credits": "3",
+          "coid": "102555",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 1200",
+          "course_title": "Lifespan Development",
+          "credits": "3",
+          "coid": "102556",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 1100",
+          "course_title": "Introduction to Sociology",
+          "credits": "3",
+          "coid": "102589",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 1000",
+          "course_title": "Introduction to Speech Communication",
+          "credits": "3",
+          "coid": "102650",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 1600",
+          "course_title": "Public Speaking",
+          "credits": "3",
+          "coid": "102653",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1000",
+          "course_title": "United States Government",
+          "credits": "3",
+          "coid": "102524",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1500",
+          "course_title": "State and Urban Government",
+          "credits": "3",
+          "coid": "102526",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2270",
+          "course_title": "Introduction to the Legal Process",
+          "credits": "3",
+          "coid": "102529",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2520",
+          "course_title": "Constitutional Law",
+          "credits": "3",
+          "coid": "102540",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2550",
+          "course_title": "Sex, Race and the Constitution",
+          "credits": "3",
+          "coid": "102533",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2600",
+          "course_title": "The First Amendment",
+          "credits": "3",
+          "coid": "102534",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Choose ONE Written and Oral Communication Course:",
+        "Choose ONE Constitutional Course May be satisfied by taking one of the following, or, with the consent of the Human Services advisor, additional Political Science courses focused on the Constitution and the structure of governement."
+      ]
+    },
+    {
+      "heading": "The Human Services Core",
+      "content": [
+        "Choose 6 credits from Macro courses:",
+        "* 2.5 Required in course to use toward major."
+      ],
+      "courses": [
+        {
+          "course_code": "HMSV 1100",
+          "course_title": "Introduction to Human Services",
+          "credits": "3",
+          "coid": "102219",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 2005",
+          "course_title": "Social and Cultural Diversity in Human Services",
+          "credits": "3",
+          "coid": "102833",
+          "footnote": "*"
+        },
+        {
+          "course_code": "HMSV 2050",
+          "course_title": "Research Methods in Human Services Practice",
+          "credits": "3",
+          "coid": "102220",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 2500",
+          "course_title": "Interviewing Techniques",
+          "credits": "3",
+          "coid": "102222",
+          "footnote": "*"
+        },
+        {
+          "course_code": "HMSV 3610",
+          "course_title": "Assessment in Human Services",
+          "credits": "3",
+          "coid": "103152",
+          "footnote": "*"
+        },
+        {
+          "course_code": "HMSV 3620",
+          "course_title": "Intervention in Human Services",
+          "credits": "3",
+          "coid": "103153",
+          "footnote": "*"
+        },
+        {
+          "course_code": "HMSV 3700",
+          "course_title": "Professional Issues in Human Services",
+          "credits": "3",
+          "coid": "102229",
+          "footnote": "*"
+        },
+        {
+          "course_code": "HMSV 3410",
+          "course_title": "Building Community Supports for Persons with Disabilities",
+          "credits": "3",
+          "coid": "102226",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3450",
+          "course_title": "Aging Social Welfare Policy",
+          "credits": "3",
+          "coid": "103150",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3550",
+          "course_title": "Mental and Behavioral Health Policy",
+          "credits": "3",
+          "coid": "103151",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Choose 6 credits from Macro courses:",
+        "* 2.5 Required in course to use toward major."
+      ]
+    },
+    {
+      "heading": "Human Services and Behavioral Sciences Electives",
+      "content": [
+        "All Human Services majors must complete a minimum of six credits from any program in Behavioral Sciences (i.e., Criminal Justice, Human Services, Psychology, Sociology) and six credits from an approved field of choice. Field of choice electives are designed to allow students to explore their specific area of interest. Field of choice electives must be approved by the student’s advisor and the Behavioral Sciences Department Chair."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "Admission to the Human Services program does not guarantee entry into internship. Eligibility for internship is assessed by the Human Services Review Committee according to the criteria specified in Departmental Policies. Completion of all eligibility requirements at least one semester before undertaking Internship and timely completion of the application process for eligibility are essential."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Policy Regarding Liability Insurance",
+      "content": [
+        "Liability insurance is required of all students taking Human Services courses which involve a practicum experience. Upon enrolling in such courses, including Internship in Human Services, students are automatically covered under a blanket policy purchased by the university."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12668",
+  "scraped_at": "2026-06-10T18:54:43.749567+00:00"
+}

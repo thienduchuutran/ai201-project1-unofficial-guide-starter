@@ -1,0 +1,239 @@
+{
+  "program_name": "Criminal Justice, Police Program, B.S.",
+  "degree_type": "B.S.",
+  "department": "Expected Outcomes",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Academic Program Requirements",
+      "content": [
+        "To remain in the Police Program, a student must (a) earn a minimum grade of 2.0 in each of their MPTC-required Criminal Justice courses; and (b) maintain a 2.50 overall GPA. In addition, Police Program students whose GPA is less than 2.75 at the end of their penultimate undergraduate semester would not receive automatic acceptance into the graduate portion of the program, but would have to be granted a waiver by the Criminal Justice program faculty in order to be accepted into the graduate program."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Core Requirements (24 credits)",
+      "content": [
+        "Each of the following:",
+        "One of the following:",
+        "One of the following:",
+        "+ Course used to satisfy Junior/Senior Writing, and Speaking and Listening and Computer Literacy requirements."
+      ],
+      "courses": [
+        {
+          "course_code": "CJ 1000",
+          "course_title": "Introduction to Criminal Justice",
+          "credits": "3",
+          "coid": "101889",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 2050",
+          "course_title": "Theory and Practices of Policing",
+          "credits": "3",
+          "coid": "101890",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 2650",
+          "course_title": "Correctional Theory and Practice",
+          "credits": "3",
+          "coid": "101896",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 3651",
+          "course_title": "Ethics in Criminal Justice",
+          "credits": "3",
+          "coid": "101897",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 4100",
+          "course_title": "Colloquium",
+          "credits": "3",
+          "coid": "101910",
+          "footnote": "* +"
+        },
+        {
+          "course_code": "SOC 2750",
+          "course_title": "Criminology",
+          "credits": "3",
+          "coid": "102602",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3140",
+          "course_title": "Criminal Justice Data Analysis",
+          "credits": "3",
+          "coid": "101903",
+          "footnote": "* + or"
+        },
+        {
+          "course_code": "CJ 3004",
+          "course_title": "GIS for Criminal Justice",
+          "credits": "3",
+          "coid": "102912",
+          "footnote": "+ or"
+        },
+        {
+          "course_code": "GEOG 3004",
+          "course_title": "GIS for Criminal Justice",
+          "credits": "3",
+          "coid": "102911",
+          "footnote": "+"
+        },
+        {
+          "course_code": "CJ 2270",
+          "course_title": "Introduction to Legal Process",
+          "credits": "3",
+          "coid": "101891",
+          "footnote": "* or"
+        },
+        {
+          "course_code": "POLS 2270",
+          "course_title": "Introduction to the Legal Process",
+          "credits": "3",
+          "coid": "102529",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Each of the following:",
+        "One of the following:",
+        "One of the following:",
+        "+ Course used to satisfy Junior/Senior Writing, and Speaking and Listening and Computer Literacy requirements."
+      ]
+    },
+    {
+      "heading": "Additional required CJ courses (6 credits)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "CJ 2130",
+          "course_title": "Criminal Justice Research Methods",
+          "credits": "3",
+          "coid": "101901",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3242",
+          "course_title": "Psychology of Crime",
+          "credits": "3",
+          "coid": "101905",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "General Education Requirements for the Criminal Justice Major (12 credits)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1700",
+          "course_title": "Applied Statistics",
+          "credits": "3",
+          "coid": "102364",
+          "footnote": "(Quantitative Reasoning)"
+        },
+        {
+          "course_code": "POLS 1000",
+          "course_title": "United States Government",
+          "credits": "3",
+          "coid": "102524",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 1500",
+          "course_title": "State and Urban Government",
+          "credits": "3",
+          "coid": "102526",
+          "footnote": "(Civic Learning)"
+        },
+        {
+          "course_code": "PSY 1200",
+          "course_title": "Lifespan Development",
+          "credits": "3",
+          "coid": "102556",
+          "footnote": "(Diverse Perspectives and Procedural & Logical Thinking)"
+        },
+        {
+          "course_code": "SOC 1100",
+          "course_title": "Introduction to Sociology",
+          "credits": "3",
+          "coid": "102589",
+          "footnote": "(Diverse Perspectives)"
+        },
+        {
+          "course_code": "EXSS 1000",
+          "course_title": "Health and Fitness",
+          "credits": "3",
+          "coid": "102065",
+          "footnote": "(Personal Wellness)"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Required Courses for this Concentration (21 credits)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "CJ 3055",
+          "course_title": "Applied Criminal Procedure for Law Enforcement",
+          "credits": "3",
+          "coid": "102794",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3057",
+          "course_title": "Criminal Investigation",
+          "credits": "3",
+          "coid": "102793",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3550",
+          "course_title": "Criminal Law",
+          "credits": "3",
+          "coid": "101894",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 2600",
+          "course_title": "Juvenile Justice",
+          "credits": "3",
+          "coid": "101895",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3000",
+          "course_title": "Domestic Terrorism and Hate Crime",
+          "credits": "3",
+          "coid": "101898",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 1100",
+          "course_title": "Introduction to Human Services",
+          "credits": "3",
+          "coid": "102219",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3500",
+          "course_title": "Abuse and Neglect within the Family",
+          "credits": "3",
+          "coid": "102227",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12833",
+  "scraped_at": "2026-06-10T18:54:41.698506+00:00"
+}

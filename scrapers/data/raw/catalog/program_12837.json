@@ -1,0 +1,730 @@
+{
+  "program_name": "Interdisciplinary Studies, Fine and Performing Arts Concentration, B.A.",
+  "degree_type": "B.A.",
+  "department": "Fine & Performing Arts Concentration",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Music Concentration Requirements (12-18 credits)",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required Courses (4 cr.)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MUSC 1000",
+          "course_title": "Art of Music",
+          "credits": "3",
+          "coid": "102407",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2500",
+          "course_title": "Class Piano",
+          "credits": "1",
+          "coid": "102423",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose 5 additional credits in instrumental and/or vocal study and ensembles (5 cr.)",
+      "content": [
+        "* When taken for credit, an additional teacher fee may apply for off-campus teachers at Indian Hill Arts"
+      ],
+      "courses": [
+        {
+          "course_code": "MUSC 2310",
+          "course_title": "Intermediate Musical Instruction",
+          "credits": "1-3",
+          "coid": "102420",
+          "footnote": "1- *"
+        },
+        {
+          "course_code": "MUSC 2400",
+          "course_title": "Jazz Band",
+          "credits": "1",
+          "coid": "102422",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2600",
+          "course_title": "Class Voice",
+          "credits": "1",
+          "coid": "102424",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2700",
+          "course_title": "Class Guitar",
+          "credits": "1",
+          "coid": "102425",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* When taken for credit, an additional teacher fee may apply for off-campus teachers at Indian Hill Arts"
+      ]
+    },
+    {
+      "heading": "Choose the remaining 3-9 credits in Music from the following courses:",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MUSC 1100",
+          "course_title": "From Woodstock to the iPod: A Social History of American Popular Music",
+          "credits": "3",
+          "coid": "102408",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1400",
+          "course_title": "Introduction to Music Technology",
+          "credits": "3",
+          "coid": "102410",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3100",
+          "course_title": "Symphony",
+          "credits": "3",
+          "coid": "102426",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3200",
+          "course_title": "Opera",
+          "credits": "3",
+          "coid": "102427",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3450",
+          "course_title": "Appreciating the American Musical",
+          "credits": "3",
+          "coid": "102430",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3600",
+          "course_title": "Bach to Beethoven",
+          "credits": "3",
+          "coid": "102432",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3650",
+          "course_title": "Romanticism to Rock",
+          "credits": "3",
+          "coid": "102433",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3700",
+          "course_title": "19th Century Music",
+          "credits": "3",
+          "coid": "102434",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3750",
+          "course_title": "Music in Film",
+          "credits": "3",
+          "coid": "102435",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3900",
+          "course_title": "Women, Music, and Society",
+          "credits": "3",
+          "coid": "102438",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Studio Art Concentration Requirements (12-18 credits)",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required course - choose one of the following (3 cr.):",
+      "content": [
+        "OR"
+      ],
+      "courses": [
+        {
+          "course_code": "ART 1300",
+          "course_title": "Introduction to Studio Art: Drawing, Painting, and Sculpture",
+          "credits": "3 cr.",
+          "coid": "101619",
+          "footnote": "3 cr. Credit(s)"
+        },
+        {
+          "course_code": "ART 1400",
+          "course_title": "Drawing",
+          "credits": "3",
+          "coid": "101620",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "OR"
+      ]
+    },
+    {
+      "heading": "Choose the remaining 9-15 credits in Studio Art from the following courses:",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ART 1300",
+          "course_title": "Introduction to Studio Art: Drawing, Painting, and Sculpture",
+          "credits": "3 cr.",
+          "coid": "101619",
+          "footnote": "3 cr. Credit(s)"
+        },
+        {
+          "course_code": "ART 1400",
+          "course_title": "Drawing",
+          "credits": "3",
+          "coid": "101620",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 1600",
+          "course_title": "Design",
+          "credits": "3",
+          "coid": "101621",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 1650",
+          "course_title": "Three-Dimensional Design",
+          "credits": "3",
+          "coid": "101622",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2004",
+          "course_title": "Ceramics",
+          "credits": "3",
+          "coid": "102797",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2030",
+          "course_title": "Sculpture I",
+          "credits": "3",
+          "coid": "101624",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2102",
+          "course_title": "Introductory Painting",
+          "credits": "3",
+          "coid": "101626",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2150",
+          "course_title": "The Art of Puppetry",
+          "credits": "3",
+          "coid": "101628",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2200",
+          "course_title": "Life Drawing",
+          "credits": "3",
+          "coid": "101629",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2250",
+          "course_title": "Intermediate Drawing",
+          "credits": "3",
+          "coid": "101630",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2450",
+          "course_title": "Water-Based Media",
+          "credits": "3",
+          "coid": "101633",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3010",
+          "course_title": "Sculpture II",
+          "credits": "3",
+          "coid": "101639",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3020",
+          "course_title": "Intermediate Painting",
+          "credits": "3",
+          "coid": "101640",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3200",
+          "course_title": "Advanced Open-Media Studio Art",
+          "credits": "3",
+          "coid": "101643",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Theater Concentration Requirements (12-18 credits):",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required courses (12 cr.):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "THEA 1500",
+          "course_title": "Stage Movement",
+          "credits": "3",
+          "coid": "102671",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 1600",
+          "course_title": "Voice and Articulation",
+          "credits": "3",
+          "coid": "102654",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 1400",
+          "course_title": "Acting I",
+          "credits": "3",
+          "coid": "102674",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2720",
+          "course_title": "Page to Stage Analysis",
+          "credits": "3",
+          "coid": "102680",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "When choosing Option 1 (18 credits in Theater as the second concentration), choose an additional 6 credits from the following courses (6 cr.):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "THEA 3450",
+          "course_title": "Children’s Theater",
+          "credits": "3",
+          "coid": "102673",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2730",
+          "course_title": "History of the Theater I",
+          "credits": "3",
+          "coid": "101981",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2740",
+          "course_title": "History of the Theater II",
+          "credits": "3",
+          "coid": "101982",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 3420",
+          "course_title": "Acting II",
+          "credits": "3",
+          "coid": "102675",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2750",
+          "course_title": "Playwrighting",
+          "credits": "3",
+          "coid": "102749",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2520",
+          "course_title": "Advanced Stage Movement",
+          "credits": "3",
+          "coid": "102678",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2600",
+          "course_title": "Voice II",
+          "credits": "3",
+          "coid": "102679",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 4700",
+          "course_title": "Directing the Play",
+          "credits": "3",
+          "coid": "102681",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "IDIS Major Core Course Requirements (15 credits):",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required IDIS Seminars (6 cr.):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "IDIS 3004",
+          "course_title": "Interdisciplinary Studies Research Seminar",
+          "credits": "3",
+          "coid": "102910",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 4004",
+          "course_title": "Capstone Seminar",
+          "credits": "3",
+          "coid": "102784",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Required Interdisciplinary course (3 cr.):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "IDIS 1600",
+          "course_title": "Critical and Creative Thinking",
+          "credits": "3",
+          "coid": "102311",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Required Commonwealth of the Arts course - choose one of the following (3 cr.):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MUSC 2000",
+          "course_title": "Commonwealth of the Arts",
+          "credits": "3",
+          "coid": "102412",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2100",
+          "course_title": "Commonwealth of Ancient Arts",
+          "credits": "3",
+          "coid": "102413",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2120",
+          "course_title": "Commonwealth of Asian Arts",
+          "credits": "3",
+          "coid": "102414",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2130",
+          "course_title": "Commonwealth of the Modern Arts",
+          "credits": "3",
+          "coid": "102415",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2210",
+          "course_title": "Commonwealth of the Renaissance Arts",
+          "credits": "3",
+          "coid": "102417",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Required - choose any one of the following Interdisciplinary/multidisciplinary courses (3 cr.):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "AMST 1800",
+          "course_title": "Introduction to American Studies I",
+          "credits": "3",
+          "coid": "101614",
+          "footnote": ""
+        },
+        {
+          "course_code": "ARAB 2030",
+          "course_title": "Contemporary Arab World",
+          "credits": "3",
+          "coid": "102757",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2150",
+          "course_title": "The Art of Puppetry",
+          "credits": "3",
+          "coid": "101628",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 1100",
+          "course_title": "Principles of Human Geography",
+          "credits": "3",
+          "coid": "102115",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2204",
+          "course_title": "Climate Change and Human History",
+          "credits": "3",
+          "coid": "102755",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2204",
+          "course_title": "Climate Change and Human History",
+          "credits": "3",
+          "coid": "102754",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1000",
+          "course_title": "Introduction to Women, Gender, and Sexuality Studies",
+          "credits": "3",
+          "coid": "102308",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1002",
+          "course_title": "Introduction to Disability Studies",
+          "credits": "3",
+          "coid": "102686",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1200",
+          "course_title": "Introduction to International Studies",
+          "credits": "3",
+          "coid": "102309",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1800",
+          "course_title": "Global Issues",
+          "credits": "3",
+          "coid": "102312",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1900",
+          "course_title": "Introduction to Peace Studies",
+          "credits": "3",
+          "coid": "102313",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2030",
+          "course_title": "Contemporary Arab World",
+          "credits": "3",
+          "coid": "102891",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2100",
+          "course_title": "Dilemmas of Peace and War",
+          "credits": "3",
+          "coid": "102315",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2501",
+          "course_title": "Italy Through Film",
+          "credits": "3",
+          "coid": "102892",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2540",
+          "course_title": "Global Issues in Film",
+          "credits": "3",
+          "coid": "102319",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 3001",
+          "course_title": "Italian Culture (in English) I - From Antiquity to 1800",
+          "credits": "3",
+          "coid": "102893",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 3100",
+          "course_title": "Italian Culture (in English) II - From 1800 to the Present",
+          "credits": "3",
+          "coid": "102894",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 3300",
+          "course_title": "Women in Italy",
+          "credits": "3",
+          "coid": "102895",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 2500",
+          "course_title": "Italy Through Film",
+          "credits": "3",
+          "coid": "102336",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3000",
+          "course_title": "Italian Culture (in English) I—From Antiquity to 1800",
+          "credits": "3",
+          "coid": "102337",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3100",
+          "course_title": "Italian Culture (in English) II—From 1800 to the Present",
+          "credits": "3",
+          "coid": "102338",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3300",
+          "course_title": "Women in Italy",
+          "credits": "3",
+          "coid": "102339",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2000",
+          "course_title": "Commonwealth of the Arts",
+          "credits": "3",
+          "coid": "102412",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2100",
+          "course_title": "Commonwealth of Ancient Arts",
+          "credits": "3",
+          "coid": "102413",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2120",
+          "course_title": "Commonwealth of Asian Arts",
+          "credits": "3",
+          "coid": "102414",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2130",
+          "course_title": "Commonwealth of the Modern Arts",
+          "credits": "3",
+          "coid": "102415",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2210",
+          "course_title": "Commonwealth of the Renaissance Arts",
+          "credits": "3",
+          "coid": "102417",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3750",
+          "course_title": "Music in Film",
+          "credits": "3",
+          "coid": "102435",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3760",
+          "course_title": "Film Scoring",
+          "credits": "3",
+          "coid": "102436",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2001",
+          "course_title": "Medical Ethics",
+          "credits": "3",
+          "coid": "102744",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2600",
+          "course_title": "Philosophy of Human Nature",
+          "credits": "3",
+          "coid": "102488",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 3020",
+          "course_title": "Consciousness",
+          "credits": "3",
+          "coid": "102878",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3010",
+          "course_title": "Consciousness",
+          "credits": "3",
+          "coid": "102846",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3050",
+          "course_title": "Cognitive Neuroscience",
+          "credits": "3",
+          "coid": "102560",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Notes:",
+      "content": [
+        "The B.A. will be awarded if the student has completed courses demonstrating advanced intermediate proficiency in a world language."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12837",
+  "scraped_at": "2026-06-10T18:59:07.437972+00:00"
+}

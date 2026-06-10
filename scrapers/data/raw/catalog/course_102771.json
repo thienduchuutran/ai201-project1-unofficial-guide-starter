@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 3650",
+  "course_title": "Game Programming",
+  "credits": "3",
+  "description": "Offered: Fall\nThis course covers main game programming techniques and related algorithms. Topics may include game program architecture, game engine design patterns, game library, rapid prototyping and game testing, bitmap handling through programming, sound and music in game programming, pathfinding algorithms, and 3D programming. Game programming tools will be implemented using Object-Oriented paradigm and students will be able to choose any appropriate programming language for their main project. Cross-listed with GAME 3650\nPrerequisite(s): CSC 1550\nNote: Credit cannot be given to both CSC 3650 and GAME 3650 .",
+  "prerequisites": "CSC 1550",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102771",
+  "scraped_at": "2026-06-10T19:24:43.923296+00:00"
+}

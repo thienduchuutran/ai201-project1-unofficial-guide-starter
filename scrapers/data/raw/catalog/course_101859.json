@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 1900",
+  "course_title": "Discrete Mathematics",
+  "credits": "3",
+  "description": "Offered: Spring\nThis course introduces discrete mathematics as applied to computer science. Topics covered include Boolean logic, elementary set theory, functions, relations, enumeration, proof techniques number systems and trees. Cross-listed with MATH 1900\nPrerequisite(s): MATH 1250 or MATH 1300 or equivalent knowledge.\nNote: Credit is not awarded for both CSC 1900 and MATH 1900 .\nMeets General Education Requirement(s): PL",
+  "prerequisites": "MATH 1250 or MATH 1300 or equivalent knowledge.",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=101859",
+  "scraped_at": "2026-06-10T19:05:34.416361+00:00"
+}

@@ -1,0 +1,102 @@
+{
+  "program_name": "Theater Minor",
+  "degree_type": "Minor",
+  "department": "Required Courses",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "One elective (select from)* 3 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "THEA 3450",
+          "course_title": "Children’s Theater",
+          "credits": "3",
+          "coid": "102673",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2730",
+          "course_title": "History of the Theater I",
+          "credits": "3",
+          "coid": "101981",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2740",
+          "course_title": "History of the Theater II",
+          "credits": "3",
+          "coid": "101982",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 3420",
+          "course_title": "Acting II",
+          "credits": "3",
+          "coid": "102675",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 1480",
+          "course_title": "Applied Acting",
+          "credits": "3",
+          "coid": "102676",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 1250",
+          "course_title": "Artist as Business",
+          "credits": "3",
+          "coid": "102847",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 3720",
+          "course_title": "Dramaturgy",
+          "credits": "3",
+          "coid": "102823",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2750",
+          "course_title": "Playwrighting",
+          "credits": "3",
+          "coid": "102749",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2520",
+          "course_title": "Advanced Stage Movement",
+          "credits": "3",
+          "coid": "102678",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2600",
+          "course_title": "Voice II",
+          "credits": "3",
+          "coid": "102679",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 4400",
+          "course_title": "Auditioning",
+          "credits": "3",
+          "coid": "102682",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 4700",
+          "course_title": "Directing the Play",
+          "credits": "3",
+          "coid": "102681",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12820",
+  "scraped_at": "2026-06-10T18:56:12.278220+00:00"
+}

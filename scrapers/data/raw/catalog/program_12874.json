@@ -1,0 +1,290 @@
+{
+  "program_name": "Applied Science & Technology, Technology/Engineering Education Non-Licensure concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Engineering Technology Faculty",
+  "faculty": "Chairperson Nirajan Mani Professors Associate Professors Sanjay Kaul Soumitra Basu Wayne Whitfield Nirajan Mani Abdel Gabar Mustafa Hong Yu",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Engineering Technology Department",
+      "content": [
+        "The Engineering Technology Department offers three degree programs and six concentrations as follows:",
+        "The Applied Science & Technology Program focuses on the hands-on application, implementation and management of science and technology. Students apply their learned competencies to manage processes and systems. The program leads to a Bachelor of Science degree in Applied Science & Technology (120 credit hours) with concentrations of study in Construction Management, Technology/Engineering Education 5-12 Licensure, and Technology/Engineering Education Industry Training.",
+        "Our mission is to develop individuals who are innovative and collaborative in problem solving, understand the inherent value of design, have high ethical standards, are skilled in communication, are cognizant of their responsibility for a sustainable future, and are responsive to change.",
+        "Graduates of the program will have the following:"
+      ],
+      "courses": [],
+      "items": [
+        "Bachelor of Science in Applied Science & Technology (120 credit hours) with concentrations in Technology/Engineering Education 5-12 Licensure, Technology/Engineering Education Industry Training",
+        "Bachelor of Science in Construction Management (120 credit hours)",
+        "Bachelor of Science in Engineering Technology (120 credit hours) with concentrations in Architecture, Electronics Engineering Technology, Energy Management Engineering Technology, and Manufacturing Engineering Technology",
+        "An ability to identify, formulate, and solve broadly defined technical or scientific problems by applying knowledge of mathematics and science and/or technical topics to areas relevant to the discipline.",
+        "An ability to formulate or design a system, process, procedure or program to meet desired needs.",
+        "An ability to develop and conduct experiments or test hypotheses, analyze and interpret data and use scientific judgment to draw conclusions.",
+        "An ability to communicate effectively with a range of audiences.",
+        "An ability to understand ethical and professional responsibilities and the impact of technical and/or scientific solutions in global, economic, environmental, and societal contexts.",
+        "An ability to function effectively on teams that establish goals, plan tasks, meet deadlines, and analyze risk and uncertainty."
+      ]
+    },
+    {
+      "heading": "Major General Education Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHYS 2300",
+          "course_title": "General Physics I",
+          "credits": "4",
+          "coid": "102505",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Requirements for the Major in Applied Science & Technology",
+      "content": [
+        "The Degree of Bachelor of Science in Applied Science and Technology (120 Cr Hrs) must include the following:"
+      ],
+      "courses": [
+        {
+          "course_code": "CMGT 3030",
+          "course_title": "MEP & HVAC Systems",
+          "credits": "3",
+          "coid": "103016",
+          "footnote": ""
+        },
+        {
+          "course_code": "CMGT 3035",
+          "course_title": "OSHA: Safety and Risk Management",
+          "credits": "3",
+          "coid": "103019",
+          "footnote": ""
+        },
+        {
+          "course_code": "CMGT 4020",
+          "course_title": "Communication and Transportation Technologies",
+          "credits": "3",
+          "coid": "103033",
+          "footnote": ""
+        },
+        {
+          "course_code": "CMGT 4025",
+          "course_title": "Construction Law and the Legal System",
+          "credits": "3",
+          "coid": "103034",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 1020",
+          "course_title": "Engineering Graphics",
+          "credits": "3",
+          "coid": "102984",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 1050",
+          "course_title": "Technical Analysis",
+          "credits": "3",
+          "coid": "102986",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2020",
+          "course_title": "Statics and Dynamics",
+          "credits": "3",
+          "coid": "102993",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2030",
+          "course_title": "Material Testing and Quality Control",
+          "credits": "3",
+          "coid": "102992",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2035",
+          "course_title": "Building Construction Systems",
+          "credits": "4",
+          "coid": "102987",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3000",
+          "course_title": "Energy and Sustainable Practices",
+          "credits": "3",
+          "coid": "103001",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3010",
+          "course_title": "Building Design I",
+          "credits": "3",
+          "coid": "102996",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3022",
+          "course_title": "Surveying",
+          "credits": "3",
+          "coid": "103005",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3025",
+          "course_title": "Engineering Design and Fabrication Systems I",
+          "credits": "3",
+          "coid": "103002",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3026",
+          "course_title": "Engineering Design and Fabrication Systems II",
+          "credits": "3",
+          "coid": "103003",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Core Requirements for Technology/Engineering Education Non-Licensure",
+      "content": [
+        "The Technology/Engineering Education non-Licensure concentration prepares for careers in preparing, delivering, and facilitating training and training programs. This is done with a strong underpinning in science and technology reinforced with course in methods of teaching and pedagogy."
+      ],
+      "courses": [
+        {
+          "course_code": "ENGT 1000",
+          "course_title": "Electric Systems and Circuits",
+          "credits": "3",
+          "coid": "102983",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2010",
+          "course_title": "Introduction to Technology/Engineering Education",
+          "credits": "3",
+          "coid": "102250",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3800",
+          "course_title": "Methods of Teaching Technology/Engineering Education I",
+          "credits": "3",
+          "coid": "102287",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3810",
+          "course_title": "Curriculum Development in Technology/Engineering Education",
+          "credits": "3",
+          "coid": "102288",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Technology/Engineering Education Non-Licensure concentration Electives",
+      "content": [
+        "Choose SIX courses from below:"
+      ],
+      "courses": [
+        {
+          "course_code": "CMGT 4030",
+          "course_title": "Construction Management Capstone",
+          "credits": "3",
+          "coid": "103006",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2025",
+          "course_title": "Strength of Materials",
+          "credits": "3",
+          "coid": "102994",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2050",
+          "course_title": "Electronics I",
+          "credits": "3",
+          "coid": "102989",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2055",
+          "course_title": "Electronics II",
+          "credits": "3",
+          "coid": "102990",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3005",
+          "course_title": "Heavy/Highway Construction Systems",
+          "credits": "3",
+          "coid": "103007",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3020",
+          "course_title": "Building Design II",
+          "credits": "3",
+          "coid": "102999",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3022",
+          "course_title": "Surveying",
+          "credits": "3",
+          "coid": "103005",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3028",
+          "course_title": "Estimating and Bidding",
+          "credits": "3",
+          "coid": "103004",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3041",
+          "course_title": "Manufacturing Processes and Systems",
+          "credits": "3",
+          "coid": "103014",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3650",
+          "course_title": "Co-Generation and Waste Recycling",
+          "credits": "3",
+          "coid": "102282",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 4010",
+          "course_title": "Project Scheduling",
+          "credits": "3",
+          "coid": "103027",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 4035",
+          "course_title": "Site Planning & Land Development",
+          "credits": "3",
+          "coid": "103011",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12874",
+  "scraped_at": "2026-06-10T18:57:20.783232+00:00"
+}

@@ -1,0 +1,116 @@
+{
+  "program_name": "Technical Theater Minor",
+  "degree_type": "Minor",
+  "department": "Expected Outcomes",
+  "faculty": "",
+  "description": [
+    "Students who complete the Technical Theater minor will be able to serve in an entry-level position for a production company or as an educator, supplement programs at schools where productions/concerts/recitals are mounted and are seeking the technical theater skillset served by this minor."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Program Curriculum Requirements",
+      "content": [
+        "This minor requires 6 courses, 18 credits. The following two courses are required:"
+      ],
+      "courses": [
+        {
+          "course_code": "TETA 1700",
+          "course_title": "Theatrical Design Skills",
+          "credits": "3",
+          "coid": "102659",
+          "footnote": ""
+        },
+        {
+          "course_code": "TETA 1400",
+          "course_title": "Production Implications",
+          "credits": "3",
+          "coid": "102666",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Four electives (select from list below)",
+      "content": [
+        "One of these courses must be at the 3000 or 4000 level."
+      ],
+      "courses": [
+        {
+          "course_code": "TETA 2300",
+          "course_title": "Fundamentals of Stage Lighting Design",
+          "credits": "3",
+          "coid": "102660",
+          "footnote": ""
+        },
+        {
+          "course_code": "TETA 2400",
+          "course_title": "Scene Design",
+          "credits": "3",
+          "coid": "102661",
+          "footnote": ""
+        },
+        {
+          "course_code": "TETA 2500",
+          "course_title": "Costume Design",
+          "credits": "3",
+          "coid": "102662",
+          "footnote": ""
+        },
+        {
+          "course_code": "TETA 3300",
+          "course_title": "Advanced Stage Lighting Design",
+          "credits": "3",
+          "coid": "102663",
+          "footnote": ""
+        },
+        {
+          "course_code": "TETA 3400",
+          "course_title": "Advanced Scene Design",
+          "credits": "3",
+          "coid": "102664",
+          "footnote": ""
+        },
+        {
+          "course_code": "TETA 1100",
+          "course_title": "Stage Makeup",
+          "credits": "3",
+          "coid": "102665",
+          "footnote": ""
+        },
+        {
+          "course_code": "TETA 3100",
+          "course_title": "Stage Management",
+          "credits": "3",
+          "coid": "102667",
+          "footnote": ""
+        },
+        {
+          "course_code": "TETA 4200",
+          "course_title": "Portfolio Presentation",
+          "credits": "3",
+          "coid": "102668",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 4700",
+          "course_title": "Directing the Play",
+          "credits": "3",
+          "coid": "102681",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "Courses used to fulfill any requirements within the Communications Media major may not be used for the Technical Theater minor."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12835",
+  "scraped_at": "2026-06-10T18:56:10.075908+00:00"
+}

@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 4210",
+  "course_title": "Computer Graphics Programming",
+  "credits": "3",
+  "description": "Offered: Spring\nStudents will write programs that create digital representations of geometric objects and render them on a computer screen. Topics covered in this course are: the graphics processing pipeline, graphics primitives, vertex specification, rendering, color theory, geometric transformations, illumination, perspectives and the virtual camera.\nPrerequisite(s): CSC 2560",
+  "prerequisites": "CSC 2560",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102772",
+  "scraped_at": "2026-06-10T19:24:45.836362+00:00"
+}

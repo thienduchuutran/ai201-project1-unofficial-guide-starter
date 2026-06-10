@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 3400",
+  "course_title": "Data Communications & Networking",
+  "credits": "3",
+  "description": "Offered: Fall\nData communications is a subset of telecommunications involving the transmission of data to and from computers and components of computer systems. It is concerned with the transmission of data through some medium, such as wire or fiber optic cable, and includes coverage of the telephone system, local area networks and wide area networks. Concepts of concern are error control, data codes, signal representation and modulation techniques, protocols, reliability and security. This course deals with both the hardware and software aspects of successful communication.\nPrerequisite(s): CSC 2560",
+  "prerequisites": "CSC 2560",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=101871",
+  "scraped_at": "2026-06-10T19:05:47.647831+00:00"
+}

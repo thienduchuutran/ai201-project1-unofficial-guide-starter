@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 1650",
+  "course_title": "Digital Electronics",
+  "credits": "4",
+  "description": "Offered: Spring\nThis course provides an introduction to the fundamental concepts and practices of designing and implementing digital circuits. Topics covered include number systems, Boolean algebra, logic gates, techniques for logic minimization, adders, multiplexers, decoders, encoders, comparators, and 7-segment displays. Students will learn the analysis and design of combinational logic, flip-flops, simple counters, registers, and synchronous and asynchronous sequential circuits.\nPrerequisite(s): MATH 1900 or CSC 1900\nNote: Students registering for this course must also register for the accompanying lab course.",
+  "prerequisites": "MATH 1900 or CSC 1900",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=101858",
+  "scraped_at": "2026-06-10T19:05:32.555264+00:00"
+}

@@ -1,0 +1,9 @@
+{
+  "course_code": "ENGT 4010",
+  "course_title": "Project Scheduling",
+  "credits": "3",
+  "description": "Offered: Fall\nThe course trains student in project planning and scheduling. Topics covered include Work break down structure, critical path method, PERT, networks and float.\nPrerequisite(s): ENGT 3028",
+  "prerequisites": "ENGT 3028",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=103027",
+  "scraped_at": "2026-06-10T19:30:39.782644+00:00"
+}

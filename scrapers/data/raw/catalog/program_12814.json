@@ -1,0 +1,206 @@
+{
+  "program_name": "Mathematics, Middle Level Initial Licensure, 5-8, BS",
+  "degree_type": "BS",
+  "department": "Mathematics Middle Level (5-8) Education with Initial Licensure",
+  "faculty": "Chairperson Peter Staab Professors Associate Professors Assistant Professors Mary Ann Barbato Sarah Wright Jessica Oehrlein Nermin Bayazit Catherine Buell Gerald Higdon Peter Staab Amy Wehe",
+  "description": [
+    "Chairperson Peter Staab",
+    "Students within the Mathematics Middle Level (5-8) Education concentration may pursue initial teacher licensure as a middle school mathematics (grades 5-8) teacher by completing a Mathematics major, Middle and Secondary (5-12) Education minor and a series of licensure specific courses. In this concentration students will learn the theory, research, and pedagogy necessary to teach middle school Mathematics through Middle and Secondary Education (5-12) minor and licensure specific courses, and develop mathematics content knowledge through the Mathematics major.",
+    "Throughout the program of study, students will complete several field-based experiences in middle school settings, which will be supervised by university supervising practitioners and/or university faculty supervisors.These field-based experiences will provide students with opportunities to observe and participate in middle school instruction that incorporates what students are learning in their education pedagogy classes as well as mathematics content that they are learning in their mathematics courses. Students will complete a formal practicum for their Middle School Education major as required for initial teacher licensure.",
+    "Develop effective thinking and communication skills",
+    "Learn to link applications and theory",
+    "Learn to use technological tools",
+    "Develop mathematical independence and experience open-ended inquiry",
+    "Students in this concentration will fulfill the core requirements of the Mathematics major with some restrictions and minor in Middle and Secondary Education (5-12) as well as licensure specific coursework as follows:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Core Courses for Mathematics Major",
+      "content": [
+        "Six additional credits of advanced mathematics at the 3000 or 4000 level, 3 of which must be at the 4000 level."
+      ],
+      "courses": [
+        {
+          "course_code": "MATH 2300",
+          "course_title": "Calculus I",
+          "credits": "4",
+          "coid": "102371",
+          "footnote": "(Quantitative Reasoning)"
+        },
+        {
+          "course_code": "MATH 2400",
+          "course_title": "Calculus II",
+          "credits": "4",
+          "coid": "102372",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2500",
+          "course_title": "Introduction to Mathematical Thought",
+          "credits": "3",
+          "coid": "102373",
+          "footnote": "(Procedural and Logical Thinking)"
+        },
+        {
+          "course_code": "MATH 2550",
+          "course_title": "Symbolic Computational Mathematics",
+          "credits": "3",
+          "coid": "102818",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2600",
+          "course_title": "Linear Algebra",
+          "credits": "3",
+          "coid": "102374",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3000",
+          "course_title": "Geometry",
+          "credits": "3",
+          "coid": "102376",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3350",
+          "course_title": "Multivariate Calculus",
+          "credits": "4",
+          "coid": "102819",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3900",
+          "course_title": "Mathematics Seminar",
+          "credits": "1",
+          "coid": "102381",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4200",
+          "course_title": "Probability and Statistics I",
+          "credits": "3",
+          "coid": "102385",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4300",
+          "course_title": "Abstract Algebra",
+          "credits": "3",
+          "coid": "102387",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4450",
+          "course_title": "Mathematical Modeling",
+          "credits": "3",
+          "coid": "102390",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 1000",
+          "course_title": "Introduction to Speech Communication",
+          "credits": "3",
+          "coid": "102650",
+          "footnote": "or"
+        },
+        {
+          "course_code": "SPCH 1100",
+          "course_title": "Argumentation and Debate",
+          "credits": "3",
+          "coid": "102651",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 1500",
+          "course_title": "Computer Science I",
+          "credits": "3",
+          "coid": "101855",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Six additional credits of advanced mathematics at the 3000 or 4000 level, 3 of which must be at the 4000 level."
+      ]
+    },
+    {
+      "heading": "Core Courses for Middle and Secondary Education (5-12) Minor)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "EDUC 2011",
+          "course_title": "Diversity in Education (5-12)",
+          "credits": "3",
+          "coid": "103043",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 2012",
+          "course_title": "Teaching the Adolescent Learner (5-12)",
+          "credits": "3",
+          "coid": "103047",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3800",
+          "course_title": "Inclusive Instruction (5-12)",
+          "credits": "3",
+          "coid": "102641",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3010",
+          "course_title": "Methods of Teaching Mathematics (5-12) I",
+          "credits": "3",
+          "coid": "103048",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4850",
+          "course_title": "Methods of Teaching Mathematics (5-12) II",
+          "credits": "3",
+          "coid": "102393",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Licensure Specific Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "EDUC 3122",
+          "course_title": "Sheltered English Immersion",
+          "credits": "3",
+          "coid": "102774",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4012",
+          "course_title": "Practicum Seminar (5-12)",
+          "credits": "3",
+          "coid": "102720",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4020",
+          "course_title": "Practicum in Middle School (5-8) Mathematics I",
+          "credits": "4.5",
+          "coid": "103057",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4030",
+          "course_title": "Practicum in Middle School (5-8) Mathematics II",
+          "credits": "4.5",
+          "coid": "103058",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12814",
+  "scraped_at": "2026-06-10T18:59:43.122841+00:00"
+}

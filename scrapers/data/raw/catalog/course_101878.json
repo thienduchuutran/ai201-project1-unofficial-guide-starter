@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 4350",
+  "course_title": "Computer and Network Security",
+  "credits": "3",
+  "description": "Offered: Fall\nLectures provide an introduction to the many aspects of computer and data network security. It covers fundamentals of number theory, authentication and encryption technologies, as well as some of the well-known security related topics. Various different computer and network security mechanisms and their weaknesses will be discussed.\nPrerequisite(s): CSC 1550 and CSC 3450",
+  "prerequisites": "CSC 1550 and CSC 3450",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=101878",
+  "scraped_at": "2026-06-10T19:05:56.136834+00:00"
+}

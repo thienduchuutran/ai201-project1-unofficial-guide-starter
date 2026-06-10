@@ -1,0 +1,76 @@
+{
+  "program_name": "Asian Studies Minor",
+  "degree_type": "Minor",
+  "department": "Required Courses:",
+  "faculty": "",
+  "description": [
+    "Choose one from the following courses with a “world designation”:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Choose four elective courses from the following:",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ARAB 2030",
+          "course_title": "Contemporary Arab World",
+          "credits": "3",
+          "coid": "102757",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2100",
+          "course_title": "Asian Art",
+          "credits": "3",
+          "coid": "101625",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2120",
+          "course_title": "Commonwealth of Asian Arts",
+          "credits": "3",
+          "coid": "101627",
+          "footnote": "or"
+        },
+        {
+          "course_code": "MUSC 2120",
+          "course_title": "Commonwealth of Asian Arts",
+          "credits": "3",
+          "coid": "102414",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3091",
+          "course_title": "Asian Cinemas: Eastern Visions in a Post Colonial World",
+          "credits": "3",
+          "coid": "102005",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3710",
+          "course_title": "South Asian Literature",
+          "credits": "3",
+          "coid": "102020",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2104",
+          "course_title": "The Silk Roads in History and Culture",
+          "credits": "3",
+          "coid": "102193",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2500",
+          "course_title": "Culture and Society of India",
+          "credits": "3",
+          "coid": "102712",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12657",
+  "scraped_at": "2026-06-10T18:58:41.544658+00:00"
+}

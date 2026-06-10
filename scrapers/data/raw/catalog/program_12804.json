@@ -1,0 +1,343 @@
+{
+  "program_name": "Interdisciplinary Studies, B.A.",
+  "degree_type": "B.A.",
+  "department": "Objectives for the Program in Interdisciplinary Studies",
+  "faculty": "",
+  "description": [
+    "The Bachelor of Science and Bachelor of Arts in Interdisciplinary Studies provides for many possible combinations of coursework available through this major, limited only by the breadth and depth of courses offered through the day and evening divisions of the university. Students work with faculty advisors to develop their unique major. When creating a plan of study, students must have a rationale for the thematic approach to their program."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Criteria for Admission",
+      "content": [
+        "There is a formal application procedure for students who choose to major in Interdisciplinary Studies as an internal or external transfer student. The purpose of the application is to:",
+        "The above-listed goals will happen after acceptance to the program for entering freshman and external transfer students."
+      ],
+      "courses": [],
+      "items": [
+        "Identify the student’s academic and professional goals to assure they are best achieved through the program.",
+        "Require students to meet with an advisor to consider and outline their proposed program.",
+        "Identify any required independent work or internship experience."
+      ]
+    },
+    {
+      "heading": "Interdisciplinary Studies",
+      "content": [],
+      "courses": [],
+      "items": [
+        "Students will have the opportunity to pursue individually designed interdisciplinary programs, or thematically organized Interdisciplinary concentrations, with a course of study reflective of their individual educational and professional goals.",
+        "Students will be able to identify and define a problem or issue which can be addressed from a variety of disciplinary perspectives, by doing the following:",
+        "Students will be able to conduct primary and secondary research in order to construct original interdisciplinary research questions/problems, and develop well documented, supported, reasoned, and informed conclusions to problems and issues, by doing the following:",
+        "Students will be able to apply and integrate methods, materials, and/or insights from different disciplines to the solution of a problem, the analysis of an issue, and ultimately the completion of an interdisciplinary capstone thesis or project informed by their previous work in different disciplines, by doing the following:",
+        "Students will be able to communicate ideas clearly, as demonstrated by the following:",
+        "Students will strengthen interdisciplinary habits of mind, such as the ability to recognize perspective and bias, think critically, tolerate ambiguity, discover common ground, and appreciate ethical concerns."
+      ]
+    },
+    {
+      "heading": "Requirements for the Major in Interdisciplinary Studies",
+      "content": [
+        "The Interdisciplinary Studies degree is typically awarded as a Bachelor of Science. A Bachelor of Arts is awarded if the student includes foreign language study through the second year of college level work and concentrates their fields of study in the liberal arts and sciences fields. Other requirements include:"
+      ],
+      "courses": [],
+      "items": [
+        "A rationale/thematic organizing principle for the program.",
+        "A required series of IDIS seminar courses [6 cr.]",
+        "A core of three interdisciplinary/multidisciplinary courses, one required, two elective [9 cr.]."
+      ]
+    },
+    {
+      "heading": "IDIS Major Core Course Requirements:",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "IDIS 1600",
+          "course_title": "Critical and Creative Thinking",
+          "credits": "3",
+          "coid": "102311",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "",
+      "content": [
+        "Choose TWO courses from below:"
+      ],
+      "courses": [
+        {
+          "course_code": "AMST 1800",
+          "course_title": "Introduction to American Studies I",
+          "credits": "3",
+          "coid": "101614",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2150",
+          "course_title": "The Art of Puppetry",
+          "credits": "3",
+          "coid": "101628",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2215",
+          "course_title": "A Cultural History of Nature",
+          "credits": "3",
+          "coid": "103247",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3700",
+          "course_title": "Women, Art, and Society",
+          "credits": "3",
+          "coid": "101646",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 1100",
+          "course_title": "Principles of Human Geography",
+          "credits": "3",
+          "coid": "102115",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2204",
+          "course_title": "Climate Change and Human History",
+          "credits": "3",
+          "coid": "102755",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "HIST 2204",
+          "course_title": "Climate Change and Human History",
+          "credits": "3",
+          "coid": "102754",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1000",
+          "course_title": "Introduction to Women, Gender, and Sexuality Studies",
+          "credits": "3",
+          "coid": "102308",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1002",
+          "course_title": "Introduction to Disability Studies",
+          "credits": "3",
+          "coid": "102686",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1200",
+          "course_title": "Introduction to International Studies",
+          "credits": "3",
+          "coid": "102309",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1250",
+          "course_title": "Introduction to Sustainability Studies",
+          "credits": "3",
+          "coid": "103246",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1800",
+          "course_title": "Global Issues",
+          "credits": "3",
+          "coid": "102312",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 1900",
+          "course_title": "Introduction to Peace Studies",
+          "credits": "3",
+          "coid": "102313",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2030",
+          "course_title": "Contemporary Arab World",
+          "credits": "3",
+          "coid": "102891",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2100",
+          "course_title": "Dilemmas of Peace and War",
+          "credits": "3",
+          "coid": "102315",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2501",
+          "course_title": "Italy Through Film",
+          "credits": "3",
+          "coid": "102892",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2540",
+          "course_title": "Global Issues in Film",
+          "credits": "3",
+          "coid": "102319",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 3001",
+          "course_title": "Italian Culture (in English) I - From Antiquity to 1800",
+          "credits": "3",
+          "coid": "102893",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 3100",
+          "course_title": "Italian Culture (in English) II - From 1800 to the Present",
+          "credits": "3",
+          "coid": "102894",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 3300",
+          "course_title": "Women in Italy",
+          "credits": "3",
+          "coid": "102895",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2000",
+          "course_title": "Commonwealth of the Arts",
+          "credits": "3",
+          "coid": "102412",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2100",
+          "course_title": "Commonwealth of Ancient Arts",
+          "credits": "3",
+          "coid": "102413",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2120",
+          "course_title": "Commonwealth of Asian Arts",
+          "credits": "3",
+          "coid": "102414",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2130",
+          "course_title": "Commonwealth of the Modern Arts",
+          "credits": "3",
+          "coid": "102415",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2210",
+          "course_title": "Commonwealth of the Renaissance Arts",
+          "credits": "3",
+          "coid": "102417",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3750",
+          "course_title": "Music in Film",
+          "credits": "3",
+          "coid": "102435",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3760",
+          "course_title": "Film Scoring",
+          "credits": "3",
+          "coid": "102436",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2001",
+          "course_title": "Medical Ethics",
+          "credits": "3",
+          "coid": "102744",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2600",
+          "course_title": "Philosophy of Human Nature",
+          "credits": "3",
+          "coid": "102488",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3010",
+          "course_title": "Consciousness",
+          "credits": "3",
+          "coid": "102846",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "PHIL 3020",
+          "course_title": "Consciousness",
+          "credits": "3",
+          "coid": "102878",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3050",
+          "course_title": "Cognitive Neuroscience",
+          "credits": "3",
+          "coid": "102560",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "IDIS 3004",
+          "course_title": "Interdisciplinary Studies Research Seminar",
+          "credits": "3",
+          "coid": "102910",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 4004",
+          "course_title": "Capstone Seminar",
+          "credits": "3",
+          "coid": "102784",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Notes",
+      "content": [],
+      "courses": [],
+      "items": [
+        "A minimum of 36 hours of coursework for the designed major which includes a university recognized minor [18 cr.] and at least 18 hours of additional designed coursework. At least 50% of the additional 18-24 credits of coursework must be 2000+ level courses.",
+        "A final year Capstone course demonstrating the integration of the various fields of study. This may be combined with an independent study, field experience or internship experience for additional 3 to 12 semester hours.",
+        "A minimum of 30 semester hours of coursework completed after the program of study is approved and filed with the registrar."
+      ]
+    },
+    {
+      "heading": "Additional Note:",
+      "content": [
+        "The B.A. will be awarded if the student has completed courses demonstrating advanced intermediate proficiency in a world language."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12804",
+  "scraped_at": "2026-06-10T18:59:05.531355+00:00"
+}

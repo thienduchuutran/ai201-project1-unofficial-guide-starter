@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 2700",
+  "course_title": "Business Programming",
+  "credits": "3",
+  "description": "Offered: Spring\nThis course provides students with experience in the design and coding of programs using a business oriented language. Topics covered include structured programming techniques; data, record and file design; sorting and merging of files; table handling; variable-length records; and indexed sequential access methods. File creation, updating and reporting are given special attention.\nPrerequisite(s): CSC 1500",
+  "prerequisites": "CSC 1500",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=101864",
+  "scraped_at": "2026-06-10T19:05:40.176188+00:00"
+}

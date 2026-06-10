@@ -1,0 +1,9 @@
+{
+  "course_code": "DATA 2000",
+  "course_title": "Principles of Data Analysis",
+  "credits": "3",
+  "description": "Offered: Spring\nThis course explores the process of using data to answer applied questions. Students develop skills to produce clear, thorough, and appropriate data analyses. Topics include cleaning and exploring data; building and evaluating regression, classification, and clustering models; and communicating results. Students will write short computer programs to do reproducible analyses.\nPrerequisite(s): MATH 1250 or MATH 1300 or MATH 1700 or MATH 1800 or MATH 2800\nMeets General Education Requirement(s): PL",
+  "prerequisites": "MATH 1250 or MATH 1300 or MATH 1700 or MATH 1800 or MATH 2800",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=103142",
+  "scraped_at": "2026-06-10T19:32:34.512427+00:00"
+}

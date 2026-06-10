@@ -1,0 +1,111 @@
+{
+  "program_name": "Human Services Minor",
+  "degree_type": "Minor",
+  "department": "Core Courses (Required): 9 credits",
+  "faculty": "",
+  "description": [
+    "The remaining requirements for the minor may be fulfilled by students completing any 9 credits or more in human services courses, including:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Elective Courses Available in the Minor (students select at least 9 credits from the following):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "HMSV 2400",
+          "course_title": "Crisis Intervention",
+          "credits": "3",
+          "coid": "102221",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 2900",
+          "course_title": "Group Work",
+          "credits": "3",
+          "coid": "102223",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 2950",
+          "course_title": "Addictive Behaviors",
+          "credits": "3",
+          "coid": "102224",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3000",
+          "course_title": "Managing the Non-Profit Agency",
+          "credits": "3",
+          "coid": "102225",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3410",
+          "course_title": "Building Community Supports for Persons with Disabilities",
+          "credits": "3",
+          "coid": "102226",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3450",
+          "course_title": "Aging Social Welfare Policy",
+          "credits": "3",
+          "coid": "103150",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3500",
+          "course_title": "Abuse and Neglect within the Family",
+          "credits": "3",
+          "coid": "102227",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3550",
+          "course_title": "Mental and Behavioral Health Policy",
+          "credits": "3",
+          "coid": "103151",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3600",
+          "course_title": "Assessment and Intervention",
+          "credits": "3",
+          "coid": "102228",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3610",
+          "course_title": "Assessment in Human Services",
+          "credits": "3",
+          "coid": "103152",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3620",
+          "course_title": "Intervention in Human Services",
+          "credits": "3",
+          "coid": "103153",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3700",
+          "course_title": "Professional Issues in Human Services",
+          "credits": "3",
+          "coid": "102229",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3800",
+          "course_title": "Case Management",
+          "credits": "4",
+          "coid": "102230",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12879",
+  "scraped_at": "2026-06-10T18:54:51.437478+00:00"
+}

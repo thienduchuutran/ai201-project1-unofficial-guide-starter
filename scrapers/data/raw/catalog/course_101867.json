@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 3200",
+  "course_title": "Programming Languages",
+  "credits": "3",
+  "description": "Offered: Day course offered in the Fall.\nThis course studies the hierarchy of programming languages starting with Assembly Language. It covers general principles of languages within imperative, object oriented and functional paradigms, as well as logic programming. Students have an opportunity to learn the basic concepts and constructs of various programming frameworks and practice software design skills in languages like Ada, Lisp and/or Prolog.\nPrerequisite(s): CSC 2560",
+  "prerequisites": "CSC 2560",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=101867",
+  "scraped_at": "2026-06-10T19:05:45.808315+00:00"
+}

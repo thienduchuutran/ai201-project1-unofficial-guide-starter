@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 4400",
+  "course_title": "Software Engineering",
+  "credits": "3",
+  "description": "Offered: Spring\nThis course examines main features of software life cycle. It covers the main issues in design creation, principles of programs verification, system testing and evaluation criteria. This course provides students with an opportunity to obtain practical experience in software design using CASE tools. Students work in project teams and apply principles of software design, verification, testing and coding toward the solutions of assigned problems.\nPrerequisite(s): CSC 3050\nMeets General Education Requirement(s): ER",
+  "prerequisites": "CSC 3050",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=101879",
+  "scraped_at": "2026-06-10T19:05:59.127182+00:00"
+}

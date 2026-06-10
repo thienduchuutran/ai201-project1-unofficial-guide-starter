@@ -1,0 +1,9 @@
+{
+  "course_code": "GEOG 4003",
+  "course_title": "Geographic Information Systems II",
+  "credits": "3",
+  "description": "Offered: Fall\nThe course exposes students to wide-ranging real-world data and Geographic Information System (GIS) applications that require integration of different GIS processing steps and workflows to solve realistic problems using ArcGIS Pro. The course is hands-on and lab-based.\nPrerequisite(s): CSC 1500 or GEOG 2400 or GEOG 3120 or GEOG 3300\nMeets General Education Requirement(s): AIA, PL",
+  "prerequisites": "CSC 1500 or GEOG 2400 or GEOG 3120 or GEOG 3300",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102953",
+  "scraped_at": "2026-06-10T19:28:31.976987+00:00"
+}

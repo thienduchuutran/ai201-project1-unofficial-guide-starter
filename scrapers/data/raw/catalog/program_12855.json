@@ -1,0 +1,71 @@
+{
+  "program_name": "Latin Minor",
+  "degree_type": "Minor",
+  "department": "Admission Requirements",
+  "faculty": "",
+  "description": [
+    "Students who have taken more than one year of Latin in high school, but have not yet taken a Latin course at Fitchburg State University, are required to take a placement exam if they wish to register for a Latin course at the university level. Based on the results of the test, the student and instructor will determine the appropriate level of class for the student."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Program Curriculum Requirements",
+      "content": [
+        "The 18 credit hours of the Latin minor can be fulfilled by completing the following four required courses and two electives."
+      ],
+      "courses": [
+        {
+          "course_code": "LATN 1000",
+          "course_title": "Latin for Beginners I",
+          "credits": "3",
+          "coid": "102703",
+          "footnote": ""
+        },
+        {
+          "course_code": "LATN 1100",
+          "course_title": "Latin for Beginners II",
+          "credits": "3",
+          "coid": "102704",
+          "footnote": ""
+        },
+        {
+          "course_code": "LATN 2000",
+          "course_title": "Intermediate Latin I",
+          "credits": "3",
+          "coid": "102705",
+          "footnote": ""
+        },
+        {
+          "course_code": "LATN 2100",
+          "course_title": "Intermediate Latin II",
+          "credits": "3",
+          "coid": "102706",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Electives",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "LATN 3000",
+          "course_title": "Reading Latin Inscriptions",
+          "credits": "3",
+          "coid": "102883",
+          "footnote": ""
+        },
+        {
+          "course_code": "LATN 3010",
+          "course_title": "Readings in Latin Literature",
+          "credits": "3",
+          "coid": "102884",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12855",
+  "scraped_at": "2026-06-10T18:56:51.416934+00:00"
+}

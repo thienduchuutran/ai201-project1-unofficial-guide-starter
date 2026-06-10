@@ -1,0 +1,248 @@
+{
+  "program_name": "Chemistry, Initial Licensure - UG Chem concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Biology and Chemistry Faculty",
+  "faculty": "Chairperson Erin Rehrig Professors Associate Professors Assistant Professors Christopher Cratsley (Biology) Dennis Awasabisah (Chemistry) Elizabeth Kilpatrick (Biology) Lisa Grimm (Biology) Emma Downs (Chemistry) Ronald Krieser (Biology) Steven Fiedler (Chemistry) Mathangi Krishnamurthy (Chemistry) Aisling O’Connor (Chemistry) John Ludlam (Biology) Billy Samulak (Chemistry) Christopher Picone (Biology) Eric Williams (Biology) Erin Rehrig (Biology) Sean Rollins (Biology) Daniel Welsh (Biology)",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Chemistry",
+      "content": [
+        "The Bachelor of Science degree programs in chemistry are available for students who intend to pursue graduate studies, secondary school teaching, or a professional career in the chemical, pharmaceutical, biotechnology or related industry. The programs provide a strong background in the modern areas of chemistry including biochemistry with emphasis on hands-on laboratory work. They also provide the opportunity for exceptionally talented students to conduct independent research under the guidance of the faculty. The degree programs will also prepare students for further education in health sciences, such as medicine, dentistry, pharmacy, veterinary medicine, optometry and other health professions provided they take other pre-requisite courses."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required Core Courses in Chemistry",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "CHEM 1300",
+          "course_title": "General Chemistry I",
+          "credits": "4",
+          "coid": "101762",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 1400",
+          "course_title": "General Chemistry II",
+          "credits": "4",
+          "coid": "101763",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 2000",
+          "course_title": "Organic Chemistry I",
+          "credits": "4",
+          "coid": "101764",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 2100",
+          "course_title": "Organic Chemistry II",
+          "credits": "4",
+          "coid": "101765",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 2400",
+          "course_title": "General Analytical Chemistry",
+          "credits": "4",
+          "coid": "101766",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 3200",
+          "course_title": "Physical Chemistry I",
+          "credits": "4",
+          "coid": "101767",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 3600",
+          "course_title": "Descriptive Inorganic Chemistry",
+          "credits": "3",
+          "coid": "101769",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 3030",
+          "course_title": "Biochemistry I",
+          "credits": "3",
+          "coid": "102779",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CHEM 4750",
+          "course_title": "Chemistry Seminar",
+          "credits": "3",
+          "coid": "102740",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Requirement",
+      "content": [
+        "Chemistry majors must earn a minimum grade of 2.0 in General Chemistry I and General Chemistry II. If a grade below 2.0 is earned in General Chemistry I, the course must be repeated before enrolling in General Chemistry II. Chemistry majors are limited to two attempts in General Chemistry I and two attempts in General Chemistry II including the grade of W."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required Courses in Related Disciplines",
+      "content": [
+        "*Students with strong aptitude for calculus are encouraged to take PHYS 2600-2700 sequence instead of General Physics I-II."
+      ],
+      "courses": [
+        {
+          "course_code": "PHYS 2300",
+          "course_title": "General Physics I",
+          "credits": "4",
+          "coid": "102505",
+          "footnote": "*"
+        },
+        {
+          "course_code": "PHYS 2400",
+          "course_title": "General Physics II",
+          "credits": "4",
+          "coid": "102506",
+          "footnote": "*"
+        },
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2300",
+          "course_title": "Calculus I",
+          "credits": "4",
+          "coid": "102371",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2400",
+          "course_title": "Calculus II",
+          "credits": "4",
+          "coid": "102372",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 1800",
+          "course_title": "General Biology I",
+          "credits": "4",
+          "coid": "101661",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "*Students with strong aptitude for calculus are encouraged to take PHYS 2600-2700 sequence instead of General Physics I-II."
+      ]
+    },
+    {
+      "heading": "Minor Requirement",
+      "content": [
+        "Students must complete a minor in Middle School and Secondary Education which includes 18 credits. When completing this minor, students must complete the following specific courses:"
+      ],
+      "courses": [
+        {
+          "course_code": "CHEM 3015",
+          "course_title": "Methods of Teaching Chemistry (8-12) I",
+          "credits": "3",
+          "coid": "103049",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 4850",
+          "course_title": "Methods in Teaching Chemistry (8-12) II",
+          "credits": "3",
+          "coid": "102762",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 2011",
+          "course_title": "Diversity in Education (5-12)",
+          "credits": "3",
+          "coid": "103043",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 2012",
+          "course_title": "Teaching the Adolescent Learner (5-12)",
+          "credits": "3",
+          "coid": "103047",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3800",
+          "course_title": "Inclusive Instruction (5-12)",
+          "credits": "3",
+          "coid": "102641",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Licensure Courses",
+      "content": [
+        "To be eligible for initial licensure and to complete this concentration, students must complete:"
+      ],
+      "courses": [
+        {
+          "course_code": "CHEM 4012",
+          "course_title": "Practicum Seminar (5-12)",
+          "credits": "3",
+          "coid": "102734",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 4860",
+          "course_title": "Practicum in a Secondary School I",
+          "credits": "4.5",
+          "coid": "102763",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 4870",
+          "course_title": "Practicum in a Secondary School II",
+          "credits": "4.5",
+          "coid": "102764",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 3122",
+          "course_title": "Sheltered English Immersion",
+          "credits": "3",
+          "coid": "102774",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Review Periods",
+      "content": [
+        "Students in this concentration must complete two review periods known as Stage I and Stage II to remain in the concentration and make progress towards earning their initial license. Students who do NOT successfully complete either review will be removed from the concentration. They will stay as a chemistry major and remain in the minor, however, will not be eligible for the Initial Teacher License concentration."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Additional Information about the Program of Study",
+      "content": [
+        "An additional 30 credits of LA&S coursework is required for those entering the concentration in catalog year 2021-2022 or later.",
+        "The LA&S requirement for Diverse Perspectives is met by EDUC 2011 ."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12822",
+  "scraped_at": "2026-06-10T18:55:16.059236+00:00"
+}

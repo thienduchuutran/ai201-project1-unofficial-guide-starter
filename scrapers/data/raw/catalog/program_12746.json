@@ -1,0 +1,276 @@
+{
+  "program_name": "Mathematics, Secondary Education with Initial Licensure (8-12), B.S.",
+  "degree_type": "B.S.",
+  "department": "Mathematics Faculty",
+  "faculty": "Chairperson Peter Staab Professors Associate Professors Assistant Professors Mary Ann Barbato Nestor Diaz Morera Nermin Bayazit Jessica Oehrlein Catherine Buell Gerald Higdon Peter Staab Amy Wehe Sarah Wright",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Mathematics Program",
+      "content": [
+        "The Department of Mathematics serves all students at the university. Mathematics majors receive a comprehensive foundation in abstract and applied mathematics as preparation for graduate school or a professional career. Minors in Mathematics receive the mathematical foundation needed for advanced work in their major field.",
+        "The department also provides non-majors with courses for their major or with courses for their General Education program.",
+        "Develop effective thinking and communication skills",
+        "Learn to link applications and theory",
+        "Learn to use technological tools",
+        "Develop mathematical independence and experience open-ended inquiry"
+      ],
+      "courses": [],
+      "items": [
+        "Present information in a clear, precise and organized manner both verbally and in writing.",
+        "Use and compare analytical, visual, and numerical perspectives in exploring mathematics.",
+        "Recognize and make mathematically rigorous arguments.",
+        "Approach mathematical problems with curiosity and creativity and persist in the face of difficulties.",
+        "Work creatively and self-sufficiently with mathematics.",
+        "Understand and apply motivating examples that illustrate the ideas they are studying.",
+        "Apply mathematical ideas to problems in those areas of study.",
+        "See mathematical theory as useful and enlightening in both pure and applied contexts.",
+        "Recognize and integrate connections between mathematical courses and theory.",
+        "Use technology effectively, both as a tool for solving problems and exploring mathematical ideas.",
+        "Use technology with increasing sophistication throughout a major curriculum.",
+        "Be able to explore mathematical ideas and problems beyond the classroom.",
+        "Explore increasingly more difficult and open-ended questions.",
+        "Speak and write about mathematics with increasing depth and sophistication."
+      ]
+    },
+    {
+      "heading": "Required General Education Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "CSC 1500",
+          "course_title": "Computer Science I",
+          "credits": "3",
+          "coid": "101855",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Mathematics Core Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1850",
+          "course_title": "Freshman Seminar in Mathematics",
+          "credits": "1",
+          "coid": "102366",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2300",
+          "course_title": "Calculus I",
+          "credits": "4",
+          "coid": "102371",
+          "footnote": "*"
+        },
+        {
+          "course_code": "MATH 2400",
+          "course_title": "Calculus II",
+          "credits": "4",
+          "coid": "102372",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2500",
+          "course_title": "Introduction to Mathematical Thought",
+          "credits": "3",
+          "coid": "102373",
+          "footnote": "*"
+        },
+        {
+          "course_code": "MATH 2550",
+          "course_title": "Symbolic Computational Mathematics",
+          "credits": "3",
+          "coid": "102818",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2600",
+          "course_title": "Linear Algebra",
+          "credits": "3",
+          "coid": "102374",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3350",
+          "course_title": "Multivariate Calculus",
+          "credits": "4",
+          "coid": "102819",
+          "footnote": ""
+        },
+        {
+          "course_code": "DATA 2000",
+          "course_title": "Principles of Data Analysis",
+          "credits": "3",
+          "coid": "103142",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "MATH 2800",
+          "course_title": "Introduction to Statistical Analysis",
+          "credits": "3",
+          "coid": "103141",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Required Course",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 3200",
+          "course_title": "History of Mathematics",
+          "credits": "3",
+          "coid": "102378",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Advanced Requirements for Mathematics Secondary Education",
+      "content": [
+        "These courses are designed to give a breadth of knowledge in the three areas: Theoretical Mathematics, Applied and Statistics. These requirements also ensure a student has sufficient exposure to the high level courses.",
+        "The following courses (with the advanced group they are in) are required for content requirements from DESE and still fit the breadth and depth requirements of all other mathematics concentrations.",
+        "Theoretical Courses",
+        "Applied Courses",
+        "Statistics Course"
+      ],
+      "courses": [
+        {
+          "course_code": "MATH 3000",
+          "course_title": "Geometry",
+          "credits": "3",
+          "coid": "102376",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3150",
+          "course_title": "Elementary Number Theory",
+          "credits": "3",
+          "coid": "102377",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3550",
+          "course_title": "Ordinary Differential Equations",
+          "credits": "3",
+          "coid": "102380",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4400",
+          "course_title": "Operations Research",
+          "credits": "3",
+          "coid": "102389",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "MATH 4450",
+          "course_title": "Mathematical Modeling",
+          "credits": "3",
+          "coid": "102390",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4200",
+          "course_title": "Probability and Statistics I",
+          "credits": "3",
+          "coid": "102385",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Theoretical Courses",
+        "Applied Courses",
+        "Statistics Course"
+      ]
+    },
+    {
+      "heading": "Capstone for Mathematics Licensure",
+      "content": [
+        "* MAJs for PL and QR General Education requirements"
+      ],
+      "courses": [
+        {
+          "course_code": "MATH 4860",
+          "course_title": "Practicum in a Secondary School I",
+          "credits": "4.5",
+          "coid": "102394",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4870",
+          "course_title": "Practicum in a Secondary School II",
+          "credits": "4.5",
+          "coid": "102395",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* MAJs for PL and QR General Education requirements"
+      ]
+    },
+    {
+      "heading": "Mathematics with Initial Licensure Concentration",
+      "content": [
+        "Students within our Mathematics major can pursue initial licensure as high school Mathematics teachers. This program provides students with both a broad introduction to high school teaching and specific instruction in the theory, research and practice of secondary Mathematics teaching. Students engage in field-based experiences in the school setting supervised by our faculty through on-site pre-practicum experiences coupled with each teaching course and a formal teaching practicum as the capstone experience. Students pursuing this option will have to fulfill the degree requirements for the mathematics major with some restricted electives, a minor in Middle and Secondary Education (5-12), as well as the requirements for initial teacher licensure in Secondary Education.The requirements are described below:",
+        "These courses are required for subject matter knowledge requirements for DESE."
+      ],
+      "courses": [
+        {
+          "course_code": "EDUC 3122",
+          "course_title": "Sheltered English Immersion",
+          "credits": "3",
+          "coid": "102774",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1500",
+          "course_title": "Informal Number Theory",
+          "credits": "3",
+          "coid": "102362",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1600",
+          "course_title": "Informal Mathematical Modeling",
+          "credits": "3",
+          "coid": "102363",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4012",
+          "course_title": "Practicum Seminar (5-12)",
+          "credits": "3",
+          "coid": "102720",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 1000",
+          "course_title": "Introduction to Speech Communication",
+          "credits": "3",
+          "coid": "102650",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "SPCH 1100",
+          "course_title": "Argumentation and Debate",
+          "credits": "3",
+          "coid": "102651",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "These courses are required for subject matter knowledge requirements for DESE.",
+        "Middle and Secondary Education (5-12) Minor"
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12746",
+  "scraped_at": "2026-06-10T18:59:45.092859+00:00"
+}

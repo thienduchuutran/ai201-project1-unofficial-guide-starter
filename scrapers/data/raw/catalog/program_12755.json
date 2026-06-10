@@ -1,0 +1,83 @@
+{
+  "program_name": "Construction Management Minor",
+  "degree_type": "Minor",
+  "department": "Requirements for the Minor in Construction Management 19 cr.",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGT 1020",
+          "course_title": "Engineering Graphics",
+          "credits": "3",
+          "coid": "102984",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 2035",
+          "course_title": "Building Construction Systems",
+          "credits": "4",
+          "coid": "102987",
+          "footnote": ""
+        },
+        {
+          "course_code": "CMGT 3035",
+          "course_title": "OSHA: Safety and Risk Management",
+          "credits": "3",
+          "coid": "103019",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 4010",
+          "course_title": "Project Scheduling",
+          "credits": "3",
+          "coid": "103027",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose two electives from the following:"
+      ],
+      "courses": [
+        {
+          "course_code": "ENGT 3005",
+          "course_title": "Heavy/Highway Construction Systems",
+          "credits": "3",
+          "coid": "103007",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3022",
+          "course_title": "Surveying",
+          "credits": "3",
+          "coid": "103005",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3028",
+          "course_title": "Estimating and Bidding",
+          "credits": "3",
+          "coid": "103004",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 4035",
+          "course_title": "Site Planning & Land Development",
+          "credits": "3",
+          "coid": "103011",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12755",
+  "scraped_at": "2026-06-10T18:57:36.335982+00:00"
+}

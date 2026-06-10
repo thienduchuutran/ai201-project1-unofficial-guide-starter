@@ -1,0 +1,9 @@
+{
+  "course_code": "GEOG 4000",
+  "course_title": "Geographic Information System",
+  "credits": "3",
+  "description": "Offered: annually\nIntroduction to basic concepts and applications of geographic information systems (GIS). Lab exercises on PC-based GIS packages.\nPrerequisite(s): CSC 1100 or GEOG 2400 or GEOG 3120 or GEOG 3300\nMeets General Education Requirement(s): AIA, PL",
+  "prerequisites": "CSC 1100 or GEOG 2400 or GEOG 3120 or GEOG 3300",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102132",
+  "scraped_at": "2026-06-10T19:11:57.088402+00:00"
+}

@@ -1,0 +1,181 @@
+{
+  "program_name": "Sustainability Studies Minor",
+  "degree_type": "Minor",
+  "department": "Program Requirements",
+  "faculty": "",
+  "description": [
+    "Core Courses (6 credits):"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Culture, Politics and Society (6 credits):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "HIST 2204",
+          "course_title": "Climate Change and Human History",
+          "credits": "3",
+          "coid": "102754",
+          "footnote": "or"
+        },
+        {
+          "course_code": "GEOG 2204",
+          "course_title": "Climate Change and Human History",
+          "credits": "3",
+          "coid": "102755",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2080",
+          "course_title": "Environmental Policy",
+          "credits": "3",
+          "coid": "102938",
+          "footnote": "or"
+        },
+        {
+          "course_code": "GEOG 2080",
+          "course_title": "Environmental Policy",
+          "credits": "3",
+          "coid": "102937",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2201",
+          "course_title": "U.S. Economic History",
+          "credits": "3",
+          "coid": "101942",
+          "footnote": "or"
+        },
+        {
+          "course_code": "HIST 2201",
+          "course_title": "U.S. Economic History",
+          "credits": "3",
+          "coid": "102172",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2025",
+          "course_title": "Environmental Sociology",
+          "credits": "3",
+          "coid": "103252",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 2200",
+          "course_title": "Environmental Communication",
+          "credits": "3",
+          "coid": "103248",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2215",
+          "course_title": "A Cultural History of Nature",
+          "credits": "3",
+          "coid": "103247",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Natural Sciences and Technology (6 credits):",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "HIST 2204",
+          "course_title": "Climate Change and Human History",
+          "credits": "3",
+          "coid": "102754",
+          "footnote": "or"
+        },
+        {
+          "course_code": "GEOG 2204",
+          "course_title": "Climate Change and Human History",
+          "credits": "3",
+          "coid": "102755",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2003",
+          "course_title": "Environmental Geology",
+          "credits": "3",
+          "coid": "102936",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHS 3000",
+          "course_title": "Environmental Health",
+          "credits": "3",
+          "coid": "102979",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 2300",
+          "course_title": "Ecology",
+          "credits": "4",
+          "coid": "101664",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 3100",
+          "course_title": "Conservation Biology",
+          "credits": "3",
+          "coid": "101673",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 1010",
+          "course_title": "Introduction to Environmental Science",
+          "credits": "3",
+          "coid": "101653",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 1000",
+          "course_title": "Chemistry in a Changing World",
+          "credits": "3",
+          "coid": "101760",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 2006",
+          "course_title": "Water Resources and Society",
+          "credits": "3",
+          "coid": "103075",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 1000",
+          "course_title": "Earth Systems Science",
+          "credits": "3",
+          "coid": "102114",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3000",
+          "course_title": "Energy and Sustainable Practices",
+          "credits": "3",
+          "coid": "103001",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "HIST/GEOG 2204 can only be used to satisfy one area."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12904",
+  "scraped_at": "2026-06-10T18:59:01.659136+00:00"
+}

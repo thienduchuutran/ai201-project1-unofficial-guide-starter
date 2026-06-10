@@ -1,0 +1,136 @@
+{
+  "program_name": "African-American Studies Minor",
+  "degree_type": "Minor",
+  "department": "Required Courses",
+  "faculty": "",
+  "description": [
+    "Choose ONE course from:",
+    "Choose ONE course from:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose THREE courses from:"
+      ],
+      "courses": [
+        {
+          "course_code": "AAST 2142",
+          "course_title": "African-American History",
+          "credits": "3",
+          "coid": "101604",
+          "footnote": "or"
+        },
+        {
+          "course_code": "HIST 2142",
+          "course_title": "African-American History",
+          "credits": "3",
+          "coid": "102178",
+          "footnote": ""
+        },
+        {
+          "course_code": "AAST 2660",
+          "course_title": "19th Century African American Literature",
+          "credits": "3",
+          "coid": "102739",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2660",
+          "course_title": "19th Century African American Literature",
+          "credits": "3",
+          "coid": "101976",
+          "footnote": ""
+        },
+        {
+          "course_code": "AAST 2670",
+          "course_title": "20th Century African-American Literature",
+          "credits": "3",
+          "coid": "101607",
+          "footnote": "or"
+        },
+        {
+          "course_code": "ENGL 2670",
+          "course_title": "20th Century African American Literature",
+          "credits": "3",
+          "coid": "101977",
+          "footnote": ""
+        },
+        {
+          "course_code": "AAST 2510",
+          "course_title": "Peoples and Cultures of Africa",
+          "credits": "3",
+          "coid": "101605",
+          "footnote": "or"
+        },
+        {
+          "course_code": "SOC 2510",
+          "course_title": "Peoples and Cultures of Africa",
+          "credits": "3",
+          "coid": "102594",
+          "footnote": ""
+        },
+        {
+          "course_code": "AAST 2203",
+          "course_title": "The Civil Rights Movement",
+          "credits": "3",
+          "coid": "101608",
+          "footnote": "or"
+        },
+        {
+          "course_code": "HIST 2203",
+          "course_title": "The Civil Rights Movement",
+          "credits": "3",
+          "coid": "102195",
+          "footnote": "or"
+        },
+        {
+          "course_code": "AMST 2203",
+          "course_title": "The Civil Rights Movement",
+          "credits": "3",
+          "coid": "101616",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 2203",
+          "course_title": "The Civil Rights Movement",
+          "credits": "3",
+          "coid": "102538",
+          "footnote": ""
+        },
+        {
+          "course_code": "AAST 3800",
+          "course_title": "History of Jazz",
+          "credits": "3",
+          "coid": "101609",
+          "footnote": "or"
+        },
+        {
+          "course_code": "MUSC 3800",
+          "course_title": "History of Jazz",
+          "credits": "3",
+          "coid": "102437",
+          "footnote": "or"
+        },
+        {
+          "course_code": "HIST 2141",
+          "course_title": "Slavery in the Atlantic World",
+          "credits": "3",
+          "coid": "102185",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Information",
+      "content": [
+        "Independent Study, Directed Study, or Topics courses that are pertinent to the minor can be selected in consultation with the coordinators of the African-American Studies Minor."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12684",
+  "scraped_at": "2026-06-10T18:59:20.653312+00:00"
+}

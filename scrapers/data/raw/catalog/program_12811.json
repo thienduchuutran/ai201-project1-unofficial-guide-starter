@@ -1,0 +1,127 @@
+{
+  "program_name": "Disability Studies Minor",
+  "degree_type": "Minor",
+  "department": "Program Curriculum Requirements",
+  "faculty": "",
+  "description": [
+    "Required Course (3 cr.):"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Additional Requirements",
+      "content": [
+        "Choose 5 courses from the list below (15 cr.)"
+      ],
+      "courses": [
+        {
+          "course_code": "ASL 1000",
+          "course_title": "American Sign Language (ASL) for Beginners I",
+          "credits": "3",
+          "coid": "102834",
+          "footnote": ""
+        },
+        {
+          "course_code": "ASL 1100",
+          "course_title": "American Sign Language (ASL) for Beginners II",
+          "credits": "3",
+          "coid": "102835",
+          "footnote": ""
+        },
+        {
+          "course_code": "ASL 1050",
+          "course_title": "Introduction to Deaf Studies",
+          "credits": "3",
+          "coid": "102863",
+          "footnote": "or"
+        },
+        {
+          "course_code": "SOC 1050",
+          "course_title": "Introduction to Deaf Studies",
+          "credits": "3",
+          "coid": "102864",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 3700",
+          "course_title": "Bioethics",
+          "credits": "3",
+          "coid": "101680",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2300",
+          "course_title": "Literature and Disability",
+          "credits": "3",
+          "coid": "101965",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3410",
+          "course_title": "Building Community Supports for Persons with Disabilities",
+          "credits": "3",
+          "coid": "102226",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 2001",
+          "course_title": "Medical Ethics",
+          "credits": "3",
+          "coid": "102744",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2350",
+          "course_title": "Abnormal Psychology",
+          "credits": "3",
+          "coid": "102563",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2370",
+          "course_title": "Psychology of Interpersonal Relationships",
+          "credits": "3",
+          "coid": "102564",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3200",
+          "course_title": "Developmental Psychopathology",
+          "credits": "3",
+          "coid": "102568",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2300",
+          "course_title": "Sociology of Aging",
+          "credits": "3",
+          "coid": "102591",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2700",
+          "course_title": "Social Problems",
+          "credits": "3",
+          "coid": "102600",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2720",
+          "course_title": "Medical Sociology",
+          "credits": "3",
+          "coid": "102601",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3020",
+          "course_title": "Students with Emotional/Behavioral and Autism Spectrum Disorders",
+          "credits": "3",
+          "coid": "102633",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12811",
+  "scraped_at": "2026-06-10T18:54:49.264687+00:00"
+}

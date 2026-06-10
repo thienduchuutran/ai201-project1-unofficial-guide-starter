@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 4005",
+  "course_title": "Ethical Hacking",
+  "credits": "3",
+  "description": "Offered: Spring\nThis course introduces the students to working with hacking tools and strategies in order to detect and report the vulnerabilities in computer systems such as networks and operating systems. Topics include the four stages of penetration testing: reconnaissance, scanning, exploitation and maintenance. Students will generate reports at each stage. Necessary background in networking and defensive programming will be reviewed.\nPrerequisite(s): CSC 2560",
+  "prerequisites": "CSC 2560",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102851",
+  "scraped_at": "2026-06-10T19:26:20.287918+00:00"
+}

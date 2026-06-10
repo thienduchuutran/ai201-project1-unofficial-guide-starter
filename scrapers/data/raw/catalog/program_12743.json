@@ -1,0 +1,76 @@
+{
+  "program_name": "Mathematics Education Minor",
+  "degree_type": "Minor",
+  "department": "Mathematics Faculty",
+  "faculty": "Chairperson Peter Staab Professors Associate Professors Assistant Professors Mary Ann Barbato Nestor Diaz Morera Nermin Bayazit Jessica Oehrlein Catherine Buell Gerald Higdon Peter Staab Amy Wehe Sarah Wright",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Required Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "MATH 2300",
+          "course_title": "Calculus I",
+          "credits": "4",
+          "coid": "102371",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1500",
+          "course_title": "Informal Number Theory",
+          "credits": "3",
+          "coid": "102362",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1600",
+          "course_title": "Informal Mathematical Modeling",
+          "credits": "3",
+          "coid": "102363",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2000",
+          "course_title": "Informal Geometry",
+          "credits": "3",
+          "coid": "102368",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2500",
+          "course_title": "Introduction to Mathematical Thought",
+          "credits": "3",
+          "coid": "102373",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2800",
+          "course_title": "Introduction to Statistical Analysis",
+          "credits": "3",
+          "coid": "103141",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Notes:",
+      "content": [],
+      "courses": [],
+      "items": [
+        "All prerequisites for a course must be met before the course can be taken.",
+        "This minor is restricted to students in Early Childhood Education, Elementary Education, Special Education and Educational Studies."
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12743",
+  "scraped_at": "2026-06-10T18:59:50.681302+00:00"
+}

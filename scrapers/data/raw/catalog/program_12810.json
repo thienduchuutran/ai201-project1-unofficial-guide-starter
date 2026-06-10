@@ -1,0 +1,160 @@
+{
+  "program_name": "Neuroscience, Behavior, and Cognition Minor",
+  "degree_type": "Minor",
+  "department": "Program Curriculum Requirements (Neuroscience, Behavior, and Cognition Minor)",
+  "faculty": "",
+  "description": [
+    "OR"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Electives (Neuroscience, Behavior, and Cognition Minor)",
+      "content": [
+        "At least two courses, for a minimum of 6 credits, from the following list of electives:",
+        "OR",
+        "OR"
+      ],
+      "courses": [
+        {
+          "course_code": "BIOL 1200",
+          "course_title": "Anatomy and Physiology I",
+          "credits": "4",
+          "coid": "101654",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 2004",
+          "course_title": "Human Anatomy and Physiology I",
+          "credits": "4",
+          "coid": "102900",
+          "footnote": "(requires General Biology I, II and Chemistry I)"
+        },
+        {
+          "course_code": "BIOL 1800",
+          "course_title": "General Biology I",
+          "credits": "4",
+          "coid": "101661",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 1900",
+          "course_title": "General Biology II",
+          "credits": "4",
+          "coid": "101662",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 2600",
+          "course_title": "Animal Behavior",
+          "credits": "4",
+          "coid": "101667",
+          "footnote": "(requires General Biology II)"
+        },
+        {
+          "course_code": "BIOL 2800",
+          "course_title": "Genetics",
+          "credits": "4",
+          "coid": "101670",
+          "footnote": "(requires General Biology I)"
+        },
+        {
+          "course_code": "BIOL 2250",
+          "course_title": "Cell Biology",
+          "credits": "4",
+          "coid": "101674",
+          "footnote": "(requires General Biology I)"
+        },
+        {
+          "course_code": "BIOL 3550",
+          "course_title": "Developmental Biology",
+          "credits": "4",
+          "coid": "101678",
+          "footnote": "(requires General Biology I, II, and BIOL 2800 Genetics)"
+        },
+        {
+          "course_code": "BIOL 4700",
+          "course_title": "Animal Physiology",
+          "credits": "4",
+          "coid": "101686",
+          "footnote": "(requires General Biology I, II and additional 2000+ biology course)"
+        },
+        {
+          "course_code": "PSY 2001",
+          "course_title": "Memory",
+          "credits": "3",
+          "coid": "102796",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2030",
+          "course_title": "Biological Psychology",
+          "credits": "3",
+          "coid": "102569",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3010",
+          "course_title": "Consciousness",
+          "credits": "3",
+          "coid": "102846",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 3020",
+          "course_title": "Consciousness",
+          "credits": "3",
+          "coid": "102878",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3050",
+          "course_title": "Cognitive Neuroscience",
+          "credits": "3",
+          "coid": "102560",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3430",
+          "course_title": "Sensation and Perception",
+          "credits": "3",
+          "coid": "102570",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3500",
+          "course_title": "Psychology of Learning",
+          "credits": "3",
+          "coid": "102572",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3610",
+          "course_title": "Advanced Research Methods: Cognition",
+          "credits": "3",
+          "coid": "103146",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3620",
+          "course_title": "Advanced Research Methods: Learning",
+          "credits": "3",
+          "coid": "103147",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3630",
+          "course_title": "Advanced Research Methods: Sensation and Perception",
+          "credits": "3",
+          "coid": "103148",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "OR",
+        "OR"
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12810",
+  "scraped_at": "2026-06-10T19:00:04.104455+00:00"
+}

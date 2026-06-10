@@ -1,0 +1,9 @@
+{
+  "course_code": "MATH 4400",
+  "course_title": "Operations Research",
+  "credits": "3",
+  "description": "Offered: as needed\nOperations Research studies the planning and analysis of complex systems using mathematical formulations. This course will focus on Linear Programming using the Simplex Method. Specific topics include linear programming, duality, networks, transportation problems, dynamic programming and stochastic models. We will develop theory and implement models in a computing environment. Students will learn to expand upon existing models and formulate their own models.\nPrerequisite(s): MATH 2400 and MATH 2600\nMeets General Education Requirement(s): AIA, PL",
+  "prerequisites": "MATH 2400 and MATH 2600",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102389",
+  "scraped_at": "2026-06-10T19:16:37.445628+00:00"
+}

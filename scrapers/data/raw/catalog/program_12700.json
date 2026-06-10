@@ -1,0 +1,262 @@
+{
+  "program_name": "Biology, Initial Licensure - UG Biology concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Biology and Chemistry Faculty",
+  "faculty": "Chairperson Erin Rehrig Professors Associate Professors Assistant Professors Christopher Cratsley (Biology) Dennis Awasabisah (Chemistry) Elizabeth Kilpatrick (Biology) Lisa Grimm (Biology) Emma Downs (Chemistry) Ronald Krieser (Biology) Steven Fiedler (Chemistry) Mathangi Krishnamurthy (Chemistry) Aisling O’Connor (Chemistry) John Ludlam (Biology) Billy Samulak (Chemistry) Christopher Picone (Biology) Eric Williams (Biology) Erin Rehrig (Biology) Sean Rollins (Biology) Daniel Welsh (Biology)",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Biology Program",
+      "content": [
+        "The Biology program at Fitchburg State University emphasizes basic scientific principles while challenging students. The Department of Biology and Chemistry has a rich history of producing successful graduates who have gone on to work in the vibrant biotechnology and life sciences industry, environmental and field biology workforce, various health professions, and teaching. Our faculty foster a supportive teaching and learning environment, offer individual attention to students, and provide numerous undergraduate and graduate research opportunities. The Biology and Chemistry Club sponsors social events to encourage interaction between students and faculty.",
+        "All Biology majors are required to take four core courses and six advanced BIOL electives ( > 2000) including a Capstone course, for a total of 36 credits.",
+        "The core biology courses include student laboratory work so that students develop the skills of scientific inquiry. Students develop scientific literacy through reading, writing, testing hypotheses, and quantitative analysis. Core courses also integrate computer literacy through lab activities."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Core courses required in the Biology major",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BIOL 1800",
+          "course_title": "General Biology I",
+          "credits": "4",
+          "coid": "101661",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 1900",
+          "course_title": "General Biology II",
+          "credits": "4",
+          "coid": "101662",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 2300",
+          "course_title": "Ecology",
+          "credits": "4",
+          "coid": "101664",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 2800",
+          "course_title": "Genetics",
+          "credits": "4",
+          "coid": "101670",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Requirements",
+      "content": [
+        "Biology majors also take six advanced electives at or above BIOL 2000. Independent study, directed study, internship or teaching practicum may each count as one advanced BIOL elective in a student’s program of study. Courses with a separate lecture and lab registration count as a single elective: the lab portion of a course does not constitute a distinct biology elective.",
+        "One of the six electives must be a designated Capstone course. Students in the Capstone course conduct a research project to demonstrate their skills in research design and analysis.",
+        "Biology majors must earn a minimum grade of 2.0 in General Biology I and General Chemistry I. If a grade below 2.0 is earned in either course, that course must be repeated before enrolling in any subsequent BIOL or CHEM classes. Biology majors are also limited to two attempts for each of General Biology I and General Chemistry I. If Biology majors earn <2.0 or a W in a second attempt, they must find another major that more closely matches their skills and interests."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Capstone course options",
+      "content": [
+        "Capstone courses must be taken at Fitchburg State: courses that transfer as the equivalent course will not fulfill this requirement. Independent studies ( BIOL 4903 ) require approval by the departmental curriculum committee in order to fulfill the capstone requirement.",
+        "Independent Studies (BIOL 4901-4903) require approval by the departmental curriculum committee in order to fulfill the capstone requirement."
+      ],
+      "courses": [
+        {
+          "course_code": "BIOL 3060",
+          "course_title": "Biochemical Techniques",
+          "credits": "3",
+          "coid": "102945",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 3550",
+          "course_title": "Developmental Biology",
+          "credits": "4",
+          "coid": "101678",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 3650",
+          "course_title": "Plant Biology",
+          "credits": "4",
+          "coid": "101679",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 4500",
+          "course_title": "Molecular Biology",
+          "credits": "4",
+          "coid": "101684",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 4700",
+          "course_title": "Animal Physiology",
+          "credits": "4",
+          "coid": "101686",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Independent Studies (BIOL 4901-4903) require approval by the departmental curriculum committee in order to fulfill the capstone requirement."
+      ]
+    },
+    {
+      "heading": "Required courses in related sciences",
+      "content": [
+        "In addition to BIOL courses, Bachelor of Science (BS) students are required to take courses in related sciences and two courses in mathematics at or above MATH 1300 ."
+      ],
+      "courses": [
+        {
+          "course_code": "CHEM 1300",
+          "course_title": "General Chemistry I",
+          "credits": "4",
+          "coid": "101762",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 1400",
+          "course_title": "General Chemistry II",
+          "credits": "4",
+          "coid": "101763",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 2000",
+          "course_title": "Organic Chemistry I",
+          "credits": "4",
+          "coid": "101764",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 2100",
+          "course_title": "Organic Chemistry II",
+          "credits": "4",
+          "coid": "101765",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHYS 2300",
+          "course_title": "General Physics I",
+          "credits": "4",
+          "coid": "102505",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHYS 2400",
+          "course_title": "General Physics II",
+          "credits": "4",
+          "coid": "102506",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Two math courses at or above the 1300 level."
+      ]
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "These requirements are slightly modified for the Bachelor of Science in Biology/Environmental Science."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "BS in Biology with Initial Teacher Licensure",
+      "content": [
+        "Students within our biology major can pursue initial licensure as high school biology teachers. This program provides students with both a broad introduction to high school teaching and specific instruction in the theory, research and practice of secondary science teaching. Students engage in field-based experiences in the school setting supervised by our faculty through on-site pre-practicum experiences coupled with each teaching course and a formal teaching practicum as the capstone experience. This program is nationally accredited by the Council for the Accreditation of Educator Preparation (CAEP) and boasts graduates working in high schools throughout the region.",
+        "Students interested in pursuing Initial Teacher Licensure must apply for formal admission to the program. For information about undergraduate requirements in teacher preparation, see the section titled: Teacher Preparation Programs (Undergraduate)",
+        "The Bachelor of Science in Biology with Initial Teacher Licensure includes all of the requirements for the biology major. MATH 1700 -Applied Statistics must be taken as one of the two math courses at or above the level of MATH 1300 . Teacher candidates are required to take four core courses and six advanced BIOL electives (>2000) including a Capstone course, for a total of 35 credits.",
+        "Students must complete the minor in Middle School/Secondary Education which includes 18 credits. When completing this minor, students must complete the following specific courses:",
+        "BIOL 1860 Introduction to Education (5-12) EDUC 2012 Teaching the Adolescent Learner EDUC 2011 Diversity in Education SPED 3800 Inclusive Instruction BIOL 3015 Methods in Teaching Science (5-12) I BIOL 4850 Methods in Teaching Science (5-12) II",
+        "Additionally, to be eligible for initial licensure and to complete this concentration, students must complete: BIOL 4012 Practicum Seminar (5-12) BIOL 4860 Practicum I Biology (8-12) BIOL 4870 Practicum II Biology (5-8) EDUC 3122 Sheltered English Immersion",
+        "As part of the completion of this program, students must go through two review processes (Stage I and Stage II) and meet the requirements before continuing on in the concentration. If the student is unable to meet the requirements of either review, then they will be removed from the concentration. They may stay in the biologymajor and continue to complete the Middle School and Secondary Education minor, but they will not be eligible to complete the Biology (8-12) InitialLicensure concentration."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required courses",
+      "content": [
+        "In addition, biology teacher candidates must also take the following courses, two of which count towards the 6 biology electives:"
+      ],
+      "courses": [
+        {
+          "course_code": "GEOG 1000",
+          "course_title": "Earth Systems Science",
+          "credits": "3",
+          "coid": "102114",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3800",
+          "course_title": "Inclusive Instruction (5-12)",
+          "credits": "3",
+          "coid": "102641",
+          "footnote": "*"
+        },
+        {
+          "course_code": "ENGL 4700",
+          "course_title": "Teaching Reading and Writing Across the Content Area",
+          "credits": "3",
+          "coid": "102046",
+          "footnote": "*"
+        },
+        {
+          "course_code": "BIOL 4850",
+          "course_title": "Methods of Teaching Biology (8-12) II",
+          "credits": "3",
+          "coid": "101689",
+          "footnote": "** (counts as one of the 6 Biology electives)"
+        },
+        {
+          "course_code": "EDUC 3122",
+          "course_title": "Sheltered English Immersion",
+          "credits": "3",
+          "coid": "102774",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 4012",
+          "course_title": "Practicum Seminar (5-12)",
+          "credits": "3",
+          "coid": "102733",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 4860",
+          "course_title": "Practicum in a Secondary School I",
+          "credits": "4.5 - 6",
+          "coid": "101690",
+          "footnote": "4.5 - (counts as one of the 6 Biology electives)"
+        },
+        {
+          "course_code": "BIOL 4870",
+          "course_title": "Practicum in a Secondary School II",
+          "credits": "4.5",
+          "coid": "101691",
+          "footnote": "(taken concurrently with BIOL 4860 for a total of 300 hrs. of Practicum experience)"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "*Students must have an overall GPA of 2.5 to take any of these courses.",
+        "**Students must have an overall GPA of 2.75, 3.0 in the major courses and passing score on the MTEL Communication and Literacy and Subject Area Exam."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12700",
+  "scraped_at": "2026-06-10T18:55:07.924296+00:00"
+}

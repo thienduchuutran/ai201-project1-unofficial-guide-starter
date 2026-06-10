@@ -1,0 +1,120 @@
+{
+  "program_name": "Digital Media Innovation Minor",
+  "degree_type": "Minor",
+  "department": "Program Curriculum Requirements",
+  "faculty": "",
+  "description": [
+    "Take 2 of the courses from the list below. (6 cr.)"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "Take 4 courses from the list below. (12 cr.)"
+      ],
+      "courses": [
+        {
+          "course_code": "COMM 2805",
+          "course_title": "Introduction to Social Media",
+          "credits": "3",
+          "coid": "102886",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3804",
+          "course_title": "Communicating Project Design",
+          "credits": "3",
+          "coid": "101788",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1900",
+          "course_title": "Introduction to Graphic Design",
+          "credits": "3",
+          "coid": "101819",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3206",
+          "course_title": "Creative Coding",
+          "credits": "3",
+          "coid": "103067",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3207",
+          "course_title": "Data & Society",
+          "credits": "3",
+          "coid": "103065",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3002",
+          "course_title": "Basic Data Skills for Economics and Business",
+          "credits": "3",
+          "coid": "102931",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3045",
+          "course_title": "Media Conscious Storytelling",
+          "credits": "3",
+          "coid": "102780",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2323",
+          "course_title": "Big Data, Artificial Intelligence, and Journalism",
+          "credits": "3",
+          "coid": "101967",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3600",
+          "course_title": "Language, Literature, and the Digital Humanities",
+          "credits": "3",
+          "coid": "103074",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 1100",
+          "course_title": "Elements of Game Design",
+          "credits": "3",
+          "coid": "102721",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 1200",
+          "course_title": "Introduction to Game Art",
+          "credits": "3",
+          "coid": "102722",
+          "footnote": ""
+        },
+        {
+          "course_code": "GAME 2010",
+          "course_title": "Game Narrative Design",
+          "credits": "3",
+          "coid": "102727",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4001",
+          "course_title": "Web GIS",
+          "credits": "3",
+          "coid": "102954",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1400",
+          "course_title": "Introduction to Music Technology",
+          "credits": "3",
+          "coid": "102410",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12884",
+  "scraped_at": "2026-06-10T18:56:00.633795+00:00"
+}

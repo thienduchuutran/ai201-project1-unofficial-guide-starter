@@ -1,0 +1,959 @@
+{
+  "program_name": "Creative Arts Enterprise, B.A.",
+  "degree_type": "B.A.",
+  "department": "Program Requirements (21 cr)",
+  "faculty": "",
+  "description": [
+    "CAPSTONE"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "MUSIC CONCENTRATION (24-26 credits)",
+      "content": [
+        "Required (9-11 cr)"
+      ],
+      "courses": [
+        {
+          "course_code": "MUSC 1000",
+          "course_title": "Art of Music",
+          "credits": "3",
+          "coid": "102407",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1400",
+          "course_title": "Introduction to Music Technology",
+          "credits": "3",
+          "coid": "102410",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1500",
+          "course_title": "World Music",
+          "credits": "3",
+          "coid": "102411",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2500",
+          "course_title": "Class Piano",
+          "credits": "1",
+          "coid": "102423",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1001",
+          "course_title": "Ear Training",
+          "credits": "1",
+          "coid": "102978",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "MUSC 4800 - Piano Proficiency Exam (0 cr) or",
+        "MUSC 4801 - Dictation/Sight Singing Proficiency Exam (0 cr) or"
+      ]
+    },
+    {
+      "heading": "Choose one of the following music theory courses ( 3 cr)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MUSC 2200",
+          "course_title": "Basic Music Theory",
+          "credits": "3",
+          "coid": "102416",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2240",
+          "course_title": "Music Theory and Analysis I",
+          "credits": "3",
+          "coid": "102418",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following group lessons (1 cr)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MUSC 2600",
+          "course_title": "Class Voice",
+          "credits": "1",
+          "coid": "102424",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2700",
+          "course_title": "Class Guitar",
+          "credits": "1",
+          "coid": "102425",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following music history courses ( 3 cr)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MUSC 3100",
+          "course_title": "Symphony",
+          "credits": "3",
+          "coid": "102426",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3150",
+          "course_title": "Music of the Stage",
+          "credits": "3",
+          "coid": "103036",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3200",
+          "course_title": "Opera",
+          "credits": "3",
+          "coid": "102427",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3400",
+          "course_title": "Twentieth-Century Music",
+          "credits": "3",
+          "coid": "102429",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3450",
+          "course_title": "Appreciating the American Musical",
+          "credits": "3",
+          "coid": "102430",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3500",
+          "course_title": "American Music",
+          "credits": "3",
+          "coid": "102431",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3600",
+          "course_title": "Bach to Beethoven",
+          "credits": "3",
+          "coid": "102432",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3650",
+          "course_title": "Romanticism to Rock",
+          "credits": "3",
+          "coid": "102433",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3700",
+          "course_title": "19th Century Music",
+          "credits": "3",
+          "coid": "102434",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3750",
+          "course_title": "Music in Film",
+          "credits": "3",
+          "coid": "102435",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3800",
+          "course_title": "History of Jazz",
+          "credits": "3",
+          "coid": "102437",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3900",
+          "course_title": "Women, Music, and Society",
+          "credits": "3",
+          "coid": "102438",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Performing ensembles and individual lessons (8 cr)",
+      "content": [
+        "4 semesters of ensemble (4 cr)",
+        "4 semesters of individual lessons (4 cr)"
+      ],
+      "courses": [
+        {
+          "course_code": "MUSC 2320",
+          "course_title": "Concert Choir",
+          "credits": "1",
+          "coid": "102949",
+          "footnote": "and/or"
+        },
+        {
+          "course_code": "MUSC 2330",
+          "course_title": "Chamber Choir",
+          "credits": "1",
+          "coid": "102950",
+          "footnote": "and/or"
+        },
+        {
+          "course_code": "MUSC 2400",
+          "course_title": "Jazz Band",
+          "credits": "1",
+          "coid": "102422",
+          "footnote": "and/or"
+        },
+        {
+          "course_code": "MUSC 2401",
+          "course_title": "Concert Band",
+          "credits": "1",
+          "coid": "103037",
+          "footnote": "and/or"
+        },
+        {
+          "course_code": "MUSC 2402",
+          "course_title": "Community Orchestra",
+          "credits": "1",
+          "coid": "103038",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "4 semesters of ensemble (4 cr)",
+        "4 semesters of individual lessons (4 cr)",
+        "MUSC 13XX Level 1 Private Musical Instruction 1 cr. and/or",
+        "MUSC 23XX Level 2 Private Musical Instruction 1 cr. and/or",
+        "MUSC 33XX Level 3 Private Musical Instruction 1 cr. and/or",
+        "MUSC 43XX Level 4 Private Musical Instruction 1 cr."
+      ]
+    },
+    {
+      "heading": "VISUAL ART CONCENTRATION (24 cr)",
+      "content": [
+        "Required (6 cr)"
+      ],
+      "courses": [
+        {
+          "course_code": "ART 1100",
+          "course_title": "Art Appreciation",
+          "credits": "3",
+          "coid": "101618",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 1400",
+          "course_title": "Drawing",
+          "credits": "3",
+          "coid": "101620",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following history courses (3 cr)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ART 2050",
+          "course_title": "Public Art",
+          "credits": "3",
+          "coid": "103101",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3000",
+          "course_title": "Contemporary Art",
+          "credits": "3",
+          "coid": "101638",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3150",
+          "course_title": "Modern Art",
+          "credits": "3",
+          "coid": "101642",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following 3-D courses (3 cr)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ART 1650",
+          "course_title": "Three-Dimensional Design",
+          "credits": "3",
+          "coid": "101622",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2004",
+          "course_title": "Ceramics",
+          "credits": "3",
+          "coid": "102797",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2030",
+          "course_title": "Sculpture I",
+          "credits": "3",
+          "coid": "101624",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following painting courses (3 cr)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ART 2102",
+          "course_title": "Introductory Painting",
+          "credits": "3",
+          "coid": "101626",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2450",
+          "course_title": "Water-Based Media",
+          "credits": "3",
+          "coid": "101633",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following intermediate/advanced courses (3 cr)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ART 2250",
+          "course_title": "Intermediate Drawing",
+          "credits": "3",
+          "coid": "101630",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3002",
+          "course_title": "Ceramics II",
+          "credits": "3",
+          "coid": "102969",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3020",
+          "course_title": "Intermediate Painting",
+          "credits": "3",
+          "coid": "101640",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3200",
+          "course_title": "Advanced Open-Media Studio Art",
+          "credits": "3",
+          "coid": "101643",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose two of the following general ART electives (6 cr)",
+      "content": [
+        "(a course selected for another cluster cannot be counted again for this cluster)"
+      ],
+      "courses": [
+        {
+          "course_code": "ART 1650",
+          "course_title": "Three-Dimensional Design",
+          "credits": "3",
+          "coid": "101622",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2004",
+          "course_title": "Ceramics",
+          "credits": "3",
+          "coid": "102797",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2030",
+          "course_title": "Sculpture I",
+          "credits": "3",
+          "coid": "101624",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2102",
+          "course_title": "Introductory Painting",
+          "credits": "3",
+          "coid": "101626",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2150",
+          "course_title": "The Art of Puppetry",
+          "credits": "3",
+          "coid": "101628",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2200",
+          "course_title": "Life Drawing",
+          "credits": "3",
+          "coid": "101629",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2250",
+          "course_title": "Intermediate Drawing",
+          "credits": "3",
+          "coid": "101630",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2450",
+          "course_title": "Water-Based Media",
+          "credits": "3",
+          "coid": "101633",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3002",
+          "course_title": "Ceramics II",
+          "credits": "3",
+          "coid": "102969",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3020",
+          "course_title": "Intermediate Painting",
+          "credits": "3",
+          "coid": "101640",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3200",
+          "course_title": "Advanced Open-Media Studio Art",
+          "credits": "3",
+          "coid": "101643",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "THEATER CONCENTRATION (24 cr)",
+      "content": [
+        "Required (18 cr)"
+      ],
+      "courses": [
+        {
+          "course_code": "THEA 1500",
+          "course_title": "Stage Movement",
+          "credits": "3",
+          "coid": "102671",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 1600",
+          "course_title": "Voice and Articulation",
+          "credits": "3",
+          "coid": "102654",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 3450",
+          "course_title": "Children’s Theater",
+          "credits": "3",
+          "coid": "102673",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 1400",
+          "course_title": "Acting I",
+          "credits": "3",
+          "coid": "102674",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 3720",
+          "course_title": "Dramaturgy",
+          "credits": "3",
+          "coid": "102823",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2720",
+          "course_title": "Page to Stage Analysis",
+          "credits": "3",
+          "coid": "102680",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose 6 more credits from the following courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MUSC 2320",
+          "course_title": "Concert Choir",
+          "credits": "1",
+          "coid": "102949",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2330",
+          "course_title": "Chamber Choir",
+          "credits": "1",
+          "coid": "102950",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2600",
+          "course_title": "Class Voice",
+          "credits": "1",
+          "coid": "102424",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2730",
+          "course_title": "History of the Theater I",
+          "credits": "3",
+          "coid": "101981",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2740",
+          "course_title": "History of the Theater II",
+          "credits": "3",
+          "coid": "101982",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 3420",
+          "course_title": "Acting II",
+          "credits": "3",
+          "coid": "102675",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 1480",
+          "course_title": "Applied Acting",
+          "credits": "3",
+          "coid": "102676",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 3430",
+          "course_title": "Acting for the Camera",
+          "credits": "3",
+          "coid": "102677",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2750",
+          "course_title": "Playwrighting",
+          "credits": "3",
+          "coid": "102749",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2520",
+          "course_title": "Advanced Stage Movement",
+          "credits": "3",
+          "coid": "102678",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2600",
+          "course_title": "Voice II",
+          "credits": "3",
+          "coid": "102679",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 4400",
+          "course_title": "Auditioning",
+          "credits": "3",
+          "coid": "102682",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 4700",
+          "course_title": "Directing the Play",
+          "credits": "3",
+          "coid": "102681",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "ELECTIVES (12 cr)",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following Communications Elective Courses (3 cr)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "COMM 1860",
+          "course_title": "Public Relations",
+          "credits": "3",
+          "coid": "101794",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1900",
+          "course_title": "Introduction to Graphic Design",
+          "credits": "3",
+          "coid": "101819",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4210",
+          "course_title": "Information Design",
+          "credits": "3",
+          "coid": "102870",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3845",
+          "course_title": "Marketing Communication",
+          "credits": "3",
+          "coid": "102875",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following Professional Writing Elective Courses (3 cr)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ENGL 2030",
+          "course_title": "News Reporting and Writing",
+          "credits": "3",
+          "coid": "102942",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3830",
+          "course_title": "College Newspaper Production",
+          "credits": "3",
+          "coid": "102023",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3840",
+          "course_title": "Freelance Writing for Magazine",
+          "credits": "3",
+          "coid": "102024",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3860",
+          "course_title": "Writing for Organizations",
+          "credits": "3",
+          "coid": "102025",
+          "footnote": "or"
+        },
+        {
+          "course_code": "COMM 3860",
+          "course_title": "Writing for Organizations",
+          "credits": "3",
+          "coid": "101823",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3870",
+          "course_title": "Feature and Magazine Writing",
+          "credits": "3",
+          "coid": "102026",
+          "footnote": "or"
+        },
+        {
+          "course_code": "COMM 3870",
+          "course_title": "Feature and Magazine Writing",
+          "credits": "3",
+          "coid": "101824",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3825",
+          "course_title": "Writing for Advertising",
+          "credits": "3",
+          "coid": "101793",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following Business Elective Courses (3 cr)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BSAD 1030",
+          "course_title": "Principles of Management",
+          "credits": "3",
+          "coid": "101706",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 1040",
+          "course_title": "Fundamentals of Marketing",
+          "credits": "3",
+          "coid": "101709",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3310",
+          "course_title": "Consumer Behavior",
+          "credits": "3",
+          "coid": "101710",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4325",
+          "course_title": "Market Research",
+          "credits": "3",
+          "coid": "101711",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 2600",
+          "course_title": "Business Law I",
+          "credits": "3",
+          "coid": "101718",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3800",
+          "course_title": "Digital Commerce",
+          "credits": "3",
+          "coid": "102773",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4600",
+          "course_title": "Writing the Business Plan",
+          "credits": "3",
+          "coid": "102790",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following Combined Electives (3 cr)",
+      "content": [
+        "(a course selected for another cluster cannot be counted again for this cluster)"
+      ],
+      "courses": [
+        {
+          "course_code": "BSAD 1700",
+          "course_title": "Introduction to Computer Information Systems for Business",
+          "credits": "3",
+          "coid": "101698",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 1030",
+          "course_title": "Principles of Management",
+          "credits": "3",
+          "coid": "101706",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 1040",
+          "course_title": "Fundamentals of Marketing",
+          "credits": "3",
+          "coid": "101709",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3310",
+          "course_title": "Consumer Behavior",
+          "credits": "3",
+          "coid": "101710",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4325",
+          "course_title": "Market Research",
+          "credits": "3",
+          "coid": "101711",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 2600",
+          "course_title": "Business Law I",
+          "credits": "3",
+          "coid": "101718",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3800",
+          "course_title": "Digital Commerce",
+          "credits": "3",
+          "coid": "102773",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3700",
+          "course_title": "Sales Management",
+          "credits": "3",
+          "coid": "101730",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3325",
+          "course_title": "International Marketing",
+          "credits": "3",
+          "coid": "101733",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4340",
+          "course_title": "Developing Marketing Strategies",
+          "credits": "3",
+          "coid": "101734",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4600",
+          "course_title": "Writing the Business Plan",
+          "credits": "3",
+          "coid": "102790",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2805",
+          "course_title": "Introduction to Social Media",
+          "credits": "3",
+          "coid": "102886",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2825",
+          "course_title": "Social Media Advertising and Public Relations",
+          "credits": "3",
+          "coid": "102887",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3825",
+          "course_title": "Writing for Advertising",
+          "credits": "3",
+          "coid": "101793",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1860",
+          "course_title": "Public Relations",
+          "credits": "3",
+          "coid": "101794",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1900",
+          "course_title": "Introduction to Graphic Design",
+          "credits": "3",
+          "coid": "101819",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4210",
+          "course_title": "Information Design",
+          "credits": "3",
+          "coid": "102870",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3845",
+          "course_title": "Marketing Communication",
+          "credits": "3",
+          "coid": "102875",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3860",
+          "course_title": "Writing for Organizations",
+          "credits": "3",
+          "coid": "102025",
+          "footnote": "or"
+        },
+        {
+          "course_code": "COMM 3860",
+          "course_title": "Writing for Organizations",
+          "credits": "3",
+          "coid": "101823",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3870",
+          "course_title": "Feature and Magazine Writing",
+          "credits": "3",
+          "coid": "102026",
+          "footnote": "or"
+        },
+        {
+          "course_code": "COMM 3870",
+          "course_title": "Feature and Magazine Writing",
+          "credits": "3",
+          "coid": "101824",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2030",
+          "course_title": "News Reporting and Writing",
+          "credits": "3",
+          "coid": "102942",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3830",
+          "course_title": "College Newspaper Production",
+          "credits": "3",
+          "coid": "102023",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3840",
+          "course_title": "Freelance Writing for Magazine",
+          "credits": "3",
+          "coid": "102024",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12903",
+  "scraped_at": "2026-06-10T18:58:32.580642+00:00"
+}

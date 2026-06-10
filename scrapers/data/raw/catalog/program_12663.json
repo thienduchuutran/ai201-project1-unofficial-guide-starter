@@ -1,0 +1,420 @@
+{
+  "program_name": "Computer Information Systems, B.S.",
+  "degree_type": "B.S.",
+  "department": "Computer Science Faculty",
+  "faculty": "Chairperson Nadimpalli Mahadev Professors Associate Professors Assistant Professors Brady Chen Natasha Kourtonina Guy Karlebach Nadimpalli Mahadev Frits Lander Hefei Qui Ricky Sethi",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Computer Information Systems",
+      "content": [
+        "The Computer Information Systems Program offers the opportunity for students to develop knowledge and skills in analysis and design of business information systems, database development, software development, and networking. This program prepares the students for professional careers in the rapidly changing field of computer information systems. Students develop good communication skills and the ability for teamwork and leadership roles in their professional careers.",
+        "All CIS majors are encouraged to seek a minor in Business Administration."
+      ],
+      "courses": [],
+      "items": [
+        "Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions",
+        "Design, implement, and evaluate a computing-based solutions to meet a given set of computing requirements in the context of the program’s discipline",
+        "Communicate effectively in a variety of professional contexts",
+        "Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles",
+        "Function effectively as a member or leader of a team engaged in activities appropriate to the computer science discipline",
+        "Support the delivery, use, and management of information systems within an information systems environment"
+      ]
+    },
+    {
+      "heading": "Required General Education Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": "(Quantitative Reasoning)"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Requirements for the Major in Computer Information Systems",
+      "content": [
+        "Must include:",
+        "* At most 6 internship credits can count towards the required CS electives."
+      ],
+      "courses": [
+        {
+          "course_code": "CSC 1400",
+          "course_title": "Computer Information Systems",
+          "credits": "3",
+          "coid": "101854",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 1900",
+          "course_title": "Discrete Mathematics",
+          "credits": "3",
+          "coid": "101859",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1900",
+          "course_title": "Discrete Mathematics",
+          "credits": "3",
+          "coid": "102367",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 1500",
+          "course_title": "Computer Science I",
+          "credits": "3",
+          "coid": "101855",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 1550",
+          "course_title": "Computer Science II",
+          "credits": "3",
+          "coid": "101856",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 2560",
+          "course_title": "Systems Programming",
+          "credits": "3",
+          "coid": "101862",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 3011",
+          "course_title": "Data Modeling and Database Design",
+          "credits": "3",
+          "coid": "102913",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 3400",
+          "course_title": "Data Communications & Networking",
+          "credits": "3",
+          "coid": "101871",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 3450",
+          "course_title": "Local Area Networks",
+          "credits": "3",
+          "coid": "101872",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 4100",
+          "course_title": "Ethics and Impacts of Computing Solutions",
+          "credits": "3",
+          "coid": "103035",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 2010",
+          "course_title": "Introduction to Financial Reporting",
+          "credits": "3",
+          "coid": "101700",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 1030",
+          "course_title": "Principles of Management",
+          "credits": "3",
+          "coid": "101706",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 3710",
+          "course_title": "Systems Analysis Methods",
+          "credits": "3",
+          "coid": "101876",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 4700",
+          "course_title": "Systems Design & Implementation",
+          "credits": "3",
+          "coid": "101882",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 1200",
+          "course_title": "Principles of Economics: Microeconomics",
+          "credits": "3",
+          "coid": "101940",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2800",
+          "course_title": "Introduction to Statistical Analysis",
+          "credits": "3",
+          "coid": "103141",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Three additional CS electives at or above 3000 level 9 cr.*"
+      ]
+    },
+    {
+      "heading": "CIS Environment Tracks",
+      "content": [
+        "Every CIS major needs to select one IS Environment track from the list below and complete the courses associated with that track."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Business Information Systems (BIS) track (15 cr.)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "CSC 2700",
+          "course_title": "Business Programming",
+          "credits": "3",
+          "coid": "101864",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 1100",
+          "course_title": "Principles of Economics: Macroeconomics",
+          "credits": "3",
+          "coid": "101939",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 2020",
+          "course_title": "Introduction to Managerial Accounting",
+          "credits": "3",
+          "coid": "101701",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 1040",
+          "course_title": "Fundamentals of Marketing",
+          "credits": "3",
+          "coid": "101709",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3400",
+          "course_title": "Basic Finance",
+          "credits": "3",
+          "coid": "101714",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Management Information Systems (MIS) track (15 cr.)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BSAD 3210",
+          "course_title": "Human Resources Management",
+          "credits": "3",
+          "coid": "101707",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3220",
+          "course_title": "Production Management",
+          "credits": "3",
+          "coid": "101708",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4200",
+          "course_title": "Organizational Behavior and Theory",
+          "credits": "3",
+          "coid": "101726",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4230",
+          "course_title": "Business Fluctuations and Forecasting",
+          "credits": "3",
+          "coid": "101728",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4880",
+          "course_title": "International Business Management",
+          "credits": "3",
+          "coid": "101738",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Accounting Information Systems (AIS) track (15 cr.)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BSAD 2020",
+          "course_title": "Introduction to Managerial Accounting",
+          "credits": "3",
+          "coid": "101701",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3010",
+          "course_title": "Financial Reporting Theory and Practice I",
+          "credits": "3",
+          "coid": "101703",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3020",
+          "course_title": "Financial Reporting Theory and Practice II",
+          "credits": "3",
+          "coid": "101704",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4010",
+          "course_title": "Financial Reporting Theory and Practice III",
+          "credits": "3",
+          "coid": "101719",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4140",
+          "course_title": "Auditing",
+          "credits": "3",
+          "coid": "101724",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Marketing Information Systems (MkIS) track (15 cr.)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BSAD 1040",
+          "course_title": "Fundamentals of Marketing",
+          "credits": "3",
+          "coid": "101709",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3310",
+          "course_title": "Consumer Behavior",
+          "credits": "3",
+          "coid": "101710",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4325",
+          "course_title": "Market Research",
+          "credits": "3",
+          "coid": "101711",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 3330",
+          "course_title": "Advertising",
+          "credits": "3",
+          "coid": "101712",
+          "footnote": ""
+        },
+        {
+          "course_code": "BSAD 4340",
+          "course_title": "Developing Marketing Strategies",
+          "credits": "3",
+          "coid": "101734",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Bio Info Systems (BioIS) track (15 or 16 cr.)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "BIOL 1800",
+          "course_title": "General Biology I",
+          "credits": "4",
+          "coid": "101661",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 1900",
+          "course_title": "General Biology II",
+          "credits": "4",
+          "coid": "101662",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 2800",
+          "course_title": "Genetics",
+          "credits": "4",
+          "coid": "101670",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "One biology elective at or above 2000 level"
+      ]
+    },
+    {
+      "heading": "Geoinformatics (GeoIS) track (15 cr.)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "GEOG 2400",
+          "course_title": "Introduction to Geospatial Technologies",
+          "credits": "3",
+          "coid": "102121",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3120",
+          "course_title": "Computer Cartography",
+          "credits": "3",
+          "coid": "102140",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 3300",
+          "course_title": "Urban Geography",
+          "credits": "3",
+          "coid": "102136",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4001",
+          "course_title": "Web GIS",
+          "credits": "3",
+          "coid": "102954",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4000",
+          "course_title": "Geographic Information System",
+          "credits": "3",
+          "coid": "102132",
+          "footnote": "or"
+        },
+        {
+          "course_code": "GEOG 4003",
+          "course_title": "Geographic Information Systems II",
+          "credits": "3",
+          "coid": "102953",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12663",
+  "scraped_at": "2026-06-10T18:56:14.090552+00:00"
+}

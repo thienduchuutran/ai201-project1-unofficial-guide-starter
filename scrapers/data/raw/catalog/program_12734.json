@@ -1,0 +1,138 @@
+{
+  "program_name": "Nursing, B.S.",
+  "degree_type": "B.S.",
+  "department": "General Education Requirements",
+  "faculty": "",
+  "description": [
+    "Choose ONE course from the following:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Required Courses",
+      "content": [
+        "* MAJs for the AIA , CV , and IHIP General Education requirements."
+      ],
+      "courses": [
+        {
+          "course_code": "NURS 2300",
+          "course_title": "Health Assessment",
+          "credits": "3",
+          "coid": "102444",
+          "footnote": ""
+        },
+        {
+          "course_code": "NURS 2500",
+          "course_title": "Pathopharmacology I",
+          "credits": "3",
+          "coid": "102445",
+          "footnote": ""
+        },
+        {
+          "course_code": "NURS 2600",
+          "course_title": "Pathopharmacology II",
+          "credits": "3",
+          "coid": "102446",
+          "footnote": ""
+        },
+        {
+          "course_code": "NURS 2700",
+          "course_title": "Foundations",
+          "credits": "4",
+          "coid": "102447",
+          "footnote": ""
+        },
+        {
+          "course_code": "NURS 2900",
+          "course_title": "Medical-Surgical Nursing I",
+          "credits": "4",
+          "coid": "102448",
+          "footnote": ""
+        },
+        {
+          "course_code": "NURS 3200",
+          "course_title": "Core Concepts of Mental Health Nursing",
+          "credits": "5",
+          "coid": "102449",
+          "footnote": ""
+        },
+        {
+          "course_code": "NURS 3300",
+          "course_title": "Maternal-Newborn Nursing",
+          "credits": "5",
+          "coid": "102450",
+          "footnote": ""
+        },
+        {
+          "course_code": "NURS 3400",
+          "course_title": "Medical-Surgical Nursing II",
+          "credits": "5",
+          "coid": "102451",
+          "footnote": ""
+        },
+        {
+          "course_code": "NURS 3710",
+          "course_title": "Evidence-Based Practice in Nursing",
+          "credits": "3",
+          "coid": "102753",
+          "footnote": "*"
+        },
+        {
+          "course_code": "NURS 3900",
+          "course_title": "Pediatric Nursing",
+          "credits": "5",
+          "coid": "102455",
+          "footnote": ""
+        },
+        {
+          "course_code": "NURS 4400",
+          "course_title": "Community Health Nursing",
+          "credits": "5",
+          "coid": "102456",
+          "footnote": "*"
+        },
+        {
+          "course_code": "NURS 4750",
+          "course_title": "Chronic Illness",
+          "credits": "5",
+          "coid": "102460",
+          "footnote": ""
+        },
+        {
+          "course_code": "NURS 4800",
+          "course_title": "Selected Nursing Practicum",
+          "credits": "9",
+          "coid": "102461",
+          "footnote": "*"
+        },
+        {
+          "course_code": "NURS 4850",
+          "course_title": "Leadership and Management Concepts for Nursing Practice",
+          "credits": "3",
+          "coid": "102462",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* MAJs for the AIA , CV , and IHIP General Education requirements."
+      ]
+    },
+    {
+      "heading": "RN Students",
+      "content": [
+        "Please follow this link to the RN to Bachelor of Science in Nursing - Accelerated/Online program."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "LPN Students",
+      "content": [
+        "Please follow this link to the LPN to Bachelor of Science in Nursing Bridge Program, B.S. program"
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12734",
+  "scraped_at": "2026-06-10T18:59:54.307109+00:00"
+}

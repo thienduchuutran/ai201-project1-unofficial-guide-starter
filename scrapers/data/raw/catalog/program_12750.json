@@ -1,0 +1,373 @@
+{
+  "program_name": "Mathematics, Applied Mathematics Concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Mathematics Faculty",
+  "faculty": "Chairperson Peter Staab Professors Associate Professors Assistant Professors Mary Ann Barbato Nestor Diaz Morera Nermin Bayazit Jessica Oehrlein Catherine Buell Gerald Higdon Peter Staab Amy Wehe Sarah Wright",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Mathematics Program",
+      "content": [
+        "The Department of Mathematics serves all students at the university. Mathematics majors receive a comprehensive foundation in abstract and applied mathematics as preparation for graduate school or a professional career. Minors in Mathematics receive the mathematical foundation needed for advanced work in their major field.",
+        "The department also provides non-majors with courses for their major or with courses for their General Education program.",
+        "Develop effective thinking and communication skills",
+        "Learn to link applications and theory",
+        "Learn to use technological tools",
+        "Develop mathematical independence and experience open-ended inquiry"
+      ],
+      "courses": [],
+      "items": [
+        "Present information in a clear, precise and organized manner both verbally and in writing.",
+        "Use and compare analytical, visual, and numerical perspectives in exploring mathematics.",
+        "Recognize and make mathematically rigorous arguments.",
+        "Approach mathematical problems with curiosity and creativity and persist in the face of difficulties.",
+        "Work creatively and self-sufficiently with mathematics.",
+        "Understand and apply motivating examples that illustrate the ideas they are studying.",
+        "Apply mathematical ideas to problems in those areas of study.",
+        "See mathematical theory as useful and enlightening in both pure and applied contexts.",
+        "Recognize and integrate connections between mathematical courses and theory.",
+        "Use technology effectively, both as a tool for solving problems and exploring mathematical ideas.",
+        "Use technology with increasing sophistication throughout a major curriculum.",
+        "Be able to explore mathematical ideas and problems beyond the classroom.",
+        "Explore increasingly more difficult and open-ended questions.",
+        "Speak and write about mathematics with increasing depth and sophistication."
+      ]
+    },
+    {
+      "heading": "Required General Education Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "CSC 1500",
+          "course_title": "Computer Science I",
+          "credits": "3",
+          "coid": "101855",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Mathematics Core Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1850",
+          "course_title": "Freshman Seminar in Mathematics",
+          "credits": "1",
+          "coid": "102366",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2300",
+          "course_title": "Calculus I",
+          "credits": "4",
+          "coid": "102371",
+          "footnote": "*"
+        },
+        {
+          "course_code": "MATH 2400",
+          "course_title": "Calculus II",
+          "credits": "4",
+          "coid": "102372",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2500",
+          "course_title": "Introduction to Mathematical Thought",
+          "credits": "3",
+          "coid": "102373",
+          "footnote": "*"
+        },
+        {
+          "course_code": "MATH 2550",
+          "course_title": "Symbolic Computational Mathematics",
+          "credits": "3",
+          "coid": "102818",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2600",
+          "course_title": "Linear Algebra",
+          "credits": "3",
+          "coid": "102374",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3350",
+          "course_title": "Multivariate Calculus",
+          "credits": "4",
+          "coid": "102819",
+          "footnote": ""
+        },
+        {
+          "course_code": "DATA 2000",
+          "course_title": "Principles of Data Analysis",
+          "credits": "3",
+          "coid": "103142",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "MATH 2800",
+          "course_title": "Introduction to Statistical Analysis",
+          "credits": "3",
+          "coid": "103141",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Required Course",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 3000",
+          "course_title": "Geometry",
+          "credits": "3",
+          "coid": "102376",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "MATH 3200",
+          "course_title": "History of Mathematics",
+          "credits": "3",
+          "coid": "102378",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Advanced Mathematics Courses",
+      "content": [
+        "These courses are designed to give a breadth of knowledge in the three areas: Pure Mathematics, Applied Mathematics, and Statistical Modeling. These requirements also ensure a student has sufficient exposure to high level courses.",
+        "NOTES:"
+      ],
+      "courses": [],
+      "items": [
+        "Courses in more than one group can be counted only once",
+        "With the approval of the Mathematics Department, MATH 4903 or MATH 4950 may be used as an Advanced course",
+        "Pre-practicum and practicum courses for teaching licensure are not advanced mathematics courses"
+      ]
+    },
+    {
+      "heading": "Theoretical Mathematics Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 4150",
+          "course_title": "Advanced Multivariate Calculus",
+          "credits": "3",
+          "coid": "102384",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4300",
+          "course_title": "Abstract Algebra",
+          "credits": "3",
+          "coid": "102387",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4350",
+          "course_title": "Complex Analysis",
+          "credits": "3",
+          "coid": "102388",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4500",
+          "course_title": "Numerical Analysis",
+          "credits": "3",
+          "coid": "102391",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4000",
+          "course_title": "Real Analysis",
+          "credits": "3",
+          "coid": "102382",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4050",
+          "course_title": "Topology",
+          "credits": "3",
+          "coid": "102383",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3000",
+          "course_title": "Geometry",
+          "credits": "3",
+          "coid": "102376",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3150",
+          "course_title": "Elementary Number Theory",
+          "credits": "3",
+          "coid": "102377",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Applied Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 4400",
+          "course_title": "Operations Research",
+          "credits": "3",
+          "coid": "102389",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4450",
+          "course_title": "Mathematical Modeling",
+          "credits": "3",
+          "coid": "102390",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4500",
+          "course_title": "Numerical Analysis",
+          "credits": "3",
+          "coid": "102391",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3500",
+          "course_title": "Methods of Applied Mathematics",
+          "credits": "3",
+          "coid": "102379",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3550",
+          "course_title": "Ordinary Differential Equations",
+          "credits": "3",
+          "coid": "102380",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3001",
+          "course_title": "Scientific Computation and Visualization",
+          "credits": "3",
+          "coid": "102889",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Statistical Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 3001",
+          "course_title": "Scientific Computation and Visualization",
+          "credits": "3",
+          "coid": "102889",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3003",
+          "course_title": "Advanced Statistics",
+          "credits": "3",
+          "coid": "102927",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4200",
+          "course_title": "Probability and Statistics I",
+          "credits": "3",
+          "coid": "102385",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4250",
+          "course_title": "Probability and Statistics II",
+          "credits": "3",
+          "coid": "102386",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Capstone Requirement",
+      "content": [
+        "Choose ONE of the following (for a minimum of 3 credits):",
+        "* MAJs for IHIP, PL, and QR General Education Requirements"
+      ],
+      "courses": [
+        {
+          "course_code": "MATH 4600",
+          "course_title": "Capstone in Mathematics",
+          "credits": "3",
+          "coid": "102392",
+          "footnote": "*"
+        },
+        {
+          "course_code": "MATH 4950",
+          "course_title": "Internship",
+          "credits": "1-6",
+          "coid": "103143",
+          "footnote": "1- *"
+        }
+      ],
+      "items": [
+        "* MAJs for IHIP, PL, and QR General Education Requirements"
+      ]
+    },
+    {
+      "heading": "Applied Mathematics Concentration",
+      "content": [
+        "Applied Mathematics is the study of mathematics that is often used in other technical disciplines such as Chemistry, Biology, Engineering, Physics, Economics and Computer Science. Students who complete the concentration in Applied Mathematics will have a strong mathematical background, an emphasis in a second field and will be able to integrate the mathematics within that field.",
+        "The following must be completed with a minimum of 3 courses at the 4000-level."
+      ],
+      "courses": [],
+      "items": [
+        "Must take one additional Theoretical Mathematics course (3 credits)",
+        "Must take three Applied courses (9 credts)",
+        "Must take one Statistics course (3 credits)",
+        "Must take one additional Advanced course (3 credits)"
+      ]
+    },
+    {
+      "heading": "Minor Requirement",
+      "content": [
+        "Choose one of the following minors: Biology, Chemistry, Computer Science, Data Analytics, Economics, Geographic Science and Technology/Earth Systems Science, Psychological Science, or minor approved by the Mathematics Department."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Additional Concentration Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "PHYS 2300",
+          "course_title": "General Physics I",
+          "credits": "4",
+          "coid": "102505",
+          "footnote": "OR"
+        },
+        {
+          "course_code": "PHYS 2600",
+          "course_title": "Calculus-Based Physics I",
+          "credits": "4",
+          "coid": "102507",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12750",
+  "scraped_at": "2026-06-10T18:59:39.396609+00:00"
+}

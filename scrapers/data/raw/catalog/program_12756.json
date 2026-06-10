@@ -1,0 +1,56 @@
+{
+  "program_name": "Manufacturing Technology Minor",
+  "degree_type": "Minor",
+  "department": "Requirements for the Minor in Manufacturing Technology 18 cr.",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Manufacturing Technology",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ITEC 1310",
+          "course_title": "Materials Testing",
+          "credits": "3",
+          "coid": "102240",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITEC 2410",
+          "course_title": "Computer Aided Drafting (CAD)",
+          "credits": "3",
+          "coid": "102257",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITEC 2730",
+          "course_title": "Automated Manufacturing I",
+          "credits": "3",
+          "coid": "102263",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITEC 3730",
+          "course_title": "Automated Manufacturing II",
+          "credits": "3",
+          "coid": "102285",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Two approved electives"
+      ]
+    },
+    {
+      "heading": "Additional Requirements",
+      "content": [
+        "Prerequisites: Application and departmental approval; prerequisites may be waived based upon an individual’s experience and background."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12756",
+  "scraped_at": "2026-06-10T18:57:41.523814+00:00"
+}

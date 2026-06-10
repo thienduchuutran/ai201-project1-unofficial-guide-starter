@@ -1,0 +1,111 @@
+{
+  "program_name": "Educational Studies, B.S.",
+  "degree_type": "B.S.",
+  "department": "Educational Studies",
+  "faculty": "",
+  "description": [
+    "The Bachelor of Science in Educational Studies presents an opportunity for students to examine broad educational topics from a number of diverse perspectives. This comprehensive program offers specific interdisciplinary courses and an internship that will bridge educational concepts and principles in political, historical, theoretical,and social contexts. In addition, students in the Educational Studies program will acquire critical understandings of learning and the sociological culture of the classroom, educational institutions, and society. Graduates of the Educational Studies non-licensure program will have a broad view of education necessary for career paths that require a background in formal and informal educational settings. This program will not lead to teacher licensure in public schools."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Program Curriculum Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "EDUC 1005",
+          "course_title": "Developing Culturally Proficient Educators for a Democratic Society",
+          "credits": "3",
+          "coid": "102970",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 1006",
+          "course_title": "Foundations of Inclusive Education",
+          "credits": "3",
+          "coid": "101914",
+          "footnote": ""
+        },
+        {
+          "course_code": "EDUC 4003",
+          "course_title": "Educational Studies Internship",
+          "credits": "12",
+          "coid": "102918",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3150",
+          "course_title": "Science and Social Studies for Diverse Learners",
+          "credits": "3",
+          "coid": "102632",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 1001",
+          "course_title": "Introduction to Special Education",
+          "credits": "3",
+          "coid": "102972",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3008",
+          "course_title": "Applied Behavior Analysis Across Settings",
+          "credits": "3",
+          "coid": "102917",
+          "footnote": "or"
+        },
+        {
+          "course_code": "SPED 3720",
+          "course_title": "Classroom Management and Behavior Support",
+          "credits": "3",
+          "coid": "102640",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 1100",
+          "course_title": "Introduction to Human Services",
+          "credits": "3",
+          "coid": "102219",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 4000",
+          "course_title": "IDIS Capstone Seminar: Education",
+          "credits": "3",
+          "coid": "102322",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 1100",
+          "course_title": "Introduction to Psychological Science",
+          "credits": "3",
+          "coid": "102555",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 3500",
+          "course_title": "Psychology of Learning",
+          "credits": "3",
+          "coid": "102572",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 1100",
+          "course_title": "Introduction to Sociology",
+          "credits": "3",
+          "coid": "102589",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2800",
+          "course_title": "Sociology of Education",
+          "credits": "3",
+          "coid": "102604",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12870",
+  "scraped_at": "2026-06-10T18:57:02.150927+00:00"
+}

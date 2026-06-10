@@ -1,0 +1,307 @@
+{
+  "program_name": "Criminal Justice Minor",
+  "degree_type": "Minor",
+  "department": "Requirements for the Minor in Criminal Justice",
+  "faculty": "",
+  "description": [
+    "A minor in Criminal Justice is offered by the Department of Behavioral Sciences. Students will complete the Criminal Justice Minor as they fulfill the responsibilities of an academic major.",
+    "There are twelve semester hours of required courses and six semester hours of electives. Students are reminded that they may use no more than two of their major courses toward the minor."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Required Courses (12 cr.)",
+      "content": [
+        "Note: If both CJ 2270 / POLS 2270 and SOC 3500 are taken, one counts as Required and the other as Elective.",
+        "or"
+      ],
+      "courses": [
+        {
+          "course_code": "CJ 1000",
+          "course_title": "Introduction to Criminal Justice",
+          "credits": "3",
+          "coid": "101889",
+          "footnote": "and"
+        },
+        {
+          "course_code": "SOC 2750",
+          "course_title": "Criminology",
+          "credits": "3",
+          "coid": "102602",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 3242",
+          "course_title": "Psychology of Crime",
+          "credits": "3",
+          "coid": "101905",
+          "footnote": "*"
+        }
+      ],
+      "items": [
+        "or"
+      ]
+    },
+    {
+      "heading": "Two of the following courses on the content and practice of criminal justice:",
+      "content": [
+        "or"
+      ],
+      "courses": [
+        {
+          "course_code": "CJ 2050",
+          "course_title": "Theory and Practices of Policing",
+          "credits": "3",
+          "coid": "101890",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 2650",
+          "course_title": "Correctional Theory and Practice",
+          "credits": "3",
+          "coid": "101896",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 2270",
+          "course_title": "Introduction to Legal Process",
+          "credits": "3",
+          "coid": "101891",
+          "footnote": "*"
+        },
+        {
+          "course_code": "POLS 2270",
+          "course_title": "Introduction to the Legal Process",
+          "credits": "3",
+          "coid": "102529",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 3651",
+          "course_title": "Ethics in Criminal Justice",
+          "credits": "3",
+          "coid": "101897",
+          "footnote": "*"
+        }
+      ],
+      "items": [
+        "or"
+      ]
+    },
+    {
+      "heading": "Electives (6 cr.)",
+      "content": [
+        "Two criminal Justice elective courses. At least one elective must have a CJ designation. Elective courses include those listed below, topics in Criminal Justice elective courses, as well as any other courses added as CJ electives. However, Internship in Criminal Justice may not be taken to fulfill this requirement."
+      ],
+      "courses": [
+        {
+          "course_code": "CJ 2050",
+          "course_title": "Theory and Practices of Policing",
+          "credits": "3",
+          "coid": "101890",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 2270",
+          "course_title": "Introduction to Legal Process",
+          "credits": "3",
+          "coid": "101891",
+          "footnote": "or *"
+        },
+        {
+          "course_code": "POLS 2270",
+          "course_title": "Introduction to the Legal Process",
+          "credits": "3",
+          "coid": "102529",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 2450",
+          "course_title": "Women in Criminal Justice",
+          "credits": "3",
+          "coid": "101892",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 3500",
+          "course_title": "Correctional Law",
+          "credits": "3",
+          "coid": "101893",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 3550",
+          "course_title": "Criminal Law",
+          "credits": "3",
+          "coid": "101894",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 2600",
+          "course_title": "Juvenile Justice",
+          "credits": "3",
+          "coid": "101895",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 2650",
+          "course_title": "Correctional Theory and Practice",
+          "credits": "3",
+          "coid": "101896",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3651",
+          "course_title": "Ethics in Criminal Justice",
+          "credits": "3",
+          "coid": "101897",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3000",
+          "course_title": "Domestic Terrorism and Hate Crime",
+          "credits": "3",
+          "coid": "101898",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 3053",
+          "course_title": "Victimology",
+          "credits": "3",
+          "coid": "101899",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 3141",
+          "course_title": "Innovative Practices in Policing",
+          "credits": "3",
+          "coid": "102698",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3100",
+          "course_title": "Organized Crime and Youth Gangs",
+          "credits": "3",
+          "coid": "101900",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 3200",
+          "course_title": "White Collar and Corporate Crime",
+          "credits": "3",
+          "coid": "101904",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 3242",
+          "course_title": "Psychology of Crime",
+          "credits": "3",
+          "coid": "101905",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3250",
+          "course_title": "Crime & Delinquency Prevention",
+          "credits": "3",
+          "coid": "101906",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 3333",
+          "course_title": "Crime in the Media",
+          "credits": "3",
+          "coid": "101908",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CJ 2510",
+          "course_title": "International Terrorism",
+          "credits": "3",
+          "coid": "101909",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 2510",
+          "course_title": "International Terrorism",
+          "credits": "3",
+          "coid": "102541",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 2400",
+          "course_title": "Crisis Intervention",
+          "credits": "3",
+          "coid": "102221",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3500",
+          "course_title": "Abuse and Neglect within the Family",
+          "credits": "3",
+          "coid": "102227",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2550",
+          "course_title": "Sex, Race and the Constitution",
+          "credits": "3",
+          "coid": "102533",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2700",
+          "course_title": "Criminal Procedure: Rights of the Accused",
+          "credits": "3",
+          "coid": "102535",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2520",
+          "course_title": "Constitutional Law",
+          "credits": "3",
+          "coid": "102540",
+          "footnote": ""
+        },
+        {
+          "course_code": "PSY 2350",
+          "course_title": "Abnormal Psychology",
+          "credits": "3",
+          "coid": "102563",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2760",
+          "course_title": "Juvenile Delinquency",
+          "credits": "3",
+          "coid": "102603",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 3500",
+          "course_title": "Law and Society",
+          "credits": "3",
+          "coid": "102609",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "* Introduction to Criminal Justice is a pre-requisite for this course."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Additional Information",
+      "content": [
+        "Course descriptions can be found listed within the following disciplines: Criminal Justice, Human Services, Political Science, Psychology, and Sociology. Please refer to the Course Descriptions section for more information."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12655",
+  "scraped_at": "2026-06-10T18:54:47.292494+00:00"
+}

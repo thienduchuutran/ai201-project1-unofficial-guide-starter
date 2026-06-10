@@ -1,0 +1,51 @@
+{
+  "program_name": "Mathematics Minor",
+  "degree_type": "Minor",
+  "department": "Mathematics Faculty",
+  "faculty": "Chairperson Peter Staab Professors Associate Professors Assistant Professors Mary Ann Barbato Nestor Diaz Morera Nermin Bayazit Jessica Oehrlein Catherine Buell Gerald Higdon Peter Staab Amy Wehe Sarah Wright",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Required Courses",
+      "content": [
+        "or"
+      ],
+      "courses": [
+        {
+          "course_code": "MATH 2300",
+          "course_title": "Calculus I",
+          "credits": "4",
+          "coid": "102371",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2400",
+          "course_title": "Calculus II",
+          "credits": "4",
+          "coid": "102372",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 2600",
+          "course_title": "Linear Algebra",
+          "credits": "3",
+          "coid": "102374",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 4300",
+          "course_title": "Abstract Algebra",
+          "credits": "3",
+          "coid": "102387",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "or",
+        "Four additional Mathematics electives (except MATH 4850 , MATH 4860 , and MATH 4870 ) at least three of which must be at the 3000 or above level and at least one of which must be at the 4000 level. In addition, at most, one of the following can be chosen as an elective: MATH 1900 , MATH 2000 , or MATH 2500 ."
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12744",
+  "scraped_at": "2026-06-10T18:59:52.365453+00:00"
+}

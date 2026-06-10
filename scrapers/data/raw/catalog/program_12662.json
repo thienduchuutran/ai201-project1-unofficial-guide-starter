@@ -1,0 +1,360 @@
+{
+  "program_name": "Criminal Justice, B.S.",
+  "degree_type": "B.S.",
+  "department": "Core Requirements (24 credits)",
+  "faculty": "",
+  "description": [
+    "Each of the following:",
+    "One of the following:",
+    "One of the following:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Additional required CJ courses (6 credits)",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "CJ 2130",
+          "course_title": "Criminal Justice Research Methods",
+          "credits": "3",
+          "coid": "101901",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3242",
+          "course_title": "Psychology of Crime",
+          "credits": "3",
+          "coid": "101905",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Elective Credits (15 credits)",
+      "content": [
+        "The Criminal Justice program requires the CJ Major to complete 15 credits of CJ elective credits, chosen in consultation with the student’s advisor; such courses may be chosen from any course with a CJ prefix or other approved Criminal Justice electives."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Criminal Justice",
+      "content": [
+        "In addition, topics courses with a CJ prefix will count as CJ elective credits."
+      ],
+      "courses": [
+        {
+          "course_code": "CJ 1001",
+          "course_title": "Mediation",
+          "credits": "3",
+          "coid": "102806",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 2020",
+          "course_title": "Mock Trial",
+          "credits": "3",
+          "coid": "102808",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 2450",
+          "course_title": "Women in Criminal Justice",
+          "credits": "3",
+          "coid": "101892",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3500",
+          "course_title": "Correctional Law",
+          "credits": "3",
+          "coid": "101893",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3550",
+          "course_title": "Criminal Law",
+          "credits": "3",
+          "coid": "101894",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 2600",
+          "course_title": "Juvenile Justice",
+          "credits": "3",
+          "coid": "101895",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3000",
+          "course_title": "Domestic Terrorism and Hate Crime",
+          "credits": "3",
+          "coid": "101898",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3004",
+          "course_title": "GIS for Criminal Justice",
+          "credits": "3",
+          "coid": "102912",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3040",
+          "course_title": "Cyber Security Management",
+          "credits": "3",
+          "coid": "102854",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3053",
+          "course_title": "Victimology",
+          "credits": "3",
+          "coid": "101899",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3055",
+          "course_title": "Applied Criminal Procedure for Law Enforcement",
+          "credits": "3",
+          "coid": "102794",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3057",
+          "course_title": "Criminal Investigation",
+          "credits": "3",
+          "coid": "102793",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3100",
+          "course_title": "Organized Crime and Youth Gangs",
+          "credits": "3",
+          "coid": "101900",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3141",
+          "course_title": "Innovative Practices in Policing",
+          "credits": "3",
+          "coid": "102698",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3200",
+          "course_title": "White Collar and Corporate Crime",
+          "credits": "3",
+          "coid": "101904",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3250",
+          "course_title": "Crime & Delinquency Prevention",
+          "credits": "3",
+          "coid": "101906",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3333",
+          "course_title": "Crime in the Media",
+          "credits": "3",
+          "coid": "101908",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 2510",
+          "course_title": "International Terrorism",
+          "credits": "3",
+          "coid": "101909",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 2510",
+          "course_title": "International Terrorism",
+          "credits": "3",
+          "coid": "102541",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 4970",
+          "course_title": "Internship in Criminal Justice",
+          "credits": "6",
+          "coid": "101911",
+          "footnote": "or (6 credits in CJ electives)"
+        },
+        {
+          "course_code": "CJ 4980",
+          "course_title": "Internship in Criminal Justice",
+          "credits": "9",
+          "coid": "101912",
+          "footnote": "or (6 credits in CJ electives)"
+        },
+        {
+          "course_code": "CJ 4990",
+          "course_title": "Internship in Criminal Justice",
+          "credits": "12",
+          "coid": "101913",
+          "footnote": "(6 credits in CJ electives)"
+        }
+      ],
+      "items": [
+        "In addition, topics courses with a CJ prefix will count as CJ elective credits."
+      ]
+    },
+    {
+      "heading": "Human Services",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "HMSV 2400",
+          "course_title": "Crisis Intervention",
+          "credits": "3",
+          "coid": "102221",
+          "footnote": ""
+        },
+        {
+          "course_code": "HMSV 3500",
+          "course_title": "Abuse and Neglect within the Family",
+          "credits": "3",
+          "coid": "102227",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Political Science",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "POLS 2550",
+          "course_title": "Sex, Race and the Constitution",
+          "credits": "3",
+          "coid": "102533",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2700",
+          "course_title": "Criminal Procedure: Rights of the Accused",
+          "credits": "3",
+          "coid": "102535",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2520",
+          "course_title": "Constitutional Law",
+          "credits": "3",
+          "coid": "102540",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Psychology",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "PSY 2350",
+          "course_title": "Abnormal Psychology",
+          "credits": "3",
+          "coid": "102563",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Sociology",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "SOC 2760",
+          "course_title": "Juvenile Delinquency",
+          "credits": "3",
+          "coid": "102603",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 3500",
+          "course_title": "Law and Society",
+          "credits": "3",
+          "coid": "102609",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "Selected topics courses in these disciplines, Human Services, Political Science, and Sociology, may be allowable with the permission of your advisor. Criminal Justice electives from other colleges may be accepted as electives if approved by the Criminal Justice Advisory Committee."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required General Education Courses:",
+      "content": [
+        "As part of their General Education requirements, all students in the Criminal Justice Major must complete 12 required credits:"
+      ],
+      "courses": [
+        {
+          "course_code": "MATH 1700",
+          "course_title": "Applied Statistics",
+          "credits": "3",
+          "coid": "102364",
+          "footnote": "(Quantitative Reasoning)"
+        },
+        {
+          "course_code": "POLS 1000",
+          "course_title": "United States Government",
+          "credits": "3",
+          "coid": "102524",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 1500",
+          "course_title": "State and Urban Government",
+          "credits": "3",
+          "coid": "102526",
+          "footnote": "(Civic Learning)"
+        },
+        {
+          "course_code": "PSY 1100",
+          "course_title": "Introduction to Psychological Science",
+          "credits": "3",
+          "coid": "102555",
+          "footnote": "(Procedural and Logical Thinking)"
+        },
+        {
+          "course_code": "SOC 1100",
+          "course_title": "Introduction to Sociology",
+          "credits": "3",
+          "coid": "102589",
+          "footnote": "(Diverse Perspectives)"
+        },
+        {
+          "course_code": "EXSS 1000",
+          "course_title": "Health and Fitness",
+          "credits": "3",
+          "coid": "102065",
+          "footnote": "Personal Wellness"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "Other General Education courses are required as part of the degree. It is the student’s responsibility to fulfill accurately and completely all General Education and program requirements. Each student is assigned an academic advisor to assist with this process."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12662",
+  "scraped_at": "2026-06-10T18:54:39.719976+00:00"
+}

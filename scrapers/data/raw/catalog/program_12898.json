@@ -1,0 +1,81 @@
+{
+  "program_name": "Data Analytics Minor",
+  "degree_type": "Minor",
+  "department": "Program Requirements",
+  "faculty": "",
+  "description": [
+    "OR",
+    "OR",
+    "OR"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "Take 1 of the following courses."
+      ],
+      "courses": [
+        {
+          "course_code": "GEOG 2600",
+          "course_title": "Environmental Science Data Visualization",
+          "credits": "3",
+          "coid": "103126",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4001",
+          "course_title": "Web GIS",
+          "credits": "3",
+          "coid": "102954",
+          "footnote": ""
+        },
+        {
+          "course_code": "GEOG 4500",
+          "course_title": "Remote Sensing of the Environment",
+          "credits": "3",
+          "coid": "102137",
+          "footnote": ""
+        },
+        {
+          "course_code": "CSC 3011",
+          "course_title": "Data Modeling and Database Design",
+          "credits": "3",
+          "coid": "102913",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3003",
+          "course_title": "Advanced Statistics",
+          "credits": "3",
+          "coid": "102927",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 3001",
+          "course_title": "Scientific Computation and Visualization",
+          "credits": "3",
+          "coid": "102889",
+          "footnote": "or"
+        },
+        {
+          "course_code": "CSC 3003",
+          "course_title": "Scientific Computation and Visualization",
+          "credits": "3",
+          "coid": "102890",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Note",
+      "content": [
+        "Note: up to three courses may count for both this minor and the student’s major courses."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12898",
+  "scraped_at": "2026-06-10T18:59:48.928189+00:00"
+}

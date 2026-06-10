@@ -1,0 +1,61 @@
+{
+  "program_name": "Music Theory/Composition",
+  "degree_type": "",
+  "department": "Music Minors",
+  "faculty": "",
+  "description": [
+    "Chairperson: David Svolba Professors: Jane Fiske Assistant Professors: Justin Casinghino, Jonathan Harvey, Amy McGlothlin",
+    "The program in Music provides students with the opportunity to actively engage in music through instrumental or choral work. Courses are designed to fulfill the arts requirement in the General Education Program and to study the history and theory of music at different times across many cultures. Minors are also available in Music Performance, Music History, and Music Theory/Composition.",
+    "Students seeking a minor in music complete the following:",
+    "OR",
+    "OR"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Music Theory and Composition instruction (12 credits):",
+      "content": [
+        "4 courses chosen from the following list:"
+      ],
+      "courses": [
+        {
+          "course_code": "MUSC 1400",
+          "course_title": "Introduction to Music Technology",
+          "credits": "3",
+          "coid": "102410",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2240",
+          "course_title": "Music Theory and Analysis I",
+          "credits": "3",
+          "coid": "102418",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2350",
+          "course_title": "Music Theory and Analysis II",
+          "credits": "3",
+          "coid": "102421",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 4903",
+          "course_title": "Independent Study in Music",
+          "credits": "3",
+          "coid": "102441",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 4940",
+          "course_title": "Internship in Music",
+          "credits": "3",
+          "coid": "102442",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12866",
+  "scraped_at": "2026-06-10T18:58:52.305107+00:00"
+}

@@ -1,0 +1,48 @@
+{
+  "program_name": "German Minor (Inactive)",
+  "degree_type": "",
+  "department": "Required Courses",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose at least three of the following:"
+      ],
+      "courses": [
+        {
+          "course_code": "GER 2800",
+          "course_title": "Modern German Literature in Translation",
+          "credits": "3",
+          "coid": "102153",
+          "footnote": ""
+        },
+        {
+          "course_code": "GER 2900",
+          "course_title": "Modern German Culture: The Road to Hitler",
+          "credits": "3",
+          "coid": "102154",
+          "footnote": ""
+        },
+        {
+          "course_code": "GER 3500",
+          "course_title": "German Conversation and Composition",
+          "credits": "",
+          "coid": "102155",
+          "footnote": "Credit(s)"
+        },
+        {
+          "course_code": "GER 4903",
+          "course_title": "Independent Study in German",
+          "credits": "3",
+          "coid": "102157",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12763",
+  "scraped_at": "2026-06-10T18:58:45.065267+00:00"
+}

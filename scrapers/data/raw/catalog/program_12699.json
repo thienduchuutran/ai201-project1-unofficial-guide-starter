@@ -1,0 +1,123 @@
+{
+  "program_name": "Spanish Minor",
+  "degree_type": "Minor",
+  "department": "Requirements for the Minor in Spanish",
+  "faculty": "",
+  "description": [
+    "The minor in Spanish requires a minimum of 15 semester hours, including the following:"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Required Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "SPAN 2000",
+          "course_title": "Intermediate Spanish I",
+          "credits": "3",
+          "coid": "102617",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2100",
+          "course_title": "Intermediate Spanish II",
+          "credits": "3",
+          "coid": "102618",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Electives",
+      "content": [
+        "Choose at least 9 credits from the following:",
+        "Or any other SPAN courses at the 3000 level and above (3000-4999)"
+      ],
+      "courses": [
+        {
+          "course_code": "SPAN 2001",
+          "course_title": "Spanish for Heritage Students",
+          "credits": "3",
+          "coid": "102701",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2600",
+          "course_title": "Hispanic Culture",
+          "credits": "3",
+          "coid": "102619",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2700",
+          "course_title": "Hispanic Literature",
+          "credits": "3",
+          "coid": "102620",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 3000",
+          "course_title": "Cinema for Spanish Conversation",
+          "credits": "3",
+          "coid": "102702",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 3001",
+          "course_title": "Advanced Spanish Grammar",
+          "credits": "3",
+          "coid": "102968",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 3500",
+          "course_title": "Spanish Conversation and Composition",
+          "credits": "3",
+          "coid": "102621",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 4000",
+          "course_title": "Practical Spanish for the Public Services Professional I",
+          "credits": "3",
+          "coid": "102622",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 4100",
+          "course_title": "Practical Spanish for the Public Services Professional II",
+          "credits": "3",
+          "coid": "102623",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 4901",
+          "course_title": "Independent Study in Spanish",
+          "credits": "1",
+          "coid": "102624",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 4903",
+          "course_title": "Independent Study in Spanish",
+          "credits": "3",
+          "coid": "102626",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 4906",
+          "course_title": "Advanced Independent Study in Spanish",
+          "credits": "6",
+          "coid": "102627",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Or any other SPAN courses at the 3000 level and above (3000-4999)"
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12699",
+  "scraped_at": "2026-06-10T18:58:57.591492+00:00"
+}

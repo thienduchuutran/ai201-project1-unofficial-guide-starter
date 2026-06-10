@@ -1,0 +1,129 @@
+{
+  "program_name": "Music Performance",
+  "degree_type": "",
+  "department": "Music Minors",
+  "faculty": "",
+  "description": [
+    "Chairperson: David Svolba Professors: Jane Fiske Assistant Professors: Justin Casinghino, Jonathan Harvey, Amy McGlothlin",
+    "The program in Music provides students with the opportunity to actively engage in music through instrumental or choral work. Courses are designed to fulfill the arts requirement in the General Education Program and to study the history and theory of music at different times across many cultures. Minors are also available in Music Performance, Music History, and Music Theory/Composition.",
+    "Students seeking a minor in music complete the following:",
+    "OR",
+    "OR"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Ensemble Performance Instruction (6 credits):",
+      "content": [
+        "And/or",
+        "And/or",
+        "And/or",
+        "And/or"
+      ],
+      "courses": [
+        {
+          "course_code": "MUSC 2320",
+          "course_title": "Concert Choir",
+          "credits": "1",
+          "coid": "102949",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2330",
+          "course_title": "Chamber Choir",
+          "credits": "1",
+          "coid": "102950",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2400",
+          "course_title": "Jazz Band",
+          "credits": "1",
+          "coid": "102422",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2401",
+          "course_title": "Concert Band",
+          "credits": "1",
+          "coid": "103037",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2402",
+          "course_title": "Community Orchestra",
+          "credits": "1",
+          "coid": "103038",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "And/or",
+        "And/or",
+        "And/or",
+        "And/or"
+      ]
+    },
+    {
+      "heading": "Individual Performance Instruction (6 credits):",
+      "content": [
+        "And/or",
+        "And/or",
+        "And/or",
+        "And/or",
+        "And/or",
+        "And/or",
+        "And/or",
+        "And/or"
+      ],
+      "courses": [
+        {
+          "course_code": "MUSC 2500",
+          "course_title": "Class Piano",
+          "credits": "1",
+          "coid": "102423",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2600",
+          "course_title": "Class Voice",
+          "credits": "1",
+          "coid": "102424",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2700",
+          "course_title": "Class Guitar",
+          "credits": "1",
+          "coid": "102425",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 4903",
+          "course_title": "Independent Study in Music",
+          "credits": "3",
+          "coid": "102441",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 4940",
+          "course_title": "Internship in Music",
+          "credits": "3",
+          "coid": "102442",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "And/or",
+        "And/or",
+        "And/or",
+        "MUSC 1305-1351 Applied Lessons Level 1, 1-2 cr.",
+        "MUSC 2305, 2311-15, 2321-26, 2331-40, 2351 Applied Lessons Level 2, 1-2 cr.",
+        "MUSC 3305-3351 Applied Lessons Level 3, 1-2 cr.",
+        "MUSC 4305-4351 Applied Lessons Level 4, 1-2 cr.",
+        "And/or"
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12867",
+  "scraped_at": "2026-06-10T18:58:50.654345+00:00"
+}

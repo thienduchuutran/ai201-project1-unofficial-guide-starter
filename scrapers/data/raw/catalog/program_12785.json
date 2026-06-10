@@ -1,0 +1,325 @@
+{
+  "program_name": "Interdisciplinary Studies for Pre-Law, B.A.",
+  "degree_type": "B.A.",
+  "department": "Interdisciplinary Studies Major for Pre-Law",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Political Science Minor 18 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "POLS 1000",
+          "course_title": "United States Government",
+          "credits": "3",
+          "coid": "102524",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2270",
+          "course_title": "Introduction to the Legal Process",
+          "credits": "3",
+          "coid": "102529",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following:",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "POLS 1500",
+          "course_title": "State and Urban Government",
+          "credits": "3",
+          "coid": "102526",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose three of the following:",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "POLS 2550",
+          "course_title": "Sex, Race and the Constitution",
+          "credits": "3",
+          "coid": "102533",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2600",
+          "course_title": "The First Amendment",
+          "credits": "3",
+          "coid": "102534",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2700",
+          "course_title": "Criminal Procedure: Rights of the Accused",
+          "credits": "3",
+          "coid": "102535",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2520",
+          "course_title": "Constitutional Law",
+          "credits": "3",
+          "coid": "102540",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Criminal Justice Field 9 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "CJ 1000",
+          "course_title": "Introduction to Criminal Justice",
+          "credits": "3",
+          "coid": "101889",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose two of the following:",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "CJ 1001",
+          "course_title": "Mediation",
+          "credits": "3",
+          "coid": "102806",
+          "footnote": "or"
+        },
+        {
+          "course_code": "HMSV 1001",
+          "course_title": "Mediation",
+          "credits": "3",
+          "coid": "102807",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 2020",
+          "course_title": "Mock Trial",
+          "credits": "3",
+          "coid": "102808",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3500",
+          "course_title": "Correctional Law",
+          "credits": "3",
+          "coid": "101893",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3550",
+          "course_title": "Criminal Law",
+          "credits": "3",
+          "coid": "101894",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3651",
+          "course_title": "Ethics in Criminal Justice",
+          "credits": "3",
+          "coid": "101897",
+          "footnote": ""
+        },
+        {
+          "course_code": "CJ 3053",
+          "course_title": "Victimology",
+          "credits": "3",
+          "coid": "101899",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Sociology/Human Services Field 6 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "HMSV 1100",
+          "course_title": "Introduction to Human Services",
+          "credits": "3",
+          "coid": "102219",
+          "footnote": "or"
+        },
+        {
+          "course_code": "SOC 1100",
+          "course_title": "Introduction to Sociology",
+          "credits": "3",
+          "coid": "102589",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following:",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "HMSV 2005",
+          "course_title": "Social and Cultural Diversity in Human Services",
+          "credits": "3",
+          "coid": "102833",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2500",
+          "course_title": "Race and Ethnic Relations",
+          "credits": "3",
+          "coid": "102593",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2700",
+          "course_title": "Social Problems",
+          "credits": "3",
+          "coid": "102600",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2750",
+          "course_title": "Criminology",
+          "credits": "3",
+          "coid": "102602",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 3500",
+          "course_title": "Law and Society",
+          "credits": "3",
+          "coid": "102609",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Interdisciplinary Studies Common Core 12 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "IDIS 1600",
+          "course_title": "Critical and Creative Thinking",
+          "credits": "3",
+          "coid": "102311",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 1100",
+          "course_title": "Logic",
+          "credits": "3",
+          "coid": "102482",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following:",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "PHIL 2500",
+          "course_title": "Contemporary Ethical Problems",
+          "credits": "3",
+          "coid": "102486",
+          "footnote": "or"
+        },
+        {
+          "course_code": "PHIL 2550",
+          "course_title": "Introduction to Ethics",
+          "credits": "3",
+          "coid": "102487",
+          "footnote": "or"
+        },
+        {
+          "course_code": "PHIL 4200",
+          "course_title": "Political and Social Philosophy",
+          "credits": "3",
+          "coid": "102495",
+          "footnote": "or"
+        },
+        {
+          "course_code": "HIST 3305",
+          "course_title": "History of Political Theory",
+          "credits": "3",
+          "coid": "102211",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Choose one of the following:",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "POLS 4350",
+          "course_title": "Moot Court",
+          "credits": "3",
+          "coid": "102546",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 1100",
+          "course_title": "Argumentation and Debate",
+          "credits": "3",
+          "coid": "102651",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPCH 2600",
+          "course_title": "Persuasion",
+          "credits": "3",
+          "coid": "102655",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "IDIS Capstone Requirement 3 cr.",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "POLS 4350",
+          "course_title": "Moot Court",
+          "credits": "3",
+          "coid": "102546",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 4940",
+          "course_title": "Internship in Political Science",
+          "credits": "3-12",
+          "coid": "102553",
+          "footnote": "3-"
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Total credit hours: 48",
+      "content": [],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12785",
+  "scraped_at": "2026-06-10T18:59:03.664921+00:00"
+}

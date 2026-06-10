@@ -1,0 +1,122 @@
+{
+  "program_name": "Photography Minor",
+  "degree_type": "Minor",
+  "department": "Admissions Requirement",
+  "faculty": "",
+  "description": [
+    "Overall minimum GPA of 2.5 required."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Required Photography Courses",
+      "content": [
+        "Total 9 credits"
+      ],
+      "courses": [
+        {
+          "course_code": "COMM 1600",
+          "course_title": "Introduction to Photography",
+          "credits": "3",
+          "coid": "101805",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2600",
+          "course_title": "Intermediate Photography",
+          "credits": "3",
+          "coid": "101806",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3620",
+          "course_title": "Studio Photography",
+          "credits": "3",
+          "coid": "101807",
+          "footnote": "or"
+        },
+        {
+          "course_code": "COMM 3645",
+          "course_title": "Advanced Photo Editing",
+          "credits": "3",
+          "coid": "101810",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "3 Elective Courses",
+      "content": [
+        "Total 9 credits"
+      ],
+      "courses": [
+        {
+          "course_code": "COMM 1940",
+          "course_title": "Color Dynamics",
+          "credits": "3",
+          "coid": "102955",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2650",
+          "course_title": "History of Photography",
+          "credits": "3",
+          "coid": "101781",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3620",
+          "course_title": "Studio Photography",
+          "credits": "3",
+          "coid": "101807",
+          "footnote": "* unless used above"
+        },
+        {
+          "course_code": "COMM 3630",
+          "course_title": "Large Format Photography",
+          "credits": "3",
+          "coid": "101808",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3645",
+          "course_title": "Advanced Photo Editing",
+          "credits": "3",
+          "coid": "101810",
+          "footnote": "*unless used above"
+        },
+        {
+          "course_code": "COMM 3680",
+          "course_title": "Photography Portfolio Development",
+          "credits": "3",
+          "coid": "106511",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3690",
+          "course_title": "Photography Seminar",
+          "credits": "3",
+          "coid": "101812",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1960",
+          "course_title": "Image and Design",
+          "credits": "3",
+          "coid": "101826",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3003",
+          "course_title": "How Photography Became Art",
+          "credits": "3",
+          "coid": "102935",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12885",
+  "scraped_at": "2026-06-10T18:56:06.310553+00:00"
+}

@@ -1,0 +1,9 @@
+{
+  "course_code": "ENGT 3042",
+  "course_title": "Enterprise Resource Planning Systems",
+  "credits": "4",
+  "description": "Offered: Spring\nThis course addresses the rationale for ERP systems, their essential relational database structure and shows how a basic ERP system can be created through programming.\nPrerequisite(s): ECON 1100 and MATH 1700",
+  "prerequisites": "ECON 1100 and MATH 1700",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=103023",
+  "scraped_at": "2026-06-10T19:30:32.724604+00:00"
+}

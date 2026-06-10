@@ -1,0 +1,19 @@
+{
+  "program_name": "Biology Minor",
+  "degree_type": "Minor",
+  "department": "Required courses",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Note:",
+      "content": [
+        "BIOL minors will complete an additional ten semester hours of any BIOL electives ≥ 2000 level. These electives must be selected after consultation with the chair of the Biology and Chemistry Department."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12703",
+  "scraped_at": "2026-06-10T18:55:17.996652+00:00"
+}

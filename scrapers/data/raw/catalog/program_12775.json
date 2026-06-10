@@ -1,0 +1,118 @@
+{
+  "program_name": "History, B.A.",
+  "degree_type": "B.A.",
+  "department": "History",
+  "faculty": "Chairperson Paul Weizer Professors Laura Baker Christine Dee Sean Goodlett Katherine Jewell Benjamin Lieberman René Reeves Daniel Sarefield Teresa Fava Thomas",
+  "description": [
+    "Paul Weizer",
+    "The History program offers a variety of courses to all students. It provides a strong foundation in European, World and United States history.",
+    "The program offers a major and minor in history, as well as provisional certification for teaching history.",
+    "Graduates with a baccalaureate in history understand the diversity of human experience in the past, as well as the nature of the historical enterprise. They acquire the ability to explain developments in U.S. and world history and their significance; become familiar with the different approaches to and methods of historical study; and understand the challenge of weighing multiple perspectives and evaluating the merits of competing interpretations.",
+    "Graduates with a baccalaureate in history understand the nature of historical interpretation, the variety of historical sources, and the structure of historical arguments. They are able to pose a significant research question about the past; locate, explain, evaluate, and utilize information from and about the past to answer a research question; and utilize primary and secondary source evidence to support a historical argument.",
+    "Graduates with a baccalaureate in history develop diverse communication skills, including reading to extract and construct meaning from text and non-textual sources; writing persuasive and evidence-based arguments; and creating oral, multimedia, and digital presentations.",
+    "Through each of these three areas, students taking history courses obtain training in problem solving through the analysis of data and literary and artistic evidence to put forth and evaluate arguments, practice effective skills of communication in expressing ideas, obtain knowledge of citizenship at the local, national and global levels, confront ethical issues in historical reasoning and research, and understand context that produces artistic works.",
+    "The Bachelor of Science and Bachelor of Arts in History require 36 hours of course work. BA and BS candidates in History must have a minor in another discipline. BA and BS candidates for History with Initial Teacher Licensure are not required to have a minor in another discipline."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Required Courses",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Take the following courses:",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "HIST 1000",
+          "course_title": "World Civilizations I",
+          "credits": "3",
+          "coid": "102160",
+          "footnote": "(Diverse Perspectives)"
+        },
+        {
+          "course_code": "HIST 1100",
+          "course_title": "World Civilizations II",
+          "credits": "3",
+          "coid": "102161",
+          "footnote": "(Diverse Perspectives)"
+        },
+        {
+          "course_code": "HIST 1400",
+          "course_title": "United States History I",
+          "credits": "3",
+          "coid": "102162",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 1500",
+          "course_title": "United States History II",
+          "credits": "3",
+          "coid": "102163",
+          "footnote": "OR AMST 1800 - Introduction to American Studies I"
+        },
+        {
+          "course_code": "HIST 2000",
+          "course_title": "Reading Historical Landscapes",
+          "credits": "3",
+          "coid": "102849",
+          "footnote": "(Historical Inquiry and Analysis)"
+        },
+        {
+          "course_code": "HIST 2010",
+          "course_title": "Constructing History",
+          "credits": "3",
+          "coid": "102850",
+          "footnote": "(Historical Inquiry and Analysis)"
+        },
+        {
+          "course_code": "HIST 4500",
+          "course_title": "Senior Seminar",
+          "credits": "3",
+          "coid": "102212",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Additional Requirements",
+      "content": [
+        "History majors are required to take two courses in Political Science. (Civic Learning)"
+      ],
+      "courses": [],
+      "items": [
+        "Fifteen semester hours of History electives",
+        "All History majors must take either MATH 1200 or MATH 1700 as a mathematics requirement.",
+        "The Bachelor of Arts also requires foreign language proficiency at the intermediate level",
+        "History majors are required to take two courses in Political Science. (Civic Learning)"
+      ]
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "* Computer Literacy and Speaking/Listening Requirement",
+        "** Reading Historical Landscapes is suggested to be taken prior to Constructing History."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required General Education Courses",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "MATH 1700",
+          "course_title": "Applied Statistics",
+          "credits": "3",
+          "coid": "102364",
+          "footnote": "(Quantitative Reasoning)"
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12775",
+  "scraped_at": "2026-06-10T18:56:25.281086+00:00"
+}

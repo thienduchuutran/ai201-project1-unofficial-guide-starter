@@ -1,0 +1,49 @@
+{
+  "program_name": "Industrial Training Minor",
+  "degree_type": "Minor",
+  "department": "Requirements for the Minor in Industrial Training 18 cr.",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Industrial Training",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ITEC 1720",
+          "course_title": "Computers in Industrial Technology",
+          "credits": "3",
+          "coid": "102248",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3800",
+          "course_title": "Methods of Teaching Technology/Engineering Education I",
+          "credits": "3",
+          "coid": "102287",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGT 3810",
+          "course_title": "Curriculum Development in Technology/Engineering Education",
+          "credits": "3",
+          "coid": "102288",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Three approved electives"
+      ]
+    },
+    {
+      "heading": "Additional Requirements",
+      "content": [
+        "Prerequisites: Application and departmental approval; prerequisites may be waived based upon an individual’s experience and background."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12752",
+  "scraped_at": "2026-06-10T18:57:39.780497+00:00"
+}

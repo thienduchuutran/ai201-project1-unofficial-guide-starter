@@ -1,0 +1,276 @@
+{
+  "program_name": "Biology, Initial Licensure - UG Biology concentration, B.A.",
+  "degree_type": "B.A.",
+  "department": "Biology and Chemistry Faculty",
+  "faculty": "Chairperson Erin Rehrig Professors Associate Professors Assistant Professors Christopher Cratsley (Biology) Dennis Awasabisah (Chemistry) Elizabeth Kilpatrick (Biology) Lisa Grimm (Biology) Emma Downs (Chemistry) Ronald Krieser (Biology) Steven Fiedler (Chemistry) Mathangi Krishnamurthy (Chemistry) Aisling O’Connor (Chemistry) John Ludlam (Biology) Billy Samulak (Chemistry) Christopher Picone (Biology) Eric Williams (Biology) Erin Rehrig (Biology) Sean Rollins (Biology) Daniel Welsh (Biology)",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Biology Program",
+      "content": [
+        "The Biology program at Fitchburg State University emphasizes basic scientific principles while challenging students. The Department of Biology and Chemistry has a rich history of producing successful graduates who have gone on to work in the vibrant biotechnology and life sciences industry, environmental and field biology workforce, various health professions, and teaching. Our faculty foster a supportive teaching and learning environment, offer individual attention to students, and provide numerous undergraduate and graduate research opportunities. The Biology and Chemistry Club sponsors social events to encourage interaction between students and faculty.",
+        "All Biology majors are required to take four core courses and six advanced BIOL electives ( > 2000) including a Capstone course, for a total of 36 credits.",
+        "The core biology courses include student laboratory work so that students develop the skills of scientific inquiry. Students develop scientific literacy through reading, writing, testing hypotheses, and quantitative analysis. Core courses also integrate computer literacy through lab activities."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Objectives of the Bachelor of Arts (B.A.) in Biology with Initial Licensure in Secondary Teaching (Grades 8-12)",
+      "content": [
+        "Students within our biology major can pursue initial licensure as high school biology teachers. The B.A. option offers a broader curriculum that does not require a detailed knowledge of organic chemistry and physics. This degree provides students with both an introduction to high school teaching and specific instruction in the theory, research and practice of secondary science teaching. Students engage in field-based experiences in the school setting supervised by our faculty through on-site pre-practicum experiences coupled with each teaching course and a formal teaching practicum as the capstone experience. This program is nationally accredited by the Council for the Accreditation of Educator Preparation (CAEP) and boasts graduates working in high schools throughout the region.",
+        "Students interested in pursuing initial teacher licensure must apply for formal admission to the program. For information about undergraduate requirements in teacher preparation, see the section titled: Teacher Preparation Programs (Undergraduate)."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Requirements for the B.A. in Biology with Initial Licensure in Secondary Teaching (Grades 8-12)",
+      "content": [
+        "The curriculum for this secondary education major includes the following core courses: BIOL 1200 and BIOL 1300 , BIOL 2250 , and four BIOL electives (equal to or above 2000-level BIOL courses) including a capstone course. Two of the biology electives are met by biology education courses (see below). Independent study, directed study or internship, may count as one advanced BIOL elective in a student’s program of study. Courses with a separate lecture and lab registration count as a single elective: the lab portion of a course does not constitute a distinct biology elective. Students will need to take two courses in mathematics, the two semester General Chemistry sequence ( CHEM 1300 , CHEM 1400 ) and Organic Chemistry I ( CHEM 2000 ). The B.A. degree program also requires proficiency in a foreign language at the intermediate level.",
+        "The core biology courses include hands-on laboratory work that provides opportunity for students to develop the skills of scientific inquiry. Students develop scientific literacy through reading, writing, testing hypotheses, and quantitative analysis. Core courses also integrate computer literacy through lab activities."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Core Courses Required for the Major",
+      "content": [
+        "* General Biology requires the completion of the AAF Math Placement test prior to enrollment. Students who are able to co-enroll in Basic Math II without co-requisite will be accepted into the general biology courses."
+      ],
+      "courses": [
+        {
+          "course_code": "BIOL 1800",
+          "course_title": "General Biology I",
+          "credits": "4",
+          "coid": "101661",
+          "footnote": "*"
+        },
+        {
+          "course_code": "BIOL 1900",
+          "course_title": "General Biology II",
+          "credits": "4",
+          "coid": "101662",
+          "footnote": "*"
+        },
+        {
+          "course_code": "BIOL 2300",
+          "course_title": "Ecology",
+          "credits": "4",
+          "coid": "101664",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 2800",
+          "course_title": "Genetics",
+          "credits": "4",
+          "coid": "101670",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "* General Biology requires the completion of the AAF Math Placement test prior to enrollment. Students who are able to co-enroll in Basic Math II without co-requisite will be accepted into the general biology courses."
+      ]
+    },
+    {
+      "heading": "Additional Requirements for the B.A. in Biology with Initial Licensure (Grades 8-12)",
+      "content": [
+        "Biology majors must earn a minimum grade of 2.0 in General Biology I and General Chemistry I. If a grade below 2.0 is earned in either course, that course must be repeated before enrolling in any subsequent BIOL or CHEM classes. Biology majors are also limited to two attempts for each of General Biology I and General Chemistry I. If Biology majors earn <2.0 or a W in a second attempt, they must find another major that more closely matches their skills and interests.",
+        "In addition to the core courses and biology electives, students will need to meet the following requirements:",
+        "* Students must have an overall GPA of 2.5 to take this course. ** Students must have an overall GPA of 2.75, major GPA of 3.0, and a passing score on the MTEL Communication and Literacy as well as the Subject Area Exam."
+      ],
+      "courses": [
+        {
+          "course_code": "GEOG 1000",
+          "course_title": "Earth Systems Science",
+          "credits": "3",
+          "coid": "102114",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPED 3800",
+          "course_title": "Inclusive Instruction (5-12)",
+          "credits": "3",
+          "coid": "102641",
+          "footnote": "* (Must have passed MTEL Comm & Lit to enroll)"
+        },
+        {
+          "course_code": "ENGL 4700",
+          "course_title": "Teaching Reading and Writing Across the Content Area",
+          "credits": "3",
+          "coid": "102046",
+          "footnote": "(Must have passed a Stage I review)"
+        },
+        {
+          "course_code": "BIOL 4850",
+          "course_title": "Methods of Teaching Biology (8-12) II",
+          "credits": "3",
+          "coid": "101689",
+          "footnote": "** (Counts as one of the Biology electives)"
+        },
+        {
+          "course_code": "EDUC 3122",
+          "course_title": "Sheltered English Immersion",
+          "credits": "3",
+          "coid": "102774",
+          "footnote": "(Must have passed a Stage I review)"
+        },
+        {
+          "course_code": "BIOL 4012",
+          "course_title": "Practicum Seminar (5-12)",
+          "credits": "3",
+          "coid": "102733",
+          "footnote": "(Must have passed a Stage II review)"
+        },
+        {
+          "course_code": "BIOL 4860",
+          "course_title": "Practicum in a Secondary School I",
+          "credits": "4.5 - 6",
+          "coid": "101690",
+          "footnote": "4.5 - (Counts as one of the Biology electives; must have passed a Stage II review)"
+        },
+        {
+          "course_code": "BIOL 4870",
+          "course_title": "Practicum in a Secondary School II",
+          "credits": "4.5",
+          "coid": "101691",
+          "footnote": "(Taken concurrently with BIOL 4860 for a total of 300 hrs. of Practicum experience) (Must have passed a Stage II review)"
+        }
+      ],
+      "items": [
+        "* Students must have an overall GPA of 2.5 to take this course. ** Students must have an overall GPA of 2.75, major GPA of 3.0, and a passing score on the MTEL Communication and Literacy as well as the Subject Area Exam."
+      ]
+    },
+    {
+      "heading": "Capstone Course Options",
+      "content": [
+        "One of the four electives must be a designated capstone course. Students in the capstone course conduct a research project to demonstrate their skills in research design and analysis.The capstone course must be taken at Fitchburg State. A course that transfers as an equivalent course will not fulfill this requirement. Currently, the following courses are designated as capstone courses:",
+        "Independent Studies (BIOL 4901-4903) require approval by the departmental curriculum committee in order to fulfill the capstone requirement."
+      ],
+      "courses": [
+        {
+          "course_code": "BIOL 3060",
+          "course_title": "Biochemical Techniques",
+          "credits": "3",
+          "coid": "102945",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 3550",
+          "course_title": "Developmental Biology",
+          "credits": "4",
+          "coid": "101678",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 3650",
+          "course_title": "Plant Biology",
+          "credits": "4",
+          "coid": "101679",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 4500",
+          "course_title": "Molecular Biology",
+          "credits": "4",
+          "coid": "101684",
+          "footnote": ""
+        },
+        {
+          "course_code": "BIOL 4700",
+          "course_title": "Animal Physiology",
+          "credits": "4",
+          "coid": "101686",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Independent Studies (BIOL 4901-4903) require approval by the departmental curriculum committee in order to fulfill the capstone requirement."
+      ]
+    },
+    {
+      "heading": "Required Courses in Related Sciences",
+      "content": [
+        "In addition to the BIOL courses, Bachelor of Arts (B.A.) students are required to take courses in related sciences and two courses in mathematics as specified below:",
+        "Any physics course from the approved list (currently PHYS 1100, 2300, and 2600)",
+        "Health & Fitness elective 3 cr.",
+        "* General Chemistry I requires the completion of the AAF Math Placement test or the Algebraic Preparation course (MATH 0500) prior to enrollment.",
+        "Note: Many of the biology and chemistry courses have specific minimum grade requirements for prerequisite courses."
+      ],
+      "courses": [
+        {
+          "course_code": "CHEM 1300",
+          "course_title": "General Chemistry I",
+          "credits": "4",
+          "coid": "101762",
+          "footnote": "*"
+        },
+        {
+          "course_code": "CHEM 1400",
+          "course_title": "General Chemistry II",
+          "credits": "4",
+          "coid": "101763",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 2000",
+          "course_title": "Organic Chemistry I",
+          "credits": "4",
+          "coid": "101764",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1300",
+          "course_title": "Precalculus",
+          "credits": "4",
+          "coid": "102361",
+          "footnote": ""
+        },
+        {
+          "course_code": "MATH 1700",
+          "course_title": "Applied Statistics",
+          "credits": "3",
+          "coid": "102364",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Any physics course from the approved list (currently PHYS 1100, 2300, and 2600)",
+        "Health & Fitness elective 3 cr.",
+        "* General Chemistry I requires the completion of the AAF Math Placement test or the Algebraic Preparation course (MATH 0500) prior to enrollment.",
+        "Note: Many of the biology and chemistry courses have specific minimum grade requirements for prerequisite courses."
+      ]
+    },
+    {
+      "heading": "LA&S Requirements",
+      "content": [
+        "Foreign language proficiency at the intermediate level. This is typically met by successfully taking four courses (12 cr.) of a single foreign language.",
+        "LA&S electives 12 cr.",
+        "Free electives to meet the 120 credit minimum University requirement for a Bachelor’s degree."
+      ],
+      "courses": [
+        {
+          "course_code": "ENGL 1100",
+          "course_title": "Writing I",
+          "credits": "3",
+          "coid": "101958",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 1200",
+          "course_title": "Writing II",
+          "credits": "3",
+          "coid": "101959",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Foreign language proficiency at the intermediate level. This is typically met by successfully taking four courses (12 cr.) of a single foreign language.",
+        "LA&S electives 12 cr.",
+        "Free electives to meet the 120 credit minimum University requirement for a Bachelor’s degree."
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12848",
+  "scraped_at": "2026-06-10T18:54:57.223853+00:00"
+}

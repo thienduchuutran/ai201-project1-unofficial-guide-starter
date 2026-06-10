@@ -1,0 +1,1019 @@
+{
+  "program_name": "International Studies Minor",
+  "degree_type": "Minor",
+  "department": "Required",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Additional Requirements",
+      "content": [
+        "At least one course in the minor must be selected from each of the following categories:"
+      ],
+      "courses": [],
+      "items": [
+        "Communication, History or Political Science",
+        "Business and Economics",
+        "Art, Music or Dance",
+        "Language, Literature, Culture or Sociology"
+      ]
+    },
+    {
+      "heading": "A. Communication, History or Political Science",
+      "content": [
+        "The following are courses which can be used for the minor:"
+      ],
+      "courses": [
+        {
+          "course_code": "COMM 3280",
+          "course_title": "Intercultural Communication",
+          "credits": "3",
+          "coid": "101840",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 1000",
+          "course_title": "World Civilizations I",
+          "credits": "3",
+          "coid": "102160",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 1100",
+          "course_title": "World Civilizations II",
+          "credits": "3",
+          "coid": "102161",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2100",
+          "course_title": "Ancient Greece and Rome",
+          "credits": "3",
+          "coid": "102165",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2103",
+          "course_title": "The Byzantine Empire",
+          "credits": "3",
+          "coid": "102167",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2112",
+          "course_title": "The European Renaissance",
+          "credits": "3",
+          "coid": "102168",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2113",
+          "course_title": "The European Enlightenment",
+          "credits": "3",
+          "coid": "102169",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2130",
+          "course_title": "20th-Century Europe",
+          "credits": "3 cr.",
+          "coid": "102170",
+          "footnote": "3 cr. Credit(s)"
+        },
+        {
+          "course_code": "HIST 2206",
+          "course_title": "Europe Today",
+          "credits": "3",
+          "coid": "102171",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2131",
+          "course_title": "20th-Century Germany",
+          "credits": "3",
+          "coid": "102173",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2132",
+          "course_title": "Nazi Germany: Hitler’s Rise and Fall",
+          "credits": "3",
+          "coid": "102174",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2133",
+          "course_title": "Holocaust",
+          "credits": "3",
+          "coid": "102175",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2134",
+          "course_title": "Armenian Genocide",
+          "credits": "3",
+          "coid": "102176",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2152",
+          "course_title": "Italian American History",
+          "credits": "3",
+          "coid": "102179",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2147",
+          "course_title": "History of Mexico",
+          "credits": "3",
+          "coid": "102184",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2141",
+          "course_title": "Slavery in the Atlantic World",
+          "credits": "3",
+          "coid": "102185",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2151",
+          "course_title": "Women in Latin American History",
+          "credits": "3",
+          "coid": "102186",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2119",
+          "course_title": "Latin American Revolutions",
+          "credits": "3",
+          "coid": "102188",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2136",
+          "course_title": "Modern Italian History: Risorgimento to Today",
+          "credits": "3",
+          "coid": "102192",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2104",
+          "course_title": "The Silk Roads in History and Culture",
+          "credits": "3",
+          "coid": "102193",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2114",
+          "course_title": "The French Revolution",
+          "credits": "3",
+          "coid": "102197",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2163",
+          "course_title": "Vietnam: A Century of Conflict",
+          "credits": "3",
+          "coid": "102204",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2164",
+          "course_title": "Cold War: A Global History",
+          "credits": "3",
+          "coid": "102205",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2207",
+          "course_title": "U.S. In World Affairs: 1898 to the Present",
+          "credits": "3",
+          "coid": "102207",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2135",
+          "course_title": "Genocide in World History",
+          "credits": "3",
+          "coid": "102209",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2040",
+          "course_title": "Poverty and Inequality in the Developing World",
+          "credits": "3",
+          "coid": "103109",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 2040",
+          "course_title": "Poverty and Inequality in the Developing World",
+          "credits": "3",
+          "coid": "103108",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2100",
+          "course_title": "Dilemmas of Peace and War",
+          "credits": "3",
+          "coid": "102315",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 2100",
+          "course_title": "Dilemmas of Peace and War",
+          "credits": "3",
+          "coid": "102746",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2400",
+          "course_title": "Caribbean Cultures",
+          "credits": "3",
+          "coid": "102318",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2206",
+          "course_title": "Europe Today",
+          "credits": "3",
+          "coid": "102527",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1300",
+          "course_title": "Introduction to International Relations",
+          "credits": "3",
+          "coid": "102528",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 1400",
+          "course_title": "Introduction to Comparative Politics",
+          "credits": "3",
+          "coid": "102531",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2540",
+          "course_title": "Global Issues in Film",
+          "credits": "3",
+          "coid": "102319",
+          "footnote": "or"
+        },
+        {
+          "course_code": "POLS 2540",
+          "course_title": "Global Issues in Film",
+          "credits": "3",
+          "coid": "102532",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2701",
+          "course_title": "International Law and Organizations",
+          "credits": "3",
+          "coid": "102536",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2450",
+          "course_title": "The Conduct of American Foreign Policy",
+          "credits": "3",
+          "coid": "102539",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2510",
+          "course_title": "International Terrorism",
+          "credits": "3",
+          "coid": "102541",
+          "footnote": ""
+        },
+        {
+          "course_code": "POLS 2360",
+          "course_title": "Understanding Government Decision Making",
+          "credits": "3",
+          "coid": "102547",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "B. Business and Economics",
+      "content": [
+        "The following are courses which can be used for the minor:"
+      ],
+      "courses": [
+        {
+          "course_code": "BSAD 3325",
+          "course_title": "International Marketing",
+          "credits": "3",
+          "coid": "101733",
+          "footnote": "* BSAD 1040"
+        },
+        {
+          "course_code": "BSAD 4880",
+          "course_title": "International Business Management",
+          "credits": "3",
+          "coid": "101738",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 1100",
+          "course_title": "Principles of Economics: Macroeconomics",
+          "credits": "3",
+          "coid": "101939",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 1200",
+          "course_title": "Principles of Economics: Microeconomics",
+          "credits": "3",
+          "coid": "101940",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 2500",
+          "course_title": "Economic Development",
+          "credits": "3",
+          "coid": "101945",
+          "footnote": ""
+        },
+        {
+          "course_code": "ECON 3550",
+          "course_title": "International Economics",
+          "credits": "3",
+          "coid": "101949",
+          "footnote": "* ECON 1200"
+        },
+        {
+          "course_code": "ECON 3600",
+          "course_title": "International Finance",
+          "credits": "3",
+          "coid": "101950",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "C. Art, Music, or Dance",
+      "content": [
+        "The following are courses which can be used for the minor:"
+      ],
+      "courses": [
+        {
+          "course_code": "ART 1100",
+          "course_title": "Art Appreciation",
+          "credits": "3",
+          "coid": "101618",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2010",
+          "course_title": "Ancient and Medieval Art",
+          "credits": "3",
+          "coid": "101623",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2100",
+          "course_title": "Asian Art",
+          "credits": "3",
+          "coid": "101625",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2120",
+          "course_title": "Commonwealth of Asian Arts",
+          "credits": "3",
+          "coid": "101627",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2700",
+          "course_title": "Baroque Art",
+          "credits": "3",
+          "coid": "101634",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2570",
+          "course_title": "Northern Renaissance Art",
+          "credits": "3",
+          "coid": "101635",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2850",
+          "course_title": "Italian Renaissance Art",
+          "credits": "3",
+          "coid": "101636",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 2900",
+          "course_title": "Nineteenth Century Art",
+          "credits": "3",
+          "coid": "101637",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3150",
+          "course_title": "Modern Art",
+          "credits": "3",
+          "coid": "101642",
+          "footnote": ""
+        },
+        {
+          "course_code": "ART 3300",
+          "course_title": "History of Architecture",
+          "credits": "3",
+          "coid": "101644",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 1500",
+          "course_title": "World Music",
+          "credits": "3",
+          "coid": "102411",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2000",
+          "course_title": "Commonwealth of the Arts",
+          "credits": "3",
+          "coid": "102412",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2100",
+          "course_title": "Commonwealth of Ancient Arts",
+          "credits": "3",
+          "coid": "102413",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2120",
+          "course_title": "Commonwealth of Asian Arts",
+          "credits": "3",
+          "coid": "102414",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 2210",
+          "course_title": "Commonwealth of the Renaissance Arts",
+          "credits": "3",
+          "coid": "102417",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3400",
+          "course_title": "Twentieth-Century Music",
+          "credits": "3",
+          "coid": "102429",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3600",
+          "course_title": "Bach to Beethoven",
+          "credits": "3",
+          "coid": "102432",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3700",
+          "course_title": "19th Century Music",
+          "credits": "3",
+          "coid": "102434",
+          "footnote": ""
+        },
+        {
+          "course_code": "HON 1070",
+          "course_title": "Mozart to Modernism",
+          "credits": "3",
+          "coid": "102347",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2000",
+          "course_title": "Women in Science and Technology",
+          "credits": "3",
+          "coid": "102314",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2100",
+          "course_title": "Dilemmas of Peace and War",
+          "credits": "3",
+          "coid": "102315",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2550",
+          "course_title": "Art and Culture Abroad",
+          "credits": "3",
+          "coid": "102320",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "D. Language, Literature, Culture or Sociology",
+      "content": [
+        "The following are courses which can be used for the minor:"
+      ],
+      "courses": [
+        {
+          "course_code": "ARAB 1026",
+          "course_title": "Arabic for Beginners I",
+          "credits": "3",
+          "coid": "102697",
+          "footnote": ""
+        },
+        {
+          "course_code": "ARAB 1100",
+          "course_title": "Arabic for Beginners II",
+          "credits": "3",
+          "coid": "102699",
+          "footnote": ""
+        },
+        {
+          "course_code": "ARAB 2030",
+          "course_title": "Contemporary Arab World",
+          "credits": "3",
+          "coid": "102757",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHEM 1000",
+          "course_title": "Chemistry in a Changing World",
+          "credits": "3",
+          "coid": "101760",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHIN 1000",
+          "course_title": "Mandarin for Beginners I",
+          "credits": "3",
+          "coid": "101777",
+          "footnote": ""
+        },
+        {
+          "course_code": "CHIN 1100",
+          "course_title": "Mandarin for Beginners II",
+          "credits": "3",
+          "coid": "101778",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 1000",
+          "course_title": "French for Beginners I",
+          "credits": "3",
+          "coid": "102102",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 1100",
+          "course_title": "French for Beginners II",
+          "credits": "3",
+          "coid": "102103",
+          "footnote": ""
+        },
+        {
+          "course_code": "FREN 2000",
+          "course_title": "Intermediate French I",
+          "credits": "3",
+          "coid": "102104",
+          "footnote": "* FREN 1100 or permission"
+        },
+        {
+          "course_code": "FREN 2100",
+          "course_title": "Intermediate French II",
+          "credits": "3",
+          "coid": "102105",
+          "footnote": "* FREN 2000 or permission"
+        },
+        {
+          "course_code": "FREN 3000",
+          "course_title": "French Civilization",
+          "credits": "3",
+          "coid": "102107",
+          "footnote": "* FREN 2100 or permission"
+        },
+        {
+          "course_code": "FREN 3300",
+          "course_title": "French Literature",
+          "credits": "3",
+          "coid": "102108",
+          "footnote": "* FREN 2100 or permission"
+        },
+        {
+          "course_code": "FREN 3500",
+          "course_title": "French Conversation and Composition",
+          "credits": "3",
+          "coid": "102109",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 1000",
+          "course_title": "Italian for Beginners I",
+          "credits": "3",
+          "coid": "102332",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 1100",
+          "course_title": "Italian for Beginners II",
+          "credits": "3",
+          "coid": "102333",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 2000",
+          "course_title": "Intermediate Italian I",
+          "credits": "3",
+          "coid": "102334",
+          "footnote": "* ITAL 1100 or permission"
+        },
+        {
+          "course_code": "ITAL 2100",
+          "course_title": "Intermediate Italian II",
+          "credits": "3",
+          "coid": "102335",
+          "footnote": "* ITAL 2000 or permission"
+        },
+        {
+          "course_code": "ITAL 3000",
+          "course_title": "Italian Culture (in English) I—From Antiquity to 1800",
+          "credits": "3",
+          "coid": "102337",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3100",
+          "course_title": "Italian Culture (in English) II—From 1800 to the Present",
+          "credits": "3",
+          "coid": "102338",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3300",
+          "course_title": "Women in Italy",
+          "credits": "3",
+          "coid": "102339",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3500",
+          "course_title": "Italian Conversation and Composition",
+          "credits": "3",
+          "coid": "102340",
+          "footnote": ""
+        },
+        {
+          "course_code": "LATN 1000",
+          "course_title": "Latin for Beginners I",
+          "credits": "3",
+          "coid": "102703",
+          "footnote": ""
+        },
+        {
+          "course_code": "LATN 1100",
+          "course_title": "Latin for Beginners II",
+          "credits": "3",
+          "coid": "102704",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 1000",
+          "course_title": "Spanish for Beginners I",
+          "credits": "3",
+          "coid": "102615",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 1100",
+          "course_title": "Spanish for Beginners II",
+          "credits": "3",
+          "coid": "102616",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2000",
+          "course_title": "Intermediate Spanish I",
+          "credits": "3",
+          "coid": "102617",
+          "footnote": "* SPAN 1000 or permission"
+        },
+        {
+          "course_code": "SPAN 2100",
+          "course_title": "Intermediate Spanish II",
+          "credits": "3",
+          "coid": "102618",
+          "footnote": "* SPAN 2000 or permission"
+        },
+        {
+          "course_code": "SPAN 2600",
+          "course_title": "Hispanic Culture",
+          "credits": "3",
+          "coid": "102619",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2700",
+          "course_title": "Hispanic Literature",
+          "credits": "3",
+          "coid": "102620",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 3000",
+          "course_title": "Cinema for Spanish Conversation",
+          "credits": "3",
+          "coid": "102702",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 3500",
+          "course_title": "Spanish Conversation and Composition",
+          "credits": "3",
+          "coid": "102621",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 4000",
+          "course_title": "Practical Spanish for the Public Services Professional I",
+          "credits": "3",
+          "coid": "102622",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2200",
+          "course_title": "British Literature I: Adventure and Transformation",
+          "credits": "3",
+          "coid": "101962",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2210",
+          "course_title": "British Literature II: Revolution and Romance",
+          "credits": "3",
+          "coid": "101963",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2220",
+          "course_title": "British Literature III: Empire and Resistance",
+          "credits": "3",
+          "coid": "101964",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2400",
+          "course_title": "World Literature I: Myths and Traditions",
+          "credits": "3",
+          "coid": "101970",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2500",
+          "course_title": "World Literature II: Cultures in Conversation",
+          "credits": "3",
+          "coid": "101971",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 2650",
+          "course_title": "Ethnic American Literature",
+          "credits": "3",
+          "coid": "101975",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3000",
+          "course_title": "World Drama",
+          "credits": "3",
+          "coid": "101994",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3025",
+          "course_title": "English Studies Abroad",
+          "credits": "3",
+          "coid": "102707",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3030",
+          "course_title": "Global Middle Ages",
+          "credits": "3",
+          "coid": "101997",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3040",
+          "course_title": "British Literature Since World War II",
+          "credits": "3",
+          "coid": "101998",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3050",
+          "course_title": "20th-Century Irish Literature",
+          "credits": "3",
+          "coid": "101999",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3070",
+          "course_title": "European Literature I",
+          "credits": "3",
+          "coid": "102002",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3080",
+          "course_title": "European Literature II",
+          "credits": "3",
+          "coid": "102003",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3091",
+          "course_title": "Asian Cinemas: Eastern Visions in a Post Colonial World",
+          "credits": "3",
+          "coid": "102005",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3092",
+          "course_title": "Transatlantic Literature",
+          "credits": "3",
+          "coid": "102006",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3100",
+          "course_title": "World Novel",
+          "credits": "3",
+          "coid": "102008",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3120",
+          "course_title": "Golden Age of English Renaissance Literature",
+          "credits": "3",
+          "coid": "102009",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3700",
+          "course_title": "African Literature",
+          "credits": "3",
+          "coid": "102019",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3710",
+          "course_title": "South Asian Literature",
+          "credits": "3",
+          "coid": "102020",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 3720",
+          "course_title": "Caribbean Literature",
+          "credits": "3",
+          "coid": "102021",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4010",
+          "course_title": "Chaucer and His World",
+          "credits": "3",
+          "coid": "102030",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4020",
+          "course_title": "Shakespeare’s Drama: Text and Performance",
+          "credits": "3",
+          "coid": "102031",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4030",
+          "course_title": "Interpreting Shakespeare’s Work",
+          "credits": "3",
+          "coid": "102032",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4040",
+          "course_title": "Major English Writers of the 17th Century",
+          "credits": "3",
+          "coid": "102033",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4080",
+          "course_title": "British Romanticism",
+          "credits": "3",
+          "coid": "102036",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4100",
+          "course_title": "Victorian Literature",
+          "credits": "3",
+          "coid": "102038",
+          "footnote": ""
+        },
+        {
+          "course_code": "ENGL 4115",
+          "course_title": "British Modernism",
+          "credits": "3",
+          "coid": "102039",
+          "footnote": ""
+        },
+        {
+          "course_code": "HON 2100",
+          "course_title": "Honors Seminar Literature",
+          "credits": "3",
+          "coid": "102351",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2400",
+          "course_title": "Caribbean Cultures",
+          "credits": "3",
+          "coid": "102318",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2500",
+          "course_title": "Culture and Society of India",
+          "credits": "3",
+          "coid": "102712",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2550",
+          "course_title": "Art and Culture Abroad",
+          "credits": "3",
+          "coid": "102320",
+          "footnote": ""
+        },
+        {
+          "course_code": "NURS 4500",
+          "course_title": "Nursing in a Global Community",
+          "credits": "3",
+          "coid": "102457",
+          "footnote": ""
+        },
+        {
+          "course_code": "PHIL 3610",
+          "course_title": "World Religions",
+          "credits": "3",
+          "coid": "102493",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2510",
+          "course_title": "Peoples and Cultures of Africa",
+          "credits": "3",
+          "coid": "102594",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2600",
+          "course_title": "Sociology of Developing Societies",
+          "credits": "3",
+          "coid": "102596",
+          "footnote": ""
+        },
+        {
+          "course_code": "SOC 2620",
+          "course_title": "Sociology of Religion",
+          "credits": "3",
+          "coid": "102597",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2730",
+          "course_title": "History of the Theater I",
+          "credits": "3",
+          "coid": "101981",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12784",
+  "scraped_at": "2026-06-10T18:56:49.567243+00:00"
+}

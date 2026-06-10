@@ -1,0 +1,9 @@
+{
+  "course_code": "PHYS 2600",
+  "course_title": "Calculus-Based Physics I",
+  "credits": "4",
+  "description": "Offered: every other Spring\nThe principles and applications of classical mechanics and heat are studied using the language of calculus. Credit cannot be earned for both PHYS 2300 and PHYS 2600.\nPrerequisite(s): MATH 2300\nNote: Where PHYS 2300 is specified as a requirement, PHYS 2600 may be substituted.\nMeets General Education Requirement(s): PL, SI",
+  "prerequisites": "MATH 2300",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102507",
+  "scraped_at": "2026-06-10T19:18:59.831651+00:00"
+}

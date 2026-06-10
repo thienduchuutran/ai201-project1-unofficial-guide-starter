@@ -1,0 +1,47 @@
+{
+  "program_name": "Medical Spanish Certificate",
+  "degree_type": "Certificate",
+  "department": "Admissions Requirement",
+  "faculty": "",
+  "description": [
+    "Required GPA: 2.0",
+    "Course Prerequisite: SPAN 2000 (Students that feel they meet the intermediate level 1 requirement can test out of this level by requesting a Spanish Language Evaluation in the Humanities Department)."
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Program Requirements",
+      "content": [
+        "The Undergraduate Medical Spanish Certificate requires the following courses:",
+        "Students that have declared the Medical Spanish Certificate may take SPAN 2000 concurrently with SPAN 2600 with department approval. Transfer credits can be accepted for Spanish 2000."
+      ],
+      "courses": [
+        {
+          "course_code": "SPAN 2300",
+          "course_title": "Medical Spanish",
+          "credits": "3",
+          "coid": "103102",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2000",
+          "course_title": "Intermediate Spanish I",
+          "credits": "3",
+          "coid": "102617",
+          "footnote": ""
+        },
+        {
+          "course_code": "SPAN 2600",
+          "course_title": "Hispanic Culture",
+          "credits": "3",
+          "coid": "102619",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Students that have declared the Medical Spanish Certificate may take SPAN 2000 concurrently with SPAN 2600 with department approval. Transfer credits can be accepted for Spanish 2000."
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12886",
+  "scraped_at": "2026-06-10T18:58:36.240596+00:00"
+}

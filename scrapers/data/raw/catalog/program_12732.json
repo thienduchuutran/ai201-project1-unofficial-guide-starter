@@ -1,0 +1,391 @@
+{
+  "program_name": "Communications Media, Photography Concentration, B.S.",
+  "degree_type": "B.S.",
+  "department": "Communications Media",
+  "faculty": "Chairperson Jeff Warmouth Professors Associate Professors Assistant Professors Robert Carr Jonathan Amakawa Rachelle Dermer Robert Harris Mary Baker J Flynn Randy Howe Kyle Moody Andres Gonzalez Jon Krasner Britton Snyder Xiaoying Meng Viera Lorencova John (J.J.) Sylvia M. Zachary Lee Mary Vreeland Kevin McCarthy Kelly Morgan Charles Roberts Charles Sides Donald Tarallo, Jr. Samuel Tobin Jeff Warmouth",
+  "description": [
+    "Chairperson",
+    "The aim of the Communications Media Department is to educate media professionals who are technically and aesthetically competent and ready for employment in their areas of emphasis. Graduates from the Communications Media Department will have an understanding of the dynamic relationship between the needs of clients, the needs of audiences, and the capabilities of the medium they use to create their messages.",
+    "B.S. in Communications Media"
+  ],
+  "requirement_sections": [
+    {
+      "heading": "Requirements for the Major in Communications Media",
+      "content": [
+        "The Bachelor of Science degree in Communications Media requires 54 semester hours in its major requirements. Course requirements are organized into four phases.",
+        "Note: Only students who have completed the requirements of a second concentration can formally declare this concentration to have it recognized on their transcript. Students interested in Communication Studies as a second concentration may formally declare it at any time.",
+        "Note: For some concentration courses, students are expected to pay for supplies that may range in cost from $100 to $300 per course.",
+        "Phase III: Departmental Electives: In consultation with their advisor, students select four courses from GAME, COMM, TETA, or THEA:"
+      ],
+      "courses": [],
+      "items": [
+        "Phase I: Freshman Introductory Requirements: Phase I exposes students to the foundations, concepts, and practices used in the preparation, delivery, evaluation, and research of verbal and visual messages.",
+        "Phase II: Applied Concentration: Phase II enables students to become involved with an in-depth investigation of an area in communications which is most closely aligned with individual talents and interests. Students must select and complete one concentration with the consent of their advisor. A minimum of five required courses must be taken within a concentration. Note: Only students who have completed the requirements of a second concentration can formally declare this concentration to have it recognized on their transcript. Students interested in Communication Studies as a second concentration may formally declare it at any time. Note: For some concentration courses, students are expected to pay for supplies that may range in cost from $100 to $300 per course.",
+        "Phase III: Departmental Electives: In consultation with their advisor, students select four courses from GAME, COMM, TETA, or THEA: Four additional courses in the same concentration Four courses in other concentrations Any course which a student is using to fulfill either a General Education Program Requirement or a Minor may NOT be counted toward Phase III Requirements for the major Four courses from a combination of concentrations, including additional theory, conceptual, or methodological courses",
+        "Four additional courses in the same concentration",
+        "Four courses in other concentrations",
+        "Any course which a student is using to fulfill either a General Education Program Requirement or a Minor may NOT be counted toward Phase III Requirements for the major",
+        "Four courses from a combination of concentrations, including additional theory, conceptual, or methodological courses",
+        "Phase IV: Upper-Level Theory/Conceptual/Methodological Requirements: For students in their junior/senior year"
+      ]
+    },
+    {
+      "heading": "General Education Requirement",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "SOC 1100",
+          "course_title": "Introduction to Sociology",
+          "credits": "3",
+          "coid": "102589",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Phase I: Freshman Introductory Requirements",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "COMM 1205",
+          "course_title": "Introduction to Communication and Media Studies",
+          "credits": "3",
+          "coid": "101779",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1220",
+          "course_title": "Message Design",
+          "credits": "3",
+          "coid": "101780",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Phase II: Applied Concentration",
+      "content": [
+        "See concentration requirements below."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Phase III: Departmental Electives",
+      "content": [
+        "Take 12 additional credits in COMM, GAME, TETA, or THEA."
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Phase IV: Upper-Level Theory/Conceptual/Methodological Requirements",
+      "content": [
+        "Choose ONE course from Junior/Senior Writing Electives:",
+        "Choose TWO courses from Advanced Electives:"
+      ],
+      "courses": [
+        {
+          "course_code": "COMM 1860",
+          "course_title": "Public Relations",
+          "credits": "3",
+          "coid": "101794",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2800",
+          "course_title": "Journalism",
+          "credits": "3",
+          "coid": "101786",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3400",
+          "course_title": "Contemporary Cinema",
+          "credits": "3",
+          "coid": "101787",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3440",
+          "course_title": "Documentary Development",
+          "credits": "3",
+          "coid": "103245",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3500",
+          "course_title": "Writing for Film and Video",
+          "credits": "3",
+          "coid": "101818",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3825",
+          "course_title": "Writing for Advertising",
+          "credits": "3",
+          "coid": "101793",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3835",
+          "course_title": "Client Project Production",
+          "credits": "3",
+          "coid": "101795",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3845",
+          "course_title": "Marketing Communication",
+          "credits": "3",
+          "coid": "102875",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3860",
+          "course_title": "Writing for Organizations",
+          "credits": "3",
+          "coid": "101823",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4201",
+          "course_title": "Writings in Aesthetics",
+          "credits": "3",
+          "coid": "101829",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4210",
+          "course_title": "Information Design",
+          "credits": "3",
+          "coid": "102870",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4240",
+          "course_title": "Media Criticism",
+          "credits": "3",
+          "coid": "101836",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 2750",
+          "course_title": "Playwrighting",
+          "credits": "3",
+          "coid": "102749",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3205",
+          "course_title": "Critical Making",
+          "credits": "3",
+          "coid": "103066",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3206",
+          "course_title": "Creative Coding",
+          "credits": "3",
+          "coid": "103067",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3207",
+          "course_title": "Data & Society",
+          "credits": "3",
+          "coid": "103065",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3208",
+          "course_title": "Rhetoric in Greece",
+          "credits": "3",
+          "coid": "103079",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3280",
+          "course_title": "Intercultural Communication",
+          "credits": "3",
+          "coid": "101840",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3281",
+          "course_title": "Gender and Communication",
+          "credits": "3",
+          "coid": "101841",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4200",
+          "course_title": "Human Communication",
+          "credits": "3",
+          "coid": "101830",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4205",
+          "course_title": "Seminar in Communication Theory",
+          "credits": "3",
+          "coid": "101831",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4206",
+          "course_title": "Media and Society",
+          "credits": "3",
+          "coid": "101832",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4220",
+          "course_title": "Organizational Communication",
+          "credits": "3",
+          "coid": "101834",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4230",
+          "course_title": "Communication Law and Ethics",
+          "credits": "3",
+          "coid": "101835",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4250",
+          "course_title": "Research Seminar",
+          "credits": "3",
+          "coid": "101837",
+          "footnote": ""
+        },
+        {
+          "course_code": "THEA 3720",
+          "course_title": "Dramaturgy",
+          "credits": "3",
+          "coid": "102823",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "Choose ONE course from Junior/Senior Writing Electives:",
+        "Choose TWO courses from Advanced Electives:"
+      ]
+    },
+    {
+      "heading": "Photography Concentration",
+      "content": [],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Required Courses",
+      "content": [
+        "______________________________________________________________________________________________________________",
+        "And at least one of the following courses:"
+      ],
+      "courses": [
+        {
+          "course_code": "COMM 1600",
+          "course_title": "Introduction to Photography",
+          "credits": "3",
+          "coid": "101805",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2600",
+          "course_title": "Intermediate Photography",
+          "credits": "3",
+          "coid": "101806",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3620",
+          "course_title": "Studio Photography",
+          "credits": "3",
+          "coid": "101807",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3645",
+          "course_title": "Advanced Photo Editing",
+          "credits": "3",
+          "coid": "101810",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 4880",
+          "course_title": "Internship",
+          "credits": "12",
+          "coid": "101842",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1940",
+          "course_title": "Color Dynamics",
+          "credits": "3",
+          "coid": "102955",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 1960",
+          "course_title": "Image and Design",
+          "credits": "3",
+          "coid": "101826",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2460",
+          "course_title": "Video Production Fundamentals",
+          "credits": "3",
+          "coid": "102791",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 2640",
+          "course_title": "Color Photography",
+          "credits": "3",
+          "coid": "101809",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3540",
+          "course_title": "Cinematography",
+          "credits": "3",
+          "coid": "101816",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3630",
+          "course_title": "Large Format Photography",
+          "credits": "3",
+          "coid": "101808",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3680",
+          "course_title": "Photography Portfolio Development",
+          "credits": "3",
+          "coid": "106511",
+          "footnote": ""
+        },
+        {
+          "course_code": "COMM 3690",
+          "course_title": "Photography Seminar",
+          "credits": "3",
+          "coid": "101812",
+          "footnote": ""
+        }
+      ],
+      "items": [
+        "______________________________________________________________________________________________________________",
+        "And at least one of the following courses:"
+      ]
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12732",
+  "scraped_at": "2026-06-10T18:55:47.024595+00:00"
+}

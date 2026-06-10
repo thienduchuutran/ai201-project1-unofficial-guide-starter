@@ -1,0 +1,9 @@
+{
+  "course_code": "CSC 2560",
+  "course_title": "Systems Programming",
+  "credits": "3",
+  "description": "Offered: every semester\nThis course provides the student with the fundamentals of structured programming at the systems level. UNIX is used as a base for this course. Students obtain a thorough knowledge of the C language, comfort in using the UNIX operating system and an appreciation for a systems approach to low-level programming tasks.\nPrerequisite(s): CSC 1550\nCorequisite(s): CSC 1900 or MATH 1900",
+  "prerequisites": "CSC 1550",
+  "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=101862",
+  "scraped_at": "2026-06-10T19:05:36.376577+00:00"
+}

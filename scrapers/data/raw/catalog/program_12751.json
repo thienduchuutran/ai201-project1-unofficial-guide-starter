@@ -1,0 +1,140 @@
+{
+  "program_name": "Italian Studies Minor",
+  "degree_type": "Minor",
+  "department": "Required Courses (or demonstrated equivalent competency)",
+  "faculty": "",
+  "description": [],
+  "requirement_sections": [
+    {
+      "heading": "Electives",
+      "content": [
+        "The remaining credits may be selected from the following:"
+      ],
+      "courses": [],
+      "items": []
+    },
+    {
+      "heading": "Language Options",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ITAL 2100",
+          "course_title": "Intermediate Italian II",
+          "credits": "3",
+          "coid": "102335",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3500",
+          "course_title": "Italian Conversation and Composition",
+          "credits": "3",
+          "coid": "102340",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Italian Culture Options",
+      "content": [],
+      "courses": [
+        {
+          "course_code": "ART 2850",
+          "course_title": "Italian Renaissance Art",
+          "credits": "3",
+          "coid": "101636",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2100",
+          "course_title": "Ancient Greece and Rome",
+          "credits": "3",
+          "coid": "102165",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2112",
+          "course_title": "The European Renaissance",
+          "credits": "3",
+          "coid": "102168",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2152",
+          "course_title": "Italian American History",
+          "credits": "3",
+          "coid": "102179",
+          "footnote": ""
+        },
+        {
+          "course_code": "HIST 2136",
+          "course_title": "Modern Italian History: Risorgimento to Today",
+          "credits": "3",
+          "coid": "102192",
+          "footnote": ""
+        },
+        {
+          "course_code": "IDIS 2550",
+          "course_title": "Art and Culture Abroad",
+          "credits": "3",
+          "coid": "102320",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 2500",
+          "course_title": "Italy Through Film",
+          "credits": "3",
+          "coid": "102336",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3000",
+          "course_title": "Italian Culture (in English) I—From Antiquity to 1800",
+          "credits": "3",
+          "coid": "102337",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3100",
+          "course_title": "Italian Culture (in English) II—From 1800 to the Present",
+          "credits": "3",
+          "coid": "102338",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 3300",
+          "course_title": "Women in Italy",
+          "credits": "3",
+          "coid": "102339",
+          "footnote": ""
+        },
+        {
+          "course_code": "ITAL 4903",
+          "course_title": "Independent Study in Italian",
+          "credits": "3",
+          "coid": "102343",
+          "footnote": ""
+        },
+        {
+          "course_code": "MUSC 3200",
+          "course_title": "Opera",
+          "credits": "3",
+          "coid": "102427",
+          "footnote": ""
+        }
+      ],
+      "items": []
+    },
+    {
+      "heading": "Note:",
+      "content": [
+        "Further Course Options include courses taken in Italy, in a Fitchburg State University program or Fitchburg State University—accredited program, upon permission of the Italian Studies advisor.",
+        "No more than six transfer credits will be accepted as credit towards the minor. Transferred credits must have received a minimum grade of 2.5. Students must maintain a 2.5 grade point average in courses towards the minor to remain in the program."
+      ],
+      "courses": [],
+      "items": []
+    }
+  ],
+  "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12751",
+  "scraped_at": "2026-06-10T18:58:46.951309+00:00"
+}
