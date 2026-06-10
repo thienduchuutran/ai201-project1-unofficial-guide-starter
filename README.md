@@ -14,6 +14,8 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+Academic advising knowledge for Fitchburg State University: degree program requirements, course descriptions with prerequisites, and seat availability for upcoming semesters. This knowledge is valuable but hard to use through official channels because it is split across two disconnected systems: the Acalog catalog, where critical advising rules hide in footnotes ("Must have passed a Stage I review", "overall GPA of 2.75 … and passing score on the MTEL"), and an Oracle APEX schedule app, where seat counts and cross-listing caveats sit in per-row comments across four separate semester tabs. Answering a real question like "can I take this course next semester?" requires manually cross-referencing all of them; this system does that in one query.
+
 ---
 
 ## Document Sources
@@ -24,16 +26,17 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Undergraduate Day Programs index (all 170 programs) | Acalog catalog page | https://catalog.fitchburgstate.edu/content.php?catoid=53&navoid=3675 |
+| 2 | Program pages: 170 scraped (requirements, footnotes) | Acalog catalog pages | `preview_program.php?catoid=53&poid={poid}` → `scrapers/data/raw/catalog/program_*.json` |
+| 3 | Program: Computer Science, B.S. | Acalog catalog page | https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12796 |
+| 4 | Program: History, Secondary Ed with Initial Teacher Licensure, B.A. (GPA/MTEL footnotes) | Acalog catalog page | https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12772 |
+| 5 | Program: Biology, Initial Licensure, B.A. ("Stage I review" footnotes) | Acalog catalog page | https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12848 |
+| 6 | Course pages — 989 scraped (descriptions, credits, raw prerequisites) | Acalog catalog pages | `preview_course_nopop.php?catoid=53&coid={coid}` → `scrapers/data/raw/catalog/course_*.json` |
+| 7 | Course: MATH 1700 Applied Statistics (placement prereqs, cross-listing) | Acalog catalog page | https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102364 |
+| 8 | Day Fall 2026 schedule: 901 sections (seats, faculty, times, comments) | Oracle APEX report | https://web4.fitchburgstate.edu/apex/f?p=127:2:::NO::: → `scrapers/data/raw/seats/day_fall_2026.json` |
+| 9 | Day Spring 2027 schedule: 841 sections | Oracle APEX report | https://web4.fitchburgstate.edu/apex/f?p=127:14:::NO::: → `scrapers/data/raw/seats/day_spring_2027.json` |
+| 10 | SGOCE Fall 2026 schedule — 378 sections | Oracle APEX report | https://web4.fitchburgstate.edu/apex/f?p=127:4:::NO::: → `scrapers/data/raw/seats/sgoce_fall_2026.json` |
+| 11 | SGOCE Spring 2027 schedule: 314 sections | Oracle APEX report | https://web4.fitchburgstate.edu/apex/f?p=127:15:::NO::: → `scrapers/data/raw/seats/sgoce_spring_2027.json` |
 
 ---
 

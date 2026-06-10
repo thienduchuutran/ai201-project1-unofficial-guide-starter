@@ -8,6 +8,8 @@ __pycache__/
 .venv/
 venv/
 env/
+# virtual environment created as "source"
+source/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -18,3 +20,4 @@ chroma/
 
 # macOS
 .DS_Store
+.claude/settings.local.json
