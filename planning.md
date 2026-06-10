@@ -50,6 +50,8 @@ Academic advising knowledge for Fitchburg State University: degree program requi
 
 **Reasoning:** The corpus is structured records, not flowing prose — the key facts (a prerequisite, a footnote, a seat count) live in one self-contained record, so fixed-size splitting with overlap would only sever footnote markers (`***`) from the "Note:" definitions that explain them. The chunk boundaries that matter are semantic: a requirement section and its footnote definitions must stay in the same chunk, and a schedule row must keep its comments (cross-listing/seat caveats). Prepending program/semester names compensates for context lost by chunking (a section titled "Core Required Courses" is meaningless without knowing which major it belongs to).
 
+**Seat chunk metadata:** Each seat row chunk must also store `course_code`, `semester`, and `modality` as explicit ChromaDB metadata fields (not just embedded in the text string), enabling metadata-filtered queries like `where={"semester": "day_fall_2026"}` before the vector search. This prevents cross-semester seat rows for the same course from crowding out the target semester in top-k results.
+
 ---
 
 ## Retrieval Approach
@@ -64,7 +66,7 @@ Academic advising knowledge for Fitchburg State University: degree program requi
 
 **Top-k:** 5 — enough to combine a program section with the relevant course descriptions and a seats row for cross-system questions, without flooding the context with near-duplicate sections from sibling programs.
 
-**Production tradeoff reflection:** With no cost constraint I would weigh: (1) *domain accuracy on terse, code-heavy text* — course codes like "HIST 3900" and abbreviations like "MTEL" are out-of-vocabulary-ish for general models, so a larger model (e.g. text-embedding-3-large or voyage-3) with better subword handling should retrieve more reliably on code-based queries; (2) *context length* — a longer window would let me embed whole programs instead of sections and avoid the program-name-prefix workaround; (3) *latency and hosting* — an API-hosted model adds a network round-trip per query and sends student queries to a third party, while local MiniLM is instant and private; (4) *multilingual support matters little here* since the catalog is English-only. I would not pick a model for benchmark scores alone — I'd re-run my 5 evaluation questions against each candidate, since retrieval of footnote/prerequisite chunks is the bottleneck in this domain.
+**Production tradeoff reflection:** With no cost constraint I would weigh: (1) *domain accuracy on terse, code-heavy text* — course codes like "HIST 3900" and abbreviations like "MTEL" are out-of-vocabulary-ish for general models, so a larger model (e.g. text-embedding-3-large or voyage-3) with better subword handling should retrieve more reliably on code-based queries; (2) *context length* — a longer window would let me embed whole programs instead of sections and avoid the program-name-prefix workaround; (3) *latency and hosting* — an API-hosted model adds a network round-trip per query and sends student queries to a third party, while local MiniLM is instant and private; (4) *multilingual support matters little here* since the catalog is English-only. I would not pick a model for benchmark scores alone — I'd re-run my 5 evaluation questions against each candidate, since retrieval of footnote/prerequisite chunks is the bottleneck in this domain. One concrete alternative at the same size/speed tier is `multi-qa-MiniLM-L6-cos-v1`, which was trained on QA pairs rather than sentence similarity; if evaluation shows code-based queries ("prereqs for CSC 3700") retrieving worse than name-based queries ("prereqs for Algorithms and Data Structures"), switching to this model is the first thing to try.
 
 ---
 
@@ -115,24 +117,34 @@ Academic advising knowledge for Fitchburg State University: degree program requi
 └────────────────────────────┬────────────────────────────────────────┘
                              ▼
 ┌─────────────────────────────────────────────────────────────────────┐
-│ 2. CHUNKING  (plain Python)                                         │
+│ 2. NORMALIZATION  (plain Python — normalize.py)                     │
+│    Standardize course codes: re.sub(r'\s+', ' ', code).upper()      │
+│    Strip residual HTML entities from BeautifulSoup output           │
+│    Coerce missing/empty seat values to null                         │
+│    → consistent input for chunker; prevents same course appearing   │
+│      under two string variants in the vector store                  │
+└────────────────────────────┬────────────────────────────────────────┘
+                             ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│ 3. CHUNKING  (plain Python)                                         │
 │    course JSON → 1 chunk | program JSON → 1 chunk per requirement   │
 │    section (+ Note defs) | seats row → 1 chunk (+ comments)         │
 │    every chunk: prefixed context + source_url + scraped_at metadata │
 └────────────────────────────┬────────────────────────────────────────┘
                              ▼
 ┌─────────────────────────────────────────────────────────────────────┐
-│ 3. EMBEDDING + VECTOR STORE                                         │
+│ 4. EMBEDDING + VECTOR STORE                                         │
 │    sentence-transformers all-MiniLM-L6-v2 → ChromaDB (local)        │
 └────────────────────────────┬────────────────────────────────────────┘
                              ▼
 ┌─────────────────────────────────────────────────────────────────────┐
-│ 4. RETRIEVAL                                                        │
+│ 5. RETRIEVAL  (ChromaDB)                                            │
 │    embed query → top-k=5 nearest chunks (with source metadata)      │
+│    optional metadata pre-filter, e.g. where={"semester": …}         │
 └────────────────────────────┬────────────────────────────────────────┘
                              ▼
 ┌─────────────────────────────────────────────────────────────────────┐
-│ 5. GENERATION                                                       │
+│ 6. GENERATION                                                       │
 │    Claude API; grounded system prompt; cites source_url +           │
 │    scraped_at for every claim; refuses beyond retrieved context     │
 └─────────────────────────────────────────────────────────────────────┘
@@ -152,7 +164,7 @@ Academic advising knowledge for Fitchburg State University: degree program requi
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-**Milestone 3 — Ingestion and chunking:** Give Claude Code the Chunking Strategy section above plus two sample files (`program_12772.json`, `course_102364.json`) and ask it to implement `chunk_documents()` producing `{text, source_url, scraped_at, doc_type}` dicts. Verify by spot-checking that the HIST 3900 chunk contains both the `****` marker and the MTEL note text, and that no chunk exceeds ~400 tokens. (The scrapers themselves were already built with Claude Code against the Scraper 1/2 spec; I verified their output against live pages — see README AI Usage.)
+**Milestone 3 — Ingestion and chunking:** Give Claude Code the Chunking Strategy section above plus two sample files (`program_12772.json`, `course_102364.json`) and ask it to implement `normalize.py` alongside `chunk_documents()` producing `{text, source_url, scraped_at, doc_type}` dicts. Verify by spot-checking that the HIST 3900 chunk contains both the `****` marker and the MTEL note text, that no chunk exceeds ~400 tokens, and that "CSC 3700", "CSC3700", and "CSC-3700" all normalize to "CSC 3700". (The scrapers themselves were already built with Claude Code against the Scraper 1/2 spec; I verified their output against live pages — see README AI Usage.)
 
 **Milestone 4 — Embedding and retrieval:** Give Claude Code the Retrieval Approach section and ask for an `embed_and_store.py` (sentence-transformers → ChromaDB) and a `retrieve(query, k=5)` function. Verify by running the 5 evaluation questions and checking the retrieved chunks contain the expected source documents before any generation is wired up — retrieval quality is testable without an LLM.
 
