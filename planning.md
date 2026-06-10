@@ -44,9 +44,9 @@ Academic advising knowledge for Fitchburg State University: degree program requi
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:** Structure-aware, capped at ~400 tokens. One chunk per course JSON (description blocks run ~80–250 tokens — they fit whole). One chunk per requirement *section* of a program JSON (heading + course list + that section's footnotes), with the program name prepended to every chunk. One chunk per schedule row (course section + its comments), prefixed with the semester name.
+**Chunk size:** Structure-aware, capped at 512 tokens (estimated as word count × 1.3; `inspect_chunks.py` enforces a 600-token hard ceiling). One chunk per course JSON (description blocks run ~80–250 tokens — they fit whole). One chunk per requirement *section* of a program JSON (heading + course list + that section's footnotes), with the program name prepended to every chunk. One chunk per schedule row (course section + its comments), prefixed with the semester name and identified by CRN, since the schedule has no section-number column.
 
-**Overlap:** 0 tokens between structured chunks. Overlap only applies if a long program description block must be split mid-prose, in which case 50 tokens.
+**Overlap:** 0 tokens. Oversized program sections are split at course-list/line boundaries (never mid-prose) with the program/section header and Note definitions repeated on every part, so the mid-prose overlap case planned earlier (50 tokens) never arises in practice.
 
 **Reasoning:** The corpus is structured records, not flowing prose — the key facts (a prerequisite, a footnote, a seat count) live in one self-contained record, so fixed-size splitting with overlap would only sever footnote markers (`***`) from the "Note:" definitions that explain them. The chunk boundaries that matter are semantic: a requirement section and its footnote definitions must stay in the same chunk, and a schedule row must keep its comments (cross-listing/seat caveats). Prepending program/semester names compensates for context lost by chunking (a section titled "Core Required Courses" is meaningless without knowing which major it belongs to).
 
