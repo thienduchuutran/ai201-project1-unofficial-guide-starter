@@ -46,6 +46,8 @@ Academic advising knowledge for Fitchburg State University: degree program requi
 
 **Chunk size:** Structure-aware, capped at 512 tokens (estimated as word count × 1.3; `inspect_chunks.py` enforces a 600-token hard ceiling). One chunk per course JSON (description blocks run ~80–250 tokens — they fit whole). One chunk per requirement *section* of a program JSON (heading + course list + that section's footnotes), with the program name prepended to every chunk. One chunk per schedule row (course section + its comments), prefixed with the semester name and identified by CRN, since the schedule has no section-number column.
 
+**Milestone 4 refinements (driven by the retrieval eval):** (1) Program sections now split at ~200 est. tokens instead of 512 — multi-course sections embedded too diffusely to ever rank in top-5; the program/section header and Note definitions are still repeated on every part. (2) Each course line carrying a `*`-marker footnote additionally emits a small dedicated chunk pairing the course with its specific Note definition (e.g. "Note for HIST 3900 … (footnote ****): … GPA of 2.75 … MTEL …"). Inside a 6-course section chunk that rule ranked ~35th for "HIST 3900 GPA requirement"; as a dedicated chunk it ranks 1st.
+
 **Overlap:** 0 tokens. Oversized program sections are split at course-list/line boundaries (never mid-prose) with the program/section header and Note definitions repeated on every part, so the mid-prose overlap case planned earlier (50 tokens) never arises in practice.
 
 **Reasoning:** The corpus is structured records, not flowing prose — the key facts (a prerequisite, a footnote, a seat count) live in one self-contained record, so fixed-size splitting with overlap would only sever footnote markers (`***`) from the "Note:" definitions that explain them. The chunk boundaries that matter are semantic: a requirement section and its footnote definitions must stay in the same chunk, and a schedule row must keep its comments (cross-listing/seat caveats). Prepending program/semester names compensates for context lost by chunking (a section titled "Core Required Courses" is meaningless without knowing which major it belongs to).
@@ -62,7 +64,7 @@ Academic advising knowledge for Fitchburg State University: degree program requi
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:** `all-MiniLM-L6-v2` via sentence-transformers — free, local, fast, and its 256-token effective window fits my chunk sizes.
+**Embedding model:** `BAAI/bge-small-en-v1.5` via sentence-transformers (cosine space, queries prefixed with the bge "Represent this sentence…" instruction). This is a Milestone 4 change, made exactly the way this section planned: candidates were judged on the 5 evaluation questions. `all-MiniLM-L6-v2` failed the code-heavy queries (flat ~0.44 distances; its 256-token window also truncates long program sections before their Note definitions). The planned first alternative `multi-qa-MiniLM-L6-cos-v1` fixed Q2/Q4 but lost the "prereqs for CSC 3700" and "HIST 3900 GPA" spot-checks entirely. `bge-small-en-v1.5` (same size tier, 512-token window) gave the best discrimination (relevant hits 0.14–0.26) and is the current pick.
 
 **Top-k:** 5 — enough to combine a program section with the relevant course descriptions and a seats row for cross-system questions, without flooding the context with near-duplicate sections from sibling programs.
 

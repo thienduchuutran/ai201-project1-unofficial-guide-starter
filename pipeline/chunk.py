@@ -23,6 +23,11 @@ NORM_DIR = os.path.join(PIPELINE_DIR, "data", "processed", "normalized")
 OUT_PATH = os.path.join(PIPELINE_DIR, "data", "processed", "chunks.jsonl")
 
 TOKEN_LIMIT = 512
+# Program sections split at a smaller cap: Milestone 4 retrieval eval showed
+# multi-course sections embed too diffusely to rank (the HIST 3900 ****
+# footnote chunk never reached top-5). Header + Notes repeat on every part,
+# so markers keep their definitions.
+SECTION_TOKEN_LIMIT = 200
 
 
 def estimate_tokens(text):
@@ -121,7 +126,7 @@ def build_section_chunks(program_json, section, note_text, header, idx_start,
     head_lines = header + ["Section: %s" % heading]
 
     full_text = "\n".join(head_lines + body + [notes_line])
-    if estimate_tokens(full_text) <= TOKEN_LIMIT:
+    if estimate_tokens(full_text) <= SECTION_TOKEN_LIMIT:
         parts = [body]
     else:
         # Split at course-list / line boundaries, 0 overlap; header and notes
@@ -130,17 +135,13 @@ def build_section_chunks(program_json, section, note_text, header, idx_start,
         parts, current, cost = [], [], fixed_cost
         for ln in body:
             ln_cost = estimate_tokens(ln)
-            if current and cost + ln_cost > TOKEN_LIMIT:
+            if current and cost + ln_cost > SECTION_TOKEN_LIMIT:
                 parts.append(current)
                 current, cost = [], fixed_cost
             current.append(ln)
             cost += ln_cost
         if current:
             parts.append(current)
-        print("  WARNING: section '%s' of '%s' is %d est. tokens (> %d) — split "
-              "into %d chunks at line boundaries"
-              % (heading, program_json.get("program_name"),
-                 estimate_tokens(full_text), TOKEN_LIMIT, len(parts)))
 
     chunks = []
     poid = id_from_url(source_url, "poid") or "unknown"
@@ -149,6 +150,50 @@ def build_section_chunks(program_json, section, note_text, header, idx_start,
         chunks.append(make_chunk(
             "program_section_%s_%d" % (poid, idx_start + i), text,
             "program_section", source_url, scraped_at,
+            program_name=program_json.get("program_name"),
+            section_heading=heading or None))
+    return chunks
+
+
+def footnote_definition(marker, note_text):
+    """The Note line whose leading marker is exactly `marker` ('***' must not
+    match '*'), with the marker stripped. None if no line matches."""
+    for ln in note_text.split("\n"):
+        m = re.match(r"^(\*+)\s*", ln.strip())
+        if m and m.group(1) == marker:
+            return ln.strip()[len(marker):].strip()
+    return None
+
+
+def footnote_chunks(program_json, section, note_text, header, idx_start,
+                    source_url, scraped_at):
+    """One small chunk per course line with a *-marker footnote, pairing the
+    course with its specific Note definition. Milestone 4 retrieval eval
+    showed these rules never rank when they only live inside a multi-course
+    section chunk; a dedicated (course, definition) chunk is a sharp target
+    for queries like 'What GPA do I need before I can take HIST 3900?'."""
+    chunks = []
+    if not note_text:
+        return chunks
+    heading = section.get("heading", "").strip()
+    poid = id_from_url(source_url, "poid") or "unknown"
+    for c in section.get("courses") or []:
+        marker = (c.get("footnote") or "").strip()
+        if not re.fullmatch(r"\*+", marker):
+            continue
+        definition = footnote_definition(marker, note_text)
+        if not definition:
+            continue
+        text = "\n".join(header + [
+            "Section: %s" % heading,
+            "Note for %s — %s (footnote %s): %s"
+            % (c.get("course_code") or "?", c.get("course_title") or "?",
+               marker, definition),
+        ])
+        chunks.append(make_chunk(
+            "program_section_%s_%d" % (poid, idx_start + len(chunks)), text,
+            "program_section", source_url, scraped_at,
+            course_code=c.get("course_code"),
             program_name=program_json.get("program_name"),
             section_heading=heading or None))
     return chunks
@@ -213,6 +258,10 @@ def chunk_program_section(program_json):
                                        source_url, scraped_at)
             chunks.extend(new)
             idx += len(new)
+            notes = footnote_chunks(program_json, s, applies, header, idx,
+                                    source_url, scraped_at)
+            chunks.extend(notes)
+            idx += len(notes)
     return chunks
 
 
