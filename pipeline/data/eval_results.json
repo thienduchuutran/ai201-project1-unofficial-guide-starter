@@ -1,0 +1,432 @@
+[
+  {
+    "n": 1,
+    "question": "What GPA and exams do I need before I can take HIST 3900 (Methods in Teaching History)?",
+    "expected": "Overall GPA 2.75, 3.0 in major courses, passing MTEL Communication and Literacy and Subject Area Exam (**** footnote).",
+    "retrieval": [
+      {
+        "chunk_id": "program_section_12772_8",
+        "doc_type": "program_section",
+        "distance": 0.1722,
+        "course_code": "HIST 3900",
+        "program_name": "History, Secondary Education, with Initial Teacher Licensure, B.A."
+      },
+      {
+        "chunk_id": "program_section_12770_8",
+        "doc_type": "program_section",
+        "distance": 0.1747,
+        "course_code": "HIST 3900",
+        "program_name": "History, Secondary Education, with Initial Teacher Licensure, B.S."
+      },
+      {
+        "chunk_id": "course_102213_0",
+        "doc_type": "course",
+        "distance": 0.1829,
+        "course_code": "HIST 3900",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "course_103053_0",
+        "doc_type": "course",
+        "distance": 0.2073,
+        "course_code": "HIST 3010",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_476",
+        "doc_type": "seat",
+        "distance": 0.2144,
+        "course_code": "HIST 3900",
+        "program_name": ""
+      }
+    ],
+    "answer": "To take HIST 3900 — Methods in Teaching History (5-12) II, you must have: \n1. An overall GPA of 2.75\n2. A GPA of 3.0 in the major courses\n3. A passing score on the MTEL Communication and Literacy and Subject Area Exam.",
+    "has_sufficient_context": true,
+    "sources": [
+      {
+        "chunk_id": "program_section_12772_8",
+        "doc_type": "program_section",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12772",
+        "scraped_at": "2026-06-10T18:56:27.162528+00:00",
+        "snippet": "Program: History, Secondary Education, with Initial Teacher Licensure, B.A. (B.A.)\nSection: Core Courses for Initial Tea",
+        "course_program": "HIST 3900"
+      },
+      {
+        "chunk_id": "program_section_12770_8",
+        "doc_type": "program_section",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12770",
+        "scraped_at": "2026-06-10T18:56:40.503963+00:00",
+        "snippet": "Program: History, Secondary Education, with Initial Teacher Licensure, B.S. (B.S.)\nSection: Core Courses for Initial Tea",
+        "course_program": "HIST 3900"
+      },
+      {
+        "chunk_id": "course_102213_0",
+        "doc_type": "course",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102213",
+        "scraped_at": "2026-06-10T19:13:46.053202+00:00",
+        "snippet": "Course: HIST 3900 — Methods in Teaching History (5-12) II (3 credits)\nPrerequisites: None listed",
+        "course_program": "HIST 3900"
+      },
+      {
+        "chunk_id": "course_103053_0",
+        "doc_type": "course",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=103053",
+        "scraped_at": "2026-06-10T19:31:16.676214+00:00",
+        "snippet": "Course: HIST 3010 — Methods of Teaching History (5-12) I (3 credits)\nOffered: Spring This is the first of two methods co",
+        "course_program": "HIST 3010"
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_476",
+        "doc_type": "seat",
+        "source_url": "https://web4.fitchburgstate.edu/apex/f?p=127:2:::NO:::",
+        "scraped_at": "2026-06-10T18:54:51.174814+00:00",
+        "snippet": "Semester: day_fall_2026\nHIST 3900 — Methods Teach History(5-12) II | Section 15939\nFaculty: Cortezia, William | T R 09:3",
+        "course_program": "HIST 3900"
+      }
+    ]
+  },
+  {
+    "n": 2,
+    "question": "What are the prerequisites for MATH 1700 Applied Statistics?",
+    "expected": "Adjusted HS GPA 2.7+ (within two years), OR Accuplacer placement, OR MATH 0300/0500, OR a credit-bearing math course.",
+    "retrieval": [
+      {
+        "chunk_id": "course_102364_0",
+        "doc_type": "course",
+        "distance": 0.1384,
+        "course_code": "MATH 1700",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "course_102927_0",
+        "doc_type": "course",
+        "distance": 0.1546,
+        "course_code": "MATH 3003",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_554",
+        "doc_type": "seat",
+        "distance": 0.1783,
+        "course_code": "MATH 1700",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_564",
+        "doc_type": "seat",
+        "distance": 0.1862,
+        "course_code": "MATH 1700",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_562",
+        "doc_type": "seat",
+        "distance": 0.1882,
+        "course_code": "MATH 1700",
+        "program_name": ""
+      }
+    ],
+    "answer": "The prerequisites for MATH 1700 — Applied Statistics are: \n\"Adjusted high school GPA of 2.7 or higher (associated with a high school graduation no more than two years from semester of enrollment) OR passing score on Quantitative and Analytical Skills or Advanced Algebra and Functions Accuplacer placement exam OR successful completion of MATH 0300 [Quantitative Prep.] or MATH 0500 [Algebraic Prep.] OR successful completion of a credit bearing mathematics course\"",
+    "has_sufficient_context": true,
+    "sources": [
+      {
+        "chunk_id": "course_102364_0",
+        "doc_type": "course",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102364",
+        "scraped_at": "2026-06-10T19:15:50.655848+00:00",
+        "snippet": "Course: MATH 1700 — Applied Statistics (3 credits)\nOffered: every semester Methods of data collection, organization and ",
+        "course_program": "MATH 1700"
+      },
+      {
+        "chunk_id": "course_102927_0",
+        "doc_type": "course",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102927",
+        "scraped_at": "2026-06-10T19:27:49.315121+00:00",
+        "snippet": "Course: MATH 3003 — Advanced Statistics (3 credits)\nOffered: every other year This course is a natural extension to an i",
+        "course_program": "MATH 3003"
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_554",
+        "doc_type": "seat",
+        "source_url": "https://web4.fitchburgstate.edu/apex/f?p=127:2:::NO:::",
+        "scraped_at": "2026-06-10T18:54:51.174814+00:00",
+        "snippet": "Semester: day_fall_2026\nMATH 1700 — Applied Statistics | Section 16499\nFaculty: Higdon, Gerald | M W 03:30PM - 04:45PM\nM",
+        "course_program": "MATH 1700"
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_564",
+        "doc_type": "seat",
+        "source_url": "https://web4.fitchburgstate.edu/apex/f?p=127:2:::NO:::",
+        "scraped_at": "2026-06-10T18:54:51.174814+00:00",
+        "snippet": "Semester: day_fall_2026\nMATH 1700 — Applied Statistics | Section 15252\nFaculty: Higdon, Gerald | M W 09:30AM - 10:45AM\nM",
+        "course_program": "MATH 1700"
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_562",
+        "doc_type": "seat",
+        "source_url": "https://web4.fitchburgstate.edu/apex/f?p=127:2:::NO:::",
+        "scraped_at": "2026-06-10T18:54:51.174814+00:00",
+        "snippet": "Semester: day_fall_2026\nMATH 1700 — Applied Statistics | Section 15097\nFaculty: Leonard, Lori | T R 11:00AM - 12:15PM\nMo",
+        "course_program": "MATH 1700"
+      }
+    ]
+  },
+  {
+    "n": 3,
+    "question": "Is ARAB 2030 offered online in Fall 2026, and how many seats are open?",
+    "expected": "Yes, online; 13 of 20 available (7 enrolled) as of scrape date; cross-listed with Day CRN 16472 and SGOCE sections.",
+    "retrieval": [
+      {
+        "chunk_id": "seat_day_fall_2026_1",
+        "doc_type": "seat",
+        "distance": 0.2268,
+        "course_code": "ARAB 2030",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_506",
+        "doc_type": "seat",
+        "distance": 0.2406,
+        "course_code": "IDIS 2030",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "seat_sgoce_fall_2026_0",
+        "doc_type": "seat",
+        "distance": 0.2513,
+        "course_code": "ARAB 2030",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "seat_sgoce_fall_2026_240",
+        "doc_type": "seat",
+        "distance": 0.2591,
+        "course_code": "IDIS 2030",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "course_102757_0",
+        "doc_type": "course",
+        "distance": 0.3389,
+        "course_code": "ARAB 2030",
+        "program_name": ""
+      }
+    ],
+    "answer": "According to the provided excerpts, ARAB 2030 is offered online in Fall 2026. \n\nThere are multiple sections of this course:\n- Section 16465 (Day) has 13 seats available out of 20, as of 2026-06-10T18:54:51.174814+00:00.\n- Section 16672 (SGOCE) has 5 seats available out of 5, as of 2026-06-10T18:55:09.957327+00:00.\n\nNote that the excerpts mention that \"seats available may not be a true reflection of the number of open seats.\"",
+    "has_sufficient_context": true,
+    "sources": [
+      {
+        "chunk_id": "seat_day_fall_2026_1",
+        "doc_type": "seat",
+        "source_url": "https://web4.fitchburgstate.edu/apex/f?p=127:2:::NO:::",
+        "scraped_at": "2026-06-10T18:54:51.174814+00:00",
+        "snippet": "Semester: day_fall_2026\nARAB 2030 — Contemporary Arab World | Section 16465\nFaculty: Derwiche Djazaerly, Yasser | TBA\nMo",
+        "course_program": "ARAB 2030"
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_506",
+        "doc_type": "seat",
+        "source_url": "https://web4.fitchburgstate.edu/apex/f?p=127:2:::NO:::",
+        "scraped_at": "2026-06-10T18:54:51.174814+00:00",
+        "snippet": "Semester: day_fall_2026\nIDIS 2030 — Contemporary Arab World | Section 16472\nFaculty: Derwiche Djazaerly, Yasser | TBA\nMo",
+        "course_program": "IDIS 2030"
+      },
+      {
+        "chunk_id": "seat_sgoce_fall_2026_0",
+        "doc_type": "seat",
+        "source_url": "https://web4.fitchburgstate.edu/apex/f?p=127:4:::NO:::",
+        "scraped_at": "2026-06-10T18:55:09.957327+00:00",
+        "snippet": "Semester: sgoce_fall_2026\nARAB 2030 — Contemporary Arab World | Section 16672\nFaculty: Derwiche Djazaerly, Yasser | TBA\n",
+        "course_program": "ARAB 2030"
+      },
+      {
+        "chunk_id": "seat_sgoce_fall_2026_240",
+        "doc_type": "seat",
+        "source_url": "https://web4.fitchburgstate.edu/apex/f?p=127:4:::NO:::",
+        "scraped_at": "2026-06-10T18:55:09.957327+00:00",
+        "snippet": "Semester: sgoce_fall_2026\nIDIS 2030 — Contemporary Arab World | Section 16671\nFaculty: Derwiche Djazaerly, Yasser | TBA\n",
+        "course_program": "IDIS 2030"
+      },
+      {
+        "chunk_id": "course_102757_0",
+        "doc_type": "course",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102757",
+        "scraped_at": "2026-06-10T19:24:32.244650+00:00",
+        "snippet": "Course: ARAB 2030 — Contemporary Arab World (3 credits)\nOffered: annually The course covers the Arab world from the begi",
+        "course_program": "ARAB 2030"
+      }
+    ]
+  },
+  {
+    "n": 4,
+    "question": "Can I get credit for both MATH 1700 and MATH 1800?",
+    "expected": "No — cross-listed, credit for only one.",
+    "retrieval": [
+      {
+        "chunk_id": "seat_day_fall_2026_560",
+        "doc_type": "seat",
+        "distance": 0.1767,
+        "course_code": "MATH 1700",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "seat_day_spring_2027_563",
+        "doc_type": "seat",
+        "distance": 0.2193,
+        "course_code": "MATH 1800",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_554",
+        "doc_type": "seat",
+        "distance": 0.2283,
+        "course_code": "MATH 1700",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "course_102364_0",
+        "doc_type": "course",
+        "distance": 0.2356,
+        "course_code": "MATH 1700",
+        "program_name": ""
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_564",
+        "doc_type": "seat",
+        "distance": 0.2377,
+        "course_code": "MATH 1700",
+        "program_name": ""
+      }
+    ],
+    "answer": "No, \"Credit is not awarded for both MATH 1700 and MATH 1800\" and \"Credit awarded for only one of: MATH 1700 or MATH 1800\" and \"Credit awarded for one: MATH 1700 or 1800\".",
+    "has_sufficient_context": true,
+    "sources": [
+      {
+        "chunk_id": "seat_day_fall_2026_560",
+        "doc_type": "seat",
+        "source_url": "https://web4.fitchburgstate.edu/apex/f?p=127:2:::NO:::",
+        "scraped_at": "2026-06-10T18:54:51.174814+00:00",
+        "snippet": "Semester: day_fall_2026\nMATH 1700 — Applied Statistics | Section 15587\nFaculty: Leonard, Lori | T R 09:30AM - 10:45AM\nMo",
+        "course_program": "MATH 1700"
+      },
+      {
+        "chunk_id": "seat_day_spring_2027_563",
+        "doc_type": "seat",
+        "source_url": "https://web4.fitchburgstate.edu/apex/f?p=127:14:::NO:::",
+        "scraped_at": "2026-06-10T18:55:02.463973+00:00",
+        "snippet": "Semester: day_spring_2027\nMATH 1800 — Business Statistics | Section 32048\nFaculty: Oehrlein, Jessica | T R 02:00PM - 03:",
+        "course_program": "MATH 1800"
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_554",
+        "doc_type": "seat",
+        "source_url": "https://web4.fitchburgstate.edu/apex/f?p=127:2:::NO:::",
+        "scraped_at": "2026-06-10T18:54:51.174814+00:00",
+        "snippet": "Semester: day_fall_2026\nMATH 1700 — Applied Statistics | Section 16499\nFaculty: Higdon, Gerald | M W 03:30PM - 04:45PM\nM",
+        "course_program": "MATH 1700"
+      },
+      {
+        "chunk_id": "course_102364_0",
+        "doc_type": "course",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_course_nopop.php?catoid=53&coid=102364",
+        "scraped_at": "2026-06-10T19:15:50.655848+00:00",
+        "snippet": "Course: MATH 1700 — Applied Statistics (3 credits)\nOffered: every semester Methods of data collection, organization and ",
+        "course_program": "MATH 1700"
+      },
+      {
+        "chunk_id": "seat_day_fall_2026_564",
+        "doc_type": "seat",
+        "source_url": "https://web4.fitchburgstate.edu/apex/f?p=127:2:::NO:::",
+        "scraped_at": "2026-06-10T18:54:51.174814+00:00",
+        "snippet": "Semester: day_fall_2026\nMATH 1700 — Applied Statistics | Section 15252\nFaculty: Higdon, Gerald | M W 09:30AM - 10:45AM\nM",
+        "course_program": "MATH 1700"
+      }
+    ]
+  },
+  {
+    "n": 5,
+    "question": "What must Biology Initial Licensure students pass before taking their footnoted licensure courses?",
+    "expected": "A Stage I review; ENGL 4700 also requires GPA 2.5 and Stage I Review.",
+    "retrieval": [
+      {
+        "chunk_id": "program_section_12848_5",
+        "doc_type": "program_section",
+        "distance": 0.2003,
+        "course_code": "",
+        "program_name": "Biology, Initial Licensure - UG Biology concentration, B.A."
+      },
+      {
+        "chunk_id": "program_section_12700_8",
+        "doc_type": "program_section",
+        "distance": 0.2005,
+        "course_code": "",
+        "program_name": "Biology, Initial Licensure - UG Biology concentration, B.S."
+      },
+      {
+        "chunk_id": "program_section_12700_9",
+        "doc_type": "program_section",
+        "distance": 0.2045,
+        "course_code": "",
+        "program_name": "Biology, Initial Licensure - UG Biology concentration, B.S."
+      },
+      {
+        "chunk_id": "program_section_12700_7",
+        "doc_type": "program_section",
+        "distance": 0.2062,
+        "course_code": "",
+        "program_name": "Biology, Initial Licensure - UG Biology concentration, B.S."
+      },
+      {
+        "chunk_id": "program_section_12848_7",
+        "doc_type": "program_section",
+        "distance": 0.2104,
+        "course_code": "",
+        "program_name": "Biology, Initial Licensure - UG Biology concentration, B.A."
+      }
+    ],
+    "answer": "Biology Initial Licensure students must complete the following specific courses before taking their licensure courses: \n\nBIOL 1860 Introduction to Education (5-12), \nEDUC 2012 Teaching the Adolescent Learner, \nEDUC 2011 Diversity in Education, \nSPED 3800 Inclusive Instruction, \nBIOL 3015 Methods in Teaching Science (5-12) I, \nBIOL 4850 Methods in Teaching Science (5-12) II.\n\nAdditionally, students must go through two review processes (Stage I and Stage II) and meet the requirements before continuing on in the concentration. \n\nIt is also mentioned that Biology majors must earn a minimum grade of 2.0 in General Biology I and General Chemistry I. If a grade below 2.0 is earned in either course, that course must be repeated before enrolling in any subsequent BIOL or CHEM classes.",
+    "has_sufficient_context": true,
+    "sources": [
+      {
+        "chunk_id": "program_section_12848_5",
+        "doc_type": "program_section",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12848",
+        "scraped_at": "2026-06-10T18:54:57.223853+00:00",
+        "snippet": "Program: Biology, Initial Licensure - UG Biology concentration, B.A. (B.A.)\nSection: Requirements for the B.A. in Biolog",
+        "course_program": "Biology, Initial Licensure - UG Biology concentration, B.A."
+      },
+      {
+        "chunk_id": "program_section_12700_8",
+        "doc_type": "program_section",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12700",
+        "scraped_at": "2026-06-10T18:55:07.924296+00:00",
+        "snippet": "Program: Biology, Initial Licensure - UG Biology concentration, B.S. (B.S.)\nSection: BS in Biology with Initial Teacher ",
+        "course_program": "Biology, Initial Licensure - UG Biology concentration, B.S."
+      },
+      {
+        "chunk_id": "program_section_12700_9",
+        "doc_type": "program_section",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12700",
+        "scraped_at": "2026-06-10T18:55:07.924296+00:00",
+        "snippet": "Program: Biology, Initial Licensure - UG Biology concentration, B.S. (B.S.)\nSection: BS in Biology with Initial Teacher ",
+        "course_program": "Biology, Initial Licensure - UG Biology concentration, B.S."
+      },
+      {
+        "chunk_id": "program_section_12700_7",
+        "doc_type": "program_section",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12700",
+        "scraped_at": "2026-06-10T18:55:07.924296+00:00",
+        "snippet": "Program: Biology, Initial Licensure - UG Biology concentration, B.S. (B.S.)\nSection: BS in Biology with Initial Teacher ",
+        "course_program": "Biology, Initial Licensure - UG Biology concentration, B.S."
+      },
+      {
+        "chunk_id": "program_section_12848_7",
+        "doc_type": "program_section",
+        "source_url": "https://catalog.fitchburgstate.edu/preview_program.php?catoid=53&poid=12848",
+        "scraped_at": "2026-06-10T18:54:57.223853+00:00",
+        "snippet": "Program: Biology, Initial Licensure - UG Biology concentration, B.A. (B.A.)\nSection: Additional Requirements for the B.A",
+        "course_program": "Biology, Initial Licensure - UG Biology concentration, B.A."
+      }
+    ]
+  }
+]
