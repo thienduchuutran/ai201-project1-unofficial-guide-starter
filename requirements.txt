@@ -9,3 +9,7 @@ python-dotenv==1.0.1
 
 # Document ingestion — add if your documents/ folder contains .pdf files:
 # pdfplumber==0.11.4
+
+groq
+gradio>=4.0.0
+python-dotenv
